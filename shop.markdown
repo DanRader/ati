@@ -1,5 +1,6 @@
 ---
-layout: shop-list
 title: Shop
-excerpt: "shop description goes here"
+layout: shop-list
+excerpt: shop description goes here
 ---
+

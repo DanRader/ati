@@ -1,6 +1,5 @@
 ---
 title: Ancient Truth Investigators
-snipcart_api_key: 'YjM2NGJjN2ItZjQwZC00M2ZjLTgxOTAtNmM1ZDA3MmE3NDRlNjM2MzA0MDkwMDA4NjU4NTAz'
 timezone: America/New_York
 collections:
   artifacts:
@@ -9,33 +8,39 @@ collections:
   elements:
     title: Elements
     output: true
+  posts:
+    title: Posts
+    output: true
   products:
     title: Products
-    output: true
-  uploads:
-    title: Uploads
     output: true
   sightings:
     title: Sightings
     output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      path: ''
-      type: products
-    values:
-      layout: shop-item
-      permalink: "/products/:title/"
-      name: ''
-      price: 0.0
-      sku: ''
-      image: ''
-      weight: 0.0
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: shop-item
+    permalink: "/products/:title/"
+    name: ''
+    price: 0.0
+    sku: ''
+    image: ''
+    weight: 0.0
+snipcart_api_key: YjM2NGJjN2ItZjQwZC00M2ZjLTgxOTAtNmM1ZDA3MmE3NDRlNjM2MzA0MDkwMDA4NjU4NTAz
 gems:
 - jekyll-sitemap
 email: ibelieve@ancienttruthinvestigators.com
-description: The Ancient Truth Investigators are scientists, writers, makers, creatives and healers. Collectively, they strive to find ways to aid Humanity's growth towards a more evolved bond between ourselves and the planet.
-url:
+description: The Ancient Truth Investigators are scientists, writers, makers, creatives
+  and healers. Collectively, they strive to find ways to aid Humanity's growth towards
+  a more evolved bond between ourselves and the planet.
+url: 
 twitter_username: A_T_I_lab
 github_username: DanRader
-google-analytics:
+google-analytics: 
 permalink: pretty
