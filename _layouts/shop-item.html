@@ -2,3 +2,18 @@
 layout: default
 ---
 
+<div class="product">
+  <a class="product" href="{{ product.url }}">
+    <img src="{{ page.image }}" alt="{{ product.name }}" class="thumbnail"/>
+    <p>{{ product.name }}</p>
+  </a>
+
+  <button class="snipcart-add-item"
+    data-item-name="{{ page.name }}"
+    data-item-id="{{ page.sku }}"
+    data-item-image="{{ page.image }}"
+    data-item-url="{{ site.url }}{{page.url }}"
+    data-item-price="{{ page.price }}">
+    Buy it for {{ product.price }} $
+  </button>
+</div>
