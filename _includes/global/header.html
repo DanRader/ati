@@ -2,30 +2,18 @@
     <div class="navbar-fixed">
       <nav>
         <div class="nav-wrapper">
-          <a href="{{ site.baseurl }}/" class="brand-logo"><img src="/uploads/MaggieG_Logo@2x.png"></a>
-          <a href="#" data-activates="mobile-demo" class="button-collapse burger-time"><i class="fa fa-bars"></i></a>
-
- 
+          <a href="{{ site.baseurl }}/" class="brand-logo"><img src="{{ site.logo }}"></a>
           <ul class="right hide-on-med-and-down">
 
              {% assign current = page.url | downcase | split: '/' %}
 
-                  <li class="{% if current contains 'coaching' %}active {% endif %}nav-links"><a href='/coaching'>Coaching</a></li>
-                  <li class="{% if current contains 'moneycircle' %}active {% endif %}nav-links"><a href='/moneycircle'>Money Circle</a></li>
-                  <li class="{% if current contains 'blog' %}active {% endif %}nav-links"><a href='/blog'>Blog</a></li>
+                  <li class="{% if current contains 'coaching' %}active {% endif %}nav-links"><a href='/artifacts'>Artifacts</a></li>
+                  <li class="{% if current contains 'moneycircle' %}active {% endif %}nav-links"><a href='/sightings'>Sightings</a></li>
+                  <li class="{% if current contains 'blog' %}active {% endif %}nav-links"><a href='/log-book'>Log Book</a></li>
+                  <li class="{% if current contains 'shop' %}active {% endif %}nav-links"><a href='/shop'>Shop</a></li>
 
-            <li class="nav-links"> <a href="#contact-footer">Contact</a></li>
+            <li class="nav-links"> <a href="#contact-footer">Cart</a></li>
            <li><button data-target="modal-subscribe" class="subscribe-btn modal-trigger">Subscribe</button>
-           </li>
-          </ul>
-
-          <ul class="side-nav" id="mobile-demo">
-            <!-- <img src="/uploads/MaggieG_KO_Mark@3x.svg"> -->
-           <li><a href="{{ site.url }}/">Home</a></li>
-            <li><a href='/coaching'>Coaching</a></li>
-            <li><a href='/moneycircle'>Money Circle</a></li>
-            <li><a href='/blog'>Blog</a></li>
-           <li><a href="{{ site.url }}/subscribe">Subscribe</a></li>
            </li>
           </ul>
 

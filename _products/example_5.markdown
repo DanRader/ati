@@ -1,4 +1,4 @@
 ---
-title: Example 1
+title: Example 5
 layout: shop-item
 ---
