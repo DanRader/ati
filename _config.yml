@@ -1,0 +1,34 @@
+---
+title: Ancient Truth Investigators
+timezone: America/New_York
+collections:
+  categories:
+    title: Artifacts
+    output: true
+  posts:
+    title: Elements
+    output: true
+  testimonials:
+    title: Products
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  events:
+    title: Sightings
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: default
+
+gems:
+- jekyll-sitemap
+email: boss@maggiegermano.com
+description: The Ancient Truth Investigators are scientists, writers, makers, creatives and healers. Collectively, they strive to find ways to aid Humanity's growth towards a more evolved bond between ourselves and the planet.
+url:
+twitter_username: A_T_I_lab
+github_username: DanRader
+google-analytics:
