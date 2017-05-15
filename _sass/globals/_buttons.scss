@@ -1,0 +1,128 @@
+button, .button {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 19px;
+  letter-spacing: 2.67px;
+  text-transform: uppercase;
+  color: white;
+  background-color: transparent;
+  padding: 8px 28px;
+  border: 1px solid white;
+  border-radius: 25px;
+  transition: .3s ease-in-out;
+  &:hover{
+    box-shadow: 2px 14px 40px -5px rgba(1, 97, 97, 0.87);
+    transform: translateY(-1px)
+  }
+}
+
+button:focus, .button:focus {
+  outline: inherit;
+  background-color: transparent;
+}
+
+button.space-top {
+  margin-top: 2%;
+}
+
+/*white fill button*/
+.reversed {
+    font-weight: 800;
+    background-color: white;
+    color: $maggie-green;
+    letter-spacing: 3px;
+}
+button.reversed:focus {
+  outline: inherit;
+  background-color: white;
+}
+
+/*green button on white */
+.on-white {
+  background-color: $maggie-green;
+  color: white;
+  border: none;
+  &:hover, &:focus {
+    border: none;
+    background-color: $maggie-green-light;
+  }
+}
+
+.on-white--ghost {
+  color: $maggie-green;
+  border: 1px solid $maggie-green;
+  transition: .3s ease-in-out;
+  &:hover{
+    box-shadow: 2px 14px 40px -5px rgba(6, 144, 136, 0.43);
+    transform: translateY(-1px)
+  }
+}
+
+
+.button-fa {
+  margin-right: 8px;
+  margin-left: -6px;
+  font-size: 15px;
+  top: 1px;
+  position: relative;
+}
+
+.text-button {
+  color: $maggie-green;
+  font-size: 13px;
+}
+.read-button:hover > i {
+  animation: arrow-right .3s ease-out infinite alternate;
+}
+.read-button:hover > p{
+ color: black;
+ margin-left: 8px;
+}
+.read-button > p {
+  font-family: 'Open Sans', sans-serif;  display: inline-block;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  color: $grey;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  transition: .35s ease-out;
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+@keyframes arrow-right {
+  0% {transform: translateX(0px);}
+  100% {transform: translateX(3px);}
+}
+
+.blog-feature-text > button {
+    text-shadow: 1px 1px 12px rgba(0, 0, 0, 0.41);
+    border: 1px solid $maggie-green;
+    &:hover {
+      box-shadow: 7px 11px 25px 5px rgba(0,0,0,0.3);
+      background-color: black;
+      background-color: rgba(0, 0, 0, 0.27);
+    }
+}
+
+.subscribe-btn {
+  padding: 3px 18px;
+  margin-right: 14px;
+  margin-left: 10px;
+  line-height: 23px;
+  background-color: white;
+  border: 1px solid $maggie-green;
+  color: $grey;
+  &:hover {
+    box-shadow: 4px 7px 16px -6px rgba(11, 158, 153, 0.95);
+  }
+}
+
+.modal-button {
+  text-align: center;
+}
+
+.two-button {
+  margin-right: 2%;
+  margin-top: 4%;
+}

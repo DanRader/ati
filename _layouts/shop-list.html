@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<ul>
+  {% for product in site.products %}
+
+  <a href="{{ product.url }}">
+    <li>{{ product.title }}</li>
+  </a>
+  {% endfor %}
+</ul>
