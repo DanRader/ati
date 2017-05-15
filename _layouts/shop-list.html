@@ -1,11 +1,20 @@
 ---
 layout: default
 ---
-<ul>
   {% for product in site.products %}
+      <div class="product">
+        <a class="product" href="{{ product.url }}">
+          <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
+          <p>{{ product.name }}</p>
+          </a>
 
-  <a href="{{ product.url }}">
-    <li>{{ product.title }}</li>
-  </a>
+        <button class="snipcart-add-item"
+          data-item-name="{{ product.name }}"
+          data-item-id="{{ product.sku }}"
+          data-item-image="{{ product.image }}"
+          data-item-url="{{ site.url }}{{product.url }}"
+          data-item-price="{{ product.price }}">
+          Buy it for {{ product.price }} $
+        </button>
+      </div>
   {% endfor %}
-</ul>
