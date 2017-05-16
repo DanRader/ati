@@ -6,3 +6,4 @@ sku: 6
 weight: 10
 layout: shop-item
 ---
+
