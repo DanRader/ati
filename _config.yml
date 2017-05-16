@@ -27,7 +27,6 @@ defaults:
   values:
     layout: shop-item
     permalink: "/products/:title/"
-    name: 'test-name'
     price: 666.66
     sku: 'ati'
     image: ''

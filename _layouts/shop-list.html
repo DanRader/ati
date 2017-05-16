@@ -3,15 +3,16 @@ layout: default
 ---
 
 <ul>
-  {% for product in site.products %}
+  {% assign product-sort = site.products | sort:"position"  %}
+  {% for product in product-sort %}
       <div class="product">
         <a class="product" href="{{ product.url }}">
-          <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
-          <p>{{ product.name }}</p>
+          <img src="{{ product.image }}" alt="{{ product.title }}" class="thumbnail"/>
+          <p>{{ product.title }}</p>
           </a>
 
         <button class="snipcart-add-item"
-          data-item-name="{{ product.name }}"
+          data-item-name="{{ product.title }}"
           data-item-id="{{ product.sku }}"
           data-item-image="{{ product.image }}"
           data-item-url="{{ site.url }}{{product.url }}"

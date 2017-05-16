@@ -1,10 +1,8 @@
 ---
-title: Example 2
+title: Ring2
 position: 1
-name: Example 2
 price: 666.33
-sku: ati110
+sku: 2
 weight: 10
 layout: shop-item
 ---
-
