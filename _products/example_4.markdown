@@ -1,5 +1,7 @@
 ---
-title: Example 4
+title: Necklace 2
+categories:
+- Necklace
 position: 3
 price: 666.33
 sku: 4
