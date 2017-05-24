@@ -1,19 +1,40 @@
 ---
 layout: default
 ---
+<div class="mx-auto max-width-4 clearfix">
+  <div class="col col-7">
+    <div class="col col-4 px2 pb2">
 
-<div class="product">
-  <a class="product" href="{{ product.url }}">
-    <img src="{{ page.image }}" alt="{{ product.title }}" class="thumbnail"/>
-    <p>{{ product.title }}</p>
-  </a>
+      <div class="test relative">
+        {% for image in page.product-images %}
+          <a href="#"><div class="product--list__image cover absolute" style="background-image: url({{ image }});"></div></a>
+        {% endfor %}
+      </div>
 
-  <button class="snipcart-add-item"
-    data-item-name="{{ page.title }}"
-    data-item-id="{{ page.sku }}"
-    data-item-image="{{ page.image }}"
-    data-item-url="{{ site.url }}{{page.url }}"
-    data-item-price="{{ page.price }}">
-    Buy it for {{ product.price }} $
-  </button>
+
+
+    </div>
+    <div class="col col-8 px2">
+      <div class="test relative">
+      {% assign first-image = page.product-images | first %}
+        <div class="product--list__image cover absolute" style="background-image: url({{ first-image }});"></div>
+      </div>
+    </div>
+  </div>
+  <div class="product__desc col col-5">
+    <h1>{{ page.title }}</h1>
+    <p class="product__price">${{ page.price }}</p>
+    <p class="product__sub-text">Plus Shipping</p>
+    <p class="product__desription"> {{ content }}</p>
+    <h2>Details</h2>
+    <p>Size</p>
+      <button class="snipcart-add-item"
+        data-item-name="{{ page.title }}"
+        data-item-id="{{ page.sku }}"
+        data-item-image="{{ page.image }}"
+        data-item-url="{{ site.url }}{{page.url }}"
+        data-item-price="{{ page.price }}">
+        Buy it for {{ product.price }} $
+      </button>
+    </div>
 </div>
