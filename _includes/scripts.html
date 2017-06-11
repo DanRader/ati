@@ -1,0 +1,24 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/slick.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+  $('.slider').slick({
+    dots: false,
+    infinite: true,
+    speed: 600,
+    slidesToShow: 1,
+    arrows: false,
+    asNavFor: null,
+    cssEase: 'ease-in-out',
+    responsive: [
+      {
+        breakpoint: 736,
+        settings: {
+          arrows: false,
+        }
+      },
+    ]
+});
+});
+</script>

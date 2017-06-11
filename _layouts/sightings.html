@@ -1,4 +1,35 @@
 ---
 layout: default
 ---
+<div class="mx-auto max-width-4 clearfix py2 flex justify-end">
 
+{% include components/video-header.html %}
+
+</div>
+<div class="mx-auto max-width-4 clearfix py2">
+
+  {% assign sightings-sort = site.sightings | sort:"date"  %}
+  {% for sighting in sightings-sort %}
+      <div class="sightings--list col sm-col-12 lg-col-12 px1 pb3">
+          <p>{{ sighting.title }}</p>
+          <p>{{ sighting.date }} - {{ sighting.end-date }}</p>
+          <p>{{ sighting.time }}</p>
+          <p>{{ sighting.location.name }}</p>
+          <p>{{ sighting.location.address }}</p>
+          <p>{{ sighting.location.latitude }}, {{ sighting.location.longitude }}</p>
+          <p>{% assign first-image = product.product-images | first %}</p>
+          <p>{{ sighting.content }}</p>
+
+          {% if sighting.external-link %}
+          <a href="{{ sighting.external-link }}">
+            <i class="fa fa-external-link" aria-hidden="true"></i>External Link
+          </a>
+          {% else %}
+          <a href="{{ sighting.url }}">
+              Internal Link
+          </a>
+          {% endif %}
+      </div>
+  {% endfor %}
+
+</div>

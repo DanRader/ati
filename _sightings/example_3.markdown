@@ -1,5 +1,4 @@
 ---
-title: Example 1
+title: Example 3
 layout: artifact
 ---
-

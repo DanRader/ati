@@ -16,3 +16,25 @@ nav {
   right: 0px;
   bottom: 0px;
 }
+
+// video header
+
+.video-background {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+}
+
+.video-wrap {
+  overflow: hidden;
+  height: 60vh;
+  & h1 {
+    top: 40%;
+    left: 20%;
+  }
+}
