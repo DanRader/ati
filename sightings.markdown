@@ -1,4 +1,5 @@
 ---
-layout: sightings
 title: sightings
+layout: sightings
 ---
+
