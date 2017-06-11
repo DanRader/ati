@@ -1,8 +1,8 @@
 ---
 title: Sighting 1
 layout: artifact
-start-date: 2018-10-29 00:00:00 -0500
-end-date: 2018-11-29 00:00:00 -0500
+start-date: 2018-10-29 01:00:00 -04:00
+end-date: 2018-11-29 00:00:00 -05:00
 time: 7am - 9pm
 location:
   name: Mad
