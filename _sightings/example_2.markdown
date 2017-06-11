@@ -1,8 +1,14 @@
 ---
 title: Sighting 2
 layout: artifact
-end-date: 2018-11-29 00:00:00 -0500
-location: MAD
+start-date: 2018-10-29 00:00:00 -0500
+end-date:
+time: 7am - 9pm
+location:
+  name: Mad
+  address: June 2nd, 300 Monticello Ave,
+  latitude: 36.8508° N
+  longitude: 76.2859° W.
 external-link: "http://madmuseum.org/learn/rachel-rader"
 ---
 

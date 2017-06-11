@@ -1,6 +1,7 @@
 ---
 title: Sighting 1
 layout: artifact
+start-date: 2018-10-29 00:00:00 -0500
 end-date: 2018-11-29 00:00:00 -0500
 time: 7am - 9pm
 location:

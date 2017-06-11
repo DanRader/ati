@@ -12,7 +12,7 @@ layout: default
   {% for sighting in sightings-sort %}
       <div class="sightings--list col sm-col-12 lg-col-12 px1 pb3">
           <p>{{ sighting.title }}</p>
-          <p>{{ sighting.date }} - {{ sighting.end-date }}</p>
+          <p>{{ sighting.start-date }} {% if sighting.end-date %}- {{ sighting.end-date }} {% endif %}</p>
           <p>{{ sighting.time }}</p>
           <p>{{ sighting.location.name }}</p>
           <p>{{ sighting.location.address }}</p>
