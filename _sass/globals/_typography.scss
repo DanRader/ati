@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono');
+
+
 body{
 margin: 0;
 padding: 0;
-font-family: 'Open Sans', sans-serif;
-background-color: white;
+font-family: 'Cutive Mono', monospace;
 }
 
 h1 {
@@ -38,12 +40,14 @@ h4{
     line-height: 24px;
 }
 
-a:visited{
+a {
+  text-decoration: none;
+  &:visited {
     color: inherit;
   }
-
-a:hover {
-  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 p {

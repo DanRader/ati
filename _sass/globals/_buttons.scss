@@ -1,0 +1,27 @@
+.btn-prime {
+  position: relative;
+  background-color: black;
+  padding: 13px 20px;
+  color: white;
+  font-size: 12px;
+  letter-spacing: 7px;
+  text-transform: uppercase;
+  transform-style: preserve-3d;
+  &:before {
+    content:"";
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    position: absolute;
+    top: 3px;
+    left: -5px;
+    transform: translateZ(-1em);
+    transition: $transition-1;
+  }
+  &:hover {
+    transform: translateX(-5px) translateY(-5px);
+  }
+  // &:hover:before {
+  //   transform: translateX(10px) translateY(10px) translateZ(-1em);
+  // }
+}

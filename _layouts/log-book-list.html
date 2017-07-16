@@ -3,33 +3,35 @@ layout: default
 ---
 
 <!-- blog feature header -->
-
-<div class="mx-auto max-width-4 clearfix py2">
-  {% for post in site.entries limit: 1 %}
-  <div class="col col-9 video-wrap overflow-hidden">
+{% for post in site.entries limit: 1 %}
+<div class="blog-highlight-image" style="background-image: url('{{ post.image }}');"></div>
+<div class="blog-hero mx-auto max-width-4 clearfix my4 relative">
     <h1>{{ page.title }}</h1>
-      <div class="blog-highlight">
-        <div class="">
-          <p>Entry No. {{ post.entry-number }} // {{ post.date | date: "%m.%d.%Y" }}</p>
+        <div class="blog-highlight col-5">
+          <div class="blog-highlight-cover-image" style="background-image: url('{{ post.image }}');"></div>
+          <div class="blog-highlight-date">
+            <p>Entry No. {{ post.entry-number }} // {{ post.date | date: "%m.%d.%y" }}</p>
+          </div>
+          <div class="blog-highlight-content">
+            <h2> {{ post.title }}</h2>
+            <p> {{ post.summary }}</p>
+            <a href="btn-prime">Read On</a>
+          </div>
         </div>
-          <h2> {{ post.title }}</h2>
-          <p> {{ post.summary }}</p>
-        <a href="#">Read On</a>
-      </div>
-    {% endfor %}
-  </div>
-
+      {% endfor %}
+</div>
 <!-- blog list  -->
 
-  <div class="">
+  <div class="clearfix max-width-4 mx-auto">
+
     {% for post in site.entries offset: 1 %}
-      <div class="col col-4 list-item">
+      <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb3 list-item ">
         <a href="{{ post.url | prepend: site.baseurl }}">
          <section class="blog-list-item">
-           <div class="blog-list-image cover" style="background-image: url('{{ post.image }}');">
-           </div>
-           <div class=" black">
-             {{ post.date | date: "%m.%d.%Y" }}
+           <div class="blog-list-image cover relative" style="background-image: url('{{ post.image }}');">
+             <div class="blog-list-date absolute">
+               {{ post.date | date: "%m.%d.%y" }}
+             </div>
            </div>
            <div class="blog-list-content">
              <p>Entry No. {{ post.entry-number }} </p>
@@ -40,5 +42,9 @@ layout: default
       </div>
     {% endfor %}
   </div>
+  <div class="mx-auto center my4">
+    <a href="#" class="btn-prime mx-auto">Discover More</a>
+  </div>
+
 
 </div>
