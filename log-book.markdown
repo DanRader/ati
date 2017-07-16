@@ -1,4 +1,5 @@
 ---
-layout: log-book-list
 title: Log Book
+layout: log-book-list
 ---
+
