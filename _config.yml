@@ -2,14 +2,14 @@
 title: Ancient Truth Investigators
 timezone: America/New_York
 collections:
+  entries:
+    title: Entries
+    output: true
   artifacts:
     title: Artifacts
     output: true
   elements:
     title: Elements
-    output: true
-  posts:
-    title: Posts
     output: true
   products:
     title: Products
