@@ -1,4 +1,36 @@
+
+nav {
+      height: 92px;
+}
+
+.nav-wrapper {
+  background-color: $paper-tan;
+  z-index: 999;
+}
+
 .brand-logo svg {
-  max-width: 4rem;
+  max-width: 3.5rem;
   float: left;
+  padding-left: 25px;
+  padding-right: 14px;
+}
+
+.nav--links {
+  padding-left: 2%;
+  padding-right: 2%;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-right: 1px solid #bbb;
+  &:last-of-type {
+    border-right: none;
+  }
+}
+
+.temp-nav-spacing {
+  margin-top: 21px;
+}
+
+.nav--links_active {
+color: red;
 }

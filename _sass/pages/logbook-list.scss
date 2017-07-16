@@ -7,15 +7,29 @@
   // }
 
 
-$shadow-1: 1px 2px 48px -13px rgba(1, 15, 14, 0.24);
 
 .blog-hero {
-  height: 60vh;
+  height: 52vh;
+}
+
+.blog-title {
+  position: absolute;
+  left: -5%;
+  top: 50%;
+  background-color: black;
+  padding: .6% 2% 1.2% 2%;
+  & h1 {
+    color: white;
+    font-weight: 100;
+    font-size: 51px;
+    line-height: 51px;
+    border-bottom: 2px solid white;
+  }
 }
 
 .blog-highlight-image {
   width: 80vw;
-  height: 60vh;
+  height: 54vh;
   right: 0px;
   background-position: center;
   background-size: cover;
@@ -26,33 +40,61 @@ $shadow-1: 1px 2px 48px -13px rgba(1, 15, 14, 0.24);
 .blog-highlight {
   background-color: black;
   color: white;
-  padding: 5%;
+  padding: 8% 7% 7% 7%;
   position: absolute;
   bottom: 0;
   right: 15px;
   overflow: hidden;
+  box-shadow: $shadow-3;
+
 }
 .blog-highlight-content {
   z-index: 3;
   position: relative;
+  & h2 {
+    color: white;
+    font-weight: 100;
+    font-size: 27px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-bottom: 1px solid white;
+    display: inline;
+  }
+  & p {
+    padding: 4% 0;
+    color: white;
+    line-height: 23px;
+    margin: 0;
+    margin-bottom: 20px;
+  }
 }
 .blog-highlight-date {
     z-index: 3;
     position: absolute;
+    top: 7%;
+    left: 0;
+    background-color: black;
+    padding: 0px 13px;
+    & p {
+      color: white;
+      font-size: 13px;
+      margin-bottom: 0;
+    }
 }
 
 .blog-highlight-cover-image {
-    background-position: 90% 102%;
-    background-size: 200%;
-    top: 0px;
-    left: 0px;
+    background-position: 73% 71%;
+    background-size: 209%;
+    top: -10px;
+    left: -10px;
     right: 0px;
     bottom: 0px;
     width: 110%;
     height: 110%;
     z-index: 0;
     position: absolute;
-  filter: blur(5px);
+    filter: blur(3px);
+    opacity: 0.7;
 }
 
 .blog-list-item {

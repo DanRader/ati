@@ -4,9 +4,12 @@ layout: default
 
 <!-- blog feature header -->
 {% for post in site.entries limit: 1 %}
-<div class="blog-highlight-image" style="background-image: url('{{ post.image }}');"></div>
+<div class="blog-highlight-image" style="background-image: url('{{ post.image }}');">
+    <div class="blog-title">
+      <h1 class="">{{ page.title }}</h1>
+    </div>
+</div>
 <div class="blog-hero mx-auto max-width-4 clearfix my4 relative">
-    <h1>{{ page.title }}</h1>
         <div class="blog-highlight col-5">
           <div class="blog-highlight-cover-image" style="background-image: url('{{ post.image }}');"></div>
           <div class="blog-highlight-date">
@@ -15,7 +18,7 @@ layout: default
           <div class="blog-highlight-content">
             <h2> {{ post.title }}</h2>
             <p> {{ post.summary }}</p>
-            <a href="btn-prime">Read On</a>
+            <a class="btn-prime" href="#">Read On</a>
           </div>
         </div>
       {% endfor %}
@@ -45,6 +48,3 @@ layout: default
   <div class="mx-auto center my4">
     <a href="#" class="btn-prime mx-auto">Discover More</a>
   </div>
-
-
-</div>

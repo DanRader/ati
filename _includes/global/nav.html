@@ -1,14 +1,17 @@
 <nav class="relative">
   <div class="nav-wrapper fixed top-0 left-0 right-0 p2 z2">
     <a href="{{ site.baseurl }}/" class="brand-logo">{% include svg/ATI_b.svg %}</a>
-    <ul class="list-reset">
+    <ul class="list-reset temp-nav-spacing">
 
        {% assign current = page.url | downcase | split: '/' %}
 
-            <li class=" block left left {% if current contains 'coaching' %}active {% endif %}nav-links"><a href='/artifacts'>Artifacts</a></li>
-            <li class=" block left {% if current contains 'moneycircle' %}active {% endif %}nav-links"><a href='/sightings'>Sightings</a></li>
-            <li class=" block left {% if current contains 'blog' %}active {% endif %}nav-links"><a href='/log-book'>Log Book</a></li>
-            <li class=" block left {% if current contains 'shop' %}active {% endif %}nav-links"><a href='/shop'>Shop</a></li>
+            <li class=" block left left {% if current contains 'artifacts' %}nav--links_active {% endif %}nav--links"><a href='/artifacts'>Artifacts</a></li>
+
+            <li class=" block left {% if current contains 'sightings' %}nav--links_active {% endif %}nav--links"><a href='/sightings'>Sightings</a></li>
+
+            <li class=" block left {% if current contains 'log-book' %}nav--links_active {% endif %}nav--links"><a href='/log-book'>Log Book</a></li>
+
+            <li class=" block left {% if current contains 'shop' %}nav--links_active {% endif %}nav--links"><a href='/shop'>Shop</a></li>
       <div class="right">
         <li class="left nav-links"> <a href="#contact-footer">Cart</a></li>
        <li class="left"><button data-target="modal-subscribe" class="subscribe-btn modal-trigger">Subscribe</button>
