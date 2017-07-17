@@ -1,0 +1,43 @@
+<nav class="relative">
+  <div class="nav-wrapper fixed top-0 left-0 right-0 p2 z2 clearfix">
+    <a href="{{ site.baseurl }}/" class="brand-logo">{% include svg/ATI_b.svg %}</a>
+    <ul class="block list-reset temp-nav-spacing clearfix">
+
+       {% assign current = page.url | downcase | split: '/' %}
+
+            <a href='/artifacts'><li class=" block left {% if current contains 'artifacts' %}nav--links_active {% endif %}nav--links" id="nav1">Artifacts</li></a>
+
+            <a href='/sightings'><li class=" block left {% if current contains 'sightings' %}nav--links_active {% endif %}nav--links" id="nav2">Sightings</li></a>
+
+            <a href='/log-book'><li class=" block left {% if current contains 'log-book' %}nav--links_active {% endif %}nav--links" id="nav3">Log Book</li></a>
+
+            <a href='/shop'><li class=" block left {% if current contains 'shop' %}nav--links_active {% endif %}nav--links nav--last" id="nav4">Shop</li></a>
+            <a href="#" data-target="modal-subscribe"><li class="block right btn-nav" id="nav6">Subscribe</li></a>
+            <a href="#"><li class="cart-icon block right"> <i class="fa fa-shopping-cart" aria-hidden="true"></i></li></a>
+
+    </ul>
+  </div>
+</nav>
+
+<script type="text/javascript">
+  let a = baffle('#nav1')
+  $( "#nav1" ).mouseover(function() {
+  a.reveal(1000);
+});
+  let b = baffle('#nav2')
+  $( "#nav2" ).mouseover(function() {
+  b.reveal(1000);
+});
+  let c = baffle('#nav3')
+  $( "#nav3" ).mouseenter(function() {
+  c.reveal(1000);
+});
+  let d = baffle('#nav4')
+  $( "#nav4" ).mouseenter(function() {
+  d.reveal(6000);
+});
+  let f = baffle('#nav6')
+  $( "#nav6" ).mouseenter(function() {
+    f.reveal(1000);
+});
+</script>

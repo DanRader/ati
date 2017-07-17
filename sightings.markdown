@@ -1,4 +1,5 @@
 ---
+title: sightings
 layout: sightings
 ---
 

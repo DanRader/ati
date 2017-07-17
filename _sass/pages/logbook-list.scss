@@ -1,0 +1,224 @@
+// blog list——used on the homepage and related post
+  //
+  // .blog-list > .col {
+  //   @media #{$media-max-tablet}{
+  //     float: none;
+  //   }
+  // }
+
+
+
+.blog-hero {
+  height: 52vh;
+  margin-bottom: 6rem;
+}
+
+.blog-title {
+  position: absolute;
+  left: -5%;
+  bottom: -38px;
+  padding: .6% 2% 1.2% 2%;
+  transform: rotate(-90deg);
+  transform-origin: left;
+  & h1 {
+    color: black;
+    font-weight: 100;
+    font-size: 51px;
+    line-height: 51px;
+    &:before {
+      content: "";
+      width: 97%;
+      height: 9px;
+      background-color: #BCD422;
+      position: absolute;
+      bottom: 29px;
+      left: 0;
+      right: 0;
+      margin: auto;
+      z-index: -1;
+      opacity: .7;
+    }
+  }
+}
+
+.blog-highlight-image {
+  width: 78vw;
+  height: 54vh;
+  right: 0px;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  z-index: -1;
+}
+
+.blog-highlight {
+  background-color: black;
+  color: white;
+  padding: 8% 7% 7% 7%;
+  position: absolute;
+  bottom: 0;
+  right: 15px;
+  overflow: hidden;
+  box-shadow: $shadow-3;
+
+}
+.blog-highlight-content {
+  z-index: 3;
+  position: relative;
+  & h2 {
+    color: white;
+    font-weight: 100;
+    font-size: 27px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-bottom: 1px solid white;
+    display: inline;
+  }
+  & p {
+    padding: 4% 0;
+    color: white;
+    line-height: 23px;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+}
+.blog-highlight-date {
+    z-index: 3;
+    position: absolute;
+    top: 7%;
+    left: 0;
+    background-color: black;
+    padding: 0px 13px;
+    & p {
+      color: white;
+      font-size: 13px;
+      margin-bottom: 0;
+    }
+}
+
+.blog-highlight-cover-image {
+    background-position: 73% 71%;
+    background-size: 209%;
+    top: -10px;
+    left: -10px;
+    right: 0px;
+    bottom: 0px;
+    width: 110%;
+    height: 110%;
+    z-index: 0;
+    position: absolute;
+    filter: blur(3px);
+    opacity: 0.7;
+}
+
+.blog-list-item {
+  padding: 10px;
+  box-shadow: $shadow-1;
+  background-color: white;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: $transition-1;
+  &:before {
+    content:"";
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    box-shadow: $shadow-1;
+    transform: translateZ(-1em);
+    transition: $transition-1;
+  }
+  &:hover {
+    transform: translateX(-5px) translateY(-5px);
+  }
+  &:hover:before {
+    transform: translateX(10px) translateY(10px) translateZ(-1em);
+  }
+  @media #{$media-max-tablet}{
+    margin-bottom: 3%;
+  }
+}
+
+.blog-list-image {
+  width: 100%;
+  height: 95px;
+}
+
+.blog-list-content {
+  padding: 21px 14px 8px 14px;
+  h3 {
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  > p {
+    font-size: 13px;
+    line-height: 16px;
+    margin-bottom: 4px;
+  }
+}
+
+.blog-list-date {
+  background-color: black;
+  color: white;
+  bottom: -8px;
+  left: 14px;
+  font-size: 12.5px;
+  padding: 3px 8px;
+  letter-spacing: 4px;
+}
+
+.blog-list-wrapper {
+padding: 5% 0;
+}
+
+.blog-list-space {
+  padding-bottom: 5%;
+}
+
+.push {
+  margin-left: 4% !important;
+  margin-right: -4% !important;
+  @media #{$media-max-tablet}{
+    display: none;
+  }
+}
+
+// Blog item——used on the blog list page (look to restyle)
+
+.blog-item {
+  border: 1px solid #dcdcdc;
+  padding: 30px 42px !important;
+  margin: 28px 0;
+  transition: .2s;
+  @media #{$media-max-tablet}{
+    padding: 20px 27px !important;
+    margin: 17px auto 24px auto;
+    width: 90% !important;
+    float: none !important;
+    display: block;
+    position: relative;
+    transition: .2s;
+  }
+  &:hover {
+    border: 1px solid $maggie-green;
+    box-shadow: 0px 28px 67px -21px rgba(13, 138, 131, 0.43);
+    transform: translateY(-2px)
+  }
+}
+
+
+.blog-item > h2 {
+  font-family: 'Playfair Display', serif;
+  color: $grey;
+  font-size: 32px;
+  line-height: 39px;
+  margin-bottom: 10px;
+    @media #{$media-max-tablet}{
+      font-size: 29px;
+      line-height: 38px;
+    }
+}

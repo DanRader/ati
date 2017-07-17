@@ -8,6 +8,9 @@ collections:
   elements:
     title: Elements
     output: true
+  entries:
+    title: Entries
+    output: true
   posts:
     title: Posts
     output: true
@@ -26,12 +29,36 @@ defaults:
     type: products
   values:
     layout: shop-item
-    permalink: "/products/:title/"
+    permalink: "/shop/:title/"
     price: 666.66
     sku: ati
     image: ''
     weight: 0.0
+    width: 2”
+    height: 3/8"
+    materials: Bronze, Glass, Cubic Zirconia
+    product-images:
+    - http://3milliondogs.com/blog-assets-two/2014/08/corgicute.jpg
+    - http://stories.barkpost.com/wp-content/uploads/2015/01/corgi2.jpg
+    - https://i.ytimg.com/vi/Tdxqr20jS68/maxresdefault.jpg
+    - http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Cardigan-Welsh-Corgi-3.jpg
+    - http://buzzsharer.com/wp-content/uploads/2015/11/running-corgi-snow-cute.jpg
+- scope:
+    path: ''
+    type: sightings
+  values:
+    layout: sightings
+    start-date: 
+    end-date: 
+    time: 
+    location:
+      name: 
+      address: 
+      latitude: 
+      longitude: 
+external-link: http://madmuseum.org/learn/rachel-rader
 snipcart_api_key: YjM2NGJjN2ItZjQwZC00M2ZjLTgxOTAtNmM1ZDA3MmE3NDRlNjM2MzA0MDkwMDA4NjU4NTAz
+logo: "/includes/svg/ATI_b.svg"
 gems:
 - jekyll-sitemap
 email: ibelieve@ancienttruthinvestigators.com

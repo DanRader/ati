@@ -1,5 +1,7 @@
 ---
-title: Example 6
+title: Earring 2
+categories:
+- Earrings
 position: 5
 price: 666.33
 sku: 6
