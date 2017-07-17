@@ -3,3 +3,33 @@ footer {
   background-color: #4A4A4A;
   color: white;
 }
+
+.footer--content {
+  & h2{
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 2% 0 0 0;
+  }
+  & p {
+    color: white;
+    padding-bottom: 4%;
+  }
+}
+
+.footer-bp {
+  padding: 0 16px;
+  & p,a {
+  font-size: 12px;
+  line-height: 12px;
+  color: #bfbfbf !important;
+}
+}
+
+.border-left {
+border-left: 1px solid white;
+padding-left: 10px;
+margin-left: 10px;
+}
