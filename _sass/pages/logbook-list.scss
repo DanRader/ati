@@ -10,25 +10,39 @@
 
 .blog-hero {
   height: 52vh;
+  margin-bottom: 6rem;
 }
 
 .blog-title {
   position: absolute;
   left: -5%;
-  top: 50%;
-  background-color: black;
+  bottom: -38px;
   padding: .6% 2% 1.2% 2%;
+  transform: rotate(-90deg);
+  transform-origin: left;
   & h1 {
-    color: white;
+    color: black;
     font-weight: 100;
     font-size: 51px;
     line-height: 51px;
-    border-bottom: 2px solid white;
+    &:before {
+      content: "";
+      width: 97%;
+      height: 9px;
+      background-color: #BCD422;
+      position: absolute;
+      bottom: 29px;
+      left: 0;
+      right: 0;
+      margin: auto;
+      z-index: -1;
+      opacity: .7;
+    }
   }
 }
 
 .blog-highlight-image {
-  width: 80vw;
+  width: 78vw;
   height: 54vh;
   right: 0px;
   background-position: center;
