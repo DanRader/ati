@@ -33,7 +33,10 @@ margin-left: 10px;
 
 .mc-field-group {
   width: 70%;
+  max-width: 380px;
+  min-width: 270px;
   position: relative;
+  margin: 0 auto 25px auto;
   & input {
     position: relative;
     border: 1px solid white;
@@ -41,11 +44,37 @@ margin-left: 10px;
     color: white;
     width: 100%;
     height: 48px;
-    margin: auto;
+    transition: $transition-1;
+    &:focus {
+      outline: none;
+      border: 1px solid $ati-green;
+    }
+    &:focus ~ label {
+      color:  rgba(255, 255, 255, 1);;
+      letter-spacing: 7px;
+    }
   }
   & label {
     position: absolute;
-    top: -8px;
+    top: -7px;
     left: 20px;
+    z-index: 2;
+    background-color: #4A4A4A;
+    padding: 0 5px 0 10px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-size: 14px;
+    transition: $transition-1;
+    color: rgba(255, 255, 255, .7);
+  }
+}
+
+
+.before-n-after {
+  &:before, &:after {
+    content: "";
+    width: 100px;
+    height: 100px;
+    background-color: white;
   }
 }

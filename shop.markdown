@@ -7,5 +7,3 @@ image:
 - "/uploads/placeholder/static1.squarespace-4.jpg"
 layout: shop-list
 ---
-
- 

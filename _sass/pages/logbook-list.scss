@@ -1,12 +1,3 @@
-// blog list——used on the homepage and related post
-  //
-  // .blog-list > .col {
-  //   @media #{$media-max-tablet}{
-  //     float: none;
-  //   }
-  // }
-
-
 
 .blog-hero {
   height: 52vh;
@@ -54,7 +45,7 @@
 .blog-highlight {
   background-color: black;
   color: white;
-  padding: 8% 7% 7% 7%;
+  padding: 8% 7% 5% 7%;
   position: absolute;
   bottom: 0;
   right: 15px;
@@ -74,7 +65,7 @@
     border-bottom: 1px solid white;
     display: inline;
   }
-  & p {
+  & > p {
     padding: 4% 0;
     color: white;
     line-height: 23px;

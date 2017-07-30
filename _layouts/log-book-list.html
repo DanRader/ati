@@ -18,13 +18,13 @@ layout: default
           <div class="blog-highlight-content">
             <h2> {{ post.title }}</h2>
             <p> {{ post.summary }}</p>
-            <a class="btn-prime" href="#">Read On</a>
+            <a class="btn-prime" href="{{ post.url }}"><p>Read On</p></a>
           </div>
         </div>
       {% endfor %}
 </div>
-<!-- blog list  -->
 
+<!-- blog list  -->
   <div class="clearfix max-width-4 mx-auto">
 
     {% for post in site.entries offset: 1 %}
@@ -46,5 +46,5 @@ layout: default
     {% endfor %}
   </div>
   <div class="mx-auto center my4">
-    <a href="#" class="btn-prime mx-auto">Discover More</a>
+    <a href="#" class="btn-prime"><p>Discover More</p></a>
   </div>

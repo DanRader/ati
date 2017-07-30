@@ -1,4 +1,47 @@
 ---
 layout: default
 ---
+<div class="post--hero relative">
+  <h1>{{ page.title }}</h1>
+  <div class="post--hero__image relative" style="background-image: url('{{ page.image }}');"></div>
+</div>
+<div class="post__content max-width-2 mx-auto relative">
+  <div class="blog-highlight-date">
+    <p>Entry No. {{ post.entry-number }} // {{ page.date | date: "%m.%d.%y" }}</p>
+  </div>
+  {{ content }}
+  <section id="author" class="container author">
+    <hr>
+    <div class="author-sec">
+        <div class="author-image" style="background-image: url('');"></div>
+        <div class="author-name">
+          <h3 class="author-name">Rachel Rader</h3>
+          <p class="author-desc">Chief Investiagtor,<br>  Ancient Truth Investigators</p>
+        </div>
+    </div>
+  </section>
+</div>
 
+<section>
+  <h2>Recent Entries</h2>
+
+  <div class="clearfix max-width-4 mx-auto">
+    {% for post in site.entries limit:3 %}
+      <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb3 list-item ">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+         <section class="blog-list-item">
+           <div class="blog-list-image cover relative" style="background-image: url('{{ post.image }}');">
+             <div class="blog-list-date absolute">
+               {{ post.date | date: "%m.%d.%y" }}
+             </div>
+           </div>
+           <div class="blog-list-content">
+             <p>Entry No. {{ post.entry-number }} </p>
+             <h3>{{ post.title }}</h3>
+           </div>
+         </section>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
