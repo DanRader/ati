@@ -1,6 +1,6 @@
 .post--hero {
   text-align: center;
-  padding: 5% 2% 0 2%;
+  padding: 0% 2% 0 2%;
   & h1 {
     position: relative;
     font-size: 18px;
@@ -35,6 +35,16 @@
   padding: 25px;
   margin-top: -8vh;
   background-color: $paper-tan;
+  & h1 {
+    color: black;
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 35px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-bottom: 1px solid black;
+    display: inline;
+  }
   & p {
     font-size: 15px;
   }
