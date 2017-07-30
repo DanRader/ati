@@ -7,28 +7,31 @@ layout: default
 </div>
 <div class="post__content max-width-2 mx-auto relative">
   <div class="blog-highlight-date">
-    <p>Entry No. {{ post.entry-number }} // {{ page.date | date: "%m.%d.%y" }}</p>
+    <p>Entry No. {{ page.entry-number }} // {{ page.date | date: "%m.%d.%y" }}</p>
   </div>
   <div class="mb2">
       <h1>{{ page.title }}</h1>
   </div>
   {{ content }}
-  <section id="author" class="container author">
+  <section id="author" class="pt3 container author">
     <hr>
-    <div class="author-sec">
-        <div class="author-image" style="background-image: url('');"></div>
-        <div class="author-name">
-          <h3 class="author-name">Rachel Rader</h3>
-          <p class="author-desc">Chief Investiagtor,<br>  Ancient Truth Investigators</p>
+    <div class="clearfix post--author py4 table mx-auto">
+        <div class="left post--author__avatar-wrap">
+          <div class="post--author__avatar" style="background-image: url(/uploads/RachelRader_avatar.jpg)"></div>
+        </div>
+        <div class="left relative author-name">
+          <h3 class="">Rachel Rader</h3>
+          <p class="">Chief Investiagtor,<br>  Ancient Truth Investigators</p>
         </div>
     </div>
   </section>
 </div>
 
-<section>
-  <h2>Recent Entries</h2>
+<section class="post__content--related max-width-4 clearfix mx-auto" >
+  <hr class="">
+  <h2 class="center py4">Recent Entries</h2>
 
-  <div class="clearfix max-width-4 mx-auto">
+  <div class="">
     {% for post in site.entries limit:3 %}
       <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb3 list-item ">
         <a href="{{ post.url | prepend: site.baseurl }}">
