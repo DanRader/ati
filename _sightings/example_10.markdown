@@ -3,7 +3,6 @@ title: The Hirschhorn
 categories:
 - residency
 start-date: 2017-11-01 01:00:00 -04:00
-end-date: 2018-01-01 00:00:00 -05:00
 time: 7am - 9pm
 location:
   address: 300 Monticello Ave. New York, New York
