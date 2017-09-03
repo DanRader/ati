@@ -13,23 +13,29 @@ layout: default
           <label for="toggle-tab2">Tab 2</label>
 
           <div id="tab1" class="tab">
-              {% assign sightings-sort = site.sightings | sort:"date"  %}
-                {% for sighting in sightings-sort %}
-
-                {% assign today = site.time | date: "%d %m" %}
-                {% assign event-time = sighting.start-date | date: "%d %m" %}
-
-                    <p style="color: red">{{ today }}</p>
-                    {{ event-time }}
-
+              {% assign sightings-sort = site.sightings | sort: "date" %}
+                {% for sighting in site.sightings %}
+                    {% assign today = "now" | date: "%s"%}
+                    {% assign event-date = sighting.date | date: "%s" %}
+                        {{ today | date: "%b %d %y"}}
+                        <p>{{ sighting.date | date: "%b %d %y"}}</p>
                 {% endfor %}
           </div>
-
           <div id="tab2" class="tab">
-              Donec venenatis quam sit amet neque gravida, at commodo lacus gravida.
+              {% assign sightings-sort = site.sightings | sort: "date"%}
+                {% for sighting in sightings-sort reversed %}
+                    {% assign today = "now" | date: "%s"%}
+                    {% assign event-date = sighting.date | date: "%s" %}
+                        {{ today | date: "%b %d %y"}}
+                        <p>{{ sighting.date | date: "%b %d %y"}}</p>
+            {% endfor %}
           </div>
     </div>
 
 
 
 </div>
+
+
+
+                        {% include components/sightings.html %}

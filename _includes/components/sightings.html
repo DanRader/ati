@@ -3,11 +3,11 @@
             <h2>{{ sighting.title }}</h2>
             <div class="sightings--list__category">
                 {% include svg/diamond.svg %}
-                <p>{{ sighting.category }}</p>
+                <p>{{ sighting.categories }}</p>
             </div>
         </div>
         <div class="sightings--list__desc col col-8 px2 clearfix">
-            <h3>{{ sighting.start-date | date: "%b %d" }} {% if sighting.end-date %}through {{ sighting.end-date | date: "%b %d"}} {% endif %} {% if sighting.time %} | {{ sighting.time }} {% endif %}</h3>
+            <h3>{{ sighting.start-date | date: "%b %d %y" }} {% if sighting.end-date %}through {{ sighting.end-date | date: "%b %d %y"}} {% endif %} {% if sighting.time %} | {{ sighting.time }} {% endif %}</h3>
             <p><a href="{{ sighting.location.link }}" target="_blank">{{ sighting.location.latitude }}, {{ sighting.location.longitude }}<br>{{ sighting.location.address }}</a></p>
             <p>{{ sighting.content }}</p>
             {% if sighting.external-link %}
