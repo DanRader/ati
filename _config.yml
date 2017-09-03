@@ -26,6 +26,11 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: entries
+  values:
+    permalink: "/log-book/:title/"
+- scope:
+    path: ''
     type: products
   values:
     layout: shop-item

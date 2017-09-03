@@ -1,0 +1,125 @@
+.post--hero {
+  text-align: center;
+  padding: 0% 2% 0 2%;
+  & h1 {
+    position: relative;
+    font-size: 18px;
+    font-weight: 100;
+    letter-spacing: 13px;
+    line-height: 21px;
+    text-transform: uppercase;
+    padding-bottom: 3%;
+    margin-bottom: 5%;
+    &::after{
+      content: "";
+      width: 100px;
+      height: 4px;
+      background-color: $ati-green;
+      position: absolute;
+      bottom: 0px;
+      left: 0;
+      right: 0;
+      margin: auto;
+      opacity: .7;
+    }
+  }
+}
+.post--hero__image{
+  height: 60vh;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  z-index: -1;
+  box-shadow: inset 0 -26px 106px -27px rgba(0, 0, 0, 0.85);
+}
+.post__content {
+  padding: 32px 40px;
+  margin-top: -10vh;
+  background-color: $paper-tan;
+  & h1 {
+    color: black;
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 35px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-bottom: 1px solid black;
+    display: inline;
+  }
+  & .blog-highlight-date {
+    top: -27px;
+  }
+  & img {
+    margin: 2rem 0;
+    border: 13px solid white;
+    border-radius: 2px;
+    box-shadow: 3px 8px 43px -12px rgba(0, 0, 0, 0.19);
+    transition: .2s;
+    display: block;
+    &:after {
+      content: "Exhibit No. 2.445776";
+      position: absolute;
+      top: 0;
+      left: 0;
+      background-color: white;
+
+    }
+    &:nth-child(odd) {
+      margin-left: -32px;
+      transform: rotate(-1deg);
+      @media #{$media-max-l} {
+        margin-left: 0;
+      }
+    }
+    &:nth-child(even) {
+      margin-left: 12px;
+      transform: rotate(.5deg);
+      @media #{$media-max-l} {
+        margin-left: 0;
+      }
+    }
+  }
+}
+.post--author__avatar-wrap {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  transform-origin: center;
+  transform: rotate(-45deg);
+  overflow: hidden;
+  border: 6px solid white;
+  box-shadow: $shadow-3;
+  margin-right: 4rem;
+  & .post--author__avatar {
+    height: 150%;
+    width: 150%;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    z-index: -1;
+    top: -22%;
+    left: -28%;
+    transform-origin: center;
+    transform: rotate(45deg);
+    margin-left: 0 !important;
+    border: none;
+  }
+}
+.author-name {
+  & p {
+    line-height: 21px;
+  }
+  & h3 {
+    font-size: 29px;
+    line-height: 47px;
+  }
+}
+
+.post__content--related {
+  padding-bottom: 6rem;
+  & h2 {
+    font-size: 29px;
+    line-height: 47px;
+    font-weight: 100;
+  }
+}

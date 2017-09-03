@@ -1,12 +1,13 @@
 ---
-title: Sighting 2
+title: Museum of Arts and Design
+categories:
+- residency
 layout: artifact
 start-date: 2018-10-29 01:00:00 -04:00
-end-date: 
+end-date: 2018-11-29 00:00:00 -05:00
 time: 7am - 9pm
 location:
-  name: Mad
-  address: June 2nd, 300 Monticello Ave,
+  address: 300 Monticello Ave. New York, New York
   latitude: 36.8508° N
   longitude: 76.2859° W.
 external-link: http://madmuseum.org/learn/rachel-rader

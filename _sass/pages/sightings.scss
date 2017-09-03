@@ -1,0 +1,105 @@
+// #sightings--tabs {
+//
+//     // & input[type="radio"]{
+// 	//        display:none;
+//     // }
+//
+//     & label {
+//         background:#e9e9e9;
+//     	display:inline-block;
+//         margin-right:2px;
+//         border-radius:3px;
+//         padding:14px 20px;
+//         color:black;
+//         cursor:pointer;
+//         transition:background .3s;
+//
+//         &:hover {
+//             background:#d9d9d9;
+//             color:#707070;
+//         }
+//     }
+//
+//     & .sightings--tabs__trey {
+//         min-height:200px;
+//         background:#d9d9d9;
+//         display:none;
+//         padding:12px;
+//         color:#444;
+//         text-shadow:1px 1px #fff;
+//     }
+//     & #toggle-tab1:checked ~ label[for="toggle-tab1"]{
+//         background:#d9d9d9;
+//         margin-bottom:0;
+//         border-bottom-left-radius:0;
+//         border-bottom-right-radius:0;
+//         padding-bottom:18px;
+//         color:#606060;
+//         cursor:default;
+//     }
+//     & #toggle-tab2:checked ~ label[for="toggle-tab2"] {
+//         background:#d9d9d9;
+//         margin-bottom:0;
+//         border-bottom-left-radius:0;
+//         border-bottom-right-radius:0;
+//         padding-bottom:18px;
+//         color:#606060;
+//         cursor:default;
+//     }
+//     & #toggle-tab1:checked ~ #tab1,{
+//         display:block;
+//     }
+//     & #toggle-tab2:checked ~ #tab2 {
+//         display:block;
+//     }
+// }
+.sightings--list {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.24);
+}
+
+.sightings--list__title {
+    margin-top: 14px;
+
+      & h2 {
+          color: white;
+          line-height: 2.7rem;
+          font-size: 2.1rem;
+          font-weight: 100;
+          background: black;
+          padding: 10px 0 10px 0;
+          display: inline;
+          word-wrap: break-word;
+          box-shadow: 10px 0 0 black, -10px 0 0 black
+      }
+
+      .sightings--list__category {
+            border: 1px solid black;
+            display: inline-flex;
+            align-items: center;
+            padding: 0 10px;
+            margin: 6px 0 0 -10px;
+
+            & svg {
+                display: inline;
+                margin-right: 8px;
+            }
+
+            & p {
+                display: inline;
+                text-transform: uppercase;
+                letter-spacing: 4px;
+                font-size: 13px;
+                margin-bottom: 0;
+            }
+      }
+}
+
+.sightings--list__desc {
+      > h3 {
+          margin-bottom: 1rem;
+          font-size: 24px;
+      }
+      & .btn-prime {
+          margin-top: 1rem;
+      }
+}
