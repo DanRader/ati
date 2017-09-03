@@ -1,8 +1,8 @@
 ---
 title: The Phillips Collection
+date: 2017-06-01 01:00:00 -04:00
 categories:
 - residency
-date: 2017-06-01 01:00:00 -04:00
 time: 7am - 9pm
 location:
   address: 300 Monticello Ave. New York, New York

@@ -1,8 +1,8 @@
 ---
 title: Smithsonian American Art Museum
+date: 2017-05-06 01:00:00 -04:00
 categories:
 - residency
-date: 2017-05-06 01:00:00 -04:00
 end-date: 2017-05-10 00:00:00 -04:00
 time: 7am - 9pm
 location:
