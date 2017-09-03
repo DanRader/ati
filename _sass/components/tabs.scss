@@ -1,0 +1,52 @@
+#tabs{
+    width:800px;
+    margin:0 auto;
+    margin-top:2%;
+    margin-bottom:2%;
+    border-radius:3px;
+
+    & input[type="radio"]{
+	    display:none;
+    }
+
+    & label{
+      	display:inline-block;
+      	margin-right:2px;
+        border-radius:3px;
+      	padding:14px 20px;
+        font-family:Arial;
+        font-size:95%;
+        font-weight:700;
+        color:#777;
+      	cursor:pointer;
+        text-shadow:1px 1px #fff;
+        transition:background .3s;
+
+        &:hover{
+              background:#d9d9d9;
+              color:#707070;
+        }
+    }
+    & .tab{
+    	min-height:200px;
+    	background:#d9d9d9;
+    	display:none;
+    	padding:12px;
+        color:#444;
+        text-shadow:1px 1px #fff;
+    }
+
+    & #toggle-tab1:checked ~ label[for="toggle-tab1"],#toggle-tab2:checked ~ label[for="toggle-tab2"]{
+      background:#d9d9d9;
+      margin-bottom:0;
+      border-bottom-left-radius:0;
+      border-bottom-right-radius:0;
+      padding-bottom:18px;
+      color:#606060;
+      cursor:default;
+    }
+
+    & #toggle-tab1:checked ~ #tab1,#toggle-tab2:checked ~ #tab2{
+      display:block;
+    }
+}

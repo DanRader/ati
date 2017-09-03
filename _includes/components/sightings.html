@@ -1,0 +1,24 @@
+    <section class="sightings--list col sm-col-12 lg-col-12 px1 py4 pb3 clearfix">
+        <div class="sightings--list__title col col-4 px2 clearfix">
+            <h2>{{ sighting.title }}</h2>
+            <div class="sightings--list__category">
+                {% include svg/diamond.svg %}
+                <p>{{ sighting.category }}</p>
+            </div>
+        </div>
+        <div class="sightings--list__desc col col-8 px2 clearfix">
+            <h3>{{ sighting.start-date | date: "%b %d" }} {% if sighting.end-date %}through {{ sighting.end-date | date: "%b %d"}} {% endif %} {% if sighting.time %} | {{ sighting.time }} {% endif %}</h3>
+            <p><a href="{{ sighting.location.link }}" target="_blank">{{ sighting.location.latitude }}, {{ sighting.location.longitude }}<br>{{ sighting.location.address }}</a></p>
+            <p>{{ sighting.content }}</p>
+            {% if sighting.external-link %}
+            <a href="{{ sighting.external-link }}" class="btn-prime">
+                <p>Learn More</p>
+            </a>
+            {% else %}
+
+            <a href="{{ sighting.url }}" class="btn-prime">
+                <p>Internal Link</p>
+            </a>
+            {% endif %}
+        </div>
+    </section>
