@@ -1,8 +1,8 @@
 ---
 title: Museum of Modern Art
-start-date: 2017-02-02 01:00:00 -05:00
 categories:
 - residency
+start-date: 2017-02-02 01:00:00 -05:00
 time: 7am - 9pm
 location:
   address: 300 Monticello Ave. New York, New York
