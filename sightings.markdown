@@ -1,6 +1,6 @@
 ---
 title: Sightings
+image: "/uploads/placeholder/static1.squarespace-14.jpg"
 layout: sightings
-image: "/uploads/placeholder/static1.squarespace-2.jpg"
 ---
 
