@@ -1,6 +1,6 @@
 ---
 title: Museum of Modern Art
-date: 2017-02-02 01:00:00 -05:00
+start-date: 2017-02-02 01:00:00 -05:00
 categories:
 - residency
 time: 7am - 9pm

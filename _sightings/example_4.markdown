@@ -1,6 +1,6 @@
 ---
 title: The Phillips Collection
-date: 2017-06-01 01:00:00 -04:00
+start-date: 2017-06-01 01:00:00 -04:00
 categories:
 - residency
 time: 7am - 9pm

@@ -1,9 +1,9 @@
 ---
-title: New Museum of Contemporary Art
-date: 2017-01-02 01:00:00 -05:00
+title: Guggenheim Art Museum
+start-date: 2017-01-02 01:00:00 -05:00
 categories:
 - residency
-start-date: 2017-01-02 01:00:00 -05:00
+date: 2017-01-02 01:00:00 -05:00
 end-date: 2017-01-31 00:00:00 -05:00
 time: 7am - 9pm
 location:

@@ -1,5 +1,28 @@
+.sighting-hover {
+
+        & img {
+            width: 289px;
+            height: auto;
+            vertical-align: middle;
+            position: absolute;
+            top: 1rem;
+            left: -4rem;
+            z-index: -1;
+            opacity: 0;
+            transform: rotate(-1deg) scale(.97);
+            transition: .3s ease-in-out;
+        }
+}
+
 .sightings--list {
     border-bottom: 1px solid rgba(0, 0, 0, 0.24);
+
+
+    :hover > img {
+        opacity: 1;
+        transform: none;
+    }
+
 }
 
 .sightings--list__title {

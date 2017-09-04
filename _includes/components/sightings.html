@@ -1,12 +1,17 @@
-    <section class="sightings--list col sm-col-12 lg-col-12 px1 py4 pb3 clearfix">
-        <div class="sightings--list__title col col-4 px2 clearfix">
-            <h2>{{ sighting.title }}</h2>
-            <div class="sightings--list__category">
-                {% include svg/diamond.svg %}
-                <p>{{ sighting.categories }}</p>
+    <section class="sightings--list col sm-col-12 lg-col-12 px1 py4 pb3 clearfix relative">
+        <a class="sighting-hover" href="{{ sighting.location.link }}" target="_blank">
+            <div class="sightings--list__title col col-4 clearfix">
+                <h2>{{ sighting.title }}</h2>
+                <div class="block">
+                    <div class="sightings--list__category">
+                        {% include svg/diamond.svg %}
+                        <p>{{ sighting.categories }}</p>
+                    </div>
+                </div>
             </div>
-        </div>
-        <div class="sightings--list__desc col col-8 px2 clearfix">
+            <img class="" src="{{ sighting.categories-image }}" alt="">
+        </a>
+        <div class="sightings--list__desc col col-8 pl4 clearfix">
             <h3>{{ sighting.start-date | date: "%b %d %y" }} {% if sighting.end-date %}through {{ sighting.end-date | date: "%b %d %y"}} {% endif %} {% if sighting.time %} | {{ sighting.time }} {% endif %}</h3>
             <p><a href="{{ sighting.location.link }}" target="_blank">{{ sighting.location.latitude }}, {{ sighting.location.longitude }}<br>{{ sighting.location.address }}</a></p>
             <p>{{ sighting.content }}</p>
