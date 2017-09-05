@@ -1,9 +1,7 @@
 ---
 title: King Ea's Crown
 images:
-- "/uploads/placeholder/static1.squarespace-16.jpg"
-- "/uploads/Screenshot%202017-08-29%2019.00.15.png"
-- "/uploads/placeholder/static1.squarespace-14.jpg"
+- "/uploads/crown.jpg"
 - 
 layout: artifact
 ---
