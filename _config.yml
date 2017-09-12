@@ -30,6 +30,9 @@ defaults:
     type: entries
   values:
     permalink: "/log-book/:title/"
+    entry-number: ''
+    summary: ''
+    image: ''
     featured-video: ''
     author:
       image: "/uploads/RachelRader_avatar.jpg"
