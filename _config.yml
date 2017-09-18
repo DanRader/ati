@@ -21,6 +21,9 @@ collections:
     title: Sightings
     output: true
     future: true
+  team:
+    title: Team
+    output: true
   uploads:
     title: Uploads
     output: true
