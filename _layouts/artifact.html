@@ -2,13 +2,33 @@
 layout: default
 ---
 
-
+<div class="artifact--wrap">
     <div class="artifact-slider">
         {% for image in page.images %}
-                  <div class=" artifact--image cover" style="background-image: url('{{ image }}');">
-                  </div>
+          <div class=" artifact--image cover" style="background-image: url('{{ image }}');">
+          </div>
+            {% if product.tags.last == "sale"%}
+                <div class="next-button">
+                </div>
+            {% endif %}
           {% endfor %}
     </div>
+
+    <section class="artifact--detail">
+        <h2>{{ page.title }}</h2><p>{{ content }}</p>
+        <div class="artifact--detail__specs">
+            <p><span>size:</span> {{ page.size }}</p>
+            <p><span>material:</span> {{ page.material }}</p>
+        </div>
+        <div class="artifact-number">
+            <p>Artifact no.{{ page.catalogue-number }}</p>
+        </div>
+    </section>
+</div>
+
+
+
+
 
 <script type="text/javascript">
           $(document).ready(function(){

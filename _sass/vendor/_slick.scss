@@ -96,3 +96,33 @@
 .slick-arrow.slick-hidden {
     display: none;
 }
+
+
+// slider styles
+
+.slick-prev, .slick-next{
+    z-index: 998;
+    width: 40vw;
+    height: 87vh;
+    bottom: 0;
+    position: absolute;
+    background-color: inherit;
+    border: none;
+    outline: none;
+    font-size: 0;
+    line-height: 0;
+
+    &:before {
+        display: none;
+    }
+}
+
+.slick-prev {
+    left: 0;
+    cursor: w-resize;
+}
+
+.slick-next {
+    right: 0;
+    cursor: e-resize;
+}
