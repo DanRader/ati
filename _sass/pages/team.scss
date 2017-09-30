@@ -1,0 +1,32 @@
+.rachel--image {
+    margin: 2rem 0;
+    border: 13px solid white;
+    border-radius: 2px;
+    box-shadow: 3px 8px 43px -12px rgba(0, 0, 0, 0.19);
+    transition: .2s;
+    display: block;
+}
+
+.team {
+
+    & p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    & h3 {
+        font-size: 1.2rem;
+        line-height: 1;
+    }
+
+    & .team--image {
+        border: 11px solid white;
+        border-radius: 2px;
+        box-shadow: 3px 8px 43px -12px rgba(0, 0, 0, 0.29);
+        display: block;
+        height: 90vh;
+        background-position: center;
+        background-size: cover;
+        margin-bottom: 1.25rem;
+    }
+}

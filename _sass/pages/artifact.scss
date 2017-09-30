@@ -1,0 +1,32 @@
+.artifact--image {
+    height: 100vh;
+}
+
+.artifact--nav {
+    height: 0;
+
+    & .nav-wrapper {
+        background-color: inherit;
+    }
+}
+
+.slick-prev, .slick-next {
+    z-index: 999;
+    width: 40vw;
+    height: 80vh;
+    bottom: 0;
+
+    &:before {
+        display: none;
+    }
+}
+
+.slick-prev {
+    left: 0;
+    cursor: w-resize;
+}
+
+.slick-next {
+    right: 0;
+    cursor: e-resize;
+}

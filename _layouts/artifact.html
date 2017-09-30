@@ -2,3 +2,35 @@
 layout: default
 ---
 
+
+    <div class="artifact-slider">
+        {% for image in page.images %}
+                  <div class=" artifact--image cover" style="background-image: url('{{ image }}');">
+                  </div>
+          {% endfor %}
+    </div>
+
+<script type="text/javascript">
+          $(document).ready(function(){
+          $('.artifact-slider').slick({
+            dots: false,
+            infinite: false,
+            speed: 600,
+            slidesToShow: 1,
+            arrows: true,
+            asNavFor: null,
+            prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button">Previous</button>',
+            nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button">Next</button>',
+            adaptiveHeight: true,
+            cssEase: 'ease-in-out',
+            responsive: [
+              {
+                breakpoint: 736,
+                settings: {
+                  arrows: false,
+                }
+              },
+            ]
+        });
+        });
+</script>
