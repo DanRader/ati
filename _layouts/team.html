@@ -2,3 +2,34 @@
 layout: default
 ---
 
+<div class="clearfix max-width-4 mx-auto">
+
+    {% for team in site.team limit:1 %}
+
+    <section class="rachel">
+        <p>{{team.team-title}}</p>
+        <h1>{{team.title}}</h1>
+        <p> {{content}}</p>
+        <div class="rachel--image" style="background-image: url({{ team.image }});">
+        </div>
+    </section>
+
+    {% endfor %}
+
+    {% for team in site.team offset:1 %}
+
+    <section class="team sm-col sm-col-12 md-col-4 lg-col-4 px2 mb3">
+        <div class="team--image" style="background-image: url({{ team.image }});">
+        </div>
+        <h2>{{team.title}}</h2>
+        <h3>{{team.team-title}}</h3>
+        <p> {{ team.content }}</p>
+        <a href="#">Find out more</a>
+        <div class="team-sm">
+
+        </div>
+    </section>
+
+    {% endfor %}
+
+</div>

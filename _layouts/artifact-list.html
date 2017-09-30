@@ -2,3 +2,6 @@
 layout: default
 ---
 
+{% for artifact in site.artifacts %}
+    <a href="{{artifact.url}}"><h2>{{ artifact.title }}</h2></a>
+{% endfor %}

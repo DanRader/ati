@@ -1,0 +1,75 @@
+.artifact--wrap {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.artifact--image {
+    height: 100vh;
+}
+
+.artifact--nav {
+    height: 0;
+
+    & .nav-wrapper {
+        background-color: inherit;
+    }
+}
+
+.artifact-next-btn {
+    z-index: 999;
+    right: 0;
+    cursor: not-allowed;
+}
+
+.artifact--detail {
+    position: absolute;
+    bottom: 0;
+    right: 5%;
+    width: 17rem;
+    background-color:  rgba(255, 255, 255, 0.96);
+    box-shadow: 7px 8px 64px 0 rgba(0,0,0,0.08);
+    padding: 1rem 1.3rem 1.3rem 1.3rem;
+
+    & h2 {
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 18px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: .5rem;
+    }
+
+    & p {
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: .5rem;
+    }
+
+    & .artifact-number {
+        position: absolute;
+        top: -23px;
+        left: 0;
+        background-color: black;
+        color: white;
+        padding: 1px 9px;
+
+        & p {
+            margin-bottom: 0;
+        }
+    }
+
+    & .artifact--detail__specs {
+
+        & p {
+            margin-bottom: 0;
+        }
+
+        & span {
+            text-transform: uppercase;
+            font-weight: 700;
+            letter-spacing: 2px;
+            font-size: 12px;
+        }
+    }
+}
