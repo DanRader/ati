@@ -1,8 +1,8 @@
 ---
 title: Sacred Stone 02
 images:
-- "/uploads/chakra%20stone%2001.jpg"
-- "/uploads/chakra%20stone%2001%20detail.jpg"
+- "/uploads/chakra%20stone%2001-low%20res.jpg"
+- "/uploads/chakra%20stone%2001%20detail-%20low%20res.jpg"
 Field name: 
 layout: artifact
 ---
