@@ -1,5 +1,5 @@
 ---
-title: Sacred Stone
+title: Sacred Stone 02
 images:
 - "/uploads/chakra%20stone%2001.jpg"
 - "/uploads/chakra%20stone%2001%20detail.jpg"
