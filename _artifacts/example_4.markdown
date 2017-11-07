@@ -1,5 +1,8 @@
 ---
 title: Weapons of War
+images:
+- "/uploads/Weapons%20of%20war-low%20res.jpg"
+- "/uploads/Weapons%20of%20war%2002%20low%20res.jpg"
 layout: artifact
 ---
 
