@@ -6,6 +6,9 @@ position: 4
 price: 666.33
 sku: 5
 weight: 10
+product-images:
+- "/uploads/rach-83.jpg"
+- "/uploads/rach-84.jpg"
 layout: shop-item
 ---
 
