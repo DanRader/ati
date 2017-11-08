@@ -2,7 +2,7 @@
 title: Pink Banded Strattite Earrings
 categories:
 - Ring
-position: 1
+position: 2
 price: 198.23
 sku: 1
 weight: 10
