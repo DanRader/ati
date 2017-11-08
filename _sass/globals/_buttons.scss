@@ -7,6 +7,12 @@
   margin: auto;
   cursor: pointer;
   transition: $transition-1;
+  padding: .8rem 2rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 12px;
+  color: white;
+
   &:before {
     content:"";
     width: 100%;
@@ -24,6 +30,9 @@
   &:hover:before {
     transform: translateX(4px) translateY(-4px) translateZ(-1em);
   }
+  & a:visited {
+      color: white;
+  }
   & p {
     padding: 6px 30px;
     color: white;
@@ -33,7 +42,6 @@
     margin-bottom: 0;
   }
   & input {
-    padding: 13px 20px;
     border: none;
     background-color: inherit;
     color: white;
