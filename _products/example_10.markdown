@@ -1,9 +1,13 @@
 ---
-title: Example 10
+title: Bracelets
+categories:
+- bracelet
 position: 9
 price: 666.33
 sku: 19
 weight: 10
+product-images:
+- "/uploads/rach-86.jpg"
 layout: shop-item
 ---
 
