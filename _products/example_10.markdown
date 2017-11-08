@@ -2,7 +2,7 @@
 title: Bracelets
 categories:
 - bracelet
-position: 9
+position: 11
 price: 666.33
 sku: 19
 weight: 10

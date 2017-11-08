@@ -2,7 +2,7 @@
 title: Earrings3
 categories:
 - Earrings
-position: 7
+position: 9
 price: 666.33
 sku: 8
 weight: 10

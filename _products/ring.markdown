@@ -3,6 +3,7 @@ title: Ring
 date: 2017-11-08 15:18:00 -05:00
 categories:
 - ring
+position: 2
 product-images:
 - "/uploads/rach-88.jpg"
 - http://stories.barkpost.com/wp-content/uploads/2015/01/corgi2.jpg
