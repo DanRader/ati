@@ -1,5 +1,6 @@
 ---
 title: The team investigates the Energy Fields of Norfolk
+date: 2017-05-22 00:19:00 -04:00
 position: 6
 entry-number: 22.6532
 summary: Join the team in Norfolk, VA as they investigate the energies associated
