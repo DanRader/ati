@@ -1,6 +1,6 @@
 ---
 title: Coral Pink Banded Strattite
-date: 2017-11-09 01:17:00 -05:00
+date: 2017-08-17 01:17:00 -04:00
 summary: 'A new specimen has been discovered. '
 image: "/uploads/01-cf1ce5.jpeg"
 ---
