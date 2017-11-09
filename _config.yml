@@ -37,6 +37,7 @@ defaults:
     summary: ''
     image: ''
     featured-video: ''
+    layout: log-book
     author:
       image: "/uploads/RachelRader_avatar.jpg"
       name: Rachel Rader
