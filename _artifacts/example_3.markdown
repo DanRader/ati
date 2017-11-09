@@ -1,11 +1,11 @@
 ---
 title: Sacred Stone 02
+position: 3
 images:
 - "/uploads/chakra%20stone%2001-low%20res.jpg"
 - "/uploads/chakra%20stone%2001%20detail-%20low%20res.jpg"
-Field name:
+Field name: 
 layout: artifact
-position: 3
 ---
 
 Ca. 7,000 BCE.

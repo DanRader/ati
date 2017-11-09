@@ -1,10 +1,10 @@
 ---
 title: Weapons of War
+position: 4
 images:
 - "/uploads/Weapons%20of%20war-low%20res.jpg"
 - "/uploads/Weapons%20of%20war%2002%20low%20res.jpg"
 layout: artifact
-position: 4
 ---
 
 Ca. 7,000 BCE.

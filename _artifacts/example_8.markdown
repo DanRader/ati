@@ -1,11 +1,11 @@
 ---
 title: Initiation Stones
+position: 6
 images:
 - "/uploads/Initiation%20Stones%2001-low%20res.jpg"
 - "/uploads/Initiation%20Stones%2002-low%20res.jpg"
 - "/uploads/Initiation%20Stones%2003-low%20res.jpg"
 layout: artifact
-position: 6
 ---
 
 Ca. 7,000 BCE.

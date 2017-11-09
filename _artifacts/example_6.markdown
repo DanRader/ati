@@ -1,11 +1,11 @@
 ---
 title: Medallion
+position: 5
 images:
 - "/uploads/Medallion-low%20res.jpg"
 - "/uploads/Medallion%2002-low%20res.jpg"
 - "/uploads/Medallion%2003-low%20res.jpg"
 layout: artifact
-position: 5
 ---
 
 Ca. 7,000 BCE.
