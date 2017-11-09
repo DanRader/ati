@@ -1,5 +1,6 @@
 ---
 title: The Chief's Residency at the MAD|Museum of Arts and Design
+date: 2017-01-27 00:42:00 -05:00
 position: 9
 entry-number: Entry 22.6532
 summary: Visit with the Chief.
