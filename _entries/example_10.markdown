@@ -35,6 +35,10 @@ Ráchel Räder, the Chief Investigator, has been developing new designs for the 
 
 ![05.jpeg](/uploads/05.jpeg)
 
+![07.jpeg](/uploads/07.jpeg)
+
+The Chief working in the ATI lab on a prong setting.
+
 Here's a little sneak peak of a few designs which will be released this Fall as a part of the newest collection.
 
 ![06.jpeg](/uploads/06.jpeg)
