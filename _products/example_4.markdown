@@ -2,7 +2,7 @@
 title: Necklace 2
 categories:
 - Necklace
-position: 1
+position: 2
 price: 666.33
 sku: 4
 weight: 10
