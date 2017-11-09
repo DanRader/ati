@@ -6,7 +6,7 @@ author:
   image: "/uploads/02-359a0a.jpeg"
 ---
 
-Don't miss your chance to see*Forget Them*at the [Brooklyn Metal Works Gallery](http://bkmetalworks.com/2016/09/28/forget-them-a-bkmw-juried-exhibition/). The Ancient Truth Investigators have a collection of specimens and implements for divination on display in this special exhibition of talismans, amulets, shrines, and charms that have been created to wear, carry, or look upon.
+Don't miss your chance to see *Forget Them *at the [Brooklyn Metal Works Gallery](http://bkmetalworks.com/2016/09/28/forget-them-a-bkmw-juried-exhibition/). The Ancient Truth Investigators have a collection of specimens and implements for divination on display in this special exhibition of talismans, amulets, shrines, and charms that have been created to wear, carry, or look upon.
 
 ![01-313cd8.jpeg](/uploads/01-313cd8.jpeg)
 
