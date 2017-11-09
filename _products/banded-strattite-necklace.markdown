@@ -16,4 +16,4 @@ product-images:
 - http://buzzsharer.com/wp-content/uploads/2015/11/running-corgi-snow-cute.jpg
 ---
 
-Made from Banded Strattie specimen. Fabricated by the Chief Investigator, Ráchel Räder. 
+Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder. 
