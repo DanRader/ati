@@ -51,7 +51,8 @@ defaults:
     catalogue-number:
     size:
     material:
-    layout: artifact
+    date:
+    layout: artifact    
 - scope:
     path: ''
     type: products
