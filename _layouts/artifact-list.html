@@ -2,6 +2,13 @@
 layout: default
 ---
 
-{% for artifact in site.artifacts %}
-    <a href="{{artifact.url}}"><h2>{{ artifact.title }}</h2></a>
-{% endfor %}
+{% assign artifact-sort = site.artifacts | sort:"position"  %}
+<div class="mx-auto max-width-4 clearfix py3 px2">
+    {% for artifact in artifact-sort %}
+        {% assign first-image = artifact.images | first %}
+        <a class="col col-4 px2 py2" href="{{artifact.url}}">
+            <div class="artifact--list__image" style="background-image: url({{ first-image }});"></div>
+        </a>
+
+    {% endfor %}
+</div>

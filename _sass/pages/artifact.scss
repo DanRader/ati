@@ -73,3 +73,18 @@
         }
     }
 }
+
+
+// list page
+
+.artifact--list__image {
+    background-position: center;
+    background-size: cover;
+    min-height: 38rem;
+    transition: .4s ease-out;
+    box-shadow: none;
+
+    &:hover {
+        box-shadow: 10px 12px 43px -12px rgba(0, 0, 0, 0.29);
+    }
+}
