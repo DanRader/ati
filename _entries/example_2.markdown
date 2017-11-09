@@ -1,7 +1,7 @@
 ---
 title: Clue
 date: 2017-09-01 23:24:00 -04:00
-position: 5
+position: 4
 entry-number: 22.6532
 summary: 'The Chief Investigator is a part of a group exhibition opening at the UrbanGlass
   Gallery. '

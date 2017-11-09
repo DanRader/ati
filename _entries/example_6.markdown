@@ -1,6 +1,6 @@
 ---
 title: Example 6 Lorem ipsum dolor sit amet
-position: 2
+position: 1
 layout: log-book
 entry-number: '22.6532'
 summary: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
