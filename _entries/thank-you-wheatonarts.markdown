@@ -1,6 +1,7 @@
 ---
 title: Thank you WheatonArts
 date: 2016-09-24 01:02:00 -04:00
+position: 11
 image: "/uploads/01-bed6a6.jpeg"
 featured-video: |-
   <iframe src="https://player.vimeo.com/video/183764320" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
