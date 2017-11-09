@@ -2,7 +2,7 @@
 title: Knecklace
 categories:
 - Ring
-position: 1
+position: 3
 price: 666.33
 sku: 2
 weight: 10

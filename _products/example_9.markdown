@@ -1,6 +1,6 @@
 ---
 title: Earrings4
-position: 8
+position: 10
 price: 666.33
 sku: 9
 weight: 10
