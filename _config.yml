@@ -48,6 +48,11 @@ defaults:
     images:
     - ''
     - ''
+    catalogue-number: 
+    size: 
+    material: 
+    creation-date: 
+    layout: artifact
 - scope:
     path: ''
     type: products
