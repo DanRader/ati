@@ -3,7 +3,7 @@ title: Energy Displacements of the Elements
 date: 2017-02-24 00:35:00 -05:00
 position: 8
 entry-number: 22.6532
-summary: The team investigates the displacement of matter surrounding the Elements
+summary: The team investigates the displacement of matter surrounding the Elements.
 image: "/uploads/01-6fedcd.jpeg"
 featured-video: |-
   <iframe src="https://player.vimeo.com/video/205645094" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
