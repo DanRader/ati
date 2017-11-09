@@ -1,7 +1,7 @@
 ---
 title: The Bellybutton of the World
 date: 2017-08-03 23:42:00 -04:00
-position: 5
+position: 4
 entry-number: 22.6532
 summary: 'The team investigates Machu Picchu. '
 image: "/uploads/05-01fc72.jpeg"
