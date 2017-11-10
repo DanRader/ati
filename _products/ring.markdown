@@ -8,7 +8,7 @@ price: 155
 sku: 'BS-N-XL-pink '
 weight: 1
 width: 3/8"
-height: '3.25" l '
+height: '3.25" '
 materials: 'Fused and coldworked glass on a goldfilled chain. '
 product-images:
 - "/uploads/BS-N-XL-a.jpg"
