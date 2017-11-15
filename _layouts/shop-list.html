@@ -5,12 +5,20 @@ layout: default
 <div class="mx-auto max-width-4">
     <div class="clearfix">
       <div class="col col-3 border-right">
+          {% capture prod_categories %}
+              {% for product in site.products %}
+                    {% for category in product.categories %}
+                        {{ category }}
+                    {% endfor %}
+              {% endfor %}
+          {% endcapture %}
+          {% assign downcase_cat = prod_categories | downcase %}
+          {% assign uniq_cat = downcase_cat | split: " " | uniq %}
         <ul>
-              <li><a href="#">Rings</a></li>
-              <li><a href="#">Earings</a></li>
-              <li><a href="#">Necklaces</a></li>
-              <li><a href="#">Prints</a></li>
-              <li><a href="#">Wearables</a></li>
+            {% for cat in uniq_cat  %}
+                <button type="button" data-filter=".{{ cat }}">{{ cat }}</button>
+            {% endfor %}
+            <button type="button" data-filter="all">All</button>
         </ul>
       <!-- accordian 1 -->
         <div>
@@ -39,27 +47,38 @@ layout: default
       </div>
     <div class="col col-9">
       <ul>
-        {% assign product-sort = site.products | sort:"position"  %}
-        {% for product in product-sort %}
-            <div class="product--list col sm-col-6 lg-col-4 px1 pb3">
-              <a href="{{ product.url }}">
-                {% assign first-image = product.product-images | first %}
-                <div class="product--list__image" style="background-image: url({{ first-image }});"></div>
-                <p>{{ product.title }}</p>
-                </a>
 
-              <button class="snipcart-add-item"
-                data-item-name="{{ product.title }}"
-                data-item-id="{{ product.sku }}"
-                data-item-image="{{ product.image }}"
-                data-item-url="{{ site.url }}{{product.url }}"
-                data-item-price="{{ product.price }}">
-                Buy it for {{ product.price }} $
-              </button>
-            </div>
-        {% endfor %}
+<div class="container">
+    {% assign product-sort = site.products | sort:"position"  %}
+    {% for product in product-sort %}
+        <div class="product--list col sm-col-6 lg-col-4 px1 pb3 mix {{ product.categories | downcase | remove: '[' | remove: ']' | remove: '"' | remove: ',' }}">
+          <a href="{{ product.url }}">
+            {% assign first-image = product.product-images | first %}
+            <div class="product--list__image" style="background-image: url({{ first-image }});"></div>
+            <p>{{ product.title }}</p>
+            </a>
+
+          <button class="snipcart-add-item"
+            data-item-name="{{ product.title }}"
+            data-item-id="{{ product.sku }}"
+            data-item-image="{{ product.image }}"
+            data-item-url="{{ site.url }}{{product.url }}"
+            data-item-price="{{ product.price }}">
+            Buy it for {{ product.price }} $
+          </button>
+        </div>
+    {% endfor %}
+</div>
+
       </ul>
     </div>
   </div>
 
 </div>
+
+<script src="/js/mixitup.min.js"></script>
+
+<script>
+    var containerEl = document.querySelector('.container');
+    var mixer = mixitup(containerEl);
+</script>
