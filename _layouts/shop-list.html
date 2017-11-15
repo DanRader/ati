@@ -20,31 +20,37 @@ layout: default
             {% endfor %}
             <button type="button" data-filter="all">All</button>
         </ul>
-      <!-- accordian 1 -->
+      <!-- Elements -->
         <div>
       		<input id="ac-1" name="accordion-1" type="checkbox" />
       		<label for="ac-1">Elements</label>
       		<article class="ac-small">
             <ul>
-                  <li><a href="#">Spotted Quartz</a></li>
-                  <li><a href="#">Banded Strattites</a></li>
-                  <li><a href="#">Petrified Spongy Coral</a></li>
+                {% assign element_sort = site.elements | sort:"position" %}
+                {% for element in element_sort %}
+                    <button type="button" data-filter=".{{ element.title }}">{{ element.title }}</button>
+                {% endfor %}
             </ul>
       		</article>
       	</div>
-      <!-- accordian 2 -->
-        <div>
-          <input id="ac-2" name="accordion-1" type="checkbox" />
-          <label for="ac-2">Collections</label>
+          <!-- Colors -->
+      <div>
+          <input id="ac-1" name="accordion-1" type="checkbox" />
+          <label for="ac-1">Colors</label>
           <article class="ac-small">
-            <ul>
-                  <li><a href="#">Full Chakra</a></li>
-                  <li><a href="#">Spring Sale</a></li>
-                  <li><a href="#">Fall Collection</a></li>
-            </ul>
+          <ul>
+              {% assign color_sort = site.product-colors %}
+              {% for color in color_sort  %}
+                  <button type="button" data-filter=".{{ color.title }}" class="color-filter" style="background-color: {{ color.color }};">{{ color.title }}</button>
+              {% endfor %}
+          </ul>
           </article>
-        </div>
       </div>
+
+  </div>
+
+
+
     <div class="col col-9">
       <ul>
 
