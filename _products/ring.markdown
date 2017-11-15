@@ -16,6 +16,8 @@ product-images:
 - "/uploads/BS-N-XL-d.jpg"
 - "/uploads/BS-N-XL-e.jpg"
 - "/uploads/BS-N-XL-c.jpg"
+elements: Banded Strattite
+product-colors: Pink
 ---
 
 Chain is 18" in length. 
