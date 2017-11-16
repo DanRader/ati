@@ -1,4 +1,5 @@
 ---
-title: Example 1
+title: Spotted Quartz
+position: 2
 ---
 

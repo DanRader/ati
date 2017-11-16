@@ -1,4 +1,5 @@
 ---
-title: Example 1
+title: Banded Strattite
+position: 0
 ---
 

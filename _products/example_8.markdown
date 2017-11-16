@@ -3,6 +3,8 @@ title: Earrings3
 categories:
 - Earrings
 position: 9
+elements: Petrified Spongy Coral
+product-colors: Green
 price: 666.33
 sku: 8
 weight: 10

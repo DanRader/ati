@@ -14,6 +14,9 @@ collections:
   posts:
     title: Posts
     output: true
+  product-colors:
+    title: Product-Colors
+    output: true
   products:
     title: Products
     output: true
@@ -59,6 +62,8 @@ defaults:
     type: products
   values:
     layout: shop-item
+    elements: 
+    product-colors: 
     permalink: "/shop/:title/"
     price: 666.66
     sku: ati
