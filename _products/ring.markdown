@@ -20,8 +20,8 @@ elements: Banded Strattite
 product-colors: Pink
 ---
 
-Chain is 18" in length. 
+Chain is 18" in length.
 
-Doubles as a pendulum. 
+Doubles as a pendulum.
 
 Each piece might vary slightly in shape and order of color bands. Contact the Chief regarding selection: ibelieve@ancienttruthinvestigators.com
