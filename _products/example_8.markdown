@@ -1,8 +1,9 @@
 ---
-title: Earrings3
+title: '98238923'
 categories:
 - Earrings
 position: 9
+visible-title: Earrings3
 elements: Petrified Spongy Coral
 product-colors: Green
 price: 666.33
