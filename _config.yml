@@ -62,6 +62,7 @@ defaults:
     type: products
   values:
     layout: shop-item
+    visible-title: ""
     elements:
     product-colors:
     permalink: "/shop/:title/"
