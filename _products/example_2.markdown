@@ -1,8 +1,9 @@
 ---
-title: Knecklace
+title: '89238923'
 categories:
 - Ring
 position: 1
+visible-title: Knecklace
 elements: Petrified Spongy Coral
 product-colors: Blue
 price: 666.33
