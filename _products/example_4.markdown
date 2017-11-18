@@ -1,8 +1,9 @@
 ---
-title: Necklace 2
+title: '89237823'
 categories:
 - Necklace
 position: 2
+visible-title: Necklace 2
 elements: Spotted Quartz
 product-colors: Green
 price: 666.33
