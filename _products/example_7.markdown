@@ -1,8 +1,9 @@
 ---
-title: Necklace 3
+title: '897328923'
 categories:
 - Necklace
 position: 8
+visible-title: Necklace 3
 elements: Petrified Spongy Coral
 product-colors: Green
 price: 666.33
