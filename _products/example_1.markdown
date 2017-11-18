@@ -1,10 +1,11 @@
 ---
-title: Pink Banded Strattite Earrings
+title: '98238923'
 categories:
 - Earrings
 - Bracelet
 - Ring
 position: 4
+visible-title: Pink Banded Strattite Earrings
 elements: Petrified Spongy Coral
 product-colors: Pink
 price: 198.23
