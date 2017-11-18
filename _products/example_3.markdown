@@ -1,8 +1,9 @@
 ---
-title: Necklace 1
+title: '90238932'
 categories:
 - Necklace
 position: 5
+visible-title: Necklace 1
 elements: Banded Strattite
 product-colors: Green
 price: 666.33
