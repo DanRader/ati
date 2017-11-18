@@ -1,6 +1,7 @@
 ---
-title: Earrings4
+title: '8932893290'
 position: 10
+visible-title: Earrings4
 elements: Petrified Spongy Coral
 product-colors: Silver
 price: 666.33
