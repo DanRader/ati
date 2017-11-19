@@ -7,7 +7,8 @@ images:
 - "/uploads/Crown03_low%20res.jpg"
 catalogue-number: 204.23455
 size: 8" x 9" x 3.5"
-material: Fused glass, 2015
+material: Fused glass
+creation-date: 2015-01-01 00:00:00 -05:00
 layout: artifact
 ---
 
