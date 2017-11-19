@@ -1,4 +1,4 @@
-    <div class="col col-3 pr2">
+    <div class="col col-2 pr2">
         <div class="product-slider_nav">
             {% for image in page.product-images %}
                 <div class="flex-1 relative">
@@ -8,7 +8,7 @@
               {% endfor %}
         </div>
     </div>
-    <div class="col col-9 flex flex-column">
+    <div class="col col-10 flex flex-column">
         <div class="product-slider">
             {% for image in page.product-images %}
               <div class="product-slider_image cover" style="background-image: url('{{ image }}');">
@@ -17,24 +17,6 @@
         </div>
     </div>
 
-
-
-    <!-- <div class="col col-3 pr2 flex flex-column">
-        {% for image in page.product-images %}
-            <div class="flex-1 relative">
-              <div class="pb2">
-                <div class="cover absolute mb2" style="background-image: url({{ image }});"></div>
-              </div>
-            </div>
-        {% endfor %}
-    </div>
-      <div class="col col-9 flex flex-column">
-        <div class="relative flex-1">
-        {% assign first-image = page.product-images | first %}
-          <div class="cover absolute mb2" style="background-image: url({{ first-image }});"></div>
-        </div>
-      </div>
-  </div> -->
 
 <script type="text/javascript">
           $(document).ready(function(){
