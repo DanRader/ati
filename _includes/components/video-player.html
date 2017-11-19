@@ -1,0 +1,57 @@
+    <div class="video-wrap">
+        <button class="action action--close">
+            <i class="fa fa-close"></i>
+            <span class="action__label action__label--hidden">Close preview</span>
+        </button>
+    	<div class="video-inner">
+            <video class="video-player" src="https://player.vimeo.com/external/227759970.hd.mp4?s=8ee2cf1c140b3d0399c0a58f2770c59b59ce9d64&profile_id=174" poster="" autoplay="" loop="">
+            <p>Sorry, but your browser does not support this video format.</p>
+    	</div><!-- /video-inner-->
+    </div><!-- /video-wrap-->
+
+<script src="/js/classie.js"></script>
+
+<script type="text/javascript">
+
+;( function() {
+
+    'use strict';
+
+    var bodyEl = document.body,
+        videoWrap = document.querySelector('.video-wrap'),
+        videoEl = videoWrap.querySelector('video'),
+        playCtrl = document.querySelector('.action--play'),
+        closeCtrl = document.querySelector('.action--close');
+
+    function init() {
+        initEvents();
+    }
+
+    function initEvents() {
+        playCtrl.addEventListener('click', play);
+        closeCtrl.addEventListener('click', hide);
+        videoEl.addEventListener('canplaythrough', allowPlay);
+        videoEl.addEventListener('ended', hide);
+    }
+
+    function allowPlay() {
+        classie.add(bodyEl, 'video-loaded');
+    }
+
+    function play() {
+        videoEl.currentTime = 0;
+        classie.remove(videoWrap, 'video-wrap--hide');
+        classie.add(videoWrap, 'video-wrap--show');
+        setTimeout(function() {videoEl.play();}, 600);
+    }
+
+    function hide() {
+        classie.remove(videoWrap, 'video-wrap--show');
+        classie.add(videoWrap, 'video-wrap--hide');
+        videoEl.pause();
+    }
+
+    init();
+
+})();
+</script>
