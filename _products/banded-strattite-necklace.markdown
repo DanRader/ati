@@ -1,8 +1,11 @@
 ---
-title: Banded Strattite Necklace
+title: '0082382'
 date: 2017-11-08 22:25:00 -05:00
 categories:
-- necklace
+- necklaces
+visible-title: Banded Strattite Necklace
+elements: Banded Strattite
+product-colors: Pink
 price: 2600
 sku: BS-N-L
 weight: 1
@@ -14,8 +17,6 @@ product-images:
 - https://i.ytimg.com/vi/Tdxqr20jS68/maxresdefault.jpg
 - http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Cardigan-Welsh-Corgi-3.jpg
 - http://buzzsharer.com/wp-content/uploads/2015/11/running-corgi-snow-cute.jpg
-elements: Banded Strattite
-product-colors: Pink
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.

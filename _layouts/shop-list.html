@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="mx-auto max-width-4">
+<div class="mx-auto max-width-4 py3">
     <div class="clearfix">
 
         <div class="col col-3 border-right product-filter">
@@ -18,7 +18,7 @@ layout: default
                       <a href="{{ product.url }}">
                         {% assign first-image = product.product-images | first %}
                         <div class="product--list__image" style="background-image: url({{ first-image }});"></div>
-                        <p>{{ product.title }}</p>
+                        <p>{{ product.visible-title }}</p>
                         </a>
 
                       <button class="snipcart-add-item"

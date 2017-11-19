@@ -1,8 +1,9 @@
 ---
-title: Knecklace
+title: '89238923'
 categories:
-- Ring
+- Rings
 position: 1
+visible-title: Knecklace
 elements: Petrified Spongy Coral
 product-colors: Blue
 price: 666.33
@@ -12,8 +13,6 @@ product-images:
 - "/uploads/rach-90.jpg"
 - "/uploads/rach-89.jpg"
 - "/uploads/rach-91.jpg"
-- http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Cardigan-Welsh-Corgi-3.jpg
-- http://buzzsharer.com/wp-content/uploads/2015/11/running-corgi-snow-cute.jpg
 layout: shop-item
 ---
 

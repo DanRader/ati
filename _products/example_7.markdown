@@ -1,8 +1,9 @@
 ---
-title: Necklace 3
+title: '897328923'
 categories:
-- Necklace
+- necklaces
 position: 8
+visible-title: Necklace 3
 elements: Petrified Spongy Coral
 product-colors: Green
 price: 666.33
@@ -11,9 +12,6 @@ weight: 10
 product-images:
 - "/uploads/Jen-70.jpg"
 - "/uploads/Jen-71.jpg"
-- https://i.ytimg.com/vi/Tdxqr20jS68/maxresdefault.jpg
-- http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Cardigan-Welsh-Corgi-3.jpg
-- http://buzzsharer.com/wp-content/uploads/2015/11/running-corgi-snow-cute.jpg
 layout: shop-item
 ---
 

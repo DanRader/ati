@@ -9,13 +9,41 @@
 .product--list {
     display: inline-block;
     vertical-align: top;
+
+    & p {
+        font-size: 16px;
+        line-height: 17px;
+        margin: 1rem 1rem 1rem 1rem;
+        text-align: center;
+        transform: none;
+        transition: $transition-2;
+    }
+
+    & button {
+        visibility: hidden;
+        position: absolute;
+    }
+
+    &:hover {
+        & .product--list__image {
+            box-shadow: 10px 12px 43px -12px rgba(0, 0, 0, 0.2);
+            transform: scale(1.02);
+        }
+        & p {
+            color: $darkest-grey;
+            transform: translateY(2px);
+        }
+    }
 }
 
 .product--list__image {
-    background-color: #f2f2f2;
+    background-color: #fff;
     background-position: center;
     background-size: cover;
-    min-height: 18rem;
+    min-height: 20rem;
+    transition: $transition-2;
+    transform: none;
+    transform-origin: bottom;
   }
 
   .product-image {

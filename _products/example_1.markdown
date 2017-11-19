@@ -1,10 +1,11 @@
 ---
-title: Pink Banded Strattite Earrings
+title: '98238923'
 categories:
 - Earrings
-- Bracelet
-- Ring
+- Bracelets
+- Rings
 position: 4
+visible-title: Pink Banded Strattite Earrings
 elements: Petrified Spongy Coral
 product-colors: Pink
 price: 198.23
@@ -16,9 +17,6 @@ materials: Bronze, Glass, Cubic Zirconia
 product-images:
 - "/uploads/Jen-58.jpg"
 - "/uploads/Jen-57.jpg"
-- https://i.ytimg.com/vi/Tdxqr20jS68/maxresdefault.jpg http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Cardigan-Welsh-Corgi-3.jpg
-- http://buzzsharer.com/wp-content/uploads/2015/11/running-corgi-snow-cute.jpg
-- http://buzzsharer.com/wp-content/uploads/2015/11/running-corgi-snow-cute.jpg
 feature-image: http://www.rd.com/wp-content/uploads/sites/2/2016/02/06-train-cat-shake-hands.jpg
 layout: shop-item
 ---

@@ -11,7 +11,7 @@ layout: default
   </div>
 
     <div class="product__desc col col-5 px2">
-      <h1>{{ page.title }}</h1>
+      <h1>{{ page.visible-title }}</h1>
       <section class="pricing my2">
           <p class="product__price">${{ page.price }}</p>
           <p class="product__sub-text">Plus Shipping</p>
@@ -44,7 +44,7 @@ layout: default
                 <a href="{{ product.url }}">
                   {% assign first-image = product.product-images | first %}
                   <div class="product--list__image" style="background-image: url({{ first-image }});"></div>
-                  <p>{{ product.title }}</p>
+                  <p>{{ product.visible-title }}</p>
                   </a>
               </div>
           {% endfor %}

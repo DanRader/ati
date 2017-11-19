@@ -1,9 +1,12 @@
 ---
-title: Pink Banded Strattite Necklace
+title: '89238923'
 date: 2017-11-08 15:18:00 -05:00
 categories:
-- necklace
+- necklaces
 position: 0
+visible-title: Pink Banded Strattite Necklace
+elements: Banded Strattite
+product-colors: Pink
 price: 155
 sku: 'BS-N-XL-pink '
 weight: 1
@@ -16,8 +19,6 @@ product-images:
 - "/uploads/BS-N-XL-d.jpg"
 - "/uploads/BS-N-XL-e.jpg"
 - "/uploads/BS-N-XL-c.jpg"
-elements: Banded Strattite
-product-colors: Pink
 ---
 
 Chain is 18" in length.

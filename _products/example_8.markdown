@@ -1,8 +1,9 @@
 ---
-title: Earrings3
+title: '98238923'
 categories:
 - Earrings
 position: 9
+visible-title: Earrings3
 elements: Petrified Spongy Coral
 product-colors: Green
 price: 666.33
@@ -11,9 +12,6 @@ weight: 10
 product-images:
 - "/uploads/Jen-65.jpg"
 - "/uploads/Jen-55.jpg"
-- https://i.ytimg.com/vi/Tdxqr20jS68/maxresdefault.jpg
-- http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Cardigan-Welsh-Corgi-3.jpg
-- http://buzzsharer.com/wp-content/uploads/2015/11/running-corgi-snow-cute.jpg
 layout: shop-item
 ---
 

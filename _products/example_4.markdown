@@ -1,8 +1,9 @@
 ---
-title: Necklace 2
+title: '89237823'
 categories:
-- Necklace
+- necklaces
 position: 2
+visible-title: Necklace 2
 elements: Spotted Quartz
 product-colors: Green
 price: 666.33
@@ -12,8 +13,6 @@ product-images:
 - "/uploads/rach-95.jpg"
 - "/uploads/rach-96.jpg"
 - "/uploads/rach-94-508f5b.jpg"
-- http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Cardigan-Welsh-Corgi-3.jpg
-- http://buzzsharer.com/wp-content/uploads/2015/11/running-corgi-snow-cute.jpg
 layout: shop-item
 ---
 
