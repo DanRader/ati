@@ -14,3 +14,4 @@ product-images:
 - "/uploads/rach-84.jpg"
 layout: shop-item
 ---
+
