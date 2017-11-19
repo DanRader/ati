@@ -1,3 +1,5 @@
+<!-- Categories -->
+
     {% capture prod_categories %}
         {% for product in site.products %}
               {% for category in product.categories %}
@@ -8,19 +10,25 @@
     {% assign downcase_cat = prod_categories | downcase %}
     {% assign uniq_cat = downcase_cat | split: " " | uniq %}
 
-      <ul class="filter_list">
-          {% for cat in uniq_cat  %}
-          <button type="button" data-filter=".{{ cat }}">{{ cat }}</button>
-          {% endfor %}
-          <button type="button" data-filter="all">All</button>
-      </ul>
+    <div id="accordion-group">
+          <input id="ac-3" name="accordion-1" type="checkbox" checked/>
+          <label class="first-label" for="ac-3">Filters {% include /svg/accord_arrow.svg %}</label>
+          <article class="ac-small">
+              <ul class="filter_list">
+                  {% for cat in uniq_cat  %}
+                  <button type="button" data-filter=".{{ cat }}">{{ cat }}</button>
+                  {% endfor %}
+                  <button type="button" data-filter="all">All</button>
+              </ul>
+          </article>
+    </div>
 
 <!-- Elements -->
     <div id="accordion-group">
-          <input id="ac-1" name="accordion-1" type="checkbox" />
-          <label for="ac-1">Elements</label>
+          <input id="ac-1" name="accordion-1" type="checkbox" checked/>
+          <label for="ac-1">Elements {% include /svg/accord_arrow.svg %}</label>
           <article class="ac-small">
-              <ul>
+              <ul class="filter_list">
                   {% assign element_sort = site.elements | sort:"position" %}
                   {% for element in element_sort %}
                       <button type="button" data-filter=".{{ element.title | downcase | remove: " " }}">{{ element.title }}</button>
@@ -31,8 +39,8 @@
 
     <!-- Colors -->
     <div id="accordion-group">
-        <input id="ac-2" name="accordion-2" type="checkbox" />
-        <label for="ac-2">Colors</label>
+        <input id="ac-2" name="accordion-2" type="checkbox" checked/>
+        <label for="ac-2">Colors {% include /svg/accord_arrow.svg %}</label>
         <article class="ac-small2">
             <ul class="color-filter_list">
                 {% assign color_sort = site.product-colors %}

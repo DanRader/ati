@@ -2,7 +2,7 @@
 title: '89238923'
 date: 2017-11-08 15:18:00 -05:00
 categories:
-- necklace
+- necklaces
 position: 0
 visible-title: Pink Banded Strattite Necklace
 elements: Banded Strattite

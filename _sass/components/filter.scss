@@ -22,11 +22,9 @@
     }
 }
 
-.mixitup-control-active {
-    background-color: red;
-}
-
 .filter_list {
+    margin: 1rem 2rem 0 0;
+
     & button {
         background-color: inherit;
         box-sizing: inherit;
@@ -37,9 +35,10 @@
         font-family: inherit;
         text-transform: uppercase;
         letter-spacing: 3px;
-        margin-bottom: .2rem;
+        margin-bottom: .5rem;
         position: relative;
         z-index: 1;
+        text-align: left;
 
         &:hover {
             &:before {
@@ -53,7 +52,7 @@
             height: 4px;
             background-color: #BCD422;
             position: absolute;
-            bottom: 9px;
+            bottom: 8px;
             left: 4px;
             margin: auto;
             transform: scaleX(0);
@@ -74,7 +73,7 @@
                 height: 4px;
                 background-color: #BCD422;
                 position: absolute;
-                bottom: 9px;
+                bottom: 8px;
                 left: 4px;
                 margin: auto;
                 transform-origin: left;
@@ -86,6 +85,9 @@
 }
 
 .color-filter_list {
+    margin-left: 0;
+    margin-right: 2rem;
+
     > .mixitup-control-active {
         transform: scale(1.1);
         border: 2px solid rgba(255, 255, 255, 0.7);
