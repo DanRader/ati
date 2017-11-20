@@ -20,9 +20,6 @@ collections:
   products:
     title: Products
     output: true
-  sighting-type:
-    title: Sighting-Type
-    output: true
   sightings:
     title: Sightings
     output: true
