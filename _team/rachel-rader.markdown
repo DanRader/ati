@@ -1,6 +1,7 @@
 ---
 title: Rachel Rader
 date: 2017-09-18 19:45:00 -04:00
+position: 0
 quote: This is a super inspirational quote. Seriously.
 image: "/uploads/Profile%20pic_Rader_medres.jpg"
 team-title: Chief Investigator
