@@ -2,34 +2,35 @@
 layout: default
 ---
 
-<div class="clearfix max-width-4 mx-auto">
+<div class="clearfix max-width-4 mx-auto mt2 team__wrap">
 
-    {% for team in site.team limit:1 %}
-
-    <section class="rachel">
-        <p>{{team.team-title}}</p>
-        <h1>{{team.title}}</h1>
-        <p> {{content}}</p>
-        <div class="rachel--image" style="background-image: url({{ team.image }});">
-        </div>
-    </section>
-
+    {% assign team_sort = site.team | sort:"position" %}
+    {% for team in team_sort limit:1 %}
+    <div class="col col-7 px2 mb4">
+        <div class="rachel--image cover" style="background-image: url({{ team.image }});"></div>
+    </div>
+    <div class="col col-5 px2 mt3">
+        <section class="rachel">
+            <p class="team-title">{{ team.team-title }}</p>
+            <h1>{{ team.title }}</h1>
+            <p> {{ team.content }}</p>
+        </section>
+    </div>
     {% endfor %}
 
-    {% for team in site.team offset:1 %}
-
-    <section class="team sm-col sm-col-12 md-col-4 lg-col-4 px2 mb3">
-        <div class="team--image" style="background-image: url({{ team.image }});">
-        </div>
-        <h2>{{team.title}}</h2>
-        <h3>{{team.team-title}}</h3>
-        <p> {{ team.content }}</p>
-        <a href="#">Find out more</a>
-        <div class="team-sm">
-
-        </div>
-    </section>
-
-    {% endfor %}
-
+        {% for team in team_sort offset:1 %}
+        <section class="team sm-col sm-col-12 md-col-4 lg-col-4 px2 mb4">
+            <div class="team--image" style="background-image: url({{ team.image }});">
+            </div>
+            <div class="team-details px2">
+                <h2>{{team.title}}</h2>
+                <strong>{{team.team-title}}</strong>
+                <p> {{ team.content }}</p>
+                <button type="button" name="button"href="{{ team.website }}" class="btn-prime">More Info</button>
+                <!-- <div class="team-sm">
+                    <i class="fa fa-facebook"></i>
+                </div> -->
+            </div>
+        </section>
+        {% endfor %}
 </div>

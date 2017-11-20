@@ -47,6 +47,13 @@ defaults:
       title: 'Chief Investigator,         Ancient Truth Investigators'
 - scope:
     path: ''
+    type: team
+  values:
+    team-title: ''
+    website: ''
+    image: ''
+- scope:
+    path: ''
     type: artifacts
   values:
     images:

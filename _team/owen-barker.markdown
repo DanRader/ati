@@ -1,8 +1,9 @@
 ---
-title: Owen Barker
+title: Jáson Bland-Förd
 date: 2017-09-18 20:12:00 -04:00
+position: 3
 image: "/uploads/Profile%20pic_Blandford_medres.jpg"
-team-title: Title Title
+team-title: Linguistics Specialist
 external-link: "#"
 instagram: "#"
 twitter: "#"
