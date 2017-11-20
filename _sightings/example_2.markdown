@@ -3,7 +3,6 @@ title: Cooper Hewitt
 categories:
 - residency
 start-date: 2017-02-01 01:00:00 -05:00
-categories-image: "/uploads/svg/diamond.svg"
 end-date: 2018-03-15 00:00:00 -04:00
 time: 7am - 9pm
 location:

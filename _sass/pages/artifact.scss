@@ -77,6 +77,50 @@
 
 // list page
 
+.artifact--list__wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-between;
+}
+
+.artifact--list {
+    display: inline-block;
+    vertical-align: top;
+
+    & p {
+        font-size: 16px;
+        line-height: 17px;
+        margin: 1rem 1rem 1rem 1rem;
+        text-align: center;
+        color: black;
+        transform: none;
+        transition: $transition-2;
+    }
+
+    & .artifact--list__image {
+        background-color: #fff;
+        background-position: center;
+        background-size: cover;
+        min-height: 28rem;
+        transition: $transition-2;
+        transform: none;
+        transform-origin: bottom;
+      }
+
+    &:hover {
+        & .artifact--list__image {
+            box-shadow: 10px 12px 43px -12px rgba(0, 0, 0, 0.2);
+            transform: scale(1.02);
+        }
+        & p {
+            color: $darkest-grey;
+            transform: translateY(2px);
+        }
+    }
+}
+
 .artifact--list__image {
     background-position: center;
     background-size: cover;

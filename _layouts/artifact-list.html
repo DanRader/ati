@@ -2,12 +2,20 @@
 layout: default
 ---
 
-{% assign artifact-sort = site.artifacts | sort:"position"  %}
 <div class="mx-auto max-width-4 clearfix py3 px2">
-    {% for artifact in artifact-sort %}
-        {% assign first-image = artifact.images | first %}
-        <a class="col col-4 px2 py2" href="{{artifact.url}}">
-            <div class="artifact--list__image" style="background-image: url({{ first-image }});"></div>
-        </a>
-    {% endfor %}
+    <div class="artifact--list__wrap">
+        {% assign artifact-sort = site.artifacts | sort:"position"  %}
+        {% for artifact in artifact-sort %}
+        <div class="artifact--list px1 pb2 col sm-col-6 lg-col-4">
+            <a href="{{ artifact.url }}">
+                {% assign first-image = artifact.images | first %}
+                <div class="artifact--list__image " style="background-image: url({{ first-image }});"></div>
+                <p>{{ artifact.title }}</p>
+            </a>
+        </div>
+        {% endfor %}
+        <div class="gap artifact--list col sm-col-6 lg-col-4 "></div>
+        <div class="gap artifact--list col sm-col-6 lg-col-4 "></div>
+        <div class="gap artifact--list col sm-col-6 lg-col-4 "></div>
+    </div>
 </div>

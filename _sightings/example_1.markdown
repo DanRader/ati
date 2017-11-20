@@ -2,7 +2,6 @@
 title: Museum of Arts and Design
 categories:
 - residency
-categories-image: "/uploads/svg/diamond.svg"
 start-date: 2017-10-29 01:00:00 -04:00
 end-date: 2017-11-29 00:00:00 -05:00
 time: 7am - 9pm
