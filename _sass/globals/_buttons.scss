@@ -13,6 +13,11 @@
   font-size: 12px;
   color: white;
   border-radius: 0;
+  font-family: inherit;
+
+  &:focus {
+      outline: none;
+  }
 
   &:before {
     content:"";
@@ -52,9 +57,10 @@
     font-family: 'Cutive Mono', "Courier New", Courier, monospace;
     cursor: pointer;
   }
+  &:visited {
+      color: white;
+  }
 }
-
-
 
 .btn-nav {
   margin-top: -7px;

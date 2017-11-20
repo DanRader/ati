@@ -4,47 +4,64 @@ layout: default
 
 <!-- blog feature header -->
 {% for post in site.entries limit: 1 %}
-<div class="blog-highlight-image" style="background-image: url('{{ post.image }}');">
-    <div class="blog-title">
-      <h1 class="">{{ page.title }}</h1>
-    </div>
-</div>
-<div class="blog-hero mx-auto max-width-4 clearfix my4 relative">
-        <div class="blog-highlight col-5">
-          <div class="blog-highlight-cover-image" style="background-image: url('{{ post.image }}');"></div>
-          <div class="blog-highlight-date">
-            <p>Entry No. {{ post.entry-number }} // {{ post.date | date: "%m.%d.%y" }}</p>
-          </div>
-          <div class="blog-highlight-content">
-            <h2> {{ post.title }}</h2>
-            <p> {{ post.summary }}</p>
-            <a class="btn-prime" href="#">Read On</a>
-          </div>
+
+    <div class="blog-highlight-image" style="background-image: url('{{ post.image }}');">
+        <div class="blog-title">
+          <h1 class="">{{ page.title }}</h1>
         </div>
-      {% endfor %}
-</div>
+    </div>
+
+        <div class="blog-hero mx-auto max-width-4 clearfix my4 relative">
+
+            <a href="{{ post.url }}">
+                <div class="blog-highlight col-5">
+                      <div class="blog-highlight-cover-image" style="background-image: url('{{ post.image }}');"></div>
+                      <div class="blog-highlight-date">
+                          <p>Entry No. {{ post.entry-number }} // {{ post.date | date: "%m.%d.%y" }}</p>
+                      </div>
+                      <div class="blog-highlight-content">
+                            <h2> {{ post.title }}</h2>
+                            <p> {{ post.content | strip_html | truncatewords: 20 }}</p>
+                            <button type="button" name="button" class="btn-prime"  href="{{ post.url }}">Read On</button>
+                      </div>
+                </div>
+            </a>
+
+        </div>
+
+
+
+{% endfor %}
+
+
 <!-- blog list  -->
 
   <div class="clearfix max-width-4 mx-auto">
+      <div class="post-container">
 
-    {% for post in site.entries offset: 1 %}
-      <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb3 list-item ">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-         <section class="blog-list-item">
-           <div class="blog-list-image cover relative" style="background-image: url('{{ post.image }}');">
-             <div class="blog-list-date absolute">
-               {{ post.date | date: "%m.%d.%y" }}
-             </div>
-           </div>
-           <div class="blog-list-content">
-             <p>Entry No. {{ post.entry-number }} </p>
-             <h3>{{ post.title }}</h3>
-           </div>
-         </section>
-        </a>
+            {% for post in site.entries offset: 1 %}
+              <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb4 post--list ">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                 <section class="blog-list-item">
+                   <div class="blog-list-image cover relative" style="background-image: url('{{ post.image }}');">
+                     <div class="blog-list-date absolute">
+                       {{ post.date | date: "%m.%d.%y" }}
+                     </div>
+                   </div>
+                   <div class="blog-list-content">
+                     <p>Entry No. {{ post.entry-number }} </p>
+                     <h3>{{ post.title }}</h3>
+                   </div>
+                 </section>
+                </a>
+              </div>
+            {% endfor %}
+            <div class="gap post--list col sm-col-6 lg-col-4"></div>
+            <div class="gap post--list col sm-col-6 lg-col-4"></div>
+            <div class="gap post--list col sm-col-6 lg-col-4"></div>
+
       </div>
-    {% endfor %}
   </div>
-  <div class="mx-auto center my4">
+  <div class="mx-auto center mb4">
     <a href="#" class="btn-prime mx-auto">Discover More</a>
   </div>
