@@ -2,6 +2,7 @@
 title: Forget Them
 date: 2016-10-23 00:58:00 -04:00
 position: 10
+image: "/uploads/pendulums.jpeg"
 author:
   image: "/uploads/02-359a0a.jpeg"
 ---
