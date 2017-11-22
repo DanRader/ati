@@ -1,6 +1,7 @@
 ---
 title: Decoding Hieroglyphics
 date: 2015-12-17 19:19:00 -05:00
+position: 18
 summary: 'The team decodes hieroglyphs. '
 image: "/uploads/hieroglyph02-f2f347.jpeg"
 ---
