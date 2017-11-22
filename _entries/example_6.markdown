@@ -12,6 +12,8 @@ featured-video: |-
 layout: log-book
 ---
 
+<iframe src="https://player.vimeo.com/video/207987687" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Join the team in Norfolk, VA as they investigate the energies associated with 36.8508° N, 76.2859° W.
 
 Examine the latest findings from the team at the Origin Gallery, 6-8pm on June 2nd, 300 Monticello Ave, downtown Norfolk.
