@@ -6,8 +6,7 @@ summary: 'The Chief has a trunk show at UrbanGlass. '
 image: "/uploads/trunk%20show-b38a33.jpeg"
 ---
 
-
-This Sunday, join Ráchel Räder for a Trunk Show of the newest[Chakra Enhancers](http://www.ancienttruthinvestigators.com/chakra-enhancers-1/) from ATI at[UrbanGlass|ware](http://store.urbanglass.org/), (647 Fulton Street, Brooklyn, NY).![trunk show.jpeg](/uploads/trunk%20show.jpeg)
+This Sunday, join Ráchel Räder for a Trunk Show of the newest Chakra Enhancers from ATI at UrbanGlass|ware, (647 Fulton Street, Brooklyn, NY).![trunk show.jpeg](/uploads/trunk%20show.jpeg)
 
 This Sunday, join Ráchel Räder for a Trunk Show of the newest Chakra Enhancers from ATI at UrbanGlass|ware, (647 Fulton Street, Brooklyn, NY).
 
