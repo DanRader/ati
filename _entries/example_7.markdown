@@ -20,3 +20,5 @@ A Banded Strattite Specimen which appears to be displacing the glass form surrou
 ![02-cd0665.jpeg](/uploads/02-cd0665.jpeg)
 
 The team investigates.
+
+<iframe src="https://player.vimeo.com/video/205645094" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
