@@ -28,6 +28,8 @@ It's a laborious process, so sometimes the Chief brings help into the lab. This 
 
 Kelsie investigates a Banded Strattite specimen while in the ATI lab, for its energetic potential.
 
+<iframe src="https://player.vimeo.com/video/235463009" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Kelsie is a dedicated assistant and friend. She came to New York ready to conduct the necessary investigations in and out of the lab, (this included an exploration of a few pizzeria establishments). While in the the city, the two began to discuss their interest in particular myths and their association with ancient vocal expressions. This may lead to further developments in ATI's research and evolution. Stay tuned.
 
 ![04.jpeg](/uploads/04.jpeg)
