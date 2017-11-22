@@ -1,6 +1,7 @@
 ---
 title: New from ATI, the Alignment Candle
 date: 2015-12-07 19:25:00 -05:00
+position: 19
 image: "/uploads/Screen%20Shot%202017-11-21%20at%206.30.29%20PM.png"
 featured-video: '<iframe src="https://player.vimeo.com/video/147817851" width="640"
   height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
