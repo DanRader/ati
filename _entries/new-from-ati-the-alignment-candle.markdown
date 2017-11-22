@@ -24,3 +24,5 @@ Size: 5" wide and 3" tall. *Each candle is handmade and will vary slightly.*
 Pouring of soy wax and essential oils candle.
 
 ![candle 03.jpeg](/uploads/candle%2003.jpeg)
+
+<iframe src="https://player.vimeo.com/video/147817851" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
