@@ -1,6 +1,7 @@
 ---
 title: The Latest Findings
 date: 2017-11-21 23:01:00 -05:00
+position: 25
 ---
 
 <iframe src="https://player.vimeo.com/video/140801737" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
