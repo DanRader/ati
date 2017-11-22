@@ -1,6 +1,7 @@
 ---
 title: 'Project: Distillation'
 date: 2016-01-11 19:14:00 -05:00
+position: 17
 summary: 'The team investigate distillation of the Elements. '
 image: "/uploads/distillation%2002-96ecd7.jpeg"
 ---
