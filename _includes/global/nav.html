@@ -1,5 +1,7 @@
 <nav class="relative {% if page.layout == "artifact" %}artifact--nav{% endif %}">
-  <div class="nav-wrapper fixed top-0 left-0 right-0 p1 z2 clearfix">
+<input type="checkbox" id="nav" class="hidden"/>
+<label for="nav" class="nav-open"><i></i><i></i><i></i></label>
+  <div class="nav-wrapper nav-container fixed top-0 left-0 right-0 p1 z2 clearfix">
     <a href="{{ site.baseurl }}/" class="brand-logo">{% include svg/ATI_b.svg %}</a>
     <ul class="block list-reset temp-nav-spacing clearfix">
 
@@ -22,6 +24,8 @@
     </ul>
   </div>
 </nav>
+
+
 
 <script type="text/javascript">
   let a = baffle('#nav1')
