@@ -1,6 +1,7 @@
 ---
 title: New Chakra Enhancers Heading to Portland, OR
 date: 2015-11-09 22:10:00 -05:00
+position: 22
 summary: 'A new collection of Chakra Enhancers heading to the Museum of Contemporary
   Craft. '
 image: "/uploads/PDX%2003-da2bbc.jpeg"
