@@ -1,6 +1,7 @@
 ---
 title: Trunk Show at UrbanGlass|ware
 date: 2015-11-18 21:53:00 -05:00
+position: 22
 summary: 'The Chief has a trunk show at UrbanGlass. '
 image: "/uploads/trunk%20show%2003-799cb0.png"
 ---
