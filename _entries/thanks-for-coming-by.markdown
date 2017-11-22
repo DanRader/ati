@@ -1,6 +1,7 @@
 ---
 title: Thanks for Coming By
 date: 2015-11-23 21:46:00 -05:00
+position: 21
 summary: The Chief has a trunk show at UrbanGlass
 image: "/uploads/thanks%2002-26eda9.jpeg"
 ---
