@@ -4,7 +4,7 @@ date: 2017-08-14 23:31:00 -04:00
 position: 2
 entry-number: 22.6532
 summary: The Chief investigates ASMR.
-image: "/uploads/Screen%20Shot%202017-11-08%20at%2011.38.26%20PM.png"
+image: "/uploads/ASMR.jpg"
 featured-video: |-
   <iframe src="https://player.vimeo.com/video/218412853" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/218412853">ASMR Survey</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
