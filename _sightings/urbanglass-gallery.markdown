@@ -14,6 +14,6 @@ location:
   longitude: 73.9442° W
 ---
 
-The Chief Investigator, Ráchel Räder, will be in a group show at the UrbanGlass Gallery, curated by John Drury, in celebration of the 40th anniversary of UrbanGlass. 
+The Chief Investigator, Ráchel Räder, will have a mobile lab in a group show at the UrbanGlass Gallery, curated by John Drury, in celebration of the 40th anniversary of UrbanGlass. 
 CLUE: Mr. Drury with Eyes Wide Open.
 Opening reception is September 6th from 6-8pm. 
