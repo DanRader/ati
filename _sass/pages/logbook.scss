@@ -62,14 +62,6 @@
     box-shadow: 3px 8px 43px -12px rgba(0, 0, 0, 0.19);
     transition: .2s;
     display: block;
-    &:after {
-      content: "Exhibit No. 2.445776";
-      position: absolute;
-      top: 0;
-      left: 0;
-      background-color: white;
-
-    }
     &:nth-child(odd) {
       margin-left: -32px;
       transform: rotate(-1deg);

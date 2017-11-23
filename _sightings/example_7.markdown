@@ -1,17 +1,20 @@
 ---
-title: Guggenheim Art Museum
+title: Bullseye Projects Gallery
 date: 2017-01-02 01:00:00 -05:00
 categories:
-- residency
-start-date: 2017-01-02 01:00:00 -05:00
+- Exhibition
+start-date: 2017-12-07 01:00:00 -05:00
 end-date: 2017-01-31 00:00:00 -05:00
-time: 7am - 9pm
+time: 6pm-8pm
 location:
-  address: 300 Monticello Ave. New York, New York
-  latitude: 36.8508° N
-  longitude: 76.2859° W.
-external-link: http://madmuseum.org/learn/rachel-rader
+  name: Bullseye Projects
+  address: 300 NW 13th Ave, Portland, OR 97209
+  latitude: 45.5231° N
+  longitude: 122.6765° W
+  external-link: https://www.bullseyeprojects.com/
+external-link: https://www.bullseyeprojects.com/
 layout: artifact
 ---
 
-While in residence at MAD, Rader will create objects associated with ATI’s archeological discoveries, including chakra healing tools. Visitors will have the opportunity to participate in interviews for ATI with selected performances of the artist as Ráchel Räder, Chief Investigator, scheduled throughout the spring.
+Bullseye Projects Gallery showcases a new collection of Chakra Enhancers by Ráchel Räder, the Chief Investigator. 
+![BS-large-necklace.jpg](/uploads/BS-large-necklace.jpg)

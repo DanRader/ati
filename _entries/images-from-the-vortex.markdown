@@ -27,8 +27,8 @@ The Chief and the Linguistics Specialist made a visit to Arcosanti while in Ariz
 
 ![Sedona06.jpg](/uploads/Sedona06.jpg)
 
-The Linguistics Specialist takes an inter-dimensional walk through the Navajo Desert and found specimens to bring back to the lab in Brooklyn. 
+The Linguistics Specialist takes an inter-dimensional walk through the Navajo Desert and found specimens to bring back to the lab in Brooklyn.
 
 ![Sedona07.jpg](/uploads/Sedona07.jpg)
 
-Stay tuned for developments. 
+Stay tuned for developments.
