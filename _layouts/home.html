@@ -13,19 +13,16 @@ layout: default-noNav
     </ul>
 </nav>
     <div class="home--wrapper mx-auto ">
+        {% assign image_sort = site.home-images | sort:"position"  %}
 
         <!-- image  -->
         <div class="home--innerWrapper">
             <div class="hero-slider_image">
+                {% for image in image_sort %}
                 <div class="home--imageCarousel_image overflow-hidden">
-                    <img src="/uploads/homeHero/homeHero1.jpg" alt="">
+                    <img src="{{ image.image }}" alt="">
                 </div>
-                <div class="home--imageCarousel_image overflow-hidden">
-                    <img src="/uploads/homeHero/homeHero2.png" alt="">
-                </div>
-                <div class="home--imageCarousel_image overflow-hidden">
-                    <img src="/uploads/homeHero/homeHero3.png" alt="">
-                </div>
+                {% endfor %}
             </div>
         </div>
         <!-- content -->
@@ -39,7 +36,7 @@ layout: default-noNav
 
         <!-- texture  -->
         <div class="home--texture_wrap hero-slider_texture">
-            {% for image in site.home-images %}
+            {% for image in image_sort %}
             <div class="home--texture_innerwrapper">
                 <div class="absolute home--texture1">
                     <img src="{{ image.texture-image }}" alt="">
