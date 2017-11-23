@@ -1,7 +1,7 @@
 ---
 title: Images from the Vortex
 date: 2015-06-08 19:07:00 -04:00
-image: "/uploads/Sedona03-82755d.jpeg"
+image: "/uploads/Sedona05-ae209e.jpg"
 ---
 
 The Chief and the Linguistics Specialist recently made an expedition to Arizona to explore the vortices present at this location. 
