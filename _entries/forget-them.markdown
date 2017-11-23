@@ -3,8 +3,6 @@ title: Forget Them
 date: 2016-10-23 00:58:00 -04:00
 position: 10
 image: "/uploads/forget_them"
-author:
-  image: "/uploads/Profile-pic_Rader_medres.jpg"
 ---
 
 Don't miss your chance to see *Forget Them *at the [Brooklyn Metal Works Gallery](http://bkmetalworks.com/2016/09/28/forget-them-a-bkmw-juried-exhibition/). The Ancient Truth Investigators have a collection of specimens and implements for divination on display in this special exhibition of talismans, amulets, shrines, and charms that have been created to wear, carry, or look upon.
