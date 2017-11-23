@@ -41,7 +41,7 @@ defaults:
     permalink: "/log-book/:title/"
     entry-number: ''
     summary: ''
-    image: "/uploads/02-347f2d.jpeg"
+    image: "/uploads/02-347f2d.jpg"
     featured-video: ''
     layout: log-book
     author:

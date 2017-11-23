@@ -1,7 +1,5 @@
 ---
-title: Images from the Vortex
-date: 2015-06-08 19:07:00 -04:00
-image: "/uploads/sedona%20hi.jpeg"
+title: Images From The Vortex
 ---
 
 The Chief and the Linguistics Specialist recently made an expedition to Arizona to explore the vortices present at this location. A vortex is believed to be a special spot on the earth where energy is either entering into the earth or projecting out of the earth’s plane. Vortexes (or vortices) are found at sacred sites throughout the world, including Sedona, Arizona which is where their latest expedition took place.
@@ -14,7 +12,7 @@ Ráchel Räder, the Chief Investigator, in the Saguaro National Park.
 
 Jáson Bland-Förd, the Linguistics Specialist, in the Saguaro Desert.
 
-![Sedona03.jpeg](/uploads/Sedona03.jpeg)
+![Sedona03.jpg](/uploads/Sedona03.jpg)
 
 ![Sedona04.jpg](/uploads/Sedona04.jpg)
 
