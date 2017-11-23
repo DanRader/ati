@@ -4,13 +4,11 @@ date: 2017-08-03 23:42:00 -04:00
 position: 4
 entry-number: 22.6532
 summary: 'The team investigates Machu Picchu. '
-image: "/uploads/05-01fc72.jpg"
+image: "/uploads/06-c3ccbe.jpg"
 layout: log-book
 ---
 
 On one of the team's latest expeditions to Peru, we trekked the Inca Trail to Machu Picchu to study the particular frequencies associated with the Sacral Energy of the planet. Located at 13.1631° S, 72.5450° W, this area is known for its connection to creative energy, emotional connection, and flexibility. In Quecha (the native tongue of Peru), Cusco translates to "the bellybutton of the world". Coincidentally, the Sacral Energy of the body happens to resonate at the bellybutton.
-
-*[Learn more about the planet's chakras HERE!](https://ancienttruthinvestigators.squarespace.com/news/2015/2/18/its-all-connected)*
 
 ![01-26ae4c.jpg](/uploads/01-26ae4c.jpg)
 
@@ -33,8 +31,6 @@ On the 4th day of our trek, we woke up at 4am to get to the last checkpoint of t
 We made our way up to the heart of ruins to see the more technically advanced stonework. Each piece of stone in the wall is perfectly carved to fit with the network. The fit is so tight that even a piece of paper cannot fit between.
 
 ![05-01fc72.jpg](/uploads/05-01fc72.jpg)The Inca were amazing craftsmen. Perhaps this skill-set came from the necessity to build structures that would hold up against the seismic activity as a result of being located near one of the 11 major fault lines of the world. The Atacama Trench (or Peru-Chile Trench), is an oceanic fault line that stretches along the Peruvian coast, in the Pacific Ocean. Even today, the major cities on the coast, such as Lima, are built higher up in elevation from the beach in case of a tsunami.
-
-![06-c3ccbe.jpg](/uploads/06-c3ccbe.jpg)
 
 The Inca were amazing craftsmen. Perhaps this skill-set came from the necessity to build structures that would hold up against the seismic activity as a result of being located near one of the 11 major fault lines of the world. The Atacama Trench (or Peru-Chile Trench), is an oceanic fault line that stretches along the Peruvian coast, in the Pacific Ocean. Even today, the major cities on the coast, such as Lima, are built higher up in elevation from the beach in case of a tsunami.
 
