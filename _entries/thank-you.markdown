@@ -1,6 +1,7 @@
 ---
 title: Thank You
 date: 2015-05-16 15:41:00 -04:00
+position: 32
 image: "/uploads/galaxy.jpg"
 ---
 
