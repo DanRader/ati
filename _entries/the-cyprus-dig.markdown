@@ -3,7 +3,7 @@ title: The Cyprus Dig
 date: 2016-04-28 01:25:00 -04:00
 position: 14
 summary: 'ATI investigates artifacts in Cyprus. '
-image: "/uploads/01-94f595.jpg"
+image: "/uploads/cyprus.jpg"
 featured-video: |-
   <iframe src="https://player.vimeo.com/video/216603447" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/216603447">Cyprus</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
