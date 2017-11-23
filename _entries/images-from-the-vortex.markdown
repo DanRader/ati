@@ -1,6 +1,7 @@
 ---
 title: Images from the Vortex
 date: 2015-06-08 19:07:00 -04:00
+position: 27
 image: "/uploads/sedona%20hi.jpeg"
 ---
 
