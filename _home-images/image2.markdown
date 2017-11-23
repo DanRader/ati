@@ -5,3 +5,4 @@ position: 1
 image: "/uploads/homeHero/homeHero2.jpg"
 texture-image: "/uploads/textures/pink.png"
 ---
+
