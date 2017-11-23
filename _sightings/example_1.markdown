@@ -12,9 +12,9 @@ location:
   address: 2 Columbus Cir, New York, NY 10019
   latitude: 40.7128° N
   longitude: 74.0060° W
-  external-link: http://madmuseum.org/
+  external-link: http://madmuseum.org/learn/rachel-rader
   link: 
-external-link: http://madmuseum.org/
+external-link: http://madmuseum.org/learn/rachel-rader
 layout: artifact
 ---
 
