@@ -5,7 +5,7 @@ position: 1
 entry-number: 22.6532
 summary: 'The Chief Investigator is a part of a group exhibition opening at the UrbanGlass
   Gallery. '
-image: "/uploads/Banded%20Strattite%20Cluster%20detail-low%20res.jpg"
+image: "/uploads/Banded-Strattite-Cluster-detail-low-res.jpg"
 layout: log-book
 ---
 
