@@ -3,28 +3,28 @@ title: The Cyprus Dig
 date: 2016-04-28 01:25:00 -04:00
 position: 14
 summary: 'ATI investigates artifacts in Cyprus. '
-image: "/uploads/06-cae613.jpeg"
+image: "/uploads/06-cae613.jpg"
 featured-video: |-
   <iframe src="https://player.vimeo.com/video/216603447" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/216603447">Cyprus</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 ---
 
-The Ancient Truth Investigators are constantly seeking links in the Sea Peoples' evolution. Last summer, the Archaeological Department of ATI did extensive research in Cyprus. The ATI New York Branch is currently doing preservation work to their findings and we can't help but reminisce on this monumental expedition.![01-94f595.jpeg](/uploads/01-94f595.jpeg)
+The Ancient Truth Investigators are constantly seeking links in the Sea Peoples' evolution. Last summer, the Archaeological Department of ATI did extensive research in Cyprus. The ATI New York Branch is currently doing preservation work to their findings and we can't help but reminisce on this monumental expedition.![01-94f595.jpg](/uploads/01-94f595.jpg)
 
-![0 2.jpeg](/uploads/0%202.jpeg)
+![0 2.jpg](/uploads/0%202.jpg)
 
 At the dig site near Lamaca.
 
-![03-bcecd2.jpeg](/uploads/03-bcecd2.jpeg)
+![03-bcecd2.jpg](/uploads/03-bcecd2.jpg)
 
 Dorï after a long season of expeditions.
 
-![04-14acb2.jpeg](/uploads/04-14acb2.jpeg)
+![04-14acb2.jpg](/uploads/04-14acb2.jpg)
 
 Ænnî discovers an artifact.
 
-![05-2a8e90.jpeg](/uploads/05-2a8e90.jpeg)
+![05-2a8e90.jpg](/uploads/05-2a8e90.jpg)
 
 Jasœn, our fearless Camera Operator.
 
-![06-1cc3c0.jpeg](/uploads/06-1cc3c0.jpeg)
+![06-1cc3c0.jpg](/uploads/06-1cc3c0.jpg)

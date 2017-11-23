@@ -2,7 +2,7 @@
 title: The Latest Findings
 date: 2015-08-15 23:01:00 -04:00
 position: 25
-image: "/uploads/LF07-b9697b.jpeg"
+image: "/uploads/LF07-b9697b.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/140801737" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -15,27 +15,27 @@ Spinning elements window installation.
 
 <iframe src="https://player.vimeo.com/video/140802013" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-![LF03.jpeg](/uploads/LF03.jpeg)
+![LF03.jpg](/uploads/LF03.jpg)
 
-![LF04.jpeg](/uploads/LF04.jpeg)
+![LF04.jpg](/uploads/LF04.jpg)
 
-![LF06.jpeg](/uploads/LF06.jpeg)
+![LF06.jpg](/uploads/LF06.jpg)
 
-![LF05.jpeg](/uploads/LF05.jpeg)
+![LF05.jpg](/uploads/LF05.jpg)
 
-![LF07.jpeg](/uploads/LF07.jpeg)
+![LF07.jpg](/uploads/LF07.jpg)
 
-![LF08.jpeg](/uploads/LF08.jpeg)
+![LF08.jpg](/uploads/LF08.jpg)
 
-![LF09.jpeg](/uploads/LF09.jpeg)
+![LF09.jpg](/uploads/LF09.jpg)
 
-![LF10.jpeg](/uploads/LF10.jpeg)
+![LF10.jpg](/uploads/LF10.jpg)
 
 The video below plays on the screen at the center of the exhibition to explain the work that ATI does and the supporting evidence that has lead the organization to where it is today.
 
 <iframe src="https://player.vimeo.com/video/140800806" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-![LF12.jpeg](/uploads/LF12.jpeg)
+![LF12.jpg](/uploads/LF12.jpg)
 
 ![LF11.jpg](/uploads/LF11.jpg)
 
@@ -43,6 +43,6 @@ The video below plays on the screen at the center of the exhibition to explain t
 
 Illuminite Crsystal spinning in the Activation Chamber.
 
-![LF13.jpeg](/uploads/LF13.jpeg)
+![LF13.jpg](/uploads/LF13.jpg)
 
 The Illuminite Crystal.

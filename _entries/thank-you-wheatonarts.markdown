@@ -2,7 +2,7 @@
 title: Thank you WheatonArts
 date: 2016-09-24 01:02:00 -04:00
 position: 11
-image: "/uploads/01-bed6a6.jpeg"
+image: "/uploads/01-bed6a6.jpg"
 featured-video: |-
   <iframe src="https://player.vimeo.com/video/183764320" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/183764320">The House of Truth is open</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -14,7 +14,7 @@ These past 3 weeks have been an amazing opportunity for the Ancient Truth Invest
 
 This space will continue to be installed through the fall as a sacred space and collaborative environment for the Ancient Truth Investigators. Stay tuned for further developments including publications resulting from their research.
 
-![02-3f4620.jpeg](/uploads/02-3f4620.jpeg)
+![02-3f4620.jpg](/uploads/02-3f4620.jpg)
 
 The Chief Investigator (Ráchel Räder) and the Energy Displacement Specialist (Åmy Lêmaire), inspecting the residue from an encapsulated element.
 

@@ -2,12 +2,12 @@
 title: Sourcing of Petrified Spongy Coral
 date: 2015-10-06 22:20:00 -04:00
 position: 23
-image: "/uploads/dive-7cc43d.jpeg"
+image: "/uploads/dive-7cc43d.jpg"
 ---
 
 The ATI team diving for Spongy Coral.
 
-![dive.jpeg](/uploads/dive.jpeg)
+![dive.jpg](/uploads/dive.jpg)
 
 This renewable resource which is replanted every year by the ATI team, soaks in the healing powers of the Earth. Once brought out of its watery environment, it automatically petrifies into the Petrified Spongy Coral, which ATI can mill into a wearable form. 
 

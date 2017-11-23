@@ -2,7 +2,7 @@
 title: Stamp of Approval
 date: 2015-12-01 19:38:00 -05:00
 position: 20
-image: "/uploads/stamped%20-f16f12.jpeg"
+image: "/uploads/stamped%20-f16f12.jpg"
 featured-video: '<iframe src="https://player.vimeo.com/video/147501269" width="640"
   height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -15,4 +15,4 @@ The Chief has developed a new product to aid in alignment of the 7 chakras of th
 
 Stay tuned.
 
-![stamped .jpeg](/uploads/stamped%20.jpeg)
+![stamped .jpg](/uploads/stamped%20.jpg)
