@@ -1,6 +1,7 @@
 ---
 title: Introducing, Åmy Lêmaire
 date: 2015-07-03 23:34:00 -04:00
+position: 26
 image: "/uploads/AL02-623b46.jpeg"
 ---
 
