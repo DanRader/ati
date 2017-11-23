@@ -5,7 +5,7 @@ position: 0
 entry-number: 22.6532
 summary: The Chief will unveil a new collection of Chakra Enhancers on the website
   once each specimen is perfectly restored and brought to the highest polish possible.
-image: "/uploads/Screen-Shot-2017-11-08-at-10.58.09-PM.jpg"
+image: "/uploads/tools.jpg"
 featured-video: |-
   <iframe src="https://player.vimeo.com/video/239942671" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/239942671">All in a day&#039;s work</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
