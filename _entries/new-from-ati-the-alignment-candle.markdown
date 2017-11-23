@@ -2,7 +2,7 @@
 title: New from ATI, the Alignment Candle
 date: 2015-12-07 19:25:00 -05:00
 position: 19
-image: "/uploads/Screen-Shot-2017-11-21-at-6.30.29-PM.jpg"
+image: "/uploads/candle-02.jpg"
 featured-video: '<iframe src="https://player.vimeo.com/video/147817851" width="640"
   height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -18,8 +18,6 @@ Each candle comes with a tiny pamphlet which offers guidance of use, as well as 
 Scent: Sandalwood, Cedarwood with a gentle note of Ginger.
 
 Size: 5" wide and 3" tall. *Each candle is handmade and will vary slightly.*
-
-![candle-02.jpg](/uploads/candle-02.jpg)
 
 Pouring of soy wax and essential oils candle.
 
