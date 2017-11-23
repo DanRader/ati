@@ -2,7 +2,7 @@
 title: Sourcing of Petrified Spongy Coral
 date: 2015-10-06 22:20:00 -04:00
 position: 23
-image: "/uploads/PSC-top.jpg"
+image: "/uploads/PSC-top02.jpg"
 ---
 
 The ATI team diving for Spongy Coral.
