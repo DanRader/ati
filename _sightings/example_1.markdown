@@ -18,4 +18,3 @@ layout: artifact
 ---
 
 While in residence at MAD|Museum of Arts and Design, The Chief Investigator, Ráchel Räder, is exploring recent discoveries and talking about upcoming excavations to visitors. Join Räder every Tuesday from 10am- 5pm in the Artist Studios on the 5th floor. 
-![Chief.jpg](/uploads/Chief.jpg)
