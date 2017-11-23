@@ -13,11 +13,21 @@ layout: default-noNav
     </ul>
 </nav>
     <div class="home--wrapper mx-auto ">
-        <!-- image  -->
-        <div class="home--imageCarousel_image overflow-hidden">
-            <img src="/uploads/homeHero/homeHero1.jpg" alt="">
-        </div>
 
+        <!-- image  -->
+        <div class="home--innerWrapper">
+            <div class="hero-slider_image">
+                <div class="home--imageCarousel_image overflow-hidden">
+                    <img src="/uploads/homeHero/homeHero1.jpg" alt="">
+                </div>
+                <div class="home--imageCarousel_image overflow-hidden">
+                    <img src="/uploads/homeHero/homeHero2.png" alt="">
+                </div>
+                <div class="home--imageCarousel_image overflow-hidden">
+                    <img src="/uploads/homeHero/homeHero3.png" alt="">
+                </div>
+            </div>
+        </div>
         <!-- content -->
         <div class="home--content">
             <div class="max-width-3 mx-auto center">
@@ -28,14 +38,46 @@ layout: default-noNav
         </div>
 
         <!-- texture  -->
-        <div class="home--texture_wrap">
+        <div class="home--texture_wrap hero-slider_texture">
+            {% for image in site.home-images %}
             <div class="home--texture_innerwrapper">
-                <div class="absolute home--blue1">
-                    <img src="/uploads/textures/blue.png" alt="">
+                <div class="absolute home--texture1">
+                    <img src="{{ image.texture-image }}" alt="">
                 </div>
-                <div class="absolute home--blue2">
-                    <img src="/uploads/textures/blue.png" alt="">
+                <div class="absolute home--texture2">
+                    <img src="{{ image.texture-image }}" alt="">
                 </div>
             </div>
+            {% endfor %}
         </div>
+
     </div>
+
+    <script type="text/javascript">
+              $(document).ready(function(){
+              $('.hero-slider_image').slick({
+                dots: true,
+                infinite: true,
+                speed: 1000,
+                slidesToShow: 1,
+                arrows: false,
+                asNavFor: null,
+                initialSlide: 0,
+                lazyLoad: 'ondemand',
+                cssEase: 'ease-in-out',
+                autoplay: true,
+                autoplaySpeed: 12000,
+                asNavFor: '.hero-slider_texture',
+            });
+                $('.hero-slider_texture').slick({
+                      slidesToShow: 1,
+                      dots: false,
+                      arrows: false,
+                      speed: 1000,
+                      centerMode: false,
+                      focusOnSelect: true,
+                      vertical: true,
+                      draggable: false
+                });
+            });
+    </script>
