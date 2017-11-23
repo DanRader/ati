@@ -96,12 +96,12 @@ defaults:
     start-date: 
     end-date: 
     time: 
+    external-link: 
     location:
       name: 
       address: 
       latitude: 
       longitude: 
-      external-link: http://madmuseum.org/learn/rachel-rader
 - scope:
     path: ''
     type: team
