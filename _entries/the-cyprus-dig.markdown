@@ -9,9 +9,12 @@ featured-video: |-
   <p><a href="https://vimeo.com/216603447">Cyprus</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 ---
 
-The Ancient Truth Investigators are constantly seeking links in the Sea Peoples' evolution. Last summer, the Archaeological Department of ATI did extensive research in Cyprus. The ATI New York Branch is currently doing preservation work to their findings and we can't help but reminisce on this monumental expedition.
+<iframe src="https://player.vimeo.com/video/216603447" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-At the dig site near Lamaca.
+The Ancient Truth Investigators are constantly seeking links in the Sea Peoples' evolution. Last summer, the Archaeological Department of ATI did extensive research in Cyprus. The ATI New York Branch is currently doing preservation work to their findings and we can't help but reminisce on this monumental expedition.
+![06-cae613.jpg](/uploads/06-cae613.jpg)
+
+The team at the dig site near Lamaca.
 
 ![03-bcecd2.jpg](/uploads/03-bcecd2.jpg)
 
@@ -24,5 +27,3 @@ Dorï after a long season of expeditions.
 ![05-2a8e90.jpg](/uploads/05-2a8e90.jpg)
 
 Jasœn, our fearless Camera Operator.
-
-![06-1cc3c0.jpg](/uploads/06-1cc3c0.jpg)
