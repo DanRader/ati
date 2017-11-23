@@ -3,7 +3,7 @@ title: Coral Pink Banded Strattite
 date: 2017-08-17 01:17:00 -04:00
 position: 13
 summary: 'A new specimen has been discovered. '
-image: "/uploads/01-cf1ce5.jpg"
+image: "/uploads/BStop.jpg"
 ---
 
 The Ancient Truth Investigators have discovered a new variety of the Banded Strattite Crystal which contains bands of a coral pink coloration.
