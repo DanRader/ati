@@ -2,6 +2,7 @@
 title: The Hirschhorn
 categories:
 - Exhibition
+position: 2
 start-date: 2017-11-01 01:00:00 -04:00
 categories-image: "/uploads/svg/triangle.svg"
 time: 7am - 9pm
