@@ -1,7 +1,12 @@
 ---
 title: Images from the Vortex
 date: 2015-06-08 19:07:00 -04:00
+<<<<<<< HEAD
 image: "/uploads/sedona%20hi.jpg"
+=======
+position: 27
+image: "/uploads/sedona%20hi.jpeg"
+>>>>>>> origin/master
 ---
 
 The Chief and the Linguistics Specialist recently made an expedition to Arizona to explore the vortices present at this location. A vortex is believed to be a special spot on the earth where energy is either entering into the earth or projecting out of the earth’s plane. Vortexes (or vortices) are found at sacred sites throughout the world, including Sedona, Arizona which is where their latest expedition took place.
