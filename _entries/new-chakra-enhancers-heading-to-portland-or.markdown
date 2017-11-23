@@ -4,7 +4,7 @@ date: 2015-11-09 22:10:00 -05:00
 position: 22
 summary: 'A new collection of Chakra Enhancers heading to the Museum of Contemporary
   Craft. '
-image: "/uploads/PDX%2003-da2bbc.jpg"
+image: "/uploads/PSC-top02.jpg"
 ---
 
 The Chief has just released a new collection of Chakra Enhancers to be featured at the Museum of Contemporary Craft in Portland, Oregon. 
