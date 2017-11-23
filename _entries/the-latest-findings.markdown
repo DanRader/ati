@@ -2,14 +2,14 @@
 title: The Latest Findings
 date: 2015-08-15 23:01:00 -04:00
 position: 25
-image: "/uploads/LF07-b9697b.jpg"
+image: "/uploads/LF07.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/140801737" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-The following is an exhibition of the latest findings made by the Chief on display in the Window Gallery at UrbanGlass, in Brooklyn, NY. Exhibition duration: July 15th - September 6th, 2015. 
+The following is an exhibition of the latest findings made by the Chief on display in the Window Gallery at UrbanGlass, in Brooklyn, NY. Exhibition duration: July 15th - September 6th, 2015.
 
-![LF01.png](/uploads/LF01.png)
+![LF01.jpg](/uploads/LF01.jpg)
 
 Spinning elements window installation.
 
@@ -41,7 +41,7 @@ The video below plays on the screen at the center of the exhibition to explain t
 
 <iframe src="https://player.vimeo.com/video/140801882" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Illuminite Crsystal spinning in the Activation Chamber.
+Illuminite Crystal spinning in the Activation Chamber.
 
 ![LF13.jpg](/uploads/LF13.jpg)
 
