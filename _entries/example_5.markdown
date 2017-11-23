@@ -4,7 +4,7 @@ date: 2017-03-10 00:31:00 -05:00
 position: 7
 entry-number: 22.6532
 summary: June 2nd, 2017...
-image: "/uploads/01-92496e.jpg"
+image: "/uploads/elments.jpg"
 layout: log-book
 ---
 
