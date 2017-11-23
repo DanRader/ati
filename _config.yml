@@ -107,14 +107,6 @@ defaults:
     type: team
   values:
     layout: team
-<<<<<<< Updated upstream
-    image:
-    team-title:
-    external-link:
-    instagram:
-    twitter:
-    facebook:
-=======
     image:
     team-title:
     external-link:
@@ -127,7 +119,6 @@ defaults:
   values:
     image: ''
     texture-image: ''
->>>>>>> Stashed changes
 snipcart_api_key: YjM2NGJjN2ItZjQwZC00M2ZjLTgxOTAtNmM1ZDA3MmE3NDRlNjM2MzA0MDkwMDA4NjU4NTAz
 logo: "/includes/svg/ATI_b.svg"
 gems:
