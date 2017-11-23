@@ -1,5 +1,6 @@
 ---
 title: Images From The Vortex
+position: 27
 image: "/uploads/Sedona06.jpg"
 ---
 
