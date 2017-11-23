@@ -8,7 +8,7 @@ image: "/uploads/lab04-d02e3c.jpg"
 
 Ráchel Räder, the Chief Investigator, was recently documented by Gabriel Cosma in the Ancient Truth Investigators Laboratory fabricating Chakra Enhancers.
 
-![lab.jpeg](/uploads/lab.jpeg)
+![lab.jpg](/uploads/lab.jpg)
 
 Chakra Enhancers are made from elements that relate to 7 points along the meridian of the body and exudes chakra enhancing energies.
 

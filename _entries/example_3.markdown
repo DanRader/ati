@@ -17,15 +17,15 @@ The Chief is focused on exploring Autonomous Sensory Meridian Response (ASMR), w
 
 If the results can be monitored for ASMR in a controlled experiment series, the team will be able to collect the data that is necessary for understanding the estimated percentage of the population that have physical reactions to sound. Yet another way that the team aims to quantify and visually represent otherwise unseen energy frequencies. Thus, supporting the hypothesis that these unseen forces have a deep impact on us.
 
-![01.jpeg](/uploads/01.jpeg)
+![01.jpg](/uploads/01.jpg)
 
 During the exhibition in Norfolk, VA, visitors were invited to experience the ATI ASMR Survey video that played on a loop in Origin Gallery. To the right, a stack of surveys to be filled out by willing participants.
 
 66 people opted to fill out the survey during the duration of the exhibition. The average age of participants in the survey was 25 years old. A majority of which had previous experience with ASMR including listed reactions to: slime, rain, tapping... and so on. Participants were asked to record physical reactions to the video on a scale of 1 to 10. 1 being a slight reaction and 10 being an extreme reaction. The following charts are a record of the average reactions to each sound in the video:
 
-![02.jpeg](/uploads/02.jpeg)
+![02.jpg](/uploads/02.jpg)
 
-![03.jpeg](/uploads/03.jpeg)
+![03.jpg](/uploads/03.jpg)
 
 Do you experience ASMR? We want to know. Watch the ATI ASMR Survey Video to find out if you have a physical reaction to sound. Let us know what you feel while watching this film made by the Chief, and we will add your answers to our ongoing research.
 

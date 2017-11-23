@@ -6,7 +6,7 @@ entry-number: Entry 22.6532
 summary: An exhibition featuring findings from Jáson Bland-förd (Linguistics Specialist),
   Åmy Lêmaire (Energy Assessment Specialist), Amända Patenaûdé (of the HAPPI Institute)
   and Ráchel Räder (the Chief Investigator).
-image: "/uploads/14-2d0128.jpeg"
+image: "/uploads/14-2d0128.jpg"
 featured-video: |-
   <iframe src="https://player.vimeo.com/video/219046387" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <p><a href="https://vimeo.com/219046387">Tools of Alignment</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -21,23 +21,23 @@ The following images are from the show which was made possible by the efforts of
 
 This installation incorporated findings from Jáson Bland-förd (Linguistics Specialist), Åmy Lêmaire (Energy Assessment Specialist), Amända Patenaûdé (of the HAPPI Institute) and Ráchel Räder (the Chief Investigator).
 
-![01-7360f6.jpeg](/uploads/01-7360f6.jpeg)
+![01-7360f6.jpg](/uploads/01-7360f6.jpg)
 
-![02-d1f835.jpeg](/uploads/02-d1f835.jpeg)
+![02-d1f835.jpg](/uploads/02-d1f835.jpg)
 
 Within the entrance of the installation, a video played on loop made by the Chief Investigator, Ráchel Räder, which explores Autonomous Sensory Meridian Response (ASMR), with an evaluation for visitors to record their response on a scale of 1 to 10. The data retrieved from this experiment is under peer review but will be published in the future. Stay tuned.
 
-![03-69bb8d.jpeg](/uploads/03-69bb8d.jpeg)
+![03-69bb8d.jpg](/uploads/03-69bb8d.jpg)
 
 Within the natural light of the space, Amända Patenaûdé (of the HAPPI Institute), displayed Halcyon Biomes named after the environments that they encapsulate: Arid, Alpine and Tropic. Each piece reverberates within its geometric environment.
 
-![04-7d87dd.jpeg](/uploads/04-7d87dd.jpeg)
+![04-7d87dd.jpg](/uploads/04-7d87dd.jpg)
 
 A wall of images from ATI's international explorations and renderings of sacred geometry investigations on 3D paper recorded by the Chief Investigator.
 
-![05-b6c81e.jpeg](/uploads/05-b6c81e.jpeg)
+![05-b6c81e.jpg](/uploads/05-b6c81e.jpg)
 
-![06-a1c00b.jpeg](/uploads/06-a1c00b.jpeg)
+![06-a1c00b.jpg](/uploads/06-a1c00b.jpg)
 
 On the back wall, an installation of artifacts found by Ráchel Räder, the Chief Investigator. In the center of the space, an exploration of divining tools fabricated by the Chief, as well.
 
@@ -47,45 +47,45 @@ Pendulums made of Elements found by the Chief that correlate to Chakral Meridian
 
 Both pedestals facilitated an experience for visitors to explore the power of divining with an interactive chart. The pendulum chart maps "yes" and "no". Visitors are invited to use the pendulums by holding one by the chain above the chart. The pendulum might sway in one direction towards "yes" or "no", to answer the visitor's question.
 
-![08-dc3fd6.jpeg](/uploads/08-dc3fd6.jpeg)
+![08-dc3fd6.jpg](/uploads/08-dc3fd6.jpg)
 
 A dowsing rod fabricated by the Chief, is designed to hold the metal piece at the top of the handle. The visitor inserts the metal piece into the top of the handle at the shorter end of the metal unit. Then, when the visitor holds the dowsing rod by the handle, they place the bottom end of the handle at the center ring. The metal rod, which is inserted into the aperture, will sway in the direction of the visitor's strongest Chakral Meridian Energy.
 
-![09.jpeg](/uploads/09.jpeg)
+![09.jpg](/uploads/09.jpg)
 
 A trident artifact found by the Chief Investigator, Ráchel Räder. Ca. 7,000 BCE.
 
-![10.jpeg](/uploads/10.jpeg)
+![10.jpg](/uploads/10.jpg)
 
-![11.jpeg](/uploads/11.jpeg)
+![11.jpg](/uploads/11.jpg)
 
 Regalia artifacts found by the Chief Investigator, Ráchel Räder.
 
-![12.jpeg](/uploads/12.jpeg)
+![12.jpg](/uploads/12.jpg)
 
 An engraved Spotted Quartz specimen found by the Chief Investigator, Ráchel Räder. Ca. 7,000 BCE.
 
-![13.jpeg](/uploads/13.jpeg)
+![13.jpg](/uploads/13.jpg)
 
 Elements found by the Chief Investigator, Ráchel Räder. at Chakral Meridian Points around the world. Each specimen is displayed on a spinning stand. In the foreground, a Petrified Spongy Coral specimen.
 
-![14.jpeg](/uploads/14.jpeg)
+![14.jpg](/uploads/14.jpg)
 
 Another view of Elements found by the Chief Investigator, Ráchel Räder. at Chakral Meridian Points around the world. In the foreground, a Banded Strattite Cluster Before Calcification Specimen. On the wall, three different videos play on loop:*Tools of Alignment*,*The Cyprus Dig*, and*In the Lab.*
 
-![15.jpeg](/uploads/15.jpeg)
+![15.jpg](/uploads/15.jpg)
 
 A framed print by Jáson Bland-förd, ATI's Linguistics Specialist, which maps the Elements at the center of the team's research. This print incorporates renderings of the Elements drawn by the Chief, on location.
 
-![16.jpeg](/uploads/16.jpeg)
+![16.jpg](/uploads/16.jpg)
 
 The Celadonite Specimen: The newest Element added to the roster of specimen associated with the Chakral Energy Meridians of the planet. Found by the Chief Investigator, Ráchel Räder in Lake Titicaca, Peru.
 
-![17.jpeg](/uploads/17.jpeg)
+![17.jpg](/uploads/17.jpg)
 
 The Chakra Potency Detector (CPD) which was fabricated by Åmy Lêmaire, ATI's Energy Assessment Specialist. The CPD assesses Energy Frequency levels in association with the Chakral Energy Meridian in the body. The wand is used to gauge the intensity of the subject's level of connection to themselves and the planet. See the video below for a visual demonstration of its use.
 
-![18.jpeg](/uploads/18.jpeg)
+![18.jpg](/uploads/18.jpg)
 
 Tools of Alignment fabricated by Åmy Lêmaire, ATI's Energy Assessment Specialist. Each tool has a specialized function in the physical manifestation of energy. From left to right: Chakra Spectrum View Finder (VR), Energy Coaxer, Volatile Element Safety Clip, Signal Wave Amplifier, and the Physical Debris Mover. On the wall next to these Tools of Alignment, a TV screen looped a video of the tools being used in the ATI lab.
 

@@ -19,10 +19,10 @@ Scent: Sandalwood, Cedarwood with a gentle note of Ginger.
 
 Size: 5" wide and 3" tall. *Each candle is handmade and will vary slightly.*
 
-![candle 02.jpeg](/uploads/candle%2002.jpeg)
+![candle 02.jpg](/uploads/candle%2002.jpg)
 
 Pouring of soy wax and essential oils candle.
 
-![candle 03.jpeg](/uploads/candle%2003.jpeg)
+![candle 03.jpg](/uploads/candle%2003.jpg)
 
 <iframe src="https://player.vimeo.com/video/147817851" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

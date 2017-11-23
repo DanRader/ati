@@ -1,4 +1,41 @@
 ---
-layout: default
+layout: default-noNav
 ---
 
+<nav class="flex space-between home--nav">
+    <ul class="block list-reset clearfix mx-auto">
+       {% assign current = page.url | downcase | split: '/' %}
+            <a href='/artifacts'><li class=" block left {% if current contains 'artifacts' %}nav--links_active {% endif %}nav--links" id="nav1">Artifacts</li></a>
+            <a href='/sightings'><li class=" block left {% if current contains 'sightings' %}nav--links_active {% endif %}nav--links" id="nav2">Sightings</li></a>
+            <a href='/log-book'><li class=" block left {% if current contains 'log-book' %}nav--links_active {% endif %}nav--links" id="nav3">Log Book</li></a>
+            <a href='/team'><li class=" block left {% if current contains 'team' %}nav--links_active {% endif %}nav--links" id="nav5">The Team</li></a>
+            <a href='/shop'><li class=" block left {% if current contains 'shop' %}nav--links_active {% endif %}nav--links nav--last" id="nav4">Shop</li></a>
+    </ul>
+</nav>
+    <div class="home--wrapper mx-auto ">
+        <!-- image  -->
+        <div class="home--imageCarousel_image overflow-hidden">
+            <img src="/uploads/homeHero/homeHero1.jpg" alt="">
+        </div>
+
+        <!-- content -->
+        <div class="home--content">
+            <div class="max-width-3 mx-auto center">
+                {% include svg/ATI_w.svg %}
+                <h1>Ancient Truth Investigators</h1>
+                <p>Uncovering the Connection of Humanity and the Planet</p>
+            </div>
+        </div>
+
+        <!-- texture  -->
+        <div class="home--texture_wrap">
+            <div class="home--texture_innerwrapper">
+                <div class="absolute home--blue1">
+                    <img src="/uploads/textures/blue.png" alt="">
+                </div>
+                <div class="absolute home--blue2">
+                    <img src="/uploads/textures/blue.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>

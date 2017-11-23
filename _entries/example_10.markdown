@@ -32,23 +32,23 @@ Kelsie investigates a Banded Strattite specimen while in the ATI lab, for its en
 
 Kelsie is a dedicated assistant and friend. She came to New York ready to conduct the necessary investigations in and out of the lab, (this included an exploration of a few pizzeria establishments). While in the the city, the two began to discuss their interest in particular myths and their association with ancient vocal expressions. This may lead to further developments in ATI's research and evolution. Stay tuned.
 
-![04.jpeg](/uploads/04.jpeg)
+![04.jpg](/uploads/04.jpg)
 
 Ráchel Räder, the Chief Investigator, has been developing new designs for the Chakra Enhancer Jewelry Line. Designs like the one below of the Blue Banded Strattite triple prong setting, are based on the Chief's research in numerology and sacred geometry. In this image, she is setting a piece based on the power of 3.
 
-![05.jpeg](/uploads/05.jpeg)
+![05.jpg](/uploads/05.jpg)
 
-![07.jpeg](/uploads/07.jpeg)
+![07.jpg](/uploads/07.jpg)
 
 The Chief working in the ATI lab on a prong setting.
 
 Here's a little sneak peak of a few designs which will be released this Fall as a part of the newest collection.
 
-![06.jpeg](/uploads/06.jpeg)
+![06.jpg](/uploads/06.jpg)
 
 Petrified Spongy Coral earrings and Spotted Quartz Prism Necklace.
 
-![08.jpeg](/uploads/08.jpeg)
+![08.jpg](/uploads/08.jpg)
 
 Pieces in process in the ATI lab.
 
