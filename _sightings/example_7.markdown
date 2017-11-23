@@ -1,6 +1,6 @@
 ---
 title: Bullseye Projects Gallery
-date: 2017-01-02 01:00:00 -05:00
+date: 2017-12-07 01:00:00 -05:00
 categories:
 - Exhibition
 start-date: 2017-12-07 01:00:00 -05:00
