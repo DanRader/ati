@@ -5,7 +5,7 @@ position: 34
 image: "/uploads/arizona.jpg"
 ---
 
-As we gear up to[STEP INTO THE VORTEX](http://www.indiegogo.com/projects/stepping-into-the-vortex), the team and I are collecting data with relevance to our upcoming series of excavations in Arizona. The following is a list of locations in Arizona that are key to uncovering integral environmental samples to support the postulations made by our team.
+As we gear up to [STEP INTO THE VORTEX](http://www.indiegogo.com/projects/stepping-into-the-vortex), the team and I are collecting data with relevance to our upcoming series of excavations in Arizona. The following is a list of locations in Arizona that are key to uncovering integral environmental samples to support the postulations made by our team.
 
 ![AZ01.jpg](/uploads/AZ01.jpg)
 
