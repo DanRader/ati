@@ -3,7 +3,10 @@ layout: default
 ---
 
 <!-- blog feature header -->
-{% for post in site.entries limit: 1 %}
+
+ {% assign entry_sort = site.entries | sort:"date" | reverse %}
+
+{% for post in entry_sort limit: 1 %}
 
     <div class="blog-highlight-image" style="background-image: url('{{ post.image }}');">
         <div class="blog-title">
@@ -39,7 +42,7 @@ layout: default
   <div class="clearfix max-width-4 mx-auto">
       <div class="post-container">
 
-            {% for post in site.entries offset: 1 %}
+            {% for post in entry_sort offset: 1 %}
               <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb4 post--list ">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                  <section class="blog-list-item">
