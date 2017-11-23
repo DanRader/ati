@@ -2,8 +2,8 @@
 title: Sacred Stone
 position: 2
 images:
-- "/uploads/chakra%20stone%2002.jpg"
-- "/uploads/chakra%20stone%2002%20detail.jpg"
+- "/uploads/chakra-stone-01-low-res.jpg"
+- "/uploads/chakra-stone-01-detail--low-res.jpg"
 catalogue-number: '000.9230'
 size: 12" x 12" x 2"
 material: Fused Glass
