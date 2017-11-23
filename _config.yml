@@ -115,7 +115,7 @@ defaults:
     facebook: 
 - scope:
     path: ''
-    type: entries
+    type: home-images
   values:
     image: ''
     texture-image: ''
