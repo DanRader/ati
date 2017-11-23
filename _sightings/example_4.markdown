@@ -2,6 +2,7 @@
 title: The Phillips Collection
 categories:
 - residency
+position: 5
 start-date: 2017-06-01 01:00:00 -04:00
 time: 7am - 9pm
 location:

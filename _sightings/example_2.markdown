@@ -2,6 +2,7 @@
 title: Cooper Hewitt
 categories:
 - residency
+position: 3
 start-date: 2017-02-01 01:00:00 -05:00
 end-date: 2018-03-15 00:00:00 -04:00
 time: 7am - 9pm
