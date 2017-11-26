@@ -3,7 +3,7 @@ title: MAD|Museum of Arts and Design
 date: 2017-01-31 16:46:00 -05:00
 categories:
 - Residency
-position: 1
+position: 3
 start-date: 2017-01-31 01:00:00 -05:00
 end-date: 2017-05-23 00:00:00 -04:00
 time: 10am - 5pm
