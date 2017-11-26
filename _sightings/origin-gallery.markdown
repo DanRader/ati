@@ -14,4 +14,8 @@ location:
   longitude: 76.2859° W
 ---
 
-Join the Ancient Truth Investigators at the Geological Alignment Society (GAS) Conference at the Origin Gallery to view a showcase of the latest findings from the team. 
+The Ancient Truth Investigators participate in the Geological Alignment Society (GAS) Conference, and showcase their latest findings at the Origin Gallery. 
+
+Curated by Kim McKinnis and Kelsie McNair, this installation incorporates findings from Jáson Bland-förd (Linguistics Specialist), Åmy Lêmaire (Energy Assessment Specialist), Amända Patenaûdé (of the HAPPI Institute) and Ráchel Räder (the Chief Investigator).
+
+View images from the exhibition [HERE](http://ati.siteleaf.net/log-book/example_9/).
