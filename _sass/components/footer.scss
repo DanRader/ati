@@ -5,6 +5,7 @@ footer {
   z-index: 99;
 }
 .footer--content {
+    overflow: hidden;
   & h2{
     color: white;
     text-transform: uppercase;

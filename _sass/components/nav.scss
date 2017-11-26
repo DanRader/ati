@@ -90,7 +90,6 @@ nav {
         top: 0;
         left: 0;
         height: 100%;
-        width: 100%;
         z-index: -1;
         background: black;
         opacity: 0;
@@ -98,18 +97,47 @@ nav {
 
         & ul {
             position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 100%;
+            bottom: 68px;
+            right: 18px;
 
-            & li {
+            & .nav--links {
             display: block;
             float: none;
-            width: 100%;
             text-align: right;
             margin-bottom: 10px;
+            color: white;
+            font-size: 28px;
+            line-height: 45px;
+            border-right: none;
+            padding-right: 0;
+            }
+
+            & .btn-nav {
+                margin-top: 24px;
+                margin-left: 0;
+                padding: 12px 48px;
+                width: 56vw;
+                max-width: 220px;
+                text-align: center;
+                font-size: 20px;
+                color: white;
+            }
+
+            & .cart-icon {
+                display: none;
+            }
+
+            & .nav--links_active {
+                &:after {
+                    display: none;
+                }
             }
         }
+
+        & svg {
+            fill: white;
+        }
+
     }
 }
 
