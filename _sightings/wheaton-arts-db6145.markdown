@@ -13,4 +13,4 @@ location:
   longitude: 75.0393° W
 ---
 
-The Chief Investigator, Ráchel Räder, and Energy Assesment Specialist, Åmy Lêmaire, examine the energies of Millville, NJ. 
+The Chief Investigator, Ráchel Räder, and Energy Assessment Specialist, Åmy Lêmaire, examine the energies of Millville, NJ. 
