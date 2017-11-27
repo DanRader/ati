@@ -3,7 +3,7 @@ title: MAD|Museum of Arts and Design
 date: 2017-04-29 01:36:00 -04:00
 categories:
 - Performance
-position: 5
+position: 6
 start-date: 2017-04-29 15:00:00 -04:00
 end-date: 2017-04-29 16:00:00 -04:00
 time: 3-4pm
