@@ -6,7 +6,7 @@ layout: default
     <div class="artifact--list__wrap">
         {% assign artifact-sort = site.artifacts | sort:"position"  %}
         {% for artifact in artifact-sort %}
-        <div class="artifact--list px1 pb2 col sm-col-6 lg-col-4">
+        <div class="artifact--list px1 pb2 col-12 sm-col sm-col-6 lg-col-4">
             <a href="{{ artifact.url }}">
                 {% assign first-image = artifact.images | first %}
                 <div class="artifact--list__image " style="background-image: url({{ first-image }});"></div>
