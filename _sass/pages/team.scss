@@ -4,6 +4,10 @@
     flex-wrap: wrap;
     align-content: flex-start;
     justify-content: space-between;
+    margin-top: 1rem;
+    @media (max-width: 40em) {
+    margin-top: 0;
+    }
 }
 
 .rachel--image {
@@ -13,9 +17,17 @@
     transition: .2s;
     display: block;
     min-height: 85vh;
+    margin-bottom: 4rem;
+    @media (max-width: 40em) {
+        min-height: 35vh;
+        background-position: 50% 33%;
+        margin-bottom: 0;
+        border: 8px solid white;
+    }
 }
 
 .team {
+    margin-bottom: 4rem;
 
     & p {
         font-size: 15px;
@@ -27,6 +39,11 @@
         line-height: 1;
     }
 
+    @media (max-width: 40em) {
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
     & .team--image {
         border: 11px solid white;
         border-radius: 2px;
@@ -36,6 +53,17 @@
         background-position: center;
         background-size: cover;
         margin-bottom: 1.25rem;
+
+        @media (max-width: 831px) {
+            border: 8px solid white;
+            height: 35vh;
+            background-position: 50% 33%;
+        }
+
+        @media (max-width: 40em) {
+            height: 25vh;
+            margin-bottom: 1rem;
+        }
     }
 }
 
@@ -47,6 +75,7 @@
         font-weight: 100;
         font-size: 58px;
     }
+
     & .team-title {
         text-transform: uppercase;
         letter-spacing: 4px;
@@ -55,6 +84,12 @@
         margin-left: 3px;
         font-weight: 700;
     }
+
+    @media (max-width: 40em) {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
 }
 
 .team-details {

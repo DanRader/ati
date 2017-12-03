@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class="clearfix max-width-4 mx-auto mt2 team__wrap">
+<div class="clearfix max-width-4 mx-auto team__wrap">
 
     {% assign team_sort = site.team | sort:"position" %}
     {% for team in team_sort limit:1 %}
-    <div class="col col-7 px2 mb4">
+    <div class="col col-12 sm-col-4 md-col-7 lg-col-7 px2">
         <div class="rachel--image cover" style="background-image: url({{ team.image }});"></div>
     </div>
-    <div class="col col-5 px2 mt3">
+    <div class="col col-12 sm-col-8 md-col-5 lg-col-5 px2 mt3">
         <section class="rachel">
             <p class="team-title">{{ team.team-title }}</p>
             <h1>{{ team.title }}</h1>
@@ -19,7 +19,7 @@ layout: default
     {% endfor %}
 
         {% for team in team_sort offset:1 %}
-        <section class="team sm-col sm-col-12 md-col-4 lg-col-4 px2 mb4">
+        <section class="team sm-col sm-col-12 md-col-4 lg-col-4 px2">
             <div class="team--image" style="background-image: url({{ team.image }});">
             </div>
             <div class="team-details px2">

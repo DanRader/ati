@@ -2,8 +2,8 @@
 title: Jáson Bland-Förd
 date: 2017-09-18 20:12:00 -04:00
 position: 3
-image: "/uploads/Profile%20pic_Blandford_medres.jpg"
 team-title: Linguistics Specialist
+image: "/uploads/Profile-pic_Blandford_medres.jpg"
 external-link: "#"
 instagram: "#"
 twitter: "#"
