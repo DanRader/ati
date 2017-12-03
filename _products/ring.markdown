@@ -1,14 +1,14 @@
 ---
-title: '89238923'
+title: BS-N-XL-01
 date: 2017-11-08 15:18:00 -05:00
 categories:
-- necklaces
+- Necklaces
 position: 0
 visible-title: Pink Banded Strattite Necklace
 elements: Banded Strattite
 product-colors: Pink
-price: 155
-sku: 'BS-N-XL-pink '
+price: 156
+sku: BS-N-XL-01
 weight: 1
 width: 3/8"
 height: '3.25" '
