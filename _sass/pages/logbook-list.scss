@@ -16,6 +16,11 @@
 .post--list {
     display: inline-block;
     vertical-align: top;
+    margin-bottom: 4rem;
+
+    @media (max-width: 40em) {
+        margin-bottom: 2rem;
+    }
 }
 
 
@@ -55,12 +60,16 @@
   background-size: cover;
   position: absolute;
   z-index: -1;
+
+  @media (max-width: 40em)  {
+     width: 100vw;
+  }
 }
 
 .blog-highlight {
   background-color: black;
   color: white;
-  padding: 8% 7% 5% 7%;
+  padding: 63px 7% 5% 7%;
   position: absolute;
   bottom: -32px;
   right: 15px;

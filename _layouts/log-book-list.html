@@ -17,7 +17,7 @@ layout: default
         <div class="blog-hero mx-auto max-width-4 clearfix my4 relative">
 
             <a href="{{ post.url }}">
-                <div class="blog-highlight col-5">
+                <div class="blog-highlight col col-10 sm-col-8 lg-col-6">
                       <div class="blog-highlight-cover-image" style="background-image: url('{{ post.image }}');"></div>
                       <div class="blog-highlight-date">
                           <p>Entry No. {{ post.entry-number }} // {{ post.date | date: "%m.%d.%y" }}</p>
@@ -43,7 +43,7 @@ layout: default
       <div class="post-container">
 
             {% for post in entry_sort offset: 1 %}
-              <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb4 post--list ">
+              <div class="col col-12 sm-col-12 md-col-4 lg-col-4 px2 post--list ">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                  <section class="blog-list-item">
                    <div class="blog-list-image cover relative" style="background-image: url('{{ post.image }}');">
