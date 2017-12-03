@@ -1,18 +1,21 @@
 ---
-title: '89238923'
+title: BS-S-S-03
+date: 2017-12-03 01:11:00 -05:00
 categories:
-- Rings
+- Earrings
 position: 1
-visible-title: Knecklace
-elements: Petrified Spongy Coral
+visible-title: Banded Strattite Post Earrings
+elements: Banded Strattite
 product-colors: Blue
-price: 666.33
-sku: 2
-weight: 10
+price: 130
+sku: BS-S-S-03
+weight: 1
+width: 4/8"
+height: 6/8"
+materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
-- "/uploads/rach-90.jpg"
-- "/uploads/rach-89.jpg"
-- "/uploads/rach-91.jpg"
+- "/uploads/BS-S-S-03.jpg"
 layout: shop-item
 ---
 
+Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
