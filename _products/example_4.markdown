@@ -1,18 +1,21 @@
 ---
-title: '89237823'
+title: BS-S-S-04
+date: 2017-12-02 01:28:00 -05:00
 categories:
-- necklaces
+- Earrings
 position: 2
-visible-title: Necklace 2
-elements: Spotted Quartz
-product-colors: Green
-price: 666.33
-sku: 4
-weight: 10
+visible-title: Banded Strattite Post Earrings
+elements: Banded Strattite
+product-colors: Purple
+price: 130
+sku: BS-S-S-04
+weight: 1
+width: 3/8"
+height: 6/8"
+materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
-- "/uploads/rach-95.jpg"
-- "/uploads/rach-96.jpg"
-- "/uploads/rach-94-508f5b.jpg"
+- "/uploads/BS-S-S-04.jpg"
 layout: shop-item
 ---
 
+Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
