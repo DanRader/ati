@@ -1,19 +1,19 @@
 ---
-title: '0082382'
+title: BS-S-S-01
 date: 2017-11-08 22:25:00 -05:00
 categories:
-- necklaces
-visible-title: Banded Strattite Necklace
+- Earrings
+visible-title: Banded Strattite Post Earrings
 elements: Banded Strattite
-product-colors: Blue
-price: 2600
-sku: BS-N-L
+product-colors: Green
+price: 130
+sku: BS-S-S-01
 weight: 1
-width: 18" l x  .5" w
-materials: Fused and coldworked glass, goldfilled wire
+width: 3/8"
+height: 7/8"
+materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
-- "/uploads/BS%20necklace-low%20res.jpg"
-- "/uploads/BS%20large%20necklace%20detail%20low%20res.jpg"
+- "/uploads/BS-S-S-01.jpg"
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
