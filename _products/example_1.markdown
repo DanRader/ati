@@ -1,24 +1,21 @@
 ---
-title: '98238923'
+title: SQ-S-S-02
+date: 2017-12-02 01:57:00 -05:00
 categories:
 - Earrings
-- Bracelets
-- Rings
 position: 4
-visible-title: Pink Banded Strattite Earrings
-elements: Petrified Spongy Coral
-product-colors: Pink
-price: 198.23
-sku: 1
-weight: 10
-width: 2”
-height: 3/8"
-materials: Bronze, Glass, Cubic Zirconia
+visible-title: Spotted Quartz Post Earrings
+elements: Spotted Quartz
+product-colors: Gold
+price: 130
+sku: SQ-S-S-02
+weight: 1
+width: 3/8"
+height: 1"
+materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
-- "/uploads/Jen-58.jpg"
-- "/uploads/Jen-57.jpg"
-feature-image: http://www.rd.com/wp-content/uploads/sites/2/2016/02/06-train-cat-shake-hands.jpg
+- "/uploads/SQ-S-S-02.jpg"
 layout: shop-item
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
