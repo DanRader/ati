@@ -1,14 +1,20 @@
 ---
-title: '89238932'
+title: SQ-S-S-01
 date: 2017-11-08 15:18:00 -05:00
 categories:
-- Rings
+- Earrings
 position: 3
-visible-title: Rings 2
-elements: Banded Strattite
-product-colors: Black
+visible-title: Spotted Quartz Post Earrings
+elements: Spotted Quartz
+product-colors: Blue
+price: 130
+sku: SQ-S-S-01
+weight: 1
+width: 4/8"
+height: 5/8"
+materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
-- "/uploads/rach-87.jpg"
-- "/uploads/rach-84-f7213f.jpg"
+- "/uploads/SQ-S-S-01.jpg"
 ---
 
+Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
