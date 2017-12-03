@@ -8,7 +8,7 @@ visible-title: 'Spotted Quartz Post Earrings
 '
 elements: Spotted Quartz
 product-colors: Black
-price: "$140"
+price: 140
 sku: SQ-S-M-01
 weight: 1
 width: 5/8"
