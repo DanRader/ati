@@ -8,28 +8,29 @@ layout: default
     <div class="tabs mx2">
 
           <input type="radio" name="tabs" id="toggle-tab1" checked="checked" />
-          <label for="toggle-tab1">Upcoming Sightings</label>
+          <label for="toggle-tab1">Upcoming <span>Sightings</span></label>
 
           <input type="radio" name="tabs" id="toggle-tab2" />
-          <label for="toggle-tab2">Past Sightings</label>
+          <label for="toggle-tab2">Past <span>Sightings</span></label>
 
           <div id="tab1" class="tab">
               {% assign sightings-sort = site.sightings | sort: "start-date" %}
 
-              {% for sighting in site.sightings %}
+              {% for sighting in sightings-sort %}
               {% assign today = "now" | date: "%s"%}
               {% assign event-date = sighting.start-date | date: "%s" %}
-
-              {% if today <= event-date %}
-                {% include components/sightings.html %}
-              {% endif %}
-
+                  {% if today <= event-date %}
+                    {% include components/sightings.html %}
+                  {% endif %}
               {% endfor %}
-          </div>
-          <div id="tab2" class="tab">
-              {% assign sightings-sort = site.sightings | sort: "start-date" %}
 
-              {% for sighting in site.sightings %}
+
+          </div>
+
+          <div id="tab2" class="tab">
+              {% assign sightings-sort-rev = site.sightings | sort: "start-date" | reverse %}
+
+              {% for sighting in sightings-sort-rev %}
 
               {% assign today = "now" | date: "%s"%}
               {% assign event-date = sighting.start-date | date: "%s" %}

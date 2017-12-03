@@ -1,25 +1,36 @@
 .page--hero {
-  width: 78vw;
-  height: 54vh;
-  right: 0px;
-  background-position: center;
-  background-size: cover;
-  position: relative;
-  z-index: -1;
+    width: 78vw;
+    height: 54vh;
+    right: 0px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: -1;
+    transition: $transition-1;
+
+    @media #{$media-max-tablet} {
+        width: 100vw;
+        height: 28vh;
+        background-color: black;
+        background-blend-mode: hard-light;
+    }
 }
 
 .page--hero__title {
   position: absolute;
   left: -5%;
   bottom: -38px;
-  padding: .6% 2% 1.2% 2%;
+  padding: 4px 7px 11px 7px;
   transform: rotate(-90deg);
   transform-origin: left;
+  transition: $transition-1;
+
   & h1 {
     color: black;
     font-weight: 100;
     font-size: 51px;
     line-height: 51px;
+
     &:before {
       content: "";
       width: 97%;
@@ -34,4 +45,21 @@
       opacity: .7;
     }
   }
+
+  @media #{$media-max-tablet} {
+      position: absolute;
+      left: 33px;
+      top: 24px;
+      bottom: inherit;
+      transform: none;
+      transform-origin: left;
+
+      & h1 {
+          color: white;
+
+          &:before {
+              background-color: white;
+          }
+        }
+    }
 }

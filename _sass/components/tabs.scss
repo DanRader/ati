@@ -26,12 +26,18 @@
         &:hover{
               color:#707070;
         }
+        & span {
+            @media #{$media-max-tablet} {
+                display: none;
+            }
+        }
 
     }
     & .tab{
     	min-height:200px;
     	display:none;
         color:#444;
+        padding-top: 2rem;
     }
 
 

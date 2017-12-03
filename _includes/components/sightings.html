@@ -1,6 +1,6 @@
-    <section class="sightings--list col sm-col-12 lg-col-12 px1 py4 pb3 clearfix relative">
+    <section class="sightings--list col sm-col-12 lg-col-12 px1 pb4 clearfix relative">
         <a href="{{ sighting.external-link }}" target="_blank">
-            <div class="sightings--list__title col col-4 clearfix">
+            <div class="sightings--list__title col col-12 md-col-4 clearfix px1">
                 <h2>{{ sighting.title }}</h2>
                 <div class="block">
                     <div class="sightings--list__category">
@@ -9,10 +9,10 @@
                 </div>
             </div>
         </a>
-        <div class="sightings--list__desc col col-8 pl4 clearfix">
-            <h3>{{ sighting.start-date | date: "%b %d %y" }} {% if sighting.end-date %}through {{ sighting.end-date | date: "%b %d %y"}} {% endif %} {% if sighting.time %} | {{ sighting.time }} {% endif %}</h3>
-            <p><a href="{{ sighting.location.link }}" target="_blank">{{ sighting.location.latitude }}, {{ sighting.location.longitude }}<br>{{ sighting.location.address }}</a></p>
-            <p>{{ sighting.content }}</p>
+        <div class="sightings--list__desc col col-12 md-col-8 clearfix">
+            <h3>{{ sighting.start-date | date: "%b %d" }} {% if sighting.end-date %}through {{ sighting.end-date | date: "%b %d, %Y"}} {% endif %} {% if sighting.time %} | {{ sighting.time }} {% endif %}</h3>
+            <p>{{ sighting.location.latitude }}, {{ sighting.location.longitude }}<br>{{ sighting.location.address }}</p>
+            <p>{{ sighting.content | strip_html }}</p>
             <button type="button" name="button" href="{{ sighting.external-link }}" class="btn-prime">Learn More</button>
         </div>
     </section>

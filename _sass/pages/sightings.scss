@@ -41,17 +41,28 @@
                 font-size: 13px;
                 margin-bottom: 0;
                 transition: $transition-1;
+                color: black;
             }
       }
 }
 
 .sightings--list__desc {
+    padding-left: 2rem;
+
       & h3 {
-          margin-bottom: 1rem;
+          margin-bottom: 0.5rem;
           font-size: 24px;
           font-weight: 700;
       }
+      & p {
+          margin-bottom: 0.5rem;
+      }
       & .btn-prime {
-          margin-top: 1rem;
+          margin-top: 0.5rem;
+      }
+
+      @media #{$media-max-l}{
+          padding-left: 0;
+          padding-top: 2rem;
       }
 }

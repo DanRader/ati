@@ -17,6 +17,7 @@
     display: inline-block;
     vertical-align: top;
     margin-bottom: 4rem;
+    transition: $transition-1;
 
     @media (max-width: 40em) {
         margin-bottom: 2rem;
@@ -28,9 +29,11 @@
   position: absolute;
   left: -5%;
   bottom: -38px;
-  padding: .6% 2% 1.2% 2%;
+  padding: 4px 7px 11px 7px;
   transform: rotate(-90deg);
   transform-origin: left;
+  transition: $transition-1;
+
   & h1 {
     color: black;
     font-weight: 100;
@@ -40,7 +43,7 @@
       content: "";
       width: 97%;
       height: 9px;
-      background-color: #BCD422;
+      background-color: $ati-green;
       position: absolute;
       bottom: 29px;
       left: 0;
@@ -50,6 +53,22 @@
       opacity: .7;
     }
   }
+  @media #{$media-max-tablet} {
+      position: absolute;
+      left: 33px;
+      top: 24px;
+      bottom: inherit;
+      transform: none;
+      transform-origin: left;
+
+      & h1 {
+          color: white;
+
+          &:before {
+              background-color: white;
+          }
+        }
+    }
 }
 
 .blog-highlight-image {
@@ -60,6 +79,7 @@
   background-size: cover;
   position: absolute;
   z-index: -1;
+  transition: $transition-1;
 
   @media (max-width: 40em)  {
      width: 100vw;
