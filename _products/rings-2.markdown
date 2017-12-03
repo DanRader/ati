@@ -17,4 +17,4 @@ product-images:
 - "/uploads/SQ-S-S-01.jpg"
 ---
 
-Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
+Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
