@@ -15,5 +15,5 @@ You can find the newest collection of Chakra Enhancers made by the Chief Investi
 We'll also post a collection to the Ancient Truth Investigators website soon. Stay tuned!
 
 ![newcollection02.jpg](/uploads/newcollection02.jpg)
-New large Meta pieces can be found at **[Bullseye Projects.](https://www.bullseyeprojects.com/)**
+New large Meta pieces can be found at *[Bullseye Projects.](https://www.bullseyeprojects.com/)*
 ![collection03.jpg](/uploads/collection03.jpg)
