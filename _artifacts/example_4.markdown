@@ -2,8 +2,8 @@
 title: Weapons of War
 position: 4
 images:
-- "/uploads/Weapons-of-war-low-res.jpg"
-- "/uploads/Weapons-of-war-02-low-res.jpg"
+- "/uploads/weapons"
+- "/uploads/weapons02"
 layout: artifact
 ---
 
