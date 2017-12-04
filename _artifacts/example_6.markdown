@@ -2,9 +2,9 @@
 title: Medallion
 position: 5
 images:
-- "/uploads/Medallion-low%20res.jpg"
-- "/uploads/Medallion%2002-low%20res.jpg"
-- "/uploads/Medallion%2003-low%20res.jpg"
+- "/uploads/medallion01"
+- "/uploads/medallion02.jpg"
+- "/uploads/medallion03"
 layout: artifact
 ---
 
