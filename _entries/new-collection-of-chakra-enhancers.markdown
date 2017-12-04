@@ -8,7 +8,7 @@ You can find the newest collection of Chakra Enhancers made by the Chief Investi
 
 [Bullseye Gallery,](https://www.bullseyeprojects.com/) in Portland, OR
 
-[UrbanGlass|ware](https://store.urbanglass.org/collections/ancient-truth-investigators), in Brooklyn, NY
+UrbanGlass|ware, in Brooklyn, NY
 
 [Vetri Gallery](https://vetriglass.com/shop/), in Seattle, WA
 
