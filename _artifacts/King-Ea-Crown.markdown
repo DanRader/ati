@@ -2,7 +2,7 @@
 title: King Ea's Crown
 position: 1
 images:
-- "/uploads/Crown_low-res.jpg"
+- "/uploads/Crown_hi-res.jpg"
 - "/uploads/Crown03_low-res.jpg"
 - "/uploads/Crown02_low-res.jpg"
 catalogue-number: 204.23455
