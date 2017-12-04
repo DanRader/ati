@@ -32,9 +32,14 @@
     align-items: center;
 }
 
+.home-image {
+    height: 120%;
+    width: 100%;
+}
+
 .hero-slider_image {
     & .slick-current {
-        & img {
+        & .home-image {
             animation: image-floater1 14s ease-out;
             transform: none;
         }
@@ -182,6 +187,8 @@
     animation: floater1 13s infinite;
 
 }
+
+
 
 
 @keyframes floater1 {

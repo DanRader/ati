@@ -20,7 +20,9 @@ layout: default-noNav
             <div class="hero-slider_image">
                 {% for image in image_sort %}
                 <div class="home--imageCarousel_image overflow-hidden">
-                    <img src="{{ image.image }}" alt="">
+                    <div class="cover home-image" style="background-image: url({{ image.image }});">
+
+                    </div>
                 </div>
                 {% endfor %}
             </div>
