@@ -2,7 +2,7 @@
 title: Sacred Stone
 position: 2
 images:
-- "/uploads/chakra-stone-01-low-res.jpg"
+- "/uploads/chakrastone01"
 - "/uploads/chakra-stone-01-detail--low-res.jpg"
 catalogue-number: '000.9230'
 size: 12" x 12" x 2"
