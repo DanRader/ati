@@ -3,8 +3,8 @@ title: King Ea's Crown
 position: 1
 images:
 - "/uploads/crown.jpg"
-- "/uploads/Crown02_low%20res.jpg"
 - "/uploads/Crown03_low-res.jpg"
+- "/uploads/Crown02_low-res.jpg"
 catalogue-number: 204.23455
 size: 8" x 9" x 3.5"
 material: Fused glass

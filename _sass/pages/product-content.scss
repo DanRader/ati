@@ -10,6 +10,9 @@
         font-size: 15px;
         line-height: 24px;
     }
+    @media #{$media-max-tablet}{
+        padding-top: 2rem;
+    }
 }
 
 .pricing {
@@ -44,8 +47,20 @@
 
 // Image carousel
 
+slider-wrap {
+    padding-right: 1rem;
+
+    @media #{$media-max-tablet}{
+        padding-right: 0;
+    }
+}
+
 .product-slider_image {
     min-height: 35rem;
+    
+    @media #{$media-max-tablet}{
+        min-height: 24rem;
+    }
 }
 
 .product-slider_navImage {

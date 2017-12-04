@@ -1,3 +1,18 @@
+.shop-list-wrap {
+    padding-top: 2rem;
+
+    @media #{$media-max-l} {
+        padding-top: 0;
+    }
+}
+
+.product-wrap {
+    border-left: 1px solid #00000073;
+    @media #{$media-max-tablet}{
+        border-left: none;
+    }
+}
+
 .product-container {
     display: flex;
     flex-direction: row;
@@ -66,16 +81,22 @@
   min-height: 5px;
 }
 
-.product--YAML h2 {
-    font-weight: 800;
-    font-size: 16px;
-    margin: 0;
-    line-height: 36px;
-    text-transform: uppercase;
-    letter-spacing: 6px;
-    text-align: center;
+.product--YAML {
+    & h2 {
+        font-weight: 800;
+        font-size: 16px;
+        margin: 0;
+        line-height: 36px;
+        text-transform: uppercase;
+        letter-spacing: 6px;
+        text-align: center;
+    }
+    @media #{$media-max-tablet}{
+        margin-top: 2rem;
+        padding-top: 2rem;
+        border-top: 1px solid #0000002e;
+    }
 }
-
 
 
 
