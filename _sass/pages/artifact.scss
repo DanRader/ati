@@ -83,6 +83,11 @@
     flex-wrap: wrap;
     align-content: flex-start;
     justify-content: space-between;
+    padding-top: 2rem;
+
+    @media #{$media-max-tablet}{
+        padding-top: 0;
+    }
 }
 
 .artifact--list {
@@ -107,6 +112,10 @@
         transition: $transition-2;
         transform: none;
         transform-origin: bottom;
+
+        @media #{$media-max-tablet} {
+            min-height: 18rem;
+        }
       }
 
     &:hover {

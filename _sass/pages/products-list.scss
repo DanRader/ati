@@ -60,6 +60,10 @@
     transition: $transition-2;
     transform: none;
     transform-origin: bottom;
+
+    @media #{$media-max-tablet}{
+        min-height: 14rem;
+    }
   }
 
   .product-image {
