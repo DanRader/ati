@@ -8,12 +8,12 @@ You can find the newest collection of Chakra Enhancers made by the Chief Investi
 
 [Bullseye Gallery,](https://www.bullseyeprojects.com/) in Portland, OR
 
-[UrbanGlass Ware](https://store.urbanglass.org/collections/ancient-truth-investigators),* *in Brooklyn, NY
+[UrbanGlass Ware](https://store.urbanglass.org/collections/ancient-truth-investigators), in Brooklyn, NY
 
 [Vetri Gallery](https://vetriglass.com/shop/), in Seattle, WA
 
 We'll also post a collection to the Ancient Truth Investigators website soon. Stay tuned!
 
 ![newcollection02.jpg](/uploads/newcollection02.jpg)
-New large Meta pieces can be found at* *[Bullseye Projects.](https://www.bullseyeprojects.com/) 
+New large Meta pieces can be found at [Bullseye Projects.](https://www.bullseyeprojects.com/)
 ![collection03.jpg](/uploads/collection03.jpg)
