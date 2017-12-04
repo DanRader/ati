@@ -1,5 +1,8 @@
 .first-label {
     margin: 0px 30px 0 30px !important;
+        @media #{$media-max-tablet} {
+            display: none !important;
+        }
     }
 
 #accordion-group {
@@ -15,6 +18,13 @@
         &:checked ~ article {
         	margin-bottom: .125em;
             max-height: 250px;
+            transform: none;
+            opacity: 1;
+        }
+
+        &:checked ~ .filters {
+            margin-bottom: .125em;
+            max-height: 390px;
             transform: none;
             opacity: 1;
         }
@@ -49,5 +59,24 @@
         transform: translateY(-10px);
         transform-origin: top;
         opacity: 0;
+    }
+
+    & .filters {
+        @media #{$media-max-tablet} {
+    	overflow: hidden;
+    	z-index: 10;
+        transition: 0.25s ease-out;
+        margin-bottom: 0;
+        max-height: 0;
+        transform: translateY(-10px);
+        transform-origin: top;
+        opacity: 0;
+        }
+    }
+}
+
+.filter-open {
+    @media (min-width: 40em) {
+        display: none !important;
     }
 }
