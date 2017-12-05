@@ -6,6 +6,12 @@ nav {
       }
 }
 
+.clearNav {
+    & .nav-wrapper {
+        background: transparent;
+    }
+}
+
 .nav-wrapper {
   background-color: $paper-tan;
   z-index: 999;
@@ -25,6 +31,10 @@ nav {
     padding-right: 14px;
     padding-top: 10px;
     display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
 
     @media screen and (max-width: 890px) {
         display: block;
@@ -107,7 +117,7 @@ nav {
         left: 0;
         height: 100%;
         z-index: -1;
-        background: black;
+        background: black !important;
         opacity: 0;
         transition: $transition-1;
 
