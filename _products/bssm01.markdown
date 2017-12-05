@@ -14,6 +14,7 @@ height: 1"
 materials: Fused and coldworked glass, goldfil posts & backs.
 product-images:
 - "/uploads/BS-S-M-01.jpg"
+- "/uploads/BS-S-M-01_hand.jpg"
 - "/uploads/BSearrings_editorial.jpg"
 ---
 
