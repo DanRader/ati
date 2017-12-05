@@ -14,6 +14,7 @@ height: 1 2/8"
 materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
 - "/uploads/SQ-S-M-02"
+- "/uploads/SQ-S-M-02_hand"
 ---
 
 Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
