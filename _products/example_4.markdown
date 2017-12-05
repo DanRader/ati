@@ -15,6 +15,7 @@ height: 6/8"
 materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
 - "/uploads/BS-S-S-04.jpg"
+- "/uploads/BS-S-S-04_hand.jpg"
 layout: shop-item
 ---
 
