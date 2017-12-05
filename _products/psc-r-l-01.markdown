@@ -3,7 +3,7 @@ title: PSC-R-L-01
 date: 2017-12-04 19:19:00 -05:00
 categories:
 - Rings
-visible-title: 'Petrified Spoingy Coral Ring '
+visible-title: 'Petrified Spongy Coral Ring '
 elements: Petrified Spongy Coral
 price: 110
 sku: PSC-R-L-01
