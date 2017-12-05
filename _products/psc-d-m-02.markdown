@@ -14,6 +14,7 @@ height: 1 5/8" length from the ear
 materials: Bronze, cubic zirconia, and gold-filled ear wire
 product-images:
 - "/uploads/PSC-D-M-02"
+- "/uploads/PSC-D-M-02_hand"
 - "/uploads/PSCdangle_model02"
 - "/uploads/PSCdangle_model"
 ---
