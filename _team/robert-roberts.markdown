@@ -2,7 +2,7 @@
 title: Åmy Lêmaire
 date: 2017-09-18 20:11:00 -04:00
 position: 1
-team-title: Energy Assessment Specialis
+team-title: Energy Assessment Specialist
 image: "/uploads/Profile-pic_Lemaire_medres.jpg"
 external-link: "#"
 instagram: "#"
