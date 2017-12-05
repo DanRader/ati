@@ -8,7 +8,7 @@ elements: Petrified Spongy Coral
 price: 90
 sku: PSC-R-S-01
 weight: 1
-width: 6.5
+width: 6
 materials: Bronze and cubic zirconia
 product-images:
 - "/uploads/PSC-R-S-01"
