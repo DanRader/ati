@@ -14,6 +14,7 @@ height: 2 3/16" length from the ear
 materials: Fused and coldworked glass, goldfilled earwires
 product-images:
 - "/uploads/BS-D-XL-01"
+- "/uploads/BS-D-XL-01_hand"
 ---
 
 Fused and coldworked glass, goldfilled earwires
