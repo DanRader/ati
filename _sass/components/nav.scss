@@ -1,6 +1,9 @@
 
 nav {
       height: 77px;
+      @media #{$media-max-tablet}{
+          height: 65px;
+      }
 }
 
 .nav-wrapper {
@@ -13,6 +16,19 @@ nav {
   float: left;
   padding-left: 25px;
   padding-right: 14px;
+}
+
+.mobile-logo svg {
+    max-width: 2.6rem;
+    float: left;
+    padding-left: 25px;
+    padding-right: 14px;
+    padding-top: 10px;
+    display: none;
+
+    @media screen and (max-width: 890px) {
+        display: block;
+    }
 }
 
 .nav--links {
@@ -136,6 +152,11 @@ nav {
 
         & svg {
             fill: white;
+            max-width: 2.6rem;
+            float: left;
+            padding-left: 16px;
+            padding-right: 12px;
+            padding-top: 2px;
         }
 
     }
@@ -149,7 +170,7 @@ nav {
         width: 48px;
         height: 48px;
         cursor: pointer;
-        z-index: 9999;
+        z-index: 999999;
         border-radius: 50%;
 
         @media screen and (max-width: 890px) {
@@ -176,7 +197,9 @@ nav {
         }
     }
 
-
+#nav:checked > .mobile-logo svg {
+        fill: white;
+}
 
 #nav:checked + .nav-open {
     transform: rotate(45deg);
@@ -198,7 +221,7 @@ nav {
     }
 
 #nav:checked ~ .nav-container {
-    z-index: 9990;
+    z-index: 99999;
     opacity: 1;
     & ul li {
 

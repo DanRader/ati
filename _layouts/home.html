@@ -1,8 +1,8 @@
 ---
-layout: default-noNav
+layout: default
 ---
 
-<nav class="flex space-between home--nav">
+<!-- <nav class="flex space-between home--nav">
     <ul class="block list-reset clearfix mx-auto">
        {% assign current = page.url | downcase | split: '/' %}
             <a href='/artifacts'><li class=" block left {% if current contains 'artifacts' %}nav--links_active {% endif %}nav--links" id="nav1">Artifacts</li></a>
@@ -11,7 +11,7 @@ layout: default-noNav
             <a href='/team'><li class=" block left {% if current contains 'team' %}nav--links_active {% endif %}nav--links" id="nav5">The Team</li></a>
             <a href='/shop'><li class=" block left {% if current contains 'shop' %}nav--links_active {% endif %}nav--links nav--last" id="nav4">Shop</li></a>
     </ul>
-</nav>
+</nav> -->
     <div class="home--wrapper mx-auto ">
         {% assign image_sort = site.home-images | sort:"position"  %}
 
@@ -37,6 +37,7 @@ layout: default-noNav
         </div>
 
         <!-- texture  -->
+
         <div class="home--texture_wrap hero-slider_texture">
             {% for image in image_sort %}
             <div class="home--texture_innerwrapper">
@@ -67,6 +68,7 @@ layout: default-noNav
                 autoplay: true,
                 autoplaySpeed: 12000,
                 asNavFor: '.hero-slider_texture',
+                draggable: true,
             });
                 $('.hero-slider_texture').slick({
                       slidesToShow: 1,
