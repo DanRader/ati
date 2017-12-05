@@ -18,4 +18,4 @@ product-images:
 - "/uploads/SQdangle_model02.jpg"
 ---
 
-Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
+Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
