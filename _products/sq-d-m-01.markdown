@@ -5,7 +5,7 @@ categories:
 - Earrings
 visible-title: Spotted Quartz Dangle Earrings
 elements: Spotted Quartz
-product-colors: Yellow
+product-colors: Brown
 price: 150
 sku: SQ-D-M-01
 weight: 1
