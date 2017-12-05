@@ -16,6 +16,7 @@ product-images:
 - "/uploads/PSC-D-M-01"
 - "/uploads/PSCdangle_model"
 - "/uploads/PSCdangle_model02"
+- "/uploads/PSC-D-M-01_hand"
 ---
 
 Made from Petrified Spongy Coral specimen. Fabricated by the Chief Investigator, Ráchel Räder.
