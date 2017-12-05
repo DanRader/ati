@@ -14,6 +14,7 @@ height: 1.5" length from the ear
 materials: Fused and coldworked glass on a gold-filled ear wire
 product-images:
 - "/uploads/SQ-D-L-01"
+- "/uploads/SQ-D-L-01_hand.jpg"
 ---
 
 Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
