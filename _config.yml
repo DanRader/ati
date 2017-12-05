@@ -117,7 +117,7 @@ defaults:
     path: ''
     type: Product-Colors
   values:
-    color: ''
+    color: ""
 - scope:
     path: ''
     type: home-images
