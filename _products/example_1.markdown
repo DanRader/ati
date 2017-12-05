@@ -6,7 +6,7 @@ categories:
 position: 4
 visible-title: Spotted Quartz Post Earrings
 elements: Spotted Quartz
-product-colors: Yellow
+product-colors: Brown
 price: 130
 sku: SQ-S-S-02
 weight: 1
