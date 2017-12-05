@@ -14,11 +14,11 @@ width: 3/8"
 height: '3.25" '
 materials: 'Fused and coldworked glass on a goldfilled chain. '
 product-images:
+- "/uploads/BS-N-XL-01"
 - "/uploads/BS-N-XL-b.jpg"
 - "/uploads/BS-N-XL-d.jpg"
 - "/uploads/BS-N-XL-e.jpg"
 - "/uploads/BS-N-XL-c.jpg"
-- "/uploads/BS-N-XL-01"
 ---
 
 Chain is 18" in length.
