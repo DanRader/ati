@@ -19,7 +19,7 @@ layout: default
       {{ content }}
         <section class="product_details mb3">
             <h2>Details</h2>
-            <p><span>Size: </span>{{ page.width }} x {{ page.height }}</p>
+            <p><span>Size: </span>{{ page.width }} {% if page.height %}x {{ page.height }} {% endif %}</p>
             <p><span>Materials: </span>{{ page.materials }}</p>
         </section>
 
