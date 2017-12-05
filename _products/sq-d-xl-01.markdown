@@ -14,7 +14,6 @@ height: 2.5" length from the ear
 materials: Fused and coldworked glass on a gold-filled ear wire
 product-images:
 - "/uploads/SQ-D-XL-01"
-- "/uploads/SQ-D-XL-01_hand"
 - "/uploads/SQ-D-XL-01_hand2"
 ---
 
