@@ -9,7 +9,7 @@ product-colors: Bronze
 price: 110
 sku: PSC-R-L-01
 weight: 1
-width: 6
+width: 6"
 materials: Bronze and cubic zirconia
 product-images:
 - "/uploads/PSC-R-L-01"
