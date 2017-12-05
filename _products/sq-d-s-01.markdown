@@ -9,8 +9,8 @@ product-colors: Black
 price: 140
 sku: SQ-D-S-01
 weight: 1
-width: 4/8"
-height: 1 2/8" from ear
+width: 4/8" w
+height: 1 2/8" length from ear
 materials: Fused and coldworked glass on a gold-filled ear wire
 product-images:
 - "/uploads/SQ-D-S-01"
