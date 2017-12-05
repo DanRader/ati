@@ -14,9 +14,9 @@ height: 1.5" length from the ear
 materials: 'Bronze, cubic zirconia, and gold-filled ear wire '
 product-images:
 - "/uploads/PSC-D-M-01"
+- "/uploads/PSC-D-M-01_hand"
 - "/uploads/PSCdangle_model"
 - "/uploads/PSCdangle_model02"
-- "/uploads/PSC-D-M-01_hand"
 ---
 
 Made from Petrified Spongy Coral specimen. Fabricated by the Chief Investigator, Ráchel Räder.
