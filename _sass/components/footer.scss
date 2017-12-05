@@ -6,19 +6,27 @@ footer {
 }
 .footer--content {
     overflow: hidden;
-  & h2{
-    color: white;
-    text-transform: uppercase;
-    letter-spacing: 12px;
-    font-size: 18px;
-    font-weight: 100;
-    padding: 2% 1rem 0 1rem;
-  }
-  & p {
-    color: white;
-    padding-bottom: 4%;
-    padding: 0 1rem;
-  }
+
+    & h2{
+        color: white;
+        text-transform: uppercase;
+        letter-spacing: 12px;
+        font-size: 18px;
+        font-weight: 100;
+        padding: 2% 1rem 0 1rem;
+      }
+
+    & p {
+        color: white;
+        padding-bottom: 4%;
+        padding: 0 2rem;
+        margin-bottom: 2rem;
+        line-height: 24px;
+      }
+
+      @media #{$media-max-tablet}{
+          padding-bottom: 3rem;
+      }
 }
 .footer-bp {
   padding: 0 16px;
@@ -30,8 +38,16 @@ footer {
     }
 
     @media #{$media-max-tablet}{
+        text-align: center;
+        padding-bottom: 2rem;
+
         & div {
             float: none;
+            display: inline-block;
+            margin: auto;
+        }
+        & p {
+            margin-bottom: 0;
         }
     }
 
@@ -45,17 +61,19 @@ margin-left: 10px;
 .mc-field-group {
   position: relative;
   margin: 0 auto 25px auto;
+  width: 90%;
+  max-width: 380px; 
 
   & input {
     position: relative;
     border: 1px solid white;
     background-color: $darkest-grey;
     color: white;
-    width: 100%;
-    max-width: 380px;
     height: 42px;
     transition: $transition-1;
     padding: .5rem 1rem;
+    width: 90%;
+    max-width: 380px;
 
     font-size: 16px;
     font-weight: 100;
