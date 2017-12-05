@@ -1,8 +1,7 @@
 ---
-title: image2
-date: 2017-11-23 16:35:00 -05:00
-position: 1
-image: "/uploads/homeHero/homeHero2.jpg"
+title: Image2
+date: 2017-12-05 17:56:00 -05:00
+image: "/uploads/pinkSQ_frontpage.jpg"
 texture-image: "/uploads/textures/pink.png"
 ---
 
