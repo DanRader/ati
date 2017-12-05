@@ -13,6 +13,7 @@ width: 6
 materials: Bronze and cubic zirconia
 product-images:
 - "/uploads/PSC-R-L-01"
+- "/uploads/PSC-R-L-01_hand"
 - "/uploads/PSCstack_model03.jpg"
 - "/uploads/PSCstack_model02.jpg"
 - "/uploads/PSCstack_model.jpg"
