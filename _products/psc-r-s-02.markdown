@@ -14,7 +14,6 @@ materials: Bronze and cubic zirconia
 product-images:
 - "/uploads/PSC-R-S-02"
 - "/uploads/PSC-R-S-02_hand.jpg"
-- "/uploads/PSC-R-S-02_hand2"
 - "/uploads/PSCstack_model.jpg"
 - "/uploads/PSCstack_model02.jpg"
 - "/uploads/PSCstack_model03.jpg"
