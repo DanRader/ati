@@ -1,6 +1,7 @@
 ---
 title: Image 5
 date: 2017-12-05 17:40:00 -05:00
+position: 2
 image: "/uploads/yellow_BSmeta"
 texture-image: "/uploads/textures/orange.png"
 ---
