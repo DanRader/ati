@@ -62,10 +62,10 @@ defaults:
     images:
     - ''
     - ''
-    catalogue-number:
-    size:
-    material:
-    creation-date:
+    catalogue-number: 
+    size: 
+    material: 
+    creation-date: 
     layout: artifact
 - scope:
     path: ''
@@ -73,8 +73,8 @@ defaults:
   values:
     layout: shop-item
     visible-title: ''
-    elements:
-    product-colors:
+    elements: 
+    product-colors: 
     permalink: "/shop/:title/"
     price: 666.66
     sku: ati
@@ -83,36 +83,36 @@ defaults:
     height: ''
     materials: Bronze, Glass, Cubic Zirconia
     product-images:
-    -
-    -
-    -
-    -
-    -
+    - 
+    - 
+    - 
+    - 
+    - 
 - scope:
     path: ''
     type: sightings
   values:
     layout: sightings
-    start-date:
-    end-date:
-    time:
-    external-link:
+    start-date: 
+    end-date: 
+    time: 
+    external-link: 
     location:
-      name:
-      address:
-      latitude:
-      longitude:
+      name: 
+      address: 
+      latitude: 
+      longitude: 
 - scope:
     path: ''
     type: team
   values:
     layout: team
-    image:
-    team-title:
-    external-link:
-    instagram:
-    twitter:
-    facebook:
+    image: 
+    team-title: 
+    external-link: 
+    instagram: 
+    twitter: 
+    facebook: 
 - scope:
     path: ''
     type: product-colors
@@ -132,8 +132,8 @@ email: ibelieve@ancienttruthinvestigators.com
 description: The Ancient Truth Investigators are scientists, writers, makers, creatives
   and healers. Collectively, they strive to find ways to aid Humanity's growth towards
   a more evolved bond between ourselves and the planet.
-url:
+url: 
 twitter_username: A_T_I_lab
 github_username: DanRader
-google-analytics:
+google-analytics: 
 permalink: pretty
