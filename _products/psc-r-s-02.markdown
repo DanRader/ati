@@ -5,6 +5,7 @@ categories:
 - Rings
 visible-title: Petrified Spongy Coral Ring
 elements: Petrified Spongy Coral
+product-colors: Bronze
 price: "$90"
 sku: PSC-R-S-02
 weight: 1
