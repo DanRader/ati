@@ -31,8 +31,10 @@ layout: default
   <hr class="">
   <h2 class="center py4">Recent Entries</h2>
 
+{% assign post-sort = site.entries | sort: 'date' | reverse %}
+
   <div class="">
-    {% for post in site.entries limit:3 %}
+    {% for post in post-sort offset: 1 limit:3 %}
       <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb3 list-item ">
         <a href="{{ post.url | prepend: site.baseurl }}">
          <section class="blog-list-item">
