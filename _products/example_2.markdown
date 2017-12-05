@@ -6,7 +6,7 @@ categories:
 position: 1
 visible-title: Banded Strattite Post Earrings
 elements: Banded Strattite
-product-colors: Blue
+product-colors: White
 price: 130
 sku: BS-S-S-03
 weight: 1
