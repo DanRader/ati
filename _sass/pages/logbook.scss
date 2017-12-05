@@ -77,6 +77,18 @@
       }
     }
   }
+
+  & a {
+    font-weight: 900;
+    border-bottom: 1px;
+    color: #4848b9;
+    text-decoration: underline;
+    transition: $transition-1;
+
+    &:hover {
+        color: #6f6ffb;
+    }
+  }
 }
 .post--author__avatar-wrap {
   position: relative;

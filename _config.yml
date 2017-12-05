@@ -79,8 +79,8 @@ defaults:
     price: 666.66
     sku: ati
     weight: 0.0
-    width: 2”
-    height: 3/8"
+    width: ''
+    height: ''
     materials: Bronze, Glass, Cubic Zirconia
     product-images:
     - 
@@ -113,6 +113,11 @@ defaults:
     instagram: 
     twitter: 
     facebook: 
+- scope:
+    path: ''
+    type: product-colors
+  values:
+    color: ''
 - scope:
     path: ''
     type: home-images
