@@ -3,7 +3,7 @@ title: Distillation Systems
 date: 2016-02-25 18:58:00 -05:00
 position: 15
 summary: ATI explores systems of distillation.
-image: "/uploads/alchemy-bottles-02.jpg"
+image: "/uploads/alchemy.jpg"
 ---
 
 The Ancient Truth Investigators are exploring systems of distillation in both the Brooklyn and Philadelphia labs, to find the most appropriate forms in which to distill the Elements of Chakral significance.
