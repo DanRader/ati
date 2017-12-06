@@ -1,7 +1,7 @@
 ---
 title: Work in Progress...
 date: 2017-09-25 23:10:00 -04:00
-position: 3
+position: 4
 entry-number: 22.6532
 summary: The Chief has been hard at work in the ATI Laboratory, fabricating a new
   collection of Chakra Enhancers.

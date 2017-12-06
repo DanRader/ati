@@ -1,7 +1,7 @@
 ---
 title: New Pictures from the Brooklyn Lab
 date: 2016-02-10 19:05:00 -05:00
-position: 16
+position: 17
 summary: 'New images of the Chief working in the Brooklyn lab. '
 image: "/uploads/lab.jpg"
 ---

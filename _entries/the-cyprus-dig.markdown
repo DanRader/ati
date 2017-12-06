@@ -1,7 +1,7 @@
 ---
 title: The Cyprus Dig
 date: 2016-04-28 01:25:00 -04:00
-position: 14
+position: 15
 summary: 'ATI investigates artifacts in Cyprus. '
 image: "/uploads/cyprus.jpg"
 featured-video: |-

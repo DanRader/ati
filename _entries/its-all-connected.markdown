@@ -1,7 +1,7 @@
 ---
 title: It's All Connected
 date: 2015-02-19 16:08:00 -05:00
-position: 35
+position: 36
 entry-number: 1
 image: "/uploads/connected.jpg"
 ---
