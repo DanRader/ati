@@ -1,6 +1,7 @@
 ---
 title: New Collection of Chakra Enhancers
 date: 2017-11-30 23:25:00 -05:00
+position: 0
 image: "/uploads/collectiontop.jpg"
 ---
 

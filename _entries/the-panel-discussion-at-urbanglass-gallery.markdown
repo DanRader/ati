@@ -1,7 +1,7 @@
 ---
 title: The Panel Discussion at UrbanGlass Gallery
 date: 2015-09-08 22:34:00 -04:00
-position: 24
+position: 25
 image: "/uploads/panel-.jpg"
 ---
 
