@@ -2,6 +2,7 @@
 title: Stamp of Approval
 date: 2015-12-01 19:38:00 -05:00
 position: 21
+entry-number: 16
 image: "/uploads/stamped-.jpg"
 featured-video: '<iframe src="https://player.vimeo.com/video/147501269" width="640"
   height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
