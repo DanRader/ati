@@ -16,8 +16,6 @@ Ráchel Räder, the Chief Investigator, in the Saguaro National Park.
 
 Jáson Bland-Förd, the Linguistics Specialist, in the Saguaro Desert.
 
-![Sedona03.jpg](/uploads/Sedona03.jpg)
-
 ![Sedona04.jpg](/uploads/Sedona04.jpg)
 
 A postcard that has one of the hieroglyphs believed to be connected to the Ancient Sea People, which is part of their creation myth that is based on the transition of the Sea People from sea to land. This postcard was sent to folks who helped in ATI's fundraiser, Stepping into the Vortex.
