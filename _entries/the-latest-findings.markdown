@@ -2,7 +2,8 @@
 title: The Latest Findings
 date: 2015-08-15 23:01:00 -04:00
 position: 26
-image: "/uploads/LF07.jpg"
+entry-number: 11
+image: "/uploads/LF17.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/140801737" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
