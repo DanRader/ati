@@ -13,9 +13,11 @@ The Chief Investigator is a part of a group exhibition opening at the [UrbanGlas
 
 In CLUE, the Chief Investigator, Ráchel Räder, has created a work space to invite visitors to contemplate the Elements. Each specimen was found on her travels to key chakra energy points around the planet. Räder invites visitors to observe, record, and report their findings on the form included in the investigation work space. All data collected at this pivotal location will be collected by the team and quantified for future research.
 
+![Clue01.jpg](/uploads/Clue01.jpg)
+
 ![01-6c69ab.jpg](/uploads/01-6c69ab.jpg)
 
-The three words that have driven the organization in a forward march towards investigation of ancient truths, hold so much power: Observe, Record, Report.
+The three words that have driven the organization in a forward march towards investigation of ancient truths, hold immense power: Observe, Record, Report.
 
 ob·serve: /// əbˈzərv /// verb /// *Notice or perceive (something) and register it as being significant.*
 
