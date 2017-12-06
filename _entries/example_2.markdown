@@ -2,7 +2,7 @@
 title: Clue
 date: 2017-09-01 23:24:00 -04:00
 position: 2
-entry-number: 22.6532
+entry-number: 34
 summary: 'The Chief Investigator is a part of a group exhibition opening at the UrbanGlass
   Gallery. '
 image: "/uploads/Banded-Strattite-Cluster-detail-low-res.jpg"
