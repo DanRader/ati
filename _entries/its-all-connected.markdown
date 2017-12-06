@@ -8,49 +8,53 @@ image: "/uploads/connected.jpg"
 ![connected01.jpg](/uploads/connected01.jpg)
 Here at the Ancient Truth Investigators lab in New York, we are gaining momentum in our research which ties the chakra points of the body to the energy points around the world. 
 ![connected02.jpg](/uploads/connected02.jpg)
+
 CHAKRAS:
 
-Crown Chakra ~ Mt Shasta, California
+* Crown Chakra ~ Mt Shasta, California
 
-Third-Eye Chakra ~ Mount Kailas, Himalayan Mountains
+* Third-Eye Chakra ~ Mount Kailas, Himalayan Mountains
 
-Throat Chakra~ Glastonbury, England
+* Throat Chakra~ Glastonbury, England
 
-Heart Chakra~ Maui, Hawaii
+* Heart Chakra~ Maui, Hawaii
 
-Solar Plexus~ Mt. Fuji, Japan
+* Solar Plexus~ Mt. Fuji, Japan
 
-Sacral Chakra~ Lake Titicaca, Peru
+* Sacral Chakra~ Lake Titicaca, Peru
 
-Root Chakra ~ Uluru/Ayers Rock, Australia
+* Root Chakra ~ Uluru/Ayers Rock, Australia
+
 
 EARTH'S MAJOR VORTICES:
 
-Sedona, Arizona
+* Sedona, Arizona
 
-Cairo, Egypt
+* Cairo, Egypt
 
-The Bermuda Triangle
+* The Bermuda Triangle
+
 
 MINOR CHAKRA POINTS AND VORTICES:
 
-Hawaiian Islands (Big Island and Kauai)
+* Hawaiian Islands (Big Island and Kauai)
 
-Moab, Utah (Upheaval Dome)
+* Moab, Utah (Upheaval Dome)
 
-Antigua, Guatemala
+* Antigua, Guatemala
 
-Cape Town, South Africa (Table Mountain)
+* Cape Town, South Africa (Table Mountain)
 
-Moscow, Russia
+* Moscow, Russia
 
-Jerusalem, Israel
+* Jerusalem, Israel
 
-Fiji
+* Fiji
 
-Tirta Empul, Bali
+* Tirta Empul, Bali
 
-Lake Rotopounamu, New Zealand
+* Lake Rotopounamu, New Zealand
+
 
 IN APRIL 2015, THE ANCIENT TRUTH INVESTIGATORS ARE HEADED TO SEDONA, ARIZONA FOR A PROJECT CALLED STEPPING INTO THE VORTEX. 
 
