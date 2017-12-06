@@ -4,7 +4,7 @@ date: 2015-12-17 19:19:00 -05:00
 position: 19
 entry-number: 18
 summary: 'The team decodes hieroglyphs. '
-image: "/uploads/hieroglyph02.jpg"
+image: "/uploads/decoding.jpg"
 ---
 
 The team spent some time this week studying hieroglyphs at the Metropolitan Museum of Art and how they are based in a similar system of the Sea Peoples' language.
