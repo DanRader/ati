@@ -18,8 +18,6 @@ layout: log-book
 
 The Chief has been hard at work in the ATI Laboratory, fabricating a new collection of Chakra Enhancers. Each specimen is sourced from key energetic points around the planet which are associated with Chakra energies. They are then transported back to the lab in Brooklyn, NY for restoration. The surface is brought to a polish in the [UrbanGlass studio ](https://urbanglass.org/)and then to the laboratory to unleash their unique enhancement potential.
 
-![01-091a3e.jpg](/uploads/01-091a3e.jpg)
-
 It's a laborious process, so sometimes the Chief brings help into the lab. This time, Kelsie McNair (a specialist of numerous pursuits), came to assist Ráchel in the restoration of a particularly large array of specimens. Below, you can see an assortment of the specimens in their restorative journey. The Spotted Quartz and Banded Strattite specimen eminate chakra energies akin to their integral hues.
 
 ![02-7a5c63.jpg](/uploads/02-7a5c63.jpg)
