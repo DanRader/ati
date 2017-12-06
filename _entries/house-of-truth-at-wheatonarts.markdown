@@ -2,6 +2,7 @@
 title: House of Truth at WheatonArts
 date: 2016-09-14 01:12:00 -04:00
 position: 13
+entry-number: 24
 summary: 'View images of the House of Truth. '
 image: "/uploads/house_of_truth.jpg"
 ---
