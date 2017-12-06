@@ -14,7 +14,7 @@ This renewable resource which is replanted every year by the ATI team, soaks in 
 
 ![dive-02.jpg](/uploads/dive-02.jpg)
 
-The Chief is fabricating a new collection of Petrified Spongy Coral rings for both the Museum of Contemporary Craft in Portland, OR and UrbanGlass|ware,  Brooklyn, NY. 
+The Chief is fabricating a new collection of Petrified Spongy Coral rings for both the Museum of Contemporary Craft in Portland, OR and UrbanGlass Ware,  Brooklyn, NY.
 
 ![PSC-.jpg](/uploads/PSC-.jpg)
 
