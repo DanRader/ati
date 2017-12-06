@@ -17,7 +17,5 @@ facebook: "#"
 * [Project 5](http://ati.siteleaf.net/log-book/distillation-systems/)
 * [Project 4](http://ati.siteleaf.net/log-book/project-distillation/)
 * [Project 3](http://ati.siteleaf.net/log-book/new-from-ati-the-alignment-candle/)
-
 * [Project 2 ](http://ati.siteleaf.net/log-book/the-panel-discussion-at-urbanglass-gallery/)
-
 * [Project 1](http://ati.siteleaf.net/log-book/introducing-amy-lemaire/)
