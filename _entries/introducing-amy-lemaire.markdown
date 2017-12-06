@@ -3,7 +3,7 @@ title: Introducing, Åmy Lêmaire
 date: 2015-07-03 23:34:00 -04:00
 position: 27
 entry-number: 10
-image: "/uploads/AL02.jpg"
+image: "/uploads/amy.jpg"
 ---
 
 ![AL01.jpg](/uploads/AL01.jpg)
