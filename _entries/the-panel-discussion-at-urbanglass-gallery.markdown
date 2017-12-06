@@ -2,7 +2,8 @@
 title: The Panel Discussion at UrbanGlass Gallery
 date: 2015-09-08 22:34:00 -04:00
 position: 25
-image: "/uploads/panel-.jpg"
+entry-number: 12
+image: "/uploads/panel.jpg"
 ---
 
 Ráchel Räder, Åmy Lêmaire and Amända Patenaûdé at the panel discussion held at the opening of the Latest Findings on July 15, 2015.
