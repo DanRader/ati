@@ -10,7 +10,6 @@ twitter: "#"
 facebook: "#"
 ---
 
-Brooklyn, NY
 * [Project 9](http://ati.siteleaf.net/log-book/example_9/)
 * [Project 8](http://ati.siteleaf.net/log-book/example_6/)
 * [Project 7](http://ati.siteleaf.net/log-book/example_5/)
