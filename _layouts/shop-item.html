@@ -24,12 +24,13 @@ layout: default
         </section>
 
 
-        <button class="btn-prime snipcart-add-item"
-          data-item-name="{{ page.title }}"
-          data-item-id="{{ page.sku }}"
-          data-item-image="{{ page.image }}"
-          data-item-url="{{ site.url }}{{page.url }}"
-          data-item-price="{{ page.price }}">
+        <button class="snipcart-add-item"
+          data-item-name="{{ product.title }}"
+          data-item-id="{{ product.sku }}"
+          data-item-image="{{ site.url }}{{ first-image }}"
+          data-item-url="{{ site.url }}{{ product.url }}"
+          data-item-max-quantity="{{ product.max-quantity }}"
+          data-item-price="{{ product.price }}">
           Add to Cart
         </button>
       </div>
