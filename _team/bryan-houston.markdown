@@ -3,7 +3,7 @@ title: Amända Patenaûdé
 date: 2017-09-18 20:00:00 -04:00
 position: 2
 team-title: HAPPI Institute
-website: https://www.instagram.com/amanda.patenaude/
+website: http://www.amandapatenaude.com/
 image: "/uploads/Profile-pic_Patenaude_medres.jpg"
 external-link: http://www.amandapatenaude.com/
 instagram: "#"
