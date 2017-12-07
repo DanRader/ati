@@ -14,11 +14,11 @@ layout: default
           <label for="toggle-tab2">Past <span>Sightings</span></label>
 
           <div id="tab1" class="tab">
-              {% assign sightings-sort = site.sightings | sort: "start-date" %}
+              {% assign sightings-sort = site.sightings | sort: "end-date" %}
 
               {% for sighting in sightings-sort %}
               {% assign today = "now" | date: "%s"%}
-              {% assign event-date = sighting.start-date | date: "%s" %}
+              {% assign event-date = sighting.end-date | date: "%s" %}
                   {% if today <= event-date %}
                     {% include components/sightings.html %}
                   {% endif %}
@@ -27,12 +27,12 @@ layout: default
           </div>
 
           <div id="tab2" class="tab">
-              {% assign sightings-sort-rev = site.sightings | sort: "start-date" | reverse %}
+              {% assign sightings-sort-rev = site.sightings | sort: "end-date" | reverse %}
 
               {% for sighting in sightings-sort-rev %}
 
               {% assign today = "now" | date: "%s"%}
-              {% assign event-date = sighting.start-date | date: "%s" %}
+              {% assign event-date = sighting.end-date | date: "%s" %}
 
                   {% if today >= event-date %}
                     {% include components/sightings.html %}
