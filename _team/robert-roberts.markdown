@@ -5,6 +5,7 @@ position: 1
 team-title: Energy Assessment Specialist
 website: https://www.instagram.com/parakeetfarmer2/
 image: "/uploads/Profile-pic_Lemaire_medres.jpg"
+external-link: http://amylemaire.com/
 instagram: "#"
 twitter: "#"
 facebook: "#"
