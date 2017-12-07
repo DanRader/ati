@@ -82,7 +82,7 @@ defaults:
     width: ''
     height: 
     materials: Bronze, Glass, Cubic Zirconia
-    max-quantity: 1
+    max-quantity: '1'
     product-images:
     - 
     - 
