@@ -16,4 +16,4 @@ product-images:
 - "/uploads/BS-S-S-02.jpg"
 ---
 
-Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
+Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder. 

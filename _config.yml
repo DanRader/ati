@@ -76,12 +76,13 @@ defaults:
     elements: 
     product-colors: 
     permalink: "/shop/:title/"
-    price: 666.66
-    sku: ati
+    price: 
+    sku: 
     weight: 0.0
     width: ''
     height: 
     materials: Bronze, Glass, Cubic Zirconia
+    max-quantity: 1
     product-images:
     - 
     - 
