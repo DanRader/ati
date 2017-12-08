@@ -18,5 +18,4 @@ product-images:
 - "/uploads/BSearrings_editorial.jpg"
 ---
 
-Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
-
+Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder. 
