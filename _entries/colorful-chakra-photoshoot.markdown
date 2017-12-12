@@ -16,13 +16,14 @@ The very beautiful and talented [Helena Parriott](http://www.hparriott.com/) mod
 As this part of the Ancient Truth Investigators project develops, it is exciting to visually explore how it ties into the beliefs of ATI. Each wearable piece is made from a specimen found by the Chief, which relates to the chakra energies along the meridian of the body.
 
 The Meta series is a collection of large Chakra Enhancers that are very powerful. \
-Meta Banded Strattite Necklace.
+
+META BANDED STRATTITE NECKLACE
 ![BSmeta_model.jpg](/uploads/BSmeta_model.jpg)
 ![BSmeta_model02.jpg](/uploads/BSmeta_model02.jpg)
-Meta Banded Strattite Necklace.
+META SPOTTED QUARTZ NECKLACE
 ![SQ_model01.jpg](/uploads/SQ_model01.jpg)
 ![SQ_model02.jpg](/uploads/SQ_model02.jpg)
 ![SQ_model03.jpg](/uploads/SQ_model03.jpg)
-Meta Petrified Spongy Coral Necklace.
+META PETRIFIED SPONGY CORAL NECKLACE. 
 ![PSCmeta_model02.jpg](/uploads/PSCmeta_model02.jpg)
 ![PSCmeta_model.jpg](/uploads/PSCmeta_model.jpg)
