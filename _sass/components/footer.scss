@@ -28,8 +28,24 @@ footer {
           padding-bottom: 3rem;
       }
 }
+
 .footer-bp {
-  padding: 0 16px;
+  padding: 0 16px 16px 16px;
+
+    .footer-bp—item {
+        @media #{$media-max-l}{
+            text-align: center;
+            padding-bottom: 2rem;
+        }
+    }
+
+  span {
+      color: white;
+
+      &:hover {
+          transform: scale3d(1px 1px 0);
+      }
+  }
 
   & p,a {
       font-size: 12px;
@@ -37,21 +53,26 @@ footer {
       color: #bfbfbf !important;
     }
 
-    @media #{$media-max-tablet}{
-        text-align: center;
-        padding-bottom: 2rem;
-
-        & div {
-            float: none;
-            display: inline-block;
-            margin: auto;
-        }
-        & p {
-            margin-bottom: 0;
-        }
-    }
+    // @media #{$media-max-tablet}{
+    //     text-align: center;
+    //     padding-bottom: 2rem;
+    //
+    //     & div {
+    //         float: none;
+    //         display: inline-block;
+    //         margin: auto;
+    //     }
+    //     & p {
+    //         margin-bottom: 0;
+    //     }
+    // }
 
 }
+
+.built-with {
+    text-align: right;
+}
+
 .border-left {
 border-left: 1px solid white;
 padding-left: 10px;
@@ -62,7 +83,7 @@ margin-left: 10px;
   position: relative;
   margin: 0 auto 25px auto;
   width: 90%;
-  max-width: 380px; 
+  max-width: 380px;
 
   & input {
     position: relative;
@@ -112,4 +133,34 @@ margin-left: 10px;
     height: 100px;
     background-color: white;
   }
+}
+
+.sm-wrapper {
+
+}
+
+.sm-link {
+    display: inline-block;
+    background-color: #bfbfbf;
+    width: 26px;
+    height: 26px;
+    transform: rotate(45deg);
+    margin: 0 8px;
+    margin-top: -10px;
+    transition: $transition-2;
+
+    & i {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 5px;
+        font-size: 16px;
+        color: #4A4A4A;
+        transform: rotate(-45deg);
+    }
+
+    &:hover {
+        transform: rotate(45deg) scale(1.15);
+        background-color: white;
+    }
 }
