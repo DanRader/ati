@@ -14,6 +14,7 @@ height: 1 2/8" length from ear
 materials: Fused and coldworked glass on a gold-filled ear wire
 product-images:
 - "/uploads/SQ-D-S-01"
+- "/uploads/SQ-D-S-01_hand.jpg"
 - "/uploads/SQdangle_model.jpg"
 - "/uploads/SQdangle_model02.jpg"
 ---
