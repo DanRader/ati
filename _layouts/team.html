@@ -18,8 +18,13 @@ layout: default
     </div>
     {% endfor %}
 
+    <div class="px2 team-desc">
+        <h2>The Team</h2>
+        <p>{{ content }}</p>
+    </div>
+
         {% for team in team_sort offset:1 %}
-        <section class="team sm-col sm-col-12 md-col-4 lg-col-4 px2">
+        <section class="team sm-col sm-col-12 md-col-6 lg-col-6 px2">
             <div class="team--image" style="background-image: url({{ team.image }});">
             </div>
             <div class="team-details px2">

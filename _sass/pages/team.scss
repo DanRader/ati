@@ -105,3 +105,14 @@
         font-size: 20px;
     }
 }
+
+.team-desc {
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+    @media #{$media-max-tablet}{
+        padding-top: 1rem;
+        padding-bottom: .5rem;
+    }
+}
