@@ -14,6 +14,7 @@ height: 7/8"
 materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
 - "/uploads/BS-S-S-02.jpg"
+- "/uploads/BS-S-S-02_hand"
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder. 
