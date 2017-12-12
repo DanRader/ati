@@ -14,6 +14,7 @@ height: 1 6/8" length from the ear
 materials: Fused and coldworked glass, goldfilled earwires
 product-images:
 - "/uploads/BS-D-L-02"
+- "/uploads/BS-D-L-02_hand.jpg"
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
