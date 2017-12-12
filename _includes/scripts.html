@@ -42,6 +42,14 @@ $(document).ready(function(){
 </script>
 
 
+<!-- Make all external links open in blank tab -->
+<script type="text/javascript">
+    $(document.links).filter(function() {
+        return this.hostname != window.location.hostname;
+    }).attr('target', '_blank');
+</script>
+
+
 <!-- modal initiation -->
 <script>
 // Get the modal
