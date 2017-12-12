@@ -15,7 +15,7 @@ The very beautiful and talented [Helena Parriott](http://www.hparriott.com/) mod
 
 As this part of the Ancient Truth Investigators project develops, it is exciting to visually explore how it ties into the beliefs of ATI. Each wearable piece is made from a specimen found by the Chief, which relates to the chakra energies along the meridian of the body.
 
-The Meta series is a collection of large Chakra Enhancers that are very powerful. \
+The Meta series is a collection of large Chakra Enhancers that are very powerful. 
 
 META BANDED STRATTITE NECKLACE
 ![BSmeta_model.jpg](/uploads/BSmeta_model.jpg)
