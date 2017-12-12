@@ -1,4 +1,5 @@
 ---
-layout: home
 title: Ancient Truth Investigators
+layout: home
 ---
+
