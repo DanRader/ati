@@ -16,6 +16,7 @@ materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
 - "/uploads/SQ-S-S-01.jpg"
 - "/uploads/SQ-S-S-01_hand.jpg"
+- "/uploads/SQpost_model-9505c3.jpg"
 ---
 
 Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
