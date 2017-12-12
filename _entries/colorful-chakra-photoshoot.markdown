@@ -17,6 +17,8 @@ As this part of the Ancient Truth Investigators project develops, it is exciting
 
 The Meta series is a collection of large Chakra Enhancers that are very powerful. 
 
+
+
 META BANDED STRATTITE NECKLACE
 ![BSmeta_model.jpg](/uploads/BSmeta_model.jpg)
 ![BSmeta_model02.jpg](/uploads/BSmeta_model02.jpg)
