@@ -16,6 +16,7 @@ materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
 - "/uploads/SQ-S-S-02.jpg"
 - "/uploads/SQ-S-S-02_hand.jpg"
+- "/uploads/SQpost_model-81a61f.jpg"
 layout: shop-item
 ---
 
