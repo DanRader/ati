@@ -15,6 +15,7 @@ height: 1"
 materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
 - "/uploads/SQ-S-S-02.jpg"
+- "/uploads/SQ-S-S-02_hand.jpg"
 layout: shop-item
 ---
 
