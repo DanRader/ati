@@ -5,6 +5,8 @@ position: 0
 images:
 - "/uploads/BS_Meta_necklace.jpg"
 - "/uploads/BS_Meta_necklace02.jpg"
+- "/uploads/rach-118-2edited.jpg"
+- "/uploads/rach-121-2.jpg"
 material: 'Glass and goldfilled wire. '
 creation-date: 2017-12-15 00:00:00 -05:00
 ---
