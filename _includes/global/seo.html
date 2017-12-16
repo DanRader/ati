@@ -3,8 +3,8 @@
 
 <title>{{ page.title }} - {{site.title}}</title>
 <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-<meta name="description" content="{{ page.excerpt | strip_html }}"/>
-<meta property="og:description" content="{{ page.excerpt | strip_html }}"/>
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %} {{ site.description | strip_html }} {% endif %}"/>
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %} {{ site.description | strip_html }} {% endif %}"/>
 <link rel="canonical" href="{{site.url}}{{page.url}}" />
 <meta property="og:url" content="{{site.url}}{{page.url}}" />
 <meta property="og:site_name" content="{{site.title}}" />
@@ -23,7 +23,7 @@
 <meta name="twitter:site" content="@A_T_I_lab" />
 <meta name="twitter:creator" content="@A_T_I_lab" />
 <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 120 }}">
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 120}}{% else %} {{ site.description | strip_html | truncate: 120}} {% endif %}">
 {% if page.image %}
       <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
  {% else %}
