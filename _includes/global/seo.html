@@ -38,10 +38,13 @@
 
 
 <script type="application/ld+json">
+
 {"@context": "http://schema.org",
 "@type": "BlogPosting",
 "headline": "{{ page.title }}",
 "image": "{{ site.url }}{{ page.image }}",
 "datePublished": "{{ page.date }}",
-"description": "{{ page.excerpt | strip_html }}",
-"url": "{{site.url}}{{page.url}}"}</script>
+"description": "{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %} {{ site.description | strip_html }} {% endif %}",
+"url": "{{site.url}}{{page.url}}"}
+
+</script>
