@@ -77,7 +77,6 @@ defaults:
     product-colors: 
     permalink: "/shop/:title/"
     price: 
-    sku: 
     weight: 0.0
     width: ''
     height: 
