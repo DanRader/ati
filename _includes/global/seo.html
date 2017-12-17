@@ -14,6 +14,10 @@
     <meta property="og:image" content="{{ site.url }}{{ page.social-media-image }}" />
 {% elsif page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+{% elsif page.images %}
+    <meta property="og:image" content="{{ site.url }}{{ page.images | first }}" />
+{% elsif page.product-images %}
+    <meta property="og:image" content="{{ site.url }}{{ page.product-images | first }}" />
  {% else %}
     <meta property="og:image" content="{{ site.url }}{{ site.social-media-image }}" />
  {% endif %}
