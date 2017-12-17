@@ -90,6 +90,23 @@
     }
   }
 }
+
+.post--author {
+    @media #{$media-max-tablet}{
+        text-align: center;
+        padding-bottom: 1rem;
+
+        .post--author__avatar-wrap {
+            margin: auto;
+            margin-bottom: 1.5rem;
+        }
+
+        & div {
+            float: none;
+        }
+    }
+}
+
 .post--author__avatar-wrap {
   position: relative;
   width: 100px;
