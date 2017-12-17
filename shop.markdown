@@ -6,3 +6,4 @@ image:
 social-media-image: "/uploads/og-image—Shop.jpg"
 layout: shop-list
 ---
+
