@@ -3,7 +3,7 @@ title: Ráchel Räder
 date: 2017-09-18 19:45:00 -04:00
 position: 0
 team-title: Chief Investigator
-image: "/uploads/Rachel-"
+image: "/uploads/Rachel.jpg"
 external-link: https://rachelrader.squarespace.com/new-page/
 instagram: https://www.instagram.com/rachel_a_rader/
 twitter: https://twitter.com/A_T_I_lab?lang=en
