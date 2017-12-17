@@ -14,6 +14,10 @@
     <meta property="og:image" content="{{ site.url }}{{ page.social-media-image }}" />
 {% elsif page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+{% elsif page.images %}
+    <meta property="og:image" content="{{ site.url }}{{ page.images | first }}" />
+{% elsif page.product-images %}
+    <meta property="og:image" content="{{ site.url }}{{ page.product-images | first }}" />
  {% else %}
     <meta property="og:image" content="{{ site.url }}{{ site.social-media-image }}" />
  {% endif %}
@@ -34,10 +38,13 @@
 
 
 <script type="application/ld+json">
+
 {"@context": "http://schema.org",
 "@type": "BlogPosting",
 "headline": "{{ page.title }}",
 "image": "{{ site.url }}{{ page.image }}",
 "datePublished": "{{ page.date }}",
-"description": "{{ page.excerpt | strip_html }}",
-"url": "{{site.url}}{{page.url}}"}</script>
+"description": "{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %} {{ site.description | strip_html }} {% endif %}",
+"url": "{{site.url}}{{page.url}}"}
+
+</script>
