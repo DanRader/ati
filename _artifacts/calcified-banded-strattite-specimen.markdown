@@ -1,7 +1,7 @@
 ---
 title: Calcified Banded Strattite Specimen
 date: 2017-12-15 00:39:00 -05:00
-position: 2
+position: 4
 images:
 - "/uploads/Calcified_Banded_Strattite.jpg"
 material: Glass, plaster
