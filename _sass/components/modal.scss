@@ -1,88 +1,101 @@
+/* The Modal (background) */
+
+
+
 .modal {
-  display: none;
-  position: fixed;
-  left: 0;
-  right: 0;
-  background-color: #fafafa;
-  padding: 0;
-  max-height: 70%;
-  width: 55%;
-  margin: auto;
-  overflow-y: auto;
-  border-radius: 2px;
-  will-change: top, opacity;
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 999; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.6);
 }
 
-@media only screen and (max-width: 992px) {
-  .modal {
-    width: 80%;
-  }
+.contact--modal__active {
+    display: block;
 }
 
-.modal h1, .modal h2, .modal h3, .modal h4 {
-  margin-top: 0;
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 6rem auto;
+    padding: 5%;
+    min-height: 300px;
+    border-radius: 4px;
+    position: relative;
+    max-width: 35rem;
+
+    & h1 {
+        font-size: 46px;
+        letter-spacing: -1px;
+        margin-bottom: .5rem;
+    }
+    & p {
+        line-height: 22px;
+    }
+
+    & .color-bar {
+        background-color: $ati-green;
+        height: 8px;
+        width: 100%;
+        border-radius: 4px 4px 0 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
 }
 
-.modal .modal-content {
-  padding: 24px;
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 21px;
+    font-weight: bold;
+    position: absolute;
+    top: 21px;
+    right: 21px;
+    transition: $transition-1;
 }
 
-.modal .modal-close {
-  cursor: pointer;
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
 }
 
-.modal .modal-footer {
-  border-radius: 0 0 2px 2px;
-  background-color: #fafafa;
-  padding: 4px 6px;
-  height: 56px;
-  width: 100%;
-}
+#contact-form {
+    margin-top: 2rem;
+    text-align: center;
 
-.modal .modal-footer .btn, .modal .modal-footer .btn-large, .modal .modal-footer .btn-flat {
-  float: right;
-  margin: 6px 0;
-}
+    & input, & textarea {
+        width: 100%;
+        height: 44px;
+        margin-bottom: 16px;
+        border: 1px solid lightgrey;
+        font-family: 'Cutive Mono', monospace;
+        font-size: 15px;
+        padding-left: 16px;
+        box-sizing: border-box;
 
-.lean-overlay {
-  position: fixed;
-  z-index: 999;
-  top: -100px;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  height: 125%;
-  width: 100%;
-  background: #000;
-  display: none;
-  will-change: opacity;
-}
+        &:focus {
+            outline: none;
+        }
+    }
 
-.modal.modal-fixed-footer {
-  padding: 0;
-  height: 70%;
-}
+    & textarea {
+        height: 120px;
+        padding-top: 16px;
+    }
 
-.modal.modal-fixed-footer .modal-content {
-  position: absolute;
-  height: calc(100% - 56px);
-  max-height: 100%;
-  width: 100%;
-  overflow-y: auto;
-}
-
-.modal.modal-fixed-footer .modal-footer {
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  position: absolute;
-  bottom: 0;
-}
-
-.modal.bottom-sheet {
-  top: auto;
-  bottom: -100%;
-  margin: 0;
-  width: 100%;
-  max-height: 45%;
-  border-radius: 0;
-  will-change: bottom, opacity;
+    & .submit {
+        width: inherit;
+        margin-bottom: 0;
+        font-size: 12px;
+        margin-top: .5rem;
+    }
 }

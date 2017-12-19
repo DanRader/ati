@@ -1,10 +1,80 @@
-<div id="modal-contact" class="modal-contact modal">
-    <form action="mailto:you@yourdomain" method="get" enctype="text/plain">
-    <p>Name: <input type="text" name="name" /></p>
-    <p>Email: <input type="text" name="email" /></p>
-    <p>Comments:<br />
-    <textarea cols="30" rows="20" name="comments"></textarea></p>
-    <p><input type="submit" name="submit" value="Send" />
-    <input type="reset" name="reset" value="Clear Form" /></p>
-  </form>
+<!-- The Modal -->
+<div id="contact--modal" class="modal">
+
+
+  <!-- Modal content -->
+  <div class="modal-content col-10 md-col-6 lg-col-6">
+  <div class="color-bar"></div>
+      <i class="close fa fa-times" aria-hidden="true"></i>
+      <h1>Contact the Chief</h1>
+      <p>Questions? We might have answers. Fill in yours here.</p>
+        <form id="contact-form" action="//formspree.io/howdy@danrdesign.com" method="post">
+        	<input type="text" name="Name" placeholder="Name" required>
+        	<input type="email" name="Email" placeholder="Email" required>
+        	<textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
+        	<!-- CONFIG -->
+        	<input class="hidden" type="text" name="_gotcha">
+        	<input type="hidden" name="_subject" value="Subject">
+        	<input type="hidden" name="_cc" value="email@cc.com">
+        	<!-- /CONFIG -->
+        	<input class="btn-prime submit" type="submit" value="Send">
+        </form>
+  </div>
+
 </div>
+
+<script type="text/javascript">
+
+// Get the modal
+var modal = document.getElementById('contact--modal');
+
+// Get the button that opens the modal
+var btn = document.getElementById("contact--modal__trigger");
+
+// Get the <span> element that closes the modal
+var close = document.getElementsByClassName("close")[0];
+
+// When the user clicks on the button, open the modal
+btn.onclick = function() {
+modal.classList.add("contact--modal__active");
+modal.classList.remove("contact--modal__inactive");
+}
+
+// When the user clicks on <span> (x), close the modal
+close.onclick = function() {
+modal.classList.remove("contact--modal__active");
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+if (event.target == modal) {
+    modal.classList.remove("contact--modal__active");
+    modal.classList.add("contact--modal__inactive");
+}
+}
+
+// Contact form
+
+var $contactForm = $('#contact-form');
+$contactForm.submit(function(e) {
+    e.preventDefault();
+    $.ajax({
+        url: '//formspree.io/howdy@danrdesign.com',
+        method: 'POST',
+        data: $(this).serialize(),
+        dataType: 'json',
+        beforeSend: function() {
+            $contactForm.append('<div class="alert alert--loading">Sending message…</div>');
+        },
+        success: function(data) {
+            $contactForm.find('.alert--loading').hide();
+            $contactForm.append('<div class="alert alert--success">Message sent!</div>');
+        },
+        error: function(err) {
+            $contactForm.find('.alert--loading').hide();
+            $contactForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
+        }
+    });
+});
+
+</script>
