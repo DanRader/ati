@@ -3,22 +3,25 @@
 
 
   <!-- Modal content -->
-  <div class="modal-content col-10 md-col-6 lg-col-6">
+  <div class="modal-content ">
   <div class="color-bar"></div>
-      <i class="close fa fa-times" aria-hidden="true"></i>
+<span class="close hairline"></span>
+  <div class="col-10 md-col-6 lg-col-4 center mx-auto content-wrap">
+      {% include /svg/ATI_b.svg %}
       <h1>Contact the Chief</h1>
       <p>Questions? We might have answers. Fill in yours here.</p>
         <form id="contact-form" action="//formspree.io/howdy@danrdesign.com" method="post">
-        	<input type="text" name="Name" placeholder="Name" required>
-        	<input type="email" name="Email" placeholder="Email" required>
-        	<textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
-        	<!-- CONFIG -->
-        	<input class="hidden" type="text" name="_gotcha">
-        	<input type="hidden" name="_subject" value="Subject">
-        	<input type="hidden" name="_cc" value="email@cc.com">
-        	<!-- /CONFIG -->
-        	<input class="btn-prime submit" type="submit" value="Send">
+            <input type="text" name="Name" placeholder="Name" required>
+            <input type="email" name="Email" placeholder="Email" required>
+            <textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
+            <!-- CONFIG -->
+            <input class="hidden" type="text" name="_gotcha">
+            <input type="hidden" name="_subject" value="Subject">
+            <input type="hidden" name="_cc" value="email@cc.com">
+            <!-- /CONFIG -->
+            <input class="btn-prime submit" type="submit" value="Send">
         </form>
+  </div>
   </div>
 
 </div>
