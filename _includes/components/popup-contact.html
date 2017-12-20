@@ -6,10 +6,12 @@
   <div class="modal-content ">
   <div class="color-bar"></div>
 <span class="close hairline"></span>
-  <div class="col-10 md-col-6 lg-col-4 center mx-auto content-wrap">
-      {% include /svg/ATI_b.svg %}
+  <div class="col-10 md-col-8 lg-col-4 center mx-auto content-wrap">
+      <div class="xs-hide">
+          {% include /svg/ATI_b.svg %}
+      </div>
       <h1>Contact the Chief</h1>
-      <p>Questions? We might have answers. Fill in yours here.</p>
+      <p class="xs-hide">Questions? We might have answers. Fill in yours here.</p>
         <form id="contact-form" action="//formspree.io/howdy@danrdesign.com" method="post">
             <input type="text" name="Name" placeholder="Name" required>
             <input type="email" name="Email" placeholder="Email" required>
