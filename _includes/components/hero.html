@@ -1,7 +1,19 @@
-<div class="flex justify-end">
-    <div class="page--hero" style="background-image: url('{{ page.image }}');">
-        <div class="page--hero__title">
-          <h1 class="">{{ page.title }}</h1>
+
+<!-- hero component -->
+    <div class="mx-auto max-width-4 clearfix px2" >
+        <div class="hero-wrap">
+            <div class="hero--content-wrap col-12 sm-col-11 md-col-11 lg-col-11">
+                <div class="hero--content">
+                    {{ content }}
+                </div>
+                <div class="page--hero__image" style="background-image: url('{{ page.image }}');">
+                </div>
+                <div class="hero—inner-wrap">
+                    <div class="page--hero__title">
+                      <h1 class="">{{ page.title }}</h1>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
-</div>
