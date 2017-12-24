@@ -29,7 +29,6 @@
     }
 
     & .content-wrap {
-        margin-top: -4rem;
         animation: fade-in-down .4s ease-out;
         @media #{$media-max-tablet}{
             margin-top: 2rem;
@@ -81,7 +80,7 @@
     }
 
     & svg {
-        width: 7rem;
+        width: 6rem;
         margin-bottom: 1rem;
          @media #{$media-max-tablet}{
              width: 4rem;
@@ -91,7 +90,7 @@
 }
 
 
-#contact-form {
+#myForm {
     margin-top: 2rem;
     text-align: center;
 
@@ -121,7 +120,7 @@
         padding-top: 16px;
     }
 
-    & .submit {
+    & #Form-submit {
         width: inherit;
         margin-bottom: 0;
         font-size: 12px;

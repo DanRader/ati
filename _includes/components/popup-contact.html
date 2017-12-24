@@ -6,22 +6,23 @@
   <div class="modal-content ">
   <div class="color-bar"></div>
 <span class="close hairline"></span>
-  <div class="col-10 md-col-8 lg-col-4 center mx-auto content-wrap">
+  <div class="col-10 md-col-8 lg-col-6 center mx-auto content-wrap">
       <div class="xs-hide">
           {% include /svg/ATI_b.svg %}
       </div>
       <h1>Contact the Chief</h1>
       <p class="xs-hide">Questions? We might have answers. Fill in yours here.</p>
-        <form id="contact-form" action="//formspree.io/howdy@danrdesign.com" method="post">
-            <input type="text" name="Name" placeholder="Name" required>
-            <input type="email" name="Email" placeholder="Email" required>
-            <textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
+
+        <form id="myForm">
+            <input id="form-name" type="text" name="Name" placeholder="Name" required>
+            <input id="form-email" type="email" name="Email" placeholder="Email" required>
+            <textarea id="form-message" name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
             <!-- CONFIG -->
             <input class="hidden" type="text" name="_gotcha">
             <input type="hidden" name="_subject" value="Subject">
             <input type="hidden" name="_cc" value="email@cc.com">
             <!-- /CONFIG -->
-            <input class="btn-prime submit" type="submit" value="Send">
+            <input type="submit" value="Submit" id="Form-submit" class="btn-prime"/>
         </form>
   </div>
   </div>
@@ -30,6 +31,7 @@
 
 <script type="text/javascript">
 
+// MODAL
 // Get the modal
 var modal = document.getElementById('contact--modal');
 
@@ -58,28 +60,26 @@ if (event.target == modal) {
 }
 }
 
-// Contact form
+// POST form data to zapier on submit
 
-var $contactForm = $('#contact-form');
-$contactForm.submit(function(e) {
+var $contactForm = $('#myForm');
+$contactForm.submit(function(e){
     e.preventDefault();
     $.ajax({
-        url: '//formspree.io/howdy@danrdesign.com',
-        method: 'POST',
-        data: $(this).serialize(),
-        dataType: 'json',
+        url:'https://hooks.zapier.com/hooks/catch/2549310/84xxea/',
+        type:'post',
+        data:$contactForm.serialize(),
         beforeSend: function() {
-            $contactForm.append('<div class="alert alert--loading">Sending message…</div>');
-        },
-        success: function(data) {
-            $contactForm.find('.alert--loading').hide();
-            $contactForm.append('<div class="alert alert--success">Message sent!</div>');
-        },
-        error: function(err) {
-            $contactForm.find('.alert--loading').hide();
-            $contactForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
-        }
+             $contactForm.append('<div class="alert alert--loading">Sending message…</div>');
+         },
+         success: function(data) {
+             $contactForm.find('.alert--loading').hide();
+             $contactForm.append('<div class="alert alert--success">Message sent!</div>');
+         },
+         error: function(err) {
+             $contactForm.find('.alert--loading').hide();
+             $contactForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
+         }
     });
 });
-
 </script>
