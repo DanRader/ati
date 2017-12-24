@@ -8,8 +8,4 @@ image: "/uploads/artifacts-hero.jpg"
 
 ## Works: Found & Made
 
-<<<<<<< HEAD
-An archive of specimens, artifacts, and projects conceived by the Ancient Truth Investigators. 
-=======
 An archive of specimens, artifacts, and projects conceived by the Ancient Truth Investigators.
->>>>>>> hero
