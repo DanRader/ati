@@ -18,13 +18,22 @@
             <a href='/shop'><li class=" block left {% if current contains 'shop' %}nav--links_active {% endif %}nav--links nav--last" id="nav4">Shop</li></a>
 
 
-            <a href="#footer" data-target="modal-subscribe"><li class="block right btn-nav" id="nav6">Subscribe</li></a>
+            <button class="block right btn-nav" id="contact--modal__trigger">Contact</button>
             <a href="#"><li class="cart-icon block right snipcart-checkout"> <i class="fa fa-shopping-cart" aria-hidden="true"></i></li></a>
 
     </ul>
   </div>
   <a href="{{ site.baseurl }}/" class="mobile-logo">{% include svg/ATI_b.svg %}</a>
 </nav>
+
+
+
+{% include components/popup-contact.html %}
+
+
+
+
+
 
 
 
