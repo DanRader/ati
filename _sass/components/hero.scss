@@ -1,7 +1,7 @@
 $hero-height: 48vh;
 
 .page--hero__image {
-    width: 66rem;
+    width: 70rem;
     height: $hero-height;
     top: 0;
     background-position: center;
@@ -13,17 +13,15 @@ $hero-height: 48vh;
     @media #{$media-max-tablet} {
         width: 100vw;
         height: 28vh;
-        background-color: black;
-        background-blend-mode: hard-light;
     }
     @media #{$media-min-xl}{
-        width: 76vw;
+        width: 80vw;
     }
 }
 
 .page--hero__title {
   position: absolute;
-  left: -4%;
+  left: -2rem;
   bottom: -38px;
   padding: 4px 7px 11px 7px;
   transform: rotate(-90deg);
@@ -52,20 +50,16 @@ $hero-height: 48vh;
   }
 
   @media #{$media-max-tablet} {
-      position: absolute;
-      left: 33px;
-      top: 24px;
+      left: -7px;
+      top: -1.5rem;
       bottom: inherit;
       transform: none;
       transform-origin: left;
+      z-index: 9;
 
       & h1 {
-          color: white;
-
-          &:before {
-              background-color: white;
-          }
-        }
+          font-size: 42px;
+      }
     }
 }
 
@@ -75,6 +69,7 @@ $hero-height: 48vh;
     align-items: flex-end;
     justify-content: flex-end;
     position: relative;
+    margin-bottom: 4rem;
 }
 .hero--content-wrap {
     background-color: $paper-tan;
@@ -99,6 +94,17 @@ $hero-height: 48vh;
 
 .hero—inner-wrap {
         width: 100%;
-        height: 100%;
+        height: 2rem;
         position: relative;
+
+        @media screen and (min-width:41em){
+            height: 100%;
+        }
+}
+
+.show-on-small {
+    display: none;
+    @media (max-width: 40em) {
+        display: block;
+    }
 }

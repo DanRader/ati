@@ -8,4 +8,4 @@ image: /uploads/artifacts-hero.jpg
 
 ## Works: Found & Made
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae accumsan justo, quis vulputate dolor. In fermentum lectus eget pellentesque eleifend. Donec at risus in ante facilisis ultricies id quis lorem. Vivamus porta facilisis libero, id eleifend dui ultrices eget.
+An archive of specimens, artifacts, and projects conceived by the Ancient Truth Investigators.

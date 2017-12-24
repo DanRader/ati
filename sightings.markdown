@@ -7,6 +7,6 @@ social-media-image: "/uploads/og-image%E2%80%94sightings.jpg"
 layout: sightings
 ---
 
-## watch the magic happen. 
+## Seeing is Believing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae accumsan justo, quis vulputate dolor. In fermentum lectus eget pellentesque eleifend. Donec at risus in ante facilisis ultricies id quis lorem. Vivamus porta facilisis libero, id eleifend dui ultrices eget.
+See the team, the works, and their investigations first-hand.

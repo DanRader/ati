@@ -9,4 +9,4 @@ layout: shop-list
 
 ## Made by the Chief
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae accumsan justo, quis vulputate dolor. In fermentum lectus eget pellentesque eleifend. Donec at risus in ante facilisis ultricies id quis lorem. Vivamus porta facilisis libero, id eleifend dui ultrices eget.
+Chakra Enhancers is a jewelry line made by the Chief Investigator, Ráchel Räder, in the Ancient Truth Investigators' laboratory in Brooklyn, NY.
