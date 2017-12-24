@@ -30,6 +30,8 @@
 
     & .content-wrap {
         animation: fade-in-down .4s ease-out;
+        max-width: 32rem;
+
         @media #{$media-max-tablet}{
             margin-top: 2rem;
         }
