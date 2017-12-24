@@ -9,8 +9,4 @@ layout: shop-list
 
 ## Made by the Chief
 
-<<<<<<< HEAD
-Chakra Enhancers is a jewelry line made by the Chief Investigator, Ráchel Räder, in the Ancient Truth Investigators' laboratory in Brooklyn, NY. 
-=======
 Chakra Enhancers is a jewelry line made by the Chief Investigator, Ráchel Räder, in the Ancient Truth Investigators' laboratory in Brooklyn, NY.
->>>>>>> hero
