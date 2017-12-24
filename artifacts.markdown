@@ -5,3 +5,6 @@ social-media-image: "/uploads/og-image%E2%80%94archive.jpg"
 layout: artifact-list
 ---
 
+## Works: Found & Made
+
+An archive of specimens, artifacts, and projects conceived by the Ancient Truth Investigators. 

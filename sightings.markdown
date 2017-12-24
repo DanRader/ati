@@ -7,3 +7,4 @@ social-media-image: "/uploads/og-image%E2%80%94sightings.jpg"
 layout: sightings
 ---
 
+A listing of where you may have seen, or will see the team and their investigations first-hand. 
