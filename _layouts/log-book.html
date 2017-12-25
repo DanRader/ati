@@ -31,7 +31,32 @@ layout: default
   <hr class="">
   <h2 class="center py4">Recent Entries</h2>
 
-{% assign post-sort = site.entries | sort: 'date' | reverse %}
+  {% for post in page.entries limit:3 %}
+    {% assign post-title = post | downcase %}
+      {% for site-post in site.entries %}
+        {% assign site-post-title = site-post.title | downcase %}
+            {% if post-title == site-post-title  %}
+              <div class="col m4">
+                <a href="{{ site-post.url | prepend: site.baseurl }}">
+                 <section class="blog-list-item">
+                   <div class="blog-list-image cover" style="background-image: url('{{ site-post.image }}');">
+                   </div>
+                   <div class="blog-list-content">
+                     {% include posts/categories2.html %}
+                     <h3>{{ site-post.title }}</h3>
+                   </div>
+                 </section>
+                </a>
+              </div>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+
+
+
+
+<!-- {% assign post-sort = site.entries | sort: 'date' | reverse %}
 
   <div class="">
     {% for post in post-sort offset: 1 limit:3 %}
@@ -51,5 +76,5 @@ layout: default
         </a>
       </div>
     {% endfor %}
-  </div>
+  </div> -->
 </section>
