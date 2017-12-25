@@ -28,7 +28,7 @@ layout: default-ClearNav
             </div>
         </div>
         <!-- content -->
-        <div class="home--content">
+        <div class="home--content" draggable="false">
             <div class="max-width-3 mx-auto center">
                 {% include svg/ATI_w.svg %}
                 <h1>Ancient Truth Investigators</h1>
@@ -38,7 +38,7 @@ layout: default-ClearNav
 
         <!-- texture  -->
 
-        <div class="home--texture_wrap hero-slider_texture">
+        <div class="home--texture_wrap hero-slider_texture xs-hide">
             {% for image in image_sort %}
             <div class="home--texture_innerwrapper">
                 <div class="absolute home--texture1">
@@ -68,7 +68,7 @@ layout: default-ClearNav
                 autoplay: true,
                 autoplaySpeed: 12000,
                 asNavFor: '.hero-slider_texture',
-                draggable: true,
+                draggable: true
             });
                 $('.hero-slider_texture').slick({
                       slidesToShow: 1,
@@ -78,7 +78,7 @@ layout: default-ClearNav
                       centerMode: false,
                       focusOnSelect: true,
                       vertical: true,
-                      draggable: false
+                      draggable: true
                 });
             });
     </script>

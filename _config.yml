@@ -44,6 +44,10 @@ defaults:
     image: "/uploads/02-347f2d.jpg"
     featured-video: ''
     layout: log-book
+    entries:
+    - All in a Day's Work
+    - Work in Progress...
+    - Clue
     author:
       image: "/uploads/RachelRader_avatar.jpg"
       name: Ráchel Räder, C.I.
