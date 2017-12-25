@@ -36,45 +36,23 @@ layout: default
       {% for site-post in site.entries %}
         {% assign site-post-title = site-post.title | downcase %}
             {% if post-title == site-post-title  %}
-              <div class="col m4">
-                <a href="{{ site-post.url | prepend: site.baseurl }}">
-                 <section class="blog-list-item">
-                   <div class="blog-list-image cover" style="background-image: url('{{ site-post.image }}');">
+            <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb3 list-item ">
+              <a href="{{ site-post.url | prepend: site.baseurl }}">
+               <section class="blog-list-item">
+                 <div class="blog-list-image cover relative" style="background-image: url('{{ site-post.image }}');">
+                   <div class="blog-list-date absolute">
+                     {{ site-post.date | date: "%m.%d.%y" }}
                    </div>
-                   <div class="blog-list-content">
-                     {% include posts/categories2.html %}
-                     <h3>{{ site-post.title }}</h3>
-                   </div>
-                 </section>
-                </a>
-              </div>
+                 </div>
+                 <div class="blog-list-content">
+                   <p>Entry No. {{ site-post.entry-number }} </p>
+                   <h3>{{ site-post.title }}</h3>
+                 </div>
+               </section>
+              </a>
+            </div>
           {% endif %}
         {% endfor %}
       {% endfor %}
 
-
-
-
-
-<!-- {% assign post-sort = site.entries | sort: 'date' | reverse %}
-
-  <div class="">
-    {% for post in post-sort offset: 1 limit:3 %}
-      <div class="sm-col sm-col-12 md-col-4 lg-col-4 px2 mb3 list-item ">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-         <section class="blog-list-item">
-           <div class="blog-list-image cover relative" style="background-image: url('{{ post.image }}');">
-             <div class="blog-list-date absolute">
-               {{ post.date | date: "%m.%d.%y" }}
-             </div>
-           </div>
-           <div class="blog-list-content">
-             <p>Entry No. {{ post.entry-number }} </p>
-             <h3>{{ post.title }}</h3>
-           </div>
-         </section>
-        </a>
-      </div>
-    {% endfor %}
-  </div> -->
 </section>
