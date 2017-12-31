@@ -1,7 +1,7 @@
 ---
 title: Amända Patenaûdé
 date: 2017-09-18 20:00:00 -04:00
-position: 2
+position: 1
 team-title: HAPPI Institute
 website: http://www.amandapatenaude.com/
 image: "/uploads/Profile-pic_Patenaude_medres.jpg"
