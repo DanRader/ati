@@ -9,4 +9,4 @@ instagram: https://www.instagram.com/danrdesign/
 twitter: https://twitter.com/danrdesign?lang=en
 ---
 
-Dan is a designer and developer responsible for the ATI website and branding. He resides in Washington D.C. where he is currently a Interactive Art Director at [ISL](http://isl.co). 
+Dan is a designer and developer responsible for the ATI website and branding. He resides in Washington D.C. where he is currently an Interactive Art Director at [ISL](http://isl.co). 
