@@ -4,7 +4,7 @@
             <span class="action__label action__label--hidden">Close preview</span>
         </button>
     	<div class="video-inner">
-            <video class="video-player" src="https://player.vimeo.com/external/227759970.hd.mp4?s=8ee2cf1c140b3d0399c0a58f2770c59b59ce9d64&profile_id=174" poster="" autoplay="" loop="">
+            {{ page.video }}
             <p>Sorry, but your browser does not support this video format.</p>
     	</div><!-- /video-inner-->
     </div><!-- /video-wrap-->
@@ -19,7 +19,7 @@
 
     var bodyEl = document.body,
         videoWrap = document.querySelector('.video-wrap'),
-        videoEl = videoWrap.querySelector('video'),
+        videoEl = videoWrap.querySelector('iframe'),
         playCtrl = document.querySelector('.action--play'),
         closeCtrl = document.querySelector('.action--close');
 
