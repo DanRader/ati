@@ -1,57 +1,67 @@
-    <div class="video-wrap">
-        <button class="action action--close">
-            <i class="fa fa-close"></i>
-            <span class="action__label action__label--hidden">Close preview</span>
-        </button>
-    	<div class="video-inner">
-            {{ page.video }}
-            <p>Sorry, but your browser does not support this video format.</p>
-    	</div><!-- /video-inner-->
-    </div><!-- /video-wrap-->
+<script src="https://player.vimeo.com/api/player.js"></script>
+<div class="video-wrap">
+    <button class="action action--close">
+        <i class="fa fa-close"></i>
+        <span class="action__label action__label--hidden">Close preview</span>
+    </button>
+    <div class="video-inner">
+            <div data-vimeo-id="239942671" id="handstick"></div>
+        <p>Sorry, but your browser does not support this video format.</p>
+    </div><!-- /video-inner-->
+</div><!-- /video-wrap-->
 
 <script src="/js/classie.js"></script>
 
 <script type="text/javascript">
 
+
+
+
 ;( function() {
 
-    'use strict';
+'use strict';
 
-    var bodyEl = document.body,
-        videoWrap = document.querySelector('.video-wrap'),
-        videoEl = videoWrap.querySelector('iframe'),
-        playCtrl = document.querySelector('.action--play'),
-        closeCtrl = document.querySelector('.action--close');
+var handstickPlayer = new Vimeo.Player('handstick');
 
-    function init() {
-        initEvents();
-    }
+var bodyEl = document.body,
+    videoWrap = document.querySelector('.video-wrap'),
+    videoEl = videoWrap.querySelector('#handstick'),
+    playCtrl = document.querySelector('.action--play'),
+    closeCtrl = document.querySelector('.action--close');
 
-    function initEvents() {
-        playCtrl.addEventListener('click', play);
-        closeCtrl.addEventListener('click', hide);
-        videoEl.addEventListener('canplaythrough', allowPlay);
-        videoEl.addEventListener('ended', hide);
-    }
+function init() {
+    initEvents();
+}
 
-    function allowPlay() {
-        classie.add(bodyEl, 'video-loaded');
-    }
+function initEvents() {
+    playCtrl.addEventListener('click', play);
+    closeCtrl.addEventListener('click', hide);
+    handstickPlayer.play();
+}
 
-    function play() {
-        videoEl.currentTime = 0;
-        classie.remove(videoWrap, 'video-wrap--hide');
-        classie.add(videoWrap, 'video-wrap--show');
-        setTimeout(function() {videoEl.play();}, 600);
-    }
+function allowPlay() {
+    classie.add(bodyEl, 'video-loaded');
+}
 
-    function hide() {
+function play() {
+    handstickPlayer.currentTime = 0;
+    classie.remove(videoWrap, 'video-wrap--hide');
+    classie.add(videoWrap, 'video-wrap--show');
+    setTimeout(function() {handstickPlayer.play();});
+}
+
+    handstickPlayer.getEnded().then(function(endhide) {
         classie.remove(videoWrap, 'video-wrap--show');
         classie.add(videoWrap, 'video-wrap--hide');
-        videoEl.pause();
-    }
+    })
 
-    init();
+function hide() {
+    classie.remove(videoWrap, 'video-wrap--show');
+    classie.add(videoWrap, 'video-wrap--hide');
+    handstickPlayer.pause();
+}
+
+init();
 
 })();
 </script>
