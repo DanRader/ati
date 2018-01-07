@@ -19,6 +19,12 @@ layout: default
             <a href="{{ post.url }}">
                 <div class="blog-highlight col col-10 sm-col-8 lg-col-6">
                       <div class="blog-highlight-cover-image" style="background-image: url('{{ post.image }}');"></div>
+                      {% if post.video %}
+                        <div class="video-tag">
+                            {% include svg/ATI_w.svg %}
+                            Video
+                        </div>
+                      {% endif %}
                       <div class="blog-highlight-date">
                           <p>Entry No. {{ post.entry-number }} // {{ post.date | date: "%m.%d.%y" }}</p>
                       </div>
@@ -46,7 +52,15 @@ layout: default
               <div class="col col-12 sm-col-12 md-col-4 lg-col-4 px2 post--list ">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                  <section class="blog-list-item">
-                   <div class="blog-list-image cover relative" style="background-image: url('{{ post.image }}');">
+                     <div class="blog-list-image cover relative" style="background-image: url('{{ post.image }}');">
+
+                       {% if post.video %}
+                         <div class="video-tag">
+                             {% include svg/ATI_w.svg %}
+                             <p>Video</p>
+                         </div>
+                       {% endif %}
+
                      <div class="blog-list-date absolute">
                        {{ post.date | date: "%m.%d.%y" }}
                      </div>

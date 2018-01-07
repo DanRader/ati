@@ -4,11 +4,12 @@ date: 2015-03-15 15:33:00 -04:00
 position: 32
 entry-number: 4
 image: "/uploads/Hawaii.jpg"
+video:
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_vVu3m0BKc0" frameborder="0" allowfullscreen></iframe>
 
-Recently two members of the Ancient Truth Investigators visited the Heart Chakra of the planet, Hawaii. 
+Recently two members of the Ancient Truth Investigators visited the Heart Chakra of the planet, Hawaii.
 
 Both Ms. Friedman and Ms. Donnellan said that they experienced an opening of their own heart chakras in connecting with this location. Prior to their visit, they said that they felt a calling to visit Hawaii.
 

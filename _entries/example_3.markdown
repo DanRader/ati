@@ -5,10 +5,8 @@ position: 3
 entry-number: 33
 summary: The Chief investigates ASMR.
 image: "/uploads/ASMR.jpg"
-featured-video: |-
-  <iframe src="https://player.vimeo.com/video/218412853" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/218412853">ASMR Survey</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 layout: log-book
+video: 218412853
 ---
 
 The Chief has been heading up a series of tests in order to quantify theories prevalent within ATI. One common theme in the team's belief system, is the power of sound frequencies on the human experience. Recently, the Chief put together a campaign in order to gather data from visitors during ATI's most [recent exhibition of findings, in Norfolk, VA.](https://ancienttruthinvestigators.squarespace.com/news/2017/7/12/51grppvene59fgrx91l6093obun1xh)
@@ -28,5 +26,3 @@ During the exhibition in Norfolk, VA, visitors were invited to experience the AT
 ![03.jpg](/uploads/03.jpg)
 
 Do you experience ASMR? We want to know. Watch the ATI ASMR Survey Video to find out if you have a physical reaction to sound. Let us know what you feel while watching this film made by the Chief, and we will add your answers to our ongoing research.
-
-<iframe src="https://player.vimeo.com/video/207987687" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

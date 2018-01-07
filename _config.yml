@@ -42,7 +42,7 @@ defaults:
     entry-number: ''
     summary: ''
     image: "/uploads/02-347f2d.jpg"
-    featured-video: ''
+    video: 
     layout: log-book
     entries:
     - All in a Day's Work

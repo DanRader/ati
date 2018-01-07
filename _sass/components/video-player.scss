@@ -159,26 +159,32 @@
     }
 }
 
-iframe {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+#handstick {
+	iframe {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
 
-	@media (min-aspect-ratio: 16/9) {
-		height: 300%; top: -100%;
-	}
-
-	@media (max-aspect-ratio: 16/9) {
-		width: 300%; left: -100%;
-
-		@media #{$media-max-tablet}{
-			width: 317%;
-			left: -108%;
+		@media (min-aspect-ratio: 16/9) {
+			height: 300%; top: -100%;
 		}
-	}
 
+		@media (max-aspect-ratio: 16/9) {
+			width: 300%; left: -100%;
+
+			@media #{$media-max-tablet}{
+				width: 317%;
+				left: -108%;
+			}
+		}
+
+	}
+}
+
+iframe {
+	width: 100%;
 }
 
 // animations

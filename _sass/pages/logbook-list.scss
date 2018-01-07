@@ -271,3 +271,29 @@ padding: 5% 0;
       line-height: 38px;
     }
 }
+
+.video-tag {
+    position: absolute;
+    top: 10px;
+    left: 13px;
+    display: flex;
+    align-items: center;
+
+    & svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    & p {
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 27px;
+        margin-bottom: 0;
+        margin-left: 5px;
+        margin-top: 2px;
+        display: inline-block;
+        color: white;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    }
+}

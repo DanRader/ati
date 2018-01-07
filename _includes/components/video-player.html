@@ -5,7 +5,7 @@
         <span class="action__label action__label--hidden">Close preview</span>
     </button>
     <div class="video-inner">
-            <div data-vimeo-id="239942671" id="handstick"></div>
+            <div data-vimeo-id="{{ page.video }}" id="handstick"></div>
         <p>Sorry, but your browser does not support this video format.</p>
     </div><!-- /video-inner-->
 </div><!-- /video-wrap-->
@@ -36,7 +36,7 @@ function init() {
 function initEvents() {
     playCtrl.addEventListener('click', play);
     closeCtrl.addEventListener('click', hide);
-    handstickPlayer.play();
+    // handstickPlayer.play();
 }
 
 function allowPlay() {

@@ -5,12 +5,8 @@ position: 15
 entry-number: 22
 summary: 'ATI investigates artifacts in Cyprus. '
 image: "/uploads/cyprus.jpg"
-featured-video: |-
-  <iframe src="https://player.vimeo.com/video/216603447" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/216603447">Cyprus</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video: 216603447
 ---
-
-<iframe src="https://player.vimeo.com/video/216603447" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 The Ancient Truth Investigators are constantly seeking links in the Sea Peoples' evolution. Last summer, the Archaeological Department of ATI did extensive research in Cyprus. The ATI New York Branch is currently doing preservation work to their findings and we can't help but reminisce on this monumental expedition.
 ![06-cae613.jpg](/uploads/06-cae613.jpg)
