@@ -1,7 +1,6 @@
 ---
 title: PSC-R-L-02
 date: 2017-12-04 20:08:00 -05:00
-published: false
 categories:
 - Rings
 visible-title: Petrified Spongy Coral Ring
