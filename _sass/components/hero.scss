@@ -1,5 +1,11 @@
 $hero-height: 48vh;
 
+.hero__outer-wrap {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
 .page--hero__image {
     width: 70rem;
     height: $hero-height;
@@ -70,6 +76,9 @@ $hero-height: 48vh;
     justify-content: flex-end;
     position: relative;
     margin-bottom: 4rem;
+    @media #{$media-max-tablet}{
+            margin-bottom: 2rem;
+    }
 }
 .hero--content-wrap {
     background-color: $paper-tan;

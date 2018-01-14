@@ -44,7 +44,7 @@
     padding: 5%;
     position: relative;
     box-sizing: border-box;
-    height: 100vh;
+    min-height: 100vh;
     width: 100vw;
     display: flex;
     align-items: center;
@@ -135,6 +135,7 @@
 
 .close {
   position: absolute;
+  z-index: 1;
   top: 6%;
   right: 4%;
   display: inline-block;
@@ -237,4 +238,18 @@
 
 .alert {
     margin-top: 1rem;
+}
+
+#return--modal {
+    & .modal-content {
+        display: block;
+        & h1 {
+            padding: 4rem 0 1rem 0;
+        }
+    @media #{$media-max-tablet}{
+        height: auto;
+        margin-top: 0;
+    }
+
+    }
 }
