@@ -4,7 +4,7 @@ date: 2015-03-15 15:33:00 -04:00
 position: 32
 entry-number: 4
 image: "/uploads/Hawaii.jpg"
-video:
+video: 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_vVu3m0BKc0" frameborder="0" allowfullscreen></iframe>
