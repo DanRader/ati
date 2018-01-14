@@ -19,14 +19,14 @@ layout: default
             <a href="{{ post.url }}">
                 <div class="blog-highlight col col-10 sm-col-8 lg-col-6">
                       <div class="blog-highlight-cover-image" style="background-image: url('{{ post.image }}');"></div>
-                      {% if post.video %}
-                        <div class="video-tag">
-                            {% include svg/ATI_w.svg %}
-                            Video
-                        </div>
-                      {% endif %}
                       <div class="blog-highlight-date">
-                          <p>Entry No. {{ post.entry-number }} // {{ post.date | date: "%m.%d.%y" }}</p>
+                          <p><span class="xs-hide">Entry</span> No. {{ post.entry-number }} // {{ post.date | date: "%m.%d.%y" }}</p>
+                          {% if post.video %}
+                            <div class="video-tag">
+                                {% include svg/ATI_b.svg %}
+                                <p>Video</p>
+                            </div>
+                          {% endif %}
                       </div>
                       <div class="blog-highlight-content">
                             <h2> {{ post.title }}</h2>
@@ -56,7 +56,7 @@ layout: default
 
                        {% if post.video %}
                          <div class="video-tag">
-                             {% include svg/ATI_w.svg %}
+                             {% include svg/ATI_b.svg %}
                              <p>Video</p>
                          </div>
                        {% endif %}

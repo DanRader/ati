@@ -106,6 +106,7 @@
           background-position: 73% 43%;
       }
   }
+
 }
 
 .blog-highlight-content {
@@ -139,6 +140,18 @@
       color: white;
       font-size: 13px;
       margin-bottom: 0;
+    }
+    & .video-tag {
+        top: 0;
+        bottom: auto;
+        right: -108px;
+        left: auto;
+        & svg {
+        }
+
+        & p {
+            line-height: 24.5px;
+        }
     }
 }
 
@@ -274,26 +287,29 @@ padding: 5% 0;
 
 .video-tag {
     position: absolute;
-    top: 10px;
+    bottom: 11px;
     left: 13px;
     display: flex;
     align-items: center;
+    background-color: #ffffff96;
+    width: 108px;
 
     & svg {
-        width: 20px;
-        height: 20px;
+        width: 16px;
+        height: 16px;
+        margin-left: 8px;
     }
 
     & p {
         font-weight: 700;
-        font-size: 15px;
-        line-height: 27px;
+        font-size: 12.5px;
+        line-height: 19px;
         margin-bottom: 0;
-        margin-left: 5px;
+        margin-left: 6px;
         margin-top: 2px;
         display: inline-block;
-        color: white;
+        color: black;
         text-transform: uppercase;
-        letter-spacing: 3px;
+        letter-spacing: 7.4px;
     }
 }
