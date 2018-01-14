@@ -10,11 +10,10 @@ author:
   name: Ráchel Räder
   title: Chief Investigator, ATI
 layout: log-book
+video: 239942671
 ---
 
 The Chief has been working on new Chakra Enhancers in the ATI laboratory. Click on the video to see a little glimpse into her specimen-restoration process.
-
-<iframe src="https://player.vimeo.com/video/239942671" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 The Chief will unveil a new collection of Chakra Enhancers on the website once each specimen is perfectly restored and brought to the highest polish possible.
 ![New-Jewels.jpg](/uploads/New-Jewels.jpg)

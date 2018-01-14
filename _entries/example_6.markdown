@@ -6,13 +6,9 @@ entry-number: 30
 summary: Join the team in Norfolk, VA as they investigate the energies associated
   with 36.8508° N, 76.2859° W.
 image: "/uploads/team.jpg"
-featured-video: |-
-  <iframe src="https://player.vimeo.com/video/207987687" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/207987687">Experiment Reel</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video: 207987687
 layout: log-book
 ---
-
-<iframe src="https://player.vimeo.com/video/207987687" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Join the team in Norfolk, VA as they investigate the energies associated with 36.8508° N, 76.2859° W.
 
