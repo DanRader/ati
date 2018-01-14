@@ -58,9 +58,6 @@ var close = document.getElementsByClassName("close");
             }, false);
     }
 // // When the user clicks on <span> (x), close the modal
-// close.onclick = function() {
-// modal.classList.remove("contact--modal__active");
-// }
 for (var i = 0; i < close.length; i++) {
     var thisClose = close[i];
         thisClose.addEventListener("click", function(){
@@ -68,12 +65,6 @@ for (var i = 0; i < close.length; i++) {
             modal.classList.add("contact--modal__inactive");
             modal.classList.remove("contact--modal__active");
         }, false);
-        // modal.keyup(function(event){
-        //     if (event.keyCode == 27){
-        //        modal.classList.add("contact--modal__inactive");
-        //        modal.classList.remove("contact--modal__active");
-        //       }
-        //   )};
 }
 
 // POST form data to zapier on submit
