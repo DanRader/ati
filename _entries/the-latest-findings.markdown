@@ -4,9 +4,8 @@ date: 2015-08-15 23:01:00 -04:00
 position: 26
 entry-number: 11
 image: "/uploads/LF17.jpg"
+video: 140801737
 ---
-
-<iframe src="https://player.vimeo.com/video/140801737" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 The following is an exhibition of the latest findings made by the Chief on display in the Window Gallery at UrbanGlass, in Brooklyn, NY. Exhibition duration: July 15th - September 6th, 2015.
 

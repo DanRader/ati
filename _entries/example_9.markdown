@@ -7,9 +7,7 @@ summary: An exhibition featuring findings from Jáson Bland-förd (Linguistics S
   Åmy Lêmaire (Energy Assessment Specialist), Amända Patenaûdé (of the HAPPI Institute)
   and Ráchel Räder (the Chief Investigator).
 image: "/uploads/05-b6c81e.jpg"
-featured-video: |-
-  <iframe src="https://player.vimeo.com/video/219046387" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/219046387">Tools of Alignment</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video: 219046387
 layout: log-book
 ---
 

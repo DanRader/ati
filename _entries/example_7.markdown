@@ -5,9 +5,7 @@ position: 9
 entry-number: 28
 summary: The team investigates the displacement of matter surrounding the Elements.
 image: "/uploads/wheaton-SQ.jpg"
-featured-video: |-
-  <iframe src="https://player.vimeo.com/video/205645094" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/205645094">Energy Displacement of the Elements</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video: 205645094
 layout: log-book
 ---
 
@@ -20,5 +18,3 @@ A Banded Strattite Specimen which appears to be displacing the glass form surrou
 ![02-cd0665.jpg](/uploads/02-cd0665.jpg)
 
 The team investigates.
-
-<iframe src="https://player.vimeo.com/video/205645094" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

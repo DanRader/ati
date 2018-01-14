@@ -6,14 +6,12 @@ entry-number: 35
 summary: The Chief has been hard at work in the ATI Laboratory, fabricating a new
   collection of Chakra Enhancers.
 image: "/uploads/01-091a3e.jpg"
-featured-video: |-
-  <iframe src="https://player.vimeo.com/video/235463009" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/235463009">Kelsie in ATI lab</a> from <a href="https://vimeo.com/user43661355">R&aacute;chel R&auml;der, C.I.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 author:
   image: "/uploads/RachelRader_avatar.jpg"
   name: Rachel Rader
   title: "Chief Investigator,\L Ancient Truth Investigators"
 layout: log-book
+video: 235463009
 ---
 
 The Chief has been hard at work in the ATI Laboratory, fabricating a new collection of Chakra Enhancers. Each specimen is sourced from key energetic points around the planet which are associated with Chakra energies. They are then transported back to the lab in Brooklyn, NY for restoration. The surface is brought to a polish in the [UrbanGlass studio ](https://urbanglass.org/)and then to the laboratory to unleash their unique enhancement potential.
@@ -25,8 +23,6 @@ It's a laborious process, so sometimes the Chief brings help into the lab. This 
 ![03-0c42f5.jpg](/uploads/03-0c42f5.jpg)
 
 Kelsie investigates a Banded Strattite specimen while in the ATI lab, for its energetic potential.
-
-<iframe src="https://player.vimeo.com/video/235463009" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Kelsie is a dedicated assistant and friend. She came to New York ready to conduct the necessary investigations in and out of the lab, (this included an exploration of a few pizzeria establishments). While in the the city, the two began to discuss their interest in particular myths and their association with ancient vocal expressions. This may lead to further developments in ATI's research and evolution. Stay tuned.
 

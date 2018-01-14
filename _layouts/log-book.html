@@ -2,9 +2,19 @@
 layout: default
 ---
 
-<div class="post--hero relative">
-  <div class="post--hero__image relative" style="background-image: url('{{ page.image }}');"></div>
-</div>
+{% if page.video %}
+    <div class="post--hero relative">
+        <button type="button" name="play" class="action--play play-button">{% include /svg/playButton.svg %}</button>
+        <div class="post--heroVideo__image relative" style="background-image: url('{{ page.image }}');">
+        </div>
+    </div>
+    {% include components/video-player.html %}
+{% else %}
+    <div class="post--hero relative">
+        <div class="post--hero__image relative" style="background-image: url('{{ page.image }}');"></div>
+    </div>
+{% endif %}
+
 <div class="post__content max-width-2 mx-auto relative">
   <div class="blog-highlight-date">
     <p>Entry No. {{ page.entry-number }} // {{ page.date | date: "%m.%d.%y" }}</p>
