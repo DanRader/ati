@@ -1,5 +1,11 @@
 $hero-height: 48vh;
 
+.hero__outer-wrap {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
 .page--hero__image {
     width: 70rem;
     height: $hero-height;
@@ -20,15 +26,13 @@ $hero-height: 48vh;
 }
 
 .page--hero__title {
-  position: absolute;
-  left: -2rem;
-  bottom: -38px;
-  padding: 4px 7px 11px 7px;
-  transform: rotate(-90deg);
-  transform-origin: left;
-  transition: $transition-1;
-
-  & h1 {
+    position: absolute;
+    left: -2rem;
+    bottom: -38px;
+    padding: 4px 7px 11px 7px;
+    transform: rotate(-90deg);
+    transform-origin: left;
+    transition: $transition-1;
     color: black;
     font-weight: 100;
     font-size: 51px;
@@ -46,7 +50,7 @@ $hero-height: 48vh;
       margin: auto;
       z-index: -1;
       opacity: .7;
-    }
+
   }
 
   @media #{$media-max-tablet} {
@@ -70,6 +74,9 @@ $hero-height: 48vh;
     justify-content: flex-end;
     position: relative;
     margin-bottom: 4rem;
+    @media #{$media-max-tablet}{
+            margin-bottom: 2rem;
+    }
 }
 .hero--content-wrap {
     background-color: $paper-tan;

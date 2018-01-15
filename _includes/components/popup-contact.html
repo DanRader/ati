@@ -1,11 +1,8 @@
-<!-- The Modal -->
+<!-- Contact Modal -->
 <div id="contact--modal" class="modal">
-
-
-  <!-- Modal content -->
   <div class="modal-content ">
   <div class="color-bar"></div>
-<span class="close hairline"></span>
+  <span class="close hairline" data-modal="contact--modal"></span>
   <div class="col-10 md-col-8 lg-col-6 center mx-auto content-wrap">
       <div class="xs-hide">
           {% include /svg/ATI_b.svg %}
@@ -26,60 +23,18 @@
         </form>
   </div>
   </div>
-
 </div>
 
-<script type="text/javascript">
-
-// MODAL
-// Get the modal
-var modal = document.getElementById('contact--modal');
-
-// Get the button that opens the modal
-var btn = document.getElementById("contact--modal__trigger");
-
-// Get the <span> element that closes the modal
-var close = document.getElementsByClassName("close")[0];
-
-// When the user clicks on the button, open the modal
-btn.onclick = function() {
-modal.classList.add("contact--modal__active");
-modal.classList.remove("contact--modal__inactive");
-}
-
-// When the user clicks on <span> (x), close the modal
-close.onclick = function() {
-modal.classList.remove("contact--modal__active");
-}
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-if (event.target == modal) {
-    modal.classList.remove("contact--modal__active");
-    modal.classList.add("contact--modal__inactive");
-}
-}
-
-// POST form data to zapier on submit
-
-var $contactForm = $('#myForm');
-$contactForm.submit(function(e){
-    e.preventDefault();
-    $.ajax({
-        url:'https://hooks.zapier.com/hooks/catch/2549310/84xxea/',
-        type:'post',
-        data:$contactForm.serialize(),
-        beforeSend: function() {
-             $contactForm.append('<div class="alert alert--loading">Sending message…</div>');
-         },
-         success: function(data) {
-             $contactForm.find('.alert--loading').hide();
-             $contactForm.append('<div class="alert alert--success">Message sent!</div>');
-         },
-         error: function(err) {
-             $contactForm.find('.alert--loading').hide();
-             $contactForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
-         }
-    });
-});
-</script>
+<!-- Return Modal -->
+<div id="return--modal" class="modal">
+    <span class="close hairline" data-modal="return--modal"></span>
+    <div class="modal-content">
+        <div class="max-width-3 mx-auto relative">
+            {% for page in site.pages %}
+                {% if page.title == "return-policy" %}
+                    {{ page.content }}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

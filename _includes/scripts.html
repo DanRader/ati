@@ -2,6 +2,120 @@
 <script type="text/javascript" src="/js/slick.min.js"></script>
 
 <script type="text/javascript">
+
+// Slider
+          $(document).ready(function(){
+          $('.hero-slider_image').slick({
+            dots: true,
+            infinite: true,
+            speed: 1000,
+            slidesToShow: 1,
+            arrows: false,
+            asNavFor: null,
+            initialSlide: 0,
+            lazyLoad: 'ondemand',
+            cssEase: 'ease-in-out',
+            autoplay: true,
+            autoplaySpeed: 12000,
+            asNavFor: '.hero-slider_texture',
+            draggable: true
+        });
+            $('.hero-slider_texture').slick({
+                  slidesToShow: 1,
+                  dots: false,
+                  arrows: false,
+                  speed: 1000,
+                  centerMode: false,
+                  focusOnSelect: true,
+                  vertical: true,
+                  draggable: true
+            });
+        });
+
+
+
+// Baffle effect
+
+var bafflehover = document.getElementsByClassName("baffle-hover");
+var baffleloader = document.getElementsByClassName("baffle-loader");
+var baffleloaderHome = document.getElementsByClassName("baffle-loader-home");
+
+for (var i = 0; i < bafflehover.length; i++) {
+    var thisBfl = bafflehover[i];
+    let a = baffle(thisBfl)
+    $(thisBfl).mouseover(function() {
+        a.reveal(1500);
+  });
+}
+
+for (var i = 0; i < baffleloader.length; i++) {
+    var thisLoad = baffleloader[i];
+    let b = baffle(thisLoad)
+    document.addEventListener("DOMContentLoaded", function() {
+      b.reveal(1500);
+    });
+}
+
+let c = baffle(baffleloaderHome)
+c.set({
+    speed: 50,
+    characters: '░▒█▓'
+});
+document.addEventListener("DOMContentLoaded", function() {
+  c.reveal(900);
+});
+
+// MODAL
+
+
+// modal trigger
+var btn = document.getElementsByClassName("modal__trigger");
+// close btn
+var close = document.getElementsByClassName("close");
+
+// When the user clicks on the button, open the modal
+    for (var i = 0; i < btn.length; i++) {
+        var thisBtn = btn[i];
+            thisBtn.addEventListener("click", function(){
+                var modal = document.getElementById(this.dataset.modal);
+                modal.classList.add("contact--modal__active");
+                modal.classList.remove("contact--modal__inactive");
+            }, false);
+    }
+// // When the user clicks on <span> (x), close the modal
+for (var i = 0; i < close.length; i++) {
+    var thisClose = close[i];
+        thisClose.addEventListener("click", function(){
+            var modal = document.getElementById(this.dataset.modal);
+            modal.classList.add("contact--modal__inactive");
+            modal.classList.remove("contact--modal__active");
+        }, false);
+}
+
+// POST form data to zapier on submit
+
+var $contactForm = $('#myForm');
+    $contactForm.submit(function(e){
+        e.preventDefault();
+        $.ajax({
+            url:'https://hooks.zapier.com/hooks/catch/2549310/84xxea/',
+            type:'post',
+            data:$contactForm.serialize(),
+            beforeSend: function() {
+                 $contactForm.append('<div class="alert alert--loading">Sending message…</div>');
+             },
+             success: function(data) {
+                 $contactForm.find('.alert--loading').hide();
+                 $contactForm.append('<div class="alert alert--success">Message sent!</div>');
+             },
+             error: function(err) {
+                 $contactForm.find('.alert--loading').hide();
+                 $contactForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
+             }
+     });
+    });
+
+
   $(document).ready(function(){
   $('.slider').slick({
     dots: false,
@@ -21,10 +135,8 @@
     ]
 });
 });
-</script>
 
-<!-- Smooth scrolling on anchor links. effects any link with a hashtag -->
-<script type="text/javascript">
+// <!-- Smooth scrolling on anchor links. effects any link with a hashtag -->
 $(document).ready(function(){
 	$('a[href^="#"]').on('click',function (e) {
 	    e.preventDefault();
@@ -39,11 +151,9 @@ $(document).ready(function(){
 	    });
 	});
 });
-</script>
 
 
-<!-- Make all external links open in blank tab -->
-<script type="text/javascript">
+// <!-- Make all external links open in blank tab -->
     $(document.links).filter(function() {
         return this.hostname != window.location.hostname;
     }).attr('target', '_blank');
