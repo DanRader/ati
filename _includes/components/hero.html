@@ -6,8 +6,8 @@
             <div class="hero--content-wrap col-12 sm-col-11 md-col-11 lg-col-11">
                 <div class="hero--content">
                 <div class="hero—inner-wrap">
-                    <div class="page--hero__title show-on-small">
-                      <h1 class="">{{ page.title }}</h1>
+                    <div class="baffle-loader page--hero__title show-on-small">
+                      <h1>{{ page.title }}</h1>
                     </div>
                 </div>
                     {{ content }}
@@ -15,9 +15,9 @@
                 <div class="page--hero__image" style="background-image: url('{{ page.image }}');">
                 </div>
                 <div class="hero—inner-wrap xs-hide">
-                    <div class="page--hero__title">
-                      <h1 class="">{{ page.title }}</h1>
-                    </div>
+                    <h1 class="page--hero__title baffle-loader">
+                      {{ page.title }}
+                  </h1>
                 </div>
             </div>
 

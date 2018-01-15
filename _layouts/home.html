@@ -2,16 +2,6 @@
 layout: default-ClearNav
 ---
 
-<!-- <nav class="flex space-between home--nav">
-    <ul class="block list-reset clearfix mx-auto">
-       {% assign current = page.url | downcase | split: '/' %}
-            <a href='/artifacts'><li class=" block left {% if current contains 'artifacts' %}nav--links_active {% endif %}nav--links" id="nav1">Artifacts</li></a>
-            <a href='/sightings'><li class=" block left {% if current contains 'sightings' %}nav--links_active {% endif %}nav--links" id="nav2">Sightings</li></a>
-            <a href='/log-book'><li class=" block left {% if current contains 'log-book' %}nav--links_active {% endif %}nav--links" id="nav3">Log Book</li></a>
-            <a href='/team'><li class=" block left {% if current contains 'team' %}nav--links_active {% endif %}nav--links" id="nav5">The Team</li></a>
-            <a href='/shop'><li class=" block left {% if current contains 'shop' %}nav--links_active {% endif %}nav--links nav--last" id="nav4">Shop</li></a>
-    </ul>
-</nav> -->
     <div class="home--wrapper mx-auto ">
         {% assign image_sort = site.home-images | sort:"position"  %}
 
@@ -31,8 +21,8 @@ layout: default-ClearNav
         <div class="home--content" draggable="false">
             <div class="max-width-3 mx-auto center">
                 {% include svg/ATI_w.svg %}
-                <h1>Ancient Truth Investigators</h1>
-                <p>Uncovering the Connection of Humanity and the Planet</p>
+                <h1 class="baffle-loader">Ancient Truth Investigators</h1>
+                <p class="baffle-loader-home">Uncovering the Connection of Humanity and the Planet</p>
             </div>
         </div>
 
@@ -52,33 +42,3 @@ layout: default-ClearNav
         </div>
 
     </div>
-
-    <script type="text/javascript">
-              $(document).ready(function(){
-              $('.hero-slider_image').slick({
-                dots: true,
-                infinite: true,
-                speed: 1000,
-                slidesToShow: 1,
-                arrows: false,
-                asNavFor: null,
-                initialSlide: 0,
-                lazyLoad: 'ondemand',
-                cssEase: 'ease-in-out',
-                autoplay: true,
-                autoplaySpeed: 12000,
-                asNavFor: '.hero-slider_texture',
-                draggable: true
-            });
-                $('.hero-slider_texture').slick({
-                      slidesToShow: 1,
-                      dots: false,
-                      arrows: false,
-                      speed: 1000,
-                      centerMode: false,
-                      focusOnSelect: true,
-                      vertical: true,
-                      draggable: true
-                });
-            });
-    </script>
