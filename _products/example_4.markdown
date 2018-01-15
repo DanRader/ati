@@ -3,7 +3,7 @@ title: BS-S-S-04
 date: 2017-12-02 01:28:00 -05:00
 categories:
 - Earrings
-position: 2
+position: 26
 visible-title: Banded Strattite Post Earrings
 elements: Banded Strattite
 product-colors: Purple

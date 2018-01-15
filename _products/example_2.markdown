@@ -3,7 +3,7 @@ title: BS-S-S-03
 date: 2017-12-03 01:11:00 -05:00
 categories:
 - Earrings
-position: 1
+position: 25
 visible-title: Banded Strattite Post Earrings
 elements: Banded Strattite
 product-colors: White

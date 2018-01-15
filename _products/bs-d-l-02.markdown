@@ -3,6 +3,7 @@ title: BS-D-L-02
 date: 2017-12-05 00:56:00 -05:00
 categories:
 - Earrings
+position: 21
 visible-title: Banded Strattite Dangle Earrings
 elements: Banded Strattite
 product-colors: White

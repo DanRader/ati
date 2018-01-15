@@ -3,7 +3,7 @@ title: SQ-S-S-02
 date: 2017-12-02 01:57:00 -05:00
 categories:
 - Earrings
-position: 4
+position: 28
 visible-title: Spotted Quartz Post Earrings
 elements: Spotted Quartz
 product-colors: Brown

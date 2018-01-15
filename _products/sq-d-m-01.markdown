@@ -3,6 +3,7 @@ title: SQ-D-M-01
 date: 2017-12-04 21:05:00 -05:00
 categories:
 - Earrings
+position: 12
 visible-title: Spotted Quartz Dangle Earrings
 elements: Spotted Quartz
 product-colors: Brown
