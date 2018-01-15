@@ -3,6 +3,7 @@ title: BS-D-L-01
 date: 2017-12-05 00:38:00 -05:00
 categories:
 - Earrings
+position: 20
 visible-title: Banded Strattite Dangle Earrings
 elements: Banded Strattite
 product-colors: Pink

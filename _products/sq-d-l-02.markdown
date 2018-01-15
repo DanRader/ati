@@ -3,6 +3,7 @@ title: SQ-D-L-02
 date: 2017-12-04 22:30:00 -05:00
 categories:
 - Earrings
+position: 14
 visible-title: Spotted Quartz Dangle Earrings
 elements: Spotted Quartz
 product-colors: Yellow

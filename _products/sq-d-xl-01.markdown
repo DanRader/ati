@@ -3,6 +3,7 @@ title: SQ-D-XL-01
 date: 2017-12-04 22:53:00 -05:00
 categories:
 - Earrings
+position: 15
 visible-title: Spotted Quartz Dangle Earrings
 elements: Spotted Quartz
 product-colors: Purple

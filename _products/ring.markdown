@@ -3,7 +3,7 @@ title: BS-N-XL-01
 date: 2017-11-08 15:18:00 -05:00
 categories:
 - Necklaces
-position: 0
+position: 24
 visible-title: Pink Banded Strattite Necklace
 elements: Banded Strattite
 product-colors: Pink

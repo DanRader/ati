@@ -3,6 +3,7 @@ title: SQ-S-M-01
 date: 2017-12-03 02:13:00 -05:00
 categories:
 - Earrings
+position: 3
 visible-title: 'Spotted Quartz Post Earrings
 
 '

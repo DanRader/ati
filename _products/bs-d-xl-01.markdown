@@ -3,6 +3,7 @@ title: BS-D-XL-01
 date: 2017-12-05 01:12:00 -05:00
 categories:
 - Earrings
+position: 22
 visible-title: Banded Strattite Dangle Earrings
 elements: Banded Strattite
 product-colors: Purple
