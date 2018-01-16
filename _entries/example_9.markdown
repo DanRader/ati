@@ -8,6 +8,10 @@ summary: An exhibition featuring findings from Jáson Bland-förd (Linguistics S
   and Ráchel Räder (the Chief Investigator).
 image: "/uploads/05-b6c81e.jpg"
 video: 219046387
+entries:
+- The Team Investigates the Energy Fields of Norfolk
+- Save the Date
+- Clue
 layout: log-book
 ---
 
