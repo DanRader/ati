@@ -11,4 +11,4 @@ twitter: "#"
 facebook: "#"
 ---
 
-Interested in researching the role that energy particles have in the development of the natural world. 
+Amanda has a multi-media art practice. She has participated in [ATI performances](http://ancienttruthinvestigators.com/log-book/example_6/) and an exhibition called **[The Latest Findings from ATI](http://ancienttruthinvestigators.com/log-book/example_9/)**[,](http://ancienttruthinvestigators.com/log-book/example_9/) in Norfolk, VA. In her participation, she is the representative of an organization called the HAPPI Institute. 
