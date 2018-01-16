@@ -5,6 +5,10 @@ position: 26
 entry-number: 11
 image: "/uploads/LF17.jpg"
 video: 140801737
+entries:
+- Clue
+- An Exhibition of the Latest Findings
+- The Panel Discussion at UrbanGlass Gallery
 ---
 
 The following is an exhibition of the latest findings made by the Chief on display in the Window Gallery at UrbanGlass, in Brooklyn, NY. Exhibition duration: July 15th - September 6th, 2015.
