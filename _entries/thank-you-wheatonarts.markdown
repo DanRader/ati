@@ -5,6 +5,10 @@ position: 12
 entry-number: 25
 image: "/uploads/chief-02.jpg"
 video: 183764320
+entries:
+- House of Truth at WheatonArts
+- Q+A with Ráchel Räder, the Chief Investigator
+- The Chief's Residency at the MAD|Museum of Arts and Design
 ---
 
 These past 3 weeks have been an amazing opportunity for the Ancient Truth Investigators to research, collaborate and share while in beautiful South Jersey! [WheatonArts   ](http://www.wheatonarts.org/)generously allowed The Chief to set up an installation of the latest findings made by the team that was open to the public, called the House of Truth.
