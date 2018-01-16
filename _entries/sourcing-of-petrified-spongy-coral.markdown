@@ -4,6 +4,10 @@ date: 2015-10-06 22:20:00 -04:00
 position: 24
 entry-number: 13
 image: "/uploads/PSC-top02.jpg"
+entries:
+- Coral Pink Banded Strattite
+- The Cyprus Dig
+- Clue
 ---
 
 The ATI team diving for Spongy Coral.
