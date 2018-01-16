@@ -5,6 +5,10 @@ position: 5
 entry-number: 32
 summary: 'The team investigates Machu Picchu. '
 image: "/uploads/machupicchu.jpg"
+entries:
+- The Cyprus Dig
+- Images From The Vortex
+- The Team Visits Hawaii, the Heart Chakra
 layout: log-book
 ---
 
