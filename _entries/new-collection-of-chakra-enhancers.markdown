@@ -7,6 +7,7 @@ image: "/uploads/collectiontop.jpg"
 entries:
 - Colorful Chakra Photoshoot
 - All in a Day's Work
+- Work in Progress...
 ---
 
 You can find the newest collection of Chakra Enhancers made by the Chief Investigator, Ráchel Räder, at the following locations this holiday season:
