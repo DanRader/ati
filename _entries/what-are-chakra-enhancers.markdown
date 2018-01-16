@@ -40,7 +40,7 @@ Sacral Chakra = **Reproductive Glands**
 
 Root Chakra = **Adrenal Cortex Glands**
 
-The balance of the mind, body, and spirit take a lot of work. So, the Chief started the Chakra Enhancement line as tools of alignment for everyday-wear. The specimens that are at the center of the Chief's designs were found at particular points around the planet which relate to the Earth's meridian centers. Each jewelry piece has the potential to amplify the wearers' positive manifestation powers.
+The balance of the mind, body, and spirit take a lot of work. So, the Chief started the Chakra Enhancement line as tools of alignment for everyday-use. The specimens that are at the center of the Chief's designs were found at particular points around the planet which relate to the Earth's meridian centers. Each jewelry piece has the potential to amplify the wearers' positive manifestation powers.
 
 The team goes to great lengths to find these special elements that are ideal for chakra empowerment. There's numerous expeditions made and endless caves explored, in search of the perfect specimens. 
 
