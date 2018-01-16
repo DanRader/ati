@@ -9,7 +9,7 @@ image: "/uploads/SQ.jpg"
 entries:
 - Colorful Chakra Photoshoot
 - New Collection of Chakra Enhancers
-- All in a Day's Work
+- What are Chakra Enhancers?
 ---
 
 The Chief has just released a new collection of Chakra Enhancers to be featured at the Museum of Contemporary Craft in Portland, Oregon.
