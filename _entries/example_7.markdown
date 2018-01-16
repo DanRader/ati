@@ -6,6 +6,10 @@ entry-number: 28
 summary: The team investigates the displacement of matter surrounding the Elements.
 image: "/uploads/wheaton-SQ.jpg"
 video: 205645094
+entries:
+- House of Truth at WheatonArts
+- An Exhibition of the Latest Findings
+- Save the Date
 layout: log-book
 ---
 
