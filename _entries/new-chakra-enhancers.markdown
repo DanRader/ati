@@ -4,6 +4,10 @@ date: 2015-05-31 13:35:00 -04:00
 position: 29
 entry-number: 8
 image: "/uploads/BSeditorial.jpg"
+entries:
+- Colorful Chakra Photoshoot
+- New Collection of Chakra Enhancers
+- All in a Day's Work
 ---
 
 ![new-chakra-enhancers-helena.jpg](/uploads/new-chakra-enhancers-helena.jpg)
