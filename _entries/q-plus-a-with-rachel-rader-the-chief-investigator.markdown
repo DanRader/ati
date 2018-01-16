@@ -1,7 +1,7 @@
 ---
 title: Q+A with Ráchel Räder, the Chief Investigator
 date: 2015-05-01 14:38:00 -04:00
-position: 30
+position: 32
 entry-number: 7
 image: "/uploads/interview.jpg"
 entries:

@@ -1,7 +1,7 @@
 ---
 title: Forget Them
 date: 2016-10-23 00:58:00 -04:00
-position: 11
+position: 13
 entry-number: 26
 image: "/uploads/forget-them.jpg"
 entries:

@@ -1,7 +1,7 @@
 ---
 title: All in a Day's Work
 date: 2017-10-25 22:35:00 -04:00
-position: 1
+position: 3
 entry-number: 36
 summary: The Chief will unveil a new collection of Chakra Enhancers on the website
   once each specimen is perfectly restored and brought to the highest polish possible.
