@@ -10,7 +10,7 @@ video: 239942671
 entries:
 - Colorful Chakra Photoshoot
 - New Collection of Chakra Enhancers
-- Work in Progress...
+- What are Chakra Enhancers?
 author:
   name: Ráchel Räder
   title: Chief Investigator, ATI
