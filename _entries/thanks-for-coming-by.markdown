@@ -8,7 +8,7 @@ image: "/uploads/thanks-02.jpg"
 entries:
 - Colorful Chakra Photoshoot
 - New Collection of Chakra Enhancers
-- All in a Day's Work
+- What are Chakra Enhancers?
 ---
 
 Thanks to everyone who was able to come out for the ATI Trunk Show at [UrbanGlass](https://urbanglass.org/)!
