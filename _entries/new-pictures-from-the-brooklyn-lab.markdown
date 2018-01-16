@@ -5,6 +5,10 @@ position: 17
 entry-number: 20
 summary: 'New images of the Chief working in the Brooklyn lab. '
 image: "/uploads/lab.jpg"
+entries:
+- Colorful Chakra Photoshoot
+- New Collection of Chakra Enhancers
+- All in a Day's Work
 ---
 
 Ráchel Räder, the Chief Investigator, was recently documented by Gabriel Cosma in the Ancient Truth Investigators Laboratory fabricating Chakra Enhancers.
