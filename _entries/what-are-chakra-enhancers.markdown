@@ -1,7 +1,13 @@
 ---
 title: What are Chakra Enhancers?
 date: 2018-01-15 22:35:00 -05:00
+entry-number: 39
+summary: Learn a little more about the Chief's Chakra Enhancer line
 video: 216616374
+entries:
+- Colorful Chakra Photoshoot
+- New Collection of Chakra Enhancers
+- All in a Day's Work
 ---
 
 ### Well to answer that question, we would have to begin with the explanation of the word c\*hakra. \*
@@ -34,8 +40,17 @@ Root Chakra = **Adrenal Cortex Glands**
 
 The balance of the mind, body, and spirit take a lot of work. So, the Chief started the Chakra Enhancement line in hopes of creating tools of alignment for everyday-wear. The specimens that are at the center of the Chief's designs were found at particular points around the planet which relate to the Earth's meridian centers. Each jewelry piece has the potential to amplify the wearers' positive manifestation powers.
 
-The team goes to great lengths to find these special elements that are ideal for chakra empowerment. 
+The team goes to great lengths to find these special elements that are ideal for chakra empowerment.
 
 ![ATIdigging-a-crystal-out-2.jpg](/uploads/ATIdigging-a-crystal-out-2.jpg)
 
-The specimens are then brought back to the lab where they are cleaned, and amplified for maximum enhancement.
+The specimens are then brought back to the lab where they are cleaned, and amplified for maximum enhancement. 
+
+You can find the Chakra Enhancers line on our website under [Shop.](http://ancienttruthinvestigators.com/shop/)
+
+![lab01.jpg](/uploads/lab01.jpg)
+![lab02-6f017a.jpg](/uploads/lab02-6f017a.jpg)
+![lab04-2a92b7.jpg](/uploads/lab04-2a92b7.jpg)
+![lab03-b9ad8f.jpg](/uploads/lab03-b9ad8f.jpg)
+
+Images of the Chief fabricating Chakra Enhancers were captured by Gabe Cosma. 
