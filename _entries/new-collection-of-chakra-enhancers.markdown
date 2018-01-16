@@ -6,7 +6,7 @@ entry-number: 37
 image: "/uploads/collectiontop.jpg"
 entries:
 - Colorful Chakra Photoshoot
-- All in a Day's Work
+- What are Chakra Enhancers?
 - Work in Progress...
 ---
 
