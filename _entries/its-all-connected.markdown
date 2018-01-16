@@ -4,6 +4,10 @@ date: 2015-02-19 16:08:00 -05:00
 position: 36
 entry-number: 1
 image: "/uploads/connected.jpg"
+entries:
+- Q+A with Ráchel Räder, the Chief Investigator
+- An Exhibition of the Latest Findings
+- The Bellybutton of the World
 ---
 
 ![connected01.jpg](/uploads/connected01.jpg)
