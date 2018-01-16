@@ -5,6 +5,10 @@ position: 10
 entry-number: 27
 summary: Visit with the Chief
 image: "/uploads/MAD-501f99.jpg"
+entries:
+- Clue
+- House of Truth at WheatonArts
+- Q+A with Ráchel Räder, the Chief Investigator
 layout: log-book
 ---
 
