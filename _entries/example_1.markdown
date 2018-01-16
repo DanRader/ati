@@ -6,11 +6,16 @@ entry-number: 36
 summary: The Chief will unveil a new collection of Chakra Enhancers on the website
   once each specimen is perfectly restored and brought to the highest polish possible.
 image: "/uploads/tools.jpg"
+video: 239942671
+entries:
+- Colorful Chakra Photoshoot
+- New Collection of Chakra Enhancers
+- Work in Progress...
 author:
   name: Ráchel Räder
   title: Chief Investigator, ATI
+Field name: 
 layout: log-book
-video: 239942671
 ---
 
 The Chief has been working on new Chakra Enhancers in the ATI laboratory. Click on the video to see a little glimpse into her specimen-restoration process.
