@@ -15,7 +15,7 @@ Well to answer that question, we would have to begin with the explanation of the
 
 A chakra is an energy center of which there are multiple points in and around the body. The word chakra is derived from the Sanskrit word for wheel or circle, which relates to the spiritual understanding of [dharma](https://en.wikipedia.org/wiki/Dharma). The concept of a chakra is found in the tantric traditions of Hinduism, Buddhism, and Jainism. With the popularization of yoga in the Western world, the word chakra has become a household name.
 
-The concept of chakras differs depending on the cultural tradition, but for the purposes of the Ancient Truth Investigators, the Chief has been investigating the links of these meridians to the endocrine system. Chakras are not physical but are rather aspects of consciousness, similar to auras. But, chakras have an affect on the physical body via the endocrine system and nervous system.
+The concept of chakras differs depending on the cultural tradition, but for the purposes of the Ancient Truth Investigators, the Chief has been investigating the links of these meridians to the endocrine system. Chakras are not physical but are rather aspects of consciousness, similar to auras. But, chakras have an effect on the physical body via the endocrine system and nervous system.
 
 The endocrine system includes all of the glands of the body and the hormones produced by those glands.
 
