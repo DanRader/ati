@@ -5,8 +5,12 @@ position: 3
 entry-number: 33
 summary: The Chief investigates ASMR.
 image: "/uploads/ASMR.jpg"
-layout: log-book
 video: 218412853
+entries:
+- An Exhibition of the Latest Findings
+- Forget Them
+- House of Truth at WheatonArts
+layout: log-book
 ---
 
 The Chief has been heading up a series of tests in order to quantify theories prevalent within ATI. One common theme in the team's belief system, is the power of sound frequencies on the human experience. Recently, the Chief put together a campaign in order to gather data from visitors during ATI's most [recent exhibition of findings, in Norfolk, VA.](https://ancienttruthinvestigators.squarespace.com/news/2017/7/12/51grppvene59fgrx91l6093obun1xh)
