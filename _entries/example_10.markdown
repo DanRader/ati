@@ -6,12 +6,16 @@ entry-number: 35
 summary: The Chief has been hard at work in the ATI Laboratory, fabricating a new
   collection of Chakra Enhancers.
 image: "/uploads/01-091a3e.jpg"
+video: 235463009
+entries:
+- Colorful Chakra Photoshoot
+- New Collection of Chakra Enhancers
+- All in a Day's Work
 author:
   image: "/uploads/RachelRader_avatar.jpg"
   name: Rachel Rader
   title: "Chief Investigator,\L Ancient Truth Investigators"
 layout: log-book
-video: 235463009
 ---
 
 The Chief has been hard at work in the ATI Laboratory, fabricating a new collection of Chakra Enhancers. Each specimen is sourced from key energetic points around the planet which are associated with Chakra energies. They are then transported back to the lab in Brooklyn, NY for restoration. The surface is brought to a polish in the [UrbanGlass studio ](https://urbanglass.org/)and then to the laboratory to unleash their unique enhancement potential.
