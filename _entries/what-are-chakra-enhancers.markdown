@@ -11,7 +11,7 @@ entries:
 - All in a Day's Work
 ---
 
-### Well to answer that question, we would have to begin with the explanation of the word c\*hakra. \*
+Well to answer that question, we would have to begin with the explanation of the word *chakra*.
 
 A chakra is an energy center of which there are multiple points in and around the body. The word chakra is derived from the Sanskrit word for wheel or circle, which relates to the spiritual understanding of [dharma](https://en.wikipedia.org/wiki/Dharma). The concept of a chakra is found in the tantric traditions of Hinduism, Buddhism, and Jainism. With the popularization of yoga in the Western world, the word chakra has become a household name.
 
