@@ -1,7 +1,7 @@
 ---
 title: The Latest Findings
 date: 2015-08-15 23:01:00 -04:00
-position: 26
+position: 28
 entry-number: 11
 image: "/uploads/LF17.jpg"
 video: 140801737
