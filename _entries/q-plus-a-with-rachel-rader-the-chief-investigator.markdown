@@ -4,6 +4,10 @@ date: 2015-05-01 14:38:00 -04:00
 position: 30
 entry-number: 7
 image: "/uploads/interview.jpg"
+entries:
+- Clue
+- An Exhibition of the Latest Findings
+- The Chief's Residency at the MAD|Museum of Arts and Design
 ---
 
 ![interview01.jpg](/uploads/interview01.jpg)
