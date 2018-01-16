@@ -6,6 +6,10 @@ entry-number: 34
 summary: 'The Chief Investigator is a part of a group exhibition opening at the UrbanGlass
   Gallery. '
 image: "/uploads/Banded-Strattite-Cluster-detail-low-res.jpg"
+entries:
+- An Exhibition of the Latest Findings
+- Forget Them
+- House of Truth at WheatonArts
 layout: log-book
 ---
 
