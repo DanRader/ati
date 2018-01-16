@@ -4,6 +4,10 @@ date: 2015-03-10 15:44:00 -04:00
 position: 34
 entry-number: 3
 image: "/uploads/cactus03.jpg"
+entries:
+- Preparing for the Vortex
+- Images From The Vortex
+- The Latest Findings
 ---
 
 Thank you to everyone who has helped us get closer to our goal. We are just a few days away from the end of our fundraiser: [Stepping Into the Vortex](http://www.indiegogo.com/projects/stepping-into-the-vortex). So, if you have been thinking of participating, this is the time.
