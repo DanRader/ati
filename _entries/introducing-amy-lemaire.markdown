@@ -4,6 +4,10 @@ date: 2015-07-03 23:34:00 -04:00
 position: 27
 entry-number: 10
 image: "/uploads/amy.jpg"
+entries:
+- The Panel Discussion at UrbanGlass Gallery
+- The Team Investigates the Energy Fields of Norfolk
+- An Exhibition of the Latest Findings
 ---
 
 ![AL01.jpg](/uploads/AL01.jpg)
