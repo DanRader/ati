@@ -5,6 +5,10 @@ position: 20
 entry-number: 17
 image: "/uploads/candle.jpg"
 video: 147817851
+entries:
+- All in a Day's Work
+- Stamp of Approval
+- New Collection of Chakra Enhancers
 ---
 
 ![candle-01.jpg](/uploads/candle-01.jpg)
