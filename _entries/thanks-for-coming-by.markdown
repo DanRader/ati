@@ -5,6 +5,10 @@ position: 22
 entry-number: 15
 summary: The Chief has a trunk show at UrbanGlass
 image: "/uploads/thanks-02.jpg"
+entries:
+- Colorful Chakra Photoshoot
+- New Collection of Chakra Enhancers
+- All in a Day's Work
 ---
 
 Thanks to everyone who was able to come out for the ATI Trunk Show at [UrbanGlass](https://urbanglass.org/)!
