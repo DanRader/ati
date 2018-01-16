@@ -47,11 +47,12 @@ The team goes to great lengths to find these special elements that are ideal for
 
 The specimens are then brought back to the lab where they are cleaned, and amplified for maximum enhancement. 
 
-You can find the Chakra Enhancers line on our website under [Shop](http://ancienttruthinvestigators.com/shop/). 
-
 ![lab01.jpg](/uploads/lab01.jpg)
+The Chief designs and fabricates each piece considering the specimens' potential. 
 ![lab02-6f017a.jpg](/uploads/lab02-6f017a.jpg)
 ![lab04-2a92b7.jpg](/uploads/lab04-2a92b7.jpg)
 ![lab03-b9ad8f.jpg](/uploads/lab03-b9ad8f.jpg)
+
+You can find the Chakra Enhancers line on our website under [Shop](http://ancienttruthinvestigators.com/shop/). 
 
 Images of the Chief fabricating Chakra Enhancers were captured by Gabe Cosma. 
