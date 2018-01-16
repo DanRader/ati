@@ -36,7 +36,7 @@
 
 var bafflehover = document.getElementsByClassName("baffle-hover");
 var baffleloader = document.getElementsByClassName("baffle-loader");
-var baffleloaderHome = document.getElementsByClassName("baffle-loader-home");
+// var baffleloaderHome = document.getElementsByClassName("baffle-loader-home");
 
 for (var i = 0; i < bafflehover.length; i++) {
     var thisBfl = bafflehover[i];
@@ -54,14 +54,14 @@ for (var i = 0; i < baffleloader.length; i++) {
     });
 }
 
-let c = baffle(baffleloaderHome)
-c.set({
-    speed: 50,
-    characters: '░▒█▓'
-});
-document.addEventListener("DOMContentLoaded", function() {
-  c.reveal(900);
-});
+// let c = baffle(baffleloaderHome)
+// c.set({
+//     speed: 50,
+//     characters: '░▒█▓'
+// });
+// document.addEventListener("DOMContentLoaded", function() {
+//   c.reveal(900);
+// });
 
 // MODAL
 
