@@ -7,7 +7,7 @@ image: "/uploads/chief-02.jpg"
 video: 183764320
 entries:
 - House of Truth at WheatonArts
-- Q+A with Ráchel Räder, the Chief Investigator
+- An Exhibition of the Latest Findings
 - The Chief's Residency at the MAD|Museum of Arts and Design
 ---
 
