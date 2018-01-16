@@ -4,6 +4,10 @@ date: 2015-03-03 15:52:00 -05:00
 position: 35
 entry-number: 2
 image: "/uploads/arizona.jpg"
+entries:
+- Images From The Vortex
+- Packing for the Vortex
+- The Latest Findings
 ---
 
 As we gear up to [STEP INTO THE VORTEX](http://www.indiegogo.com/projects/stepping-into-the-vortex), the team and I are collecting data with relevance to our upcoming series of excavations in Arizona. The following is a list of locations in Arizona that are key to uncovering integral environmental samples to support the postulations made by our team.
