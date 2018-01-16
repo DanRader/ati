@@ -6,6 +6,10 @@ entry-number: 14
 summary: 'A new collection of Chakra Enhancers heading to the Museum of Contemporary
   Craft. '
 image: "/uploads/SQ.jpg"
+entries:
+- Colorful Chakra Photoshoot
+- New Collection of Chakra Enhancers
+- All in a Day's Work
 ---
 
 The Chief has just released a new collection of Chakra Enhancers to be featured at the Museum of Contemporary Craft in Portland, Oregon.
