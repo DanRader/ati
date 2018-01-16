@@ -5,6 +5,10 @@ position: 19
 entry-number: 18
 summary: 'The team decodes hieroglyphs. '
 image: "/uploads/decoding.jpg"
+entries:
+- The Bellybutton of the World
+- An Exhibition of the Latest Findings
+- Images From The Vortex
 ---
 
 The team spent some time this week studying hieroglyphs at the Metropolitan Museum of Art and how they are based in a similar system of the Sea Peoples' language.
