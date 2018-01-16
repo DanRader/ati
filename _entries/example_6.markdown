@@ -7,6 +7,10 @@ summary: Join the team in Norfolk, VA as they investigate the energies associate
   with 36.8508° N, 76.2859° W.
 image: "/uploads/team.jpg"
 video: 207987687
+entries:
+- Clue
+- An Exhibition of the Latest Findings
+- The Team Investigates the Energy Fields of Norfolk
 layout: log-book
 ---
 
