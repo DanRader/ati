@@ -7,7 +7,7 @@ image: "/uploads/SQgreen_model.jpg"
 entries:
 - New Collection of Chakra Enhancers
 - All in a Day's Work
-- Work in Progress...
+- What are Chakra Enhancers?
 ---
 
 The Chief recently made a [new collection of Chakra Enhancers](http://ancienttruthinvestigators.com/shop/), which was photographed by [Kelsie McNair](https://www.kelsiemcnair.com/). The concept behind the photoshoot was to emulate the colorful energies of chakras.
