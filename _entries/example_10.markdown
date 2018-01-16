@@ -10,7 +10,7 @@ video: 235463009
 entries:
 - Colorful Chakra Photoshoot
 - New Collection of Chakra Enhancers
-- All in a Day's Work
+- What are Chakra Enhancers?
 author:
   image: "/uploads/RachelRader_avatar.jpg"
   name: Rachel Rader
