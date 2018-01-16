@@ -47,7 +47,7 @@ The team goes to great lengths to find these special elements that are ideal for
 
 The specimens are then brought back to the lab where they are cleaned, and amplified for maximum enhancement. 
 
-You can find the Chakra Enhancers line on our website under [Shop.](http://ancienttruthinvestigators.com/shop/)
+You can find the Chakra Enhancers line on our website under [Shop].(http://ancienttruthinvestigators.com/shop/)
 
 ![lab01.jpg](/uploads/lab01.jpg)
 ![lab02-6f017a.jpg](/uploads/lab02-6f017a.jpg)
