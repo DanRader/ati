@@ -5,6 +5,10 @@ position: 14
 entry-number: 23
 summary: 'A new specimen has been discovered. '
 image: "/uploads/BStop.jpg"
+entries:
+- Clue
+- Sourcing of Petrified Spongy Coral
+- An Exhibition of the Latest Findings
 ---
 
 The Ancient Truth Investigators have discovered a new variety of the Banded Strattite Crystal which contains bands of a coral pink coloration.
