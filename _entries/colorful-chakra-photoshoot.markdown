@@ -4,9 +4,9 @@ date: 2017-12-11 22:40:00 -05:00
 entry-number: 38
 image: "/uploads/SQgreen_model.jpg"
 entries:
+- New Collection of Chakra Enhancers
 - All in a Day's Work
 - Work in Progress...
-- New Pictures from the Brooklyn Lab
 ---
 
 The Chief recently made a [new collection of Chakra Enhancers](http://ancienttruthinvestigators.com/shop/), which was photographed by [Kelsie McNair](https://www.kelsiemcnair.com/). The concept behind the photoshoot was to emulate the colorful energies of chakras.
