@@ -4,6 +4,10 @@ date: 2015-04-05 15:41:00 -04:00
 position: 33
 entry-number: 5
 image: "/uploads/galaxy.jpg"
+entries:
+- Images From The Vortex
+- An Exhibition of the Latest Findings
+- The Bellybutton of the World
 ---
 
 ![galaxy02.jpg](/uploads/galaxy02.jpg)
