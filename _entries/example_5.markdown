@@ -5,6 +5,10 @@ position: 8
 entry-number: 29
 summary: June 2nd, 2017...
 image: "/uploads/elments.jpg"
+entries:
+- An Exhibition of the Latest Findings
+- Clue
+- House of Truth at WheatonArts
 layout: log-book
 ---
 
