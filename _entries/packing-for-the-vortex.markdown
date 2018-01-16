@@ -4,6 +4,10 @@ date: 2015-04-07 15:04:00 -04:00
 position: 31
 entry-number: 6
 image: "/uploads/cactus.jpg"
+entries:
+- Images From The Vortex
+- The Cyprus Dig
+- An Exhibition of the Latest Findings
 ---
 
 ![packing_vortex.jpg](/uploads/packing_vortex.jpg)
