@@ -7,7 +7,7 @@ image: "/uploads/BSeditorial.jpg"
 entries:
 - Colorful Chakra Photoshoot
 - New Collection of Chakra Enhancers
-- All in a Day's Work
+- What are Chakra Enhancers?
 ---
 
 ![new-chakra-enhancers-helena.jpg](/uploads/new-chakra-enhancers-helena.jpg)
