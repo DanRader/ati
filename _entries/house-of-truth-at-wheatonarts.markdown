@@ -5,6 +5,10 @@ position: 13
 entry-number: 24
 summary: 'View images of the House of Truth. '
 image: "/uploads/house_of_truth.jpg"
+entries:
+- Thank you WheatonArts
+- An Exhibition of the Latest Findings
+- Clue
 ---
 
 Through the end of September Ráchel Räder, Ancient Truth Investigator's Chief Investigator, will be a resident at WheatonArts in Millville, NJ. She is hosting a pop-up location for ATI with the following Visiting Hours: Tuesday - Sunday, 12 - 5pm, closed Mondays /// Through September 25th... /// [WheatonArts](http://www.wheatonarts.org/), 1501 Glasstown Road.
