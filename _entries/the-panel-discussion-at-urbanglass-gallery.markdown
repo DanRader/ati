@@ -5,6 +5,10 @@ position: 25
 entry-number: 12
 image: "/uploads/panel.jpg"
 video: 138585887
+entries:
+- The Latest Findings
+- The Team Investigates the Energy Fields of Norfolk
+- An Exhibition of the Latest Findings
 ---
 
 Ráchel Räder, Åmy Lêmaire and Amända Patenaûdé at the panel discussion held at the opening of the Latest Findings on July 15, 2015.
