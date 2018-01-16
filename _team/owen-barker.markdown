@@ -11,4 +11,4 @@ twitter: "#"
 facebook: "#"
 ---
 
-Jason is a printmaker and glass artist based in Portland, Oregon. He has explored the ATI narrative as a participant in a residency in Sedona, Arizona, with the Chief in 2015. Jason also created a series of prints in response to his experience in Arizona. 
+Jason is a printmaker and glass artist based in Portland, Oregon. He explored the ATI narrative as a participant in a residency in Sedona, Arizona, with the Chief in 2015. Jason also created a series of prints in response to his experience in Arizona. 
