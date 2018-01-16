@@ -6,6 +6,10 @@ entry-number: 22
 summary: 'ATI investigates artifacts in Cyprus. '
 image: "/uploads/cyprus.jpg"
 video: 216603447
+entries:
+- The Bellybutton of the World
+- Images From The Vortex
+- The Team Visits Hawaii, the Heart Chakra
 ---
 
 The Ancient Truth Investigators are constantly seeking links in the Sea Peoples' evolution. Last summer, the Archaeological Department of ATI did extensive research in Cyprus. The ATI New York Branch is currently doing preservation work to their findings and we can't help but reminisce on this monumental expedition.
