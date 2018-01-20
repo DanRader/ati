@@ -164,4 +164,11 @@ $(document).ready(function(){
 // var shop = getElementsByClassName
 // //
 // //
+
+$(document).ready(function(){
+    var rando = document.getElementsByClassName("rando_number");
+    var numRand = Math.floor((Math.random() * 100) + 1)
+    $(rando).text(numRand)
+});
+
 // </script>
