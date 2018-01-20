@@ -19,8 +19,9 @@
 
 
             <button class="baffle-hover block right btn-nav modal__trigger" data-modal="contact--modal">Contact</button>
-            <a href="#"><li class="cart-icon block right snipcart-checkout"> <i class="fa fa-shopping-cart" aria-hidden="true"></i></li></a>
-
+            {% if current contains 'shop' %}
+                <a href="#"><li class="cart-icon block right snipcart-checkout"> <i class="fa fa-shopping-cart" aria-hidden="true"></i></li></a>
+            {% endif %}
     </ul>
   </div>
   <a href="{{ site.baseurl }}/" class="mobile-logo">{% include svg/ATI_b.svg %}</a>
