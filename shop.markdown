@@ -1,6 +1,6 @@
 ---
 title: Shop
-excerpt: 'Purchase work created by the chief investigator, Rachel Rader. Works include
+excerpt: 'Purchase work created by the chief investigator, Ráchel Räder. Works include
   earrings, necklaces, rings, and more. Align your chakras with one of a kind art.   '
 image: "/uploads/shop-hero.jpg"
 social-media-image: "/uploads/og-image—Shop.jpg"
