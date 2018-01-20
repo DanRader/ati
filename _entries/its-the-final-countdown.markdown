@@ -14,7 +14,7 @@ Thank you to everyone who has helped us get closer to our goal. We are just a fe
 
 By contributing in these final days, you would make a huge difference.
 
-As a thank you for your contribution Jason Blandford and [Rachel Rader](http://www.rachelrader.com/about/) have listed handmade gifts like the **Petrified Spongy Coral Charm Bracelet** ($40) and **Necklace** ($60) below! **Click on the button above** to see your options!
+As a thank you for your contribution Jason Blandford and [Ráchel Räder](http://www.rachelrader.com/about/) have listed handmade gifts like the **Petrified Spongy Coral Charm Bracelet** ($40) and **Necklace** ($60) below! **Click on the button above** to see your options!
 
 And thank you for considering a contribution to help make this project come to life.
 

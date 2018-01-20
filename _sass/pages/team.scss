@@ -116,3 +116,36 @@
         padding-bottom: .5rem;
     }
 }
+
+.teamcollab-image {
+    height: 75vh;
+    background-position: 49% 35%;
+}
+
+.teamcollab-hero {
+    height: 71vh;
+}
+
+.teamcollab-title {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.team-sm__icon {
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    margin: 0 4px;
+    margin-top: 1rem;
+    background-color: black;
+
+    & i {
+        color: $paper-tan;
+        font-size: 12px;
+        top: 4px;
+    }
+
+    &:hover {
+        background-color: $darkest-grey;
+    }
+}

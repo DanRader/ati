@@ -13,7 +13,7 @@ entries:
 - What are Chakra Enhancers?
 author:
   image: "/uploads/RachelRader_avatar.jpg"
-  name: Rachel Rader
+  name: Ráchel Räder
   title: "Chief Investigator,\L Ancient Truth Investigators"
 layout: log-book
 ---

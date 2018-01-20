@@ -16,13 +16,18 @@ layout: default
           <div id="tab1" class="tab">
               {% assign sightings-sort = site.sightings | sort: "end-date" %}
 
-              {% for sighting in sightings-sort %}
-              {% assign today = "now" | date: "%s"%}
-              {% assign event-date = sighting.end-date | date: "%s" %}
-                  {% if today <= event-date %}
-                    {% include components/sightings.html %}
-                  {% endif %}
-              {% endfor %}
+
+              {% capture events %}
+                  {% for sighting in sightings-sort %}
+                      {% assign today = "now" | date: "%s"%}
+                      {% assign event-date = sighting.end-date | date: "%s" %}
+                      {% if today <= event-date %}
+                            {% include components/sightings.html %}
+                      {% endif %}
+                  {% endfor %}
+              {% endcapture %}
+
+                    {{ events }}
 
           </div>
 
