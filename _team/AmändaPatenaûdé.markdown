@@ -6,8 +6,8 @@ team-title: HAPPI Institute
 website: http://www.amandapatenaude.com/
 image: "/uploads/Profile-pic_Patenaude_medres.jpg"
 instagram: https://www.instagram.com/amanda.patenaude/
-twitter:
-facebook:
+twitter: 
+facebook: 
 entries:
 - All in a Day's Work
 - Clue
