@@ -12,7 +12,32 @@ layout: default
     <div class="col col-12 sm-col-8 md-col-5 lg-col-5 px2 mt3">
         <section class="rachel">
             <p class="team-title">{{ team.team-title }}</p>
-            <h1>{{ team.title }}</h1>
+            <h1 class="baffle-loader">{{ team.title }}</h1>
+            <div class="team-sm">
+                {% if team.website %}
+                <a href="{{ team.website }}" target="_blank" class="sm-link team-sm__icon">
+                    <i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+                </a>
+                {% endif %}
+
+                {% if team.facebook %}
+                <a href="{{ team.facebook }}" target="_blank" class="sm-link team-sm__icon">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                {% endif %}
+
+                {% if team.instagram %}
+                <a href="{{ team.instagram }}" target="_blank" class="sm-link team-sm__icon">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                {% endif %}
+
+                {% if team.twitter %}
+                <a href="{{ team.twitter }}" target="_blank" class="sm-link team-sm__icon">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a>
+                {% endif %}
+            </div>
             <p> {{ team.content }}</p>
         </section>
     </div>
@@ -30,11 +55,42 @@ layout: default
             <div class="team-details px2">
                 <h2>{{team.title}}</h2>
                 <strong>{{team.team-title}}</strong>
+                <div class="team-sm">
+                    {% if team.website %}
+                    <a href="{{ team.website }}" target="_blank" class="sm-link team-sm__icon">
+                        <i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+                    </a>
+                    {% endif %}
+
+                    {% if team.facebook %}
+                    <a href="{{ team.facebook }}" target="_blank" class="sm-link team-sm__icon">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                    {% endif %}
+
+                    {% if team.instagram %}
+                    <a href="{{ team.instagram }}" target="_blank" class="sm-link team-sm__icon">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </a>
+                    {% endif %}
+
+                    {% if team.twitter %}
+                    <a href="{{ team.twitter }}" target="_blank" class="sm-link team-sm__icon">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                    {% endif %}
+
+                    {% if team.dribbble %}
+                    <a href="{{ team.dribbble }}" target="_blank" class="sm-link team-sm__icon">
+                        <i class="fa fa-dribbble" aria-hidden="true"></i>
+                    </a>
+                    {% endif %}
+                </div>
                 <p> {{ team.content }}</p>
-                <a href="{{ team.website }}" target="_blank" class="btn-prime">More Info</a>
-                <!-- <div class="team-sm">
-                    <i class="fa fa-facebook"></i>
-                </div> -->
+                {% if team.entries %}
+                    <a href="{{ team.url }}" target="_blank" class="btn-prime">Collaborations</a>
+                {% endif %}
+
             </div>
         </section>
         {% endfor %}
