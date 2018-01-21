@@ -7,7 +7,7 @@
   </div>
   <div class="footer-bp clearfix container py1" id="footer">
         <div class="footer-bp—item col col-12 md-col-4">
-            <p>A project of <a href="https://rachelrader.squarespace.com/about/" target="_blank">Ráchel Räder ©</a> <a class="border-left" href="#">Privacy</a></p>
+            <p>A project of <a href="https://rachelrader.squarespace.com/about/" target="_blank">Ráchel Räder ©</a> <button class="btn-clear border-left modal__trigger" href="" data-modal="legal--modal">Privacy & Legal</button></p>
         </div>
         <div class="footer-bp—item col col-12 md-col-4 center sm-wrapper">
             <a href="https://www.facebook.com/AncientTruthInvestigators/" target="_blank" class="sm-link">
@@ -28,3 +28,16 @@
         </div>
   </div>
 </footer>
+
+<div id="legal--modal" class="modal">
+    <span class="close hairline" data-modal="legal--modal"></span>
+    <div class="modal-content">
+        <div class="max-width-3 mx-auto relative">
+            {% for page in site.pages %}
+                {% if page.title == "legal-and-privacy" %}
+                    {{ page.content }}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
