@@ -5,7 +5,7 @@ categories:
 - Residency
 position: 3
 start-date: 2017-01-31 01:00:00 -05:00
-end-date: 2017-05-23 00:00:00 -04:00
+end-date: 2017-01-31 00:00:00 -05:00
 time: 10am - 5pm
 external-link: http://madmuseum.org/learn/rachel-rader
 location:
@@ -13,7 +13,7 @@ location:
   address: 2 Columbus Cir, New York, NY 10019
   latitude: 40.7128° N
   longitude: 74.0060° W
-  link: 
+  link:
 layout: artifact
 ---
 
