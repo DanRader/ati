@@ -6,9 +6,9 @@ team-title: Linguistics Specialist
 website: https://wildchildpress.carbonmade.com/
 image: "/uploads/Profile-pic_Blandford_medres.jpg"
 external-link: https://wildchildpress.carbonmade.com/
-instagram: 
-twitter: 
-facebook: 
+instagram: https://www.instagram.com/wildjaychild/
+twitter:
+facebook:
 entries:
 - All in a Day's Work
 - Clue
