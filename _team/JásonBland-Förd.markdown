@@ -7,8 +7,8 @@ website: https://wildchildpress.carbonmade.com/
 image: "/uploads/Profile-pic_Blandford_medres.jpg"
 external-link: https://wildchildpress.carbonmade.com/
 instagram: https://www.instagram.com/wildjaychild/
-twitter:
-facebook:
+twitter: 
+facebook: 
 entries:
 - All in a Day's Work
 - Clue
