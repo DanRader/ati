@@ -14,20 +14,29 @@ layout: default
           <label for="toggle-tab2">Past <span>Sightings</span></label>
 
           <div id="tab1" class="tab">
-              {% assign sightings-sort = site.sightings | sort: "end-date" %}
+
+{% assign sightings-sort = site.sightings | sort: "end-date" %}
+{% capture events %}
+      {% for sighting in sightings-sort %}
+          {% assign today = "now" | date: "%s"%}
+          {% assign event-date = sighting.end-date | date: "%s" %}
+          {% if today <= event-date %}
+                {% include components/sightings.html %}
+          {% endif %}
+      {% endfor %}
+{% endcapture %}
+
+    {% if events.size <= 328 %}
+        <div class="center sighting-empty max-width-3 mx-auto">
+            <p>{{ page.empty-state }}</p> </br>
+            <a class="btn-prime block " href="#footer">Subscribe</a>
+        </div>
+
+    {% else %}
+        {{ events }}
+    {% endif %}
 
 
-              {% capture events %}
-                  {% for sighting in sightings-sort %}
-                      {% assign today = "now" | date: "%s"%}
-                      {% assign event-date = sighting.end-date | date: "%s" %}
-                      {% if today <= event-date %}
-                            {% include components/sightings.html %}
-                      {% endif %}
-                  {% endfor %}
-              {% endcapture %}
-
-                    {{ events }}
 
           </div>
 
@@ -50,7 +59,3 @@ layout: default
 
 
 </div>
-
-
-
-                        {% include components/sightings.html %}
