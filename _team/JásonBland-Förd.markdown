@@ -7,13 +7,11 @@ website: https://wildchildpress.carbonmade.com/
 image: "/uploads/Profile-pic_Blandford_medres.jpg"
 external-link: https://wildchildpress.carbonmade.com/
 instagram: https://www.instagram.com/wildjaychild/
-twitter: 
-facebook: 
 entries:
-- All in a Day's Work
-- Clue
-- An Exhibition of the Latest Findings
-- All in a Day's Work
+- The Latest Findings
+- Images From The Vortex
+- It's The Final Countdown
+- Preparing for the Vortex
 layout: team-posts
 ---
 
