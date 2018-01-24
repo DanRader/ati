@@ -6,13 +6,12 @@ team-title: HAPPI Institute
 website: http://www.amandapatenaude.com/
 image: "/uploads/Profile-pic_Patenaude_medres.jpg"
 instagram: https://www.instagram.com/amanda.patenaude/
-twitter: 
-facebook: 
 entries:
-- All in a Day's Work
-- Clue
 - An Exhibition of the Latest Findings
-- All in a Day's Work
+- The Team Investigates the Energy Fields of Norfolk
+- An Exhibition of the Latest Findings
+- Save the Date
+- The Panel Discussion at UrbanGlass Gallery
 layout: team-posts
 ---
 
