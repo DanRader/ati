@@ -42,7 +42,7 @@ defaults:
     entry-number: ''
     summary: ''
     image: "/uploads/02-347f2d.jpg"
-    video: 
+    video:
     layout: log-book
     entries:
     - All in a Day's Work
@@ -66,10 +66,10 @@ defaults:
     images:
     - ''
     - ''
-    catalogue-number: 
-    size: 
-    material: 
-    creation-date: 
+    catalogue-number:
+    size:
+    material:
+    creation-date:
     layout: artifact
 - scope:
     path: ''
@@ -77,46 +77,46 @@ defaults:
   values:
     layout: shop-item
     visible-title: ''
-    elements: 
-    product-colors: 
+    elements:
+    product-colors:
     permalink: "/shop/:title/"
-    price: 
+    price:
     weight: 0.0
     width: ''
-    height: 
+    height:
     materials: Bronze, Glass, Cubic Zirconia
     max-quantity: '1'
     product-images:
-    - 
-    - 
-    - 
-    - 
-    - 
+    -
+    -
+    -
+    -
+    -
 - scope:
     path: ''
     type: sightings
   values:
     layout: sightings
-    start-date: 
-    end-date: 
-    time: 
-    external-link: 
+    start-date:
+    end-date:
+    time:
+    external-link:
     location:
-      name: 
-      address: 
-      latitude: 
-      longitude: 
+      name:
+      address:
+      latitude:
+      longitude:
 - scope:
     path: ''
     type: team
   values:
     layout: team
-    image: 
-    team-title: 
-    external-link: 
-    instagram: 
-    twitter: 
-    facebook: 
+    image:
+    team-title:
+    external-link:
+    instagram:
+    twitter:
+    facebook:
 - scope:
     path: ''
     type: product-colors
@@ -130,15 +130,13 @@ defaults:
     texture-image: ''
 snipcart_api_key: YjM2NGJjN2ItZjQwZC00M2ZjLTgxOTAtNmM1ZDA3MmE3NDRlNjM2MzA0MDkwMDA4NjU4NTAz
 logo: "/includes/svg/ATI_b.svg"
-gems:
-- jekyll-sitemap
 email: ibelieve@ancienttruthinvestigators.com
 description: The Ancient Truth Investigators (ATI) is a project of Brooklyn-based
   artist, Rachel Rader. At the center of ATI are sculptural forms made of glass, metal,
   fibers, and other materials that are made to look like fantastical versions of geological
   specimens. Ancient Truth Investigators is an exploration in performance art, wearable
   objects, and concept-driven sculptural forms.
-url: 
+url: https://ancienttruthinvestigators.com
 twitter_username: A_T_I_lab
 github_username: DanRader
 permalink: pretty

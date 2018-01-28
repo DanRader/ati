@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gemspec
 
-gem "jekyll", "3.4.5"
+gem "jekyll", "3.7"
 
 
 group :jekyll_plugins do
