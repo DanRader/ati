@@ -1,5 +1,4 @@
 <script type="text/javascript" src="/js/slick.min.js"></script>
-<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="ZjAxZTEwY2EtNGUzNi00OGE3LTg2YzktMzk1NTcyMmRmZmZhNjM2MzA0MDkwMDA4NjU4NTAz"></script>
 <script type="text/javascript">
 
 // Slider
@@ -62,8 +61,8 @@ for (var i = 0; i < baffleloader.length; i++) {
 //   c.reveal(900);
 // });
 
-// MODAL
 
+// MODAL
 
 // modal trigger
 var btn = document.getElementsByClassName("modal__trigger");
@@ -155,20 +154,17 @@ $(document).ready(function(){
         return this.hostname != window.location.hostname;
     }).attr('target', '_blank');
 
-// // snipcart API interactions
-// $(document).ready(function(){
-//     var count = Snipcart.api.items.count();
-//     console.log(count)
-// });
-//
-// var shop = getElementsByClassName
-// //
-// //
-
+// random number generator for archives
 $(document).ready(function(){
     var rando = document.getElementsByClassName("rando_number");
     var numRand = Math.floor((Math.random() * 100) + 1)
     $(rando).text(numRand)
 });
 
+// hiding and showing description on archives
+
+    var open = document.getElementsByClassName("artifact--detail_trigger");
+        open.addEventListener("click", function(){
+            console.log("😓")
+        });
 // </script>
