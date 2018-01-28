@@ -23,15 +23,17 @@ layout: default
             <p><span>Materials: </span>{{ page.materials }}</p>
         </section>
 
-
-        <button class="btn-prime snipcart-add-item"
-            data-item-name="{{ product.visible-title }}"
-            data-item-id="{{ product.title }}"
+        {% assign first-image = page.product-images | first %}
+        <button
+            class="btn-prime snipcart-add-item"
+            data-item-name="{{ page.visible-title }}"
+            data-item-id="{{ page.title }}"
             data-item-image="{{ site.url }}{{ first-image }}"
             data-item-url="{{ site.url }}{{ page.url }}"
-            data-item-max-quantity="{{ product.max-quantity }}"
-            data-item-price="{{ product.price }}"
-            data-item-weight="{{ product.weight }}">
+            data-item-max-quantity="{{ page.max-quantity }}"
+            data-item-price="{{ page.price }}"
+            data-item-weight="{{ page.weight }}"
+            >
           Add to Cart
         </button>
       </div>
