@@ -18,7 +18,9 @@ And this is a clear tube filled with Argon.
 In combination with the powerful energies sourced in the specimens found by ATI, the Chief is exploring neon's visual potential in calculation of particular emanations.
 
 ![alchemist.jpg](/uploads/alchemist.jpg)
-Painting by Joseph Wright of an alchemist discovering fluorescence from wood of the narra tree in the 1560's. Fluorescence was accidentally isolated in 1602 by an alchemist who was experimentally baking substances in the search for gold, which glowed in the dark even after cooling.
+Painting by Joseph Wright of an alchemist discovering fluorescence.
+
+This discovery was sourced from wood of the Narra tree in the 1560's. Fluorescence was accidentally isolated in 1602 by an alchemist who was experimentally baking substances in the search for gold, which glowed in the dark even after cooling.
 
 The goal of the alchemists, who practiced from 400-1400 AD, was to transmute common elements (like lead) into gold. Because there were seven known heavenly bodies, the alchemists believed that there were seven base elements. The alchemists used symbols to identify elements, and made many important discoveries which led to the development of the modern science of chemistry.
 
