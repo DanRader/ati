@@ -10,7 +10,7 @@ entries:
 - Sourcing of Petrified Spongy Coral
 ---
 
-The Chief is currently exploring manifestations of energy and electricity. A few prototypes have begun to evolve in the ATI Laboratory in Brooklyn, NY, after a class she took at [UrbanGlass](https://urbanglass.org/).
+The Chief is currently exploring manifestations of energy and electricity. A few prototypes have begun to evolve in the ATI Laboratory in Brooklyn, NY, after a class Ráchel took at [UrbanGlass](https://urbanglass.org/).
 The glass tubes can be bent in a high-temperature flame, and then bombarded with chemical elements. This is a phosphorous coated glass tube filled with Argon Mercury.
 ![neon01.jpg](/uploads/neon01.jpg)
 And this is a clear tube filled with Argon.
