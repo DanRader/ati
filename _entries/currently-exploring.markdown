@@ -1,5 +1,5 @@
 ---
-title: Currently Exploring
+title: Alchemical Explorations
 date: 2018-02-12 20:40:00 -05:00
 entry-number: 40
 summary: 'The Chief explores the potential of neon '
