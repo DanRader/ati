@@ -4,7 +4,7 @@ date: 2018-02-19 21:50:00 -05:00
 entry-number: 41
 summary: The Chief investigates sound
 image: "/uploads/headphones_splash"
-video: https://vimeo.com/manage/256520471
+video: https://vimeo.com/256520471
 entries:
 - Alchemical Explorations
 - ASMR Survey
