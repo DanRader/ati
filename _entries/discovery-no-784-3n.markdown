@@ -15,5 +15,6 @@ With the help of a New Energy Frequency Detector that the Chief fabricated in th
 ![Energy-Frequency-Detector.jpg](/uploads/Energy-Frequency-Detector.jpg)
 The latest test which was run in an undisclosed location, gleaned the surprising results which you can observe in the video connected to this Log Book post. Documented Discover No. 784-3N, resulted in the un-earthing of a new Violet-hue Banded Strattite specimen.
 ![Purple-Banded-Strattite-low-res.jpg](/uploads/Purple-Banded-Strattite-low-res.jpg)
-The specimen was brought back to the lab for a series of tests. 
+Specimen 43-679B.
+This specimen was brought back to the lab for a series of tests and observation. 
 Stay tuned for further developments. 
