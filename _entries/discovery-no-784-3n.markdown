@@ -3,6 +3,7 @@ title: Discovery No. 784-3N
 date: 2018-03-18 18:47:00 -04:00
 entry-number: 42
 summary: The Chief discovers a new Violet-hue Banded Strattite specimen.
+image: "/uploads/splashEnergy-Frequency-Detector02.jpg"
 video: https://vimeo.com/259116142
 entries:
 - Experiments in Sound
