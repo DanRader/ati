@@ -1,5 +1,5 @@
 ---
-title: Sound Bath Investigation
+title: Sound Bath
 date: 2018-04-19 23:55:00 -04:00
 entry-number: 43
 image: "/uploads/sound-bath.jpg"
@@ -9,7 +9,7 @@ entries:
 - ASMR Survey
 ---
 
-In her latest investigation into the healing properties of sound, The Chief participated in a sound bath at the [Maha Rose Center](https://www.maharose.com/) in Brooklyn, NY.
+In her latest investigation into the healing properties of sound, The Chief participated in a Sound Bath at the [Maha Rose Center](https://www.maharose.com/) in Brooklyn, NY.
 ![soundbath02](/uploads/soundbath02)
 Sound healing operates from the principle of resonance, vibration, and a body-mind integrated approach to wellness. The practitioner at Maha Rose used a combination of tuning forks, crystal bowls, and glass xylophone in a sequence of vibrations during the session. Sound frequencies can be used to promote relaxation and wellness, and has also been [scientifically linked to healing](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2005.04287.x).
 ![soundbath01](/uploads/soundbath01)
