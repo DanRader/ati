@@ -2,7 +2,7 @@
 title: Sound Bath Investigation
 date: 2018-04-19 23:55:00 -04:00
 entry-number: 43
-image: "/uploads/soundbath04"
+image: "/uploads/sound-bath.jpg"
 entries:
 - Experiments in Sound
 - Alchemical Explorations
