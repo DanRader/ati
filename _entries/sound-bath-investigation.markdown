@@ -2,7 +2,7 @@
 title: Sound Bath
 date: 2018-04-19 23:55:00 -04:00
 entry-number: 43
-image: "/uploads/sound-bath.jpg"
+image: "/uploads/tibetan-bowls-.jpg"
 entries:
 - Experiments in Sound
 - Alchemical Explorations
