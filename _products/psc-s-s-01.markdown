@@ -9,7 +9,7 @@ product-colors: Bronze
 price: 110
 weight: 1
 height: .5" d
-materials: Bronze, cubic zirconia, god-fil posts, and backs.
+materials: Bronze, cubic zirconia, goldfilled posts, and backs.
 max-quantity: 1
 product-images:
 - "/uploads/PSC-S-S-01.jpg"
