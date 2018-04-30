@@ -13,6 +13,7 @@ materials: Bronze and cubic zirconia
 max-quantity: 1
 product-images:
 - "/uploads/PSC-R-L-03.jpg"
+- "/uploads/PSC-ring.jpg"
 ---
 
 Made from Petrified Spongy Coral specimen. Fabricated by the Chief Investigator, Ráchel Räder.
