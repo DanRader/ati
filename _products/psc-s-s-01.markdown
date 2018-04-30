@@ -15,3 +15,4 @@ product-images:
 - "/uploads/PSCposts.jpg"
 ---
 
+Made from Petrified Spongy Coral specimen. Fabricated by the Chief Investigator, Ráchel Räder.
