@@ -12,8 +12,8 @@ height: .5" d
 materials: Bronze, cubic zirconia, goldfilled posts, and backs.
 max-quantity: 1
 product-images:
-- "/uploads/PSCposts.jpg"
 - "/uploads/PSC-S-S-01.jpg"
+- "/uploads/PSCposts.jpg"
 ---
 
 Made from Petrified Spongy Coral specimen. Fabricated by the Chief Investigator, Ráchel Räder.
