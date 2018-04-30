@@ -3,6 +3,7 @@ title: BS-N-S-02
 date: 2018-04-29 23:40:00 -04:00
 categories:
 - Necklaces
+position: 1
 visible-title: Banded Strattite Necklace
 elements: Banded Strattite
 product-colors: Pink

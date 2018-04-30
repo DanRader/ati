@@ -3,7 +3,7 @@ title: PSC-R-S-02
 date: 2017-12-04 19:44:00 -05:00
 categories:
 - Rings
-position: 8
+position: 14
 visible-title: Petrified Spongy Coral Ring
 elements: Petrified Spongy Coral
 product-colors: Bronze
