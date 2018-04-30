@@ -8,7 +8,7 @@ elements: Petrified Spongy Coral
 product-colors: Bronze
 price: 110
 weight: 1
-width: Size 7
+width: 7
 materials: Bronze and cubic zirconia
 max-quantity: 1
 product-images:
