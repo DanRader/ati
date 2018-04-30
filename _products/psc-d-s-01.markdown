@@ -3,7 +3,7 @@ title: PSC-D-S-01
 date: 2017-12-04 23:57:00 -05:00
 categories:
 - Earrings
-position: 18
+position: 21
 visible-title: Petrified Spongy Coral Dangle Earrings
 elements: Petrified Spongy Coral
 product-colors: Bronze

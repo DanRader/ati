@@ -3,6 +3,7 @@ title: PSC-S-S-01
 date: 2018-04-29 22:24:00 -04:00
 categories:
 - Earrings
+position: 0
 visible-title: Petrified Spongy Coral Posts
 elements: Petrified Spongy Coral
 product-colors: Bronze

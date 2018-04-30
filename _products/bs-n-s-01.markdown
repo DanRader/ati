@@ -3,6 +3,7 @@ title: BS-N-S-01
 date: 2018-04-29 23:20:00 -04:00
 categories:
 - Necklaces
+position: 4
 visible-title: Banded Strattite Necklace
 elements: Banded Strattite
 product-colors: Purple
