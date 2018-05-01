@@ -2,7 +2,7 @@
 title: Image 5
 date: 2017-12-05 17:40:00 -05:00
 position: 3
-image: "/uploads/yellow_BSmeta"
+image: "/uploads/BSspecimencloseup.jpg"
 texture-image: "/uploads/textures/orange.png"
 ---
 
