@@ -16,6 +16,10 @@ max-quantity: 1
 product-images:
 - "/uploads/PSC-S-S-01.jpg"
 - "/uploads/PSCposts.jpg"
+products:
+- BS-N-S-02
+- PSC-S-S-01
+- PSC-S-S-02
 ---
 
 Made from Petrified Spongy Coral specimen. Fabricated by the Chief Investigator, Ráchel Räder.
