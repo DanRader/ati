@@ -42,7 +42,7 @@ defaults:
     entry-number: ''
     summary: ''
     image: "/uploads/02-347f2d.jpg"
-    video: 
+    video:
     layout: log-book
     entries:
     - All in a Day's Work
@@ -66,10 +66,10 @@ defaults:
     images:
     - ''
     - ''
-    catalogue-number: 
-    size: 
-    material: 
-    creation-date: 
+    catalogue-number:
+    size:
+    material:
+    creation-date:
     layout: artifact
 - scope:
     path: ''
@@ -77,46 +77,50 @@ defaults:
   values:
     layout: shop-item
     visible-title: ''
-    elements: 
-    product-colors: 
+    elements:
+    product-colors:
     permalink: "/shop/:title/"
-    price: 
+    price:
     weight: 0.0
     width: ''
-    height: 
+    height:
     materials: Bronze, Glass, Cubic Zirconia
     max-quantity: '1'
     product-images:
-    - 
-    - 
-    - 
-    - 
-    - 
+    -
+    -
+    -
+    -
+    -
+    products:
+    - BS-D-XL-01
+    - PSC-D-S-01
+    - SQ-D-L-02
 - scope:
     path: ''
     type: sightings
   values:
     layout: sightings
-    start-date: 
-    end-date: 
-    time: 
-    external-link: 
+    start-date:
+    end-date:
+    time:
+    external-link:
     location:
-      name: 
-      address: 
-      latitude: 
-      longitude: 
+      name:
+      address:
+      latitude:
+      longitude:
 - scope:
     path: ''
     type: team
   values:
     layout: team
-    image: 
-    team-title: 
-    external-link: 
-    instagram: 
-    twitter: 
-    facebook: 
+    image:
+    team-title:
+    external-link:
+    instagram:
+    twitter:
+    facebook:
 - scope:
     path: ''
     type: product-colors
