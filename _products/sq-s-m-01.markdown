@@ -10,7 +10,6 @@ visible-title: 'Spotted Quartz Post Earrings
 elements: Spotted Quartz
 product-colors: Black
 price: 140
-sku: SQ-S-M-01
 weight: 1
 width: 5/8"
 height: 7/8"
@@ -19,6 +18,11 @@ product-images:
 - "/uploads/SQ-S-M-01.jpg"
 - "/uploads/SQ-S-M-01_hand.jpg"
 - "/uploads/SQpost_model.jpg"
+products:
+- BS-N-S-02
+- BS-N-S-02
+- BS-S-M-01
+sku: SQ-S-M-01
 ---
 
 Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
