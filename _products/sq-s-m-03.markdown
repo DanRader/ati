@@ -3,7 +3,7 @@ title: SQ-S-M-03
 date: 2017-12-03 02:41:00 -05:00
 categories:
 - Earrings
-position: 5
+position: 11
 visible-title: Spotted Quartz Post Earrings
 elements: Spotted Quartz
 product-colors: Green

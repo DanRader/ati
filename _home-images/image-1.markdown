@@ -2,7 +2,7 @@
 title: image-1
 date: 2017-11-22 18:55:00 -05:00
 position: 2
-image: "/uploads/homeHero/homeHero1.jpg"
+image: "/uploads/SQspecimen-00833d.jpg"
 texture-image: "/uploads/textures/blue.png"
 ---
 

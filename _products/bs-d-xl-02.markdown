@@ -3,7 +3,7 @@ title: BS-D-XL-02
 date: 2017-12-05 01:27:00 -05:00
 categories:
 - Earrings
-position: 23
+position: 24
 visible-title: 'Banded Strattite Dangle Earrings
 
 '

@@ -3,7 +3,7 @@ title: SQ-S-M-02
 date: 2017-12-03 02:25:00 -05:00
 categories:
 - Earrings
-position: 4
+position: 10
 visible-title: Spotted Quartz Post Earrings
 elements: Spotted Quartz
 product-colors: Purple

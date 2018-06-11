@@ -1,23 +1,20 @@
 ---
-title: PSC-R-S-02
-date: 2017-12-04 19:44:00 -05:00
+title: PSC-R-L-03
+date: 2018-04-30 00:01:00 -04:00
 categories:
 - Rings
-position: 14
+position: 2
 visible-title: Petrified Spongy Coral Ring
 elements: Petrified Spongy Coral
 product-colors: Bronze
-price: 90
-sku: PSC-R-S-02
+price: 110
 weight: 1
-width: 6.5
+width: 7
 materials: Bronze and cubic zirconia
+max-quantity: 1
 product-images:
-- "/uploads/PSC-R-S-02"
-- "/uploads/PSC-R-S-02_hand.jpg"
-- "/uploads/PSCstack_model.jpg"
-- "/uploads/PSCstack_model02.jpg"
-- "/uploads/PSCstack_model03.jpg"
+- "/uploads/PSC-R-L-03.jpg"
+- "/uploads/PSC-ring.jpg"
 ---
 
 Made from Petrified Spongy Coral specimen. Fabricated by the Chief Investigator, Ráchel Räder.
