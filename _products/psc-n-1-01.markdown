@@ -16,6 +16,9 @@ max-quantity: 1
 product-images:
 - "/uploads/PSC-N-1-01.jpg"
 - "/uploads/PSC-necklace.jpg"
+products:
+- PSC-R-L-03
+- PSC-R-L-01
 ---
 
 Made from Petrified Spongy Coral specimen. Fabricated by the Chief Investigator, Ráchel Räder. Chain is 16" in length. 
