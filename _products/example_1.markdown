@@ -8,7 +8,6 @@ visible-title: Spotted Quartz Post Earrings
 elements: Spotted Quartz
 product-colors: Brown
 price: 130
-sku: SQ-S-S-02
 weight: 1
 width: 3/8"
 height: 1"
@@ -17,6 +16,11 @@ product-images:
 - "/uploads/SQ-S-S-02.jpg"
 - "/uploads/SQ-S-S-02_hand.jpg"
 - "/uploads/SQpost_model-81a61f.jpg"
+products:
+- SQ-S-S-01
+- SQ-S-M-03
+- SQ-D-L-01
+sku: SQ-S-S-02
 layout: shop-item
 ---
 
