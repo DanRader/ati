@@ -15,6 +15,10 @@ materials: Fused and coldworked glass, goldfilled chain.
 max-quantity: 1
 product-images:
 - "/uploads/BS-N-S-02.jpg"
+products:
+- BS-S-S-01
+- BS-S-S-03
+- BS-N-S-01
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder. Chain is 18” in length.
