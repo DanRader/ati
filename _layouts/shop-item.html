@@ -43,15 +43,23 @@ layout: default
     <div class="product--YAML col col-12 py2">
       <h2>You might also like</h2>
       <div class="col col-12 py3">
-          {% for product in site.products limit:3 %}
-              <div class="product--list col col-12 sm-col-4 px1 pb3">
-                <a href="{{ product.url }}">
-                  {% assign first-image = product.product-images | first %}
-                  <div class="product--list__image" style="background-image: url({{ first-image }});"></div>
-                  <p>{{ product.visible-title }}</p>
-                  </a>
-              </div>
-          {% endfor %}
+
+          {% for product in page.products %}
+          {% assign product-title = product | downcase %}
+                {% for site-product in site.products %}
+          {% assign site-product-title = site-product.title | downcase %}
+                {% if product-title == site-product-title  %}
+                      <div class="product--list col col-12 sm-col-4 px1 pb3">
+                        <a href="{{ product.url }}">
+                          {% assign first-image = site-product.product-images | first %}
+                          <div class="product--list__image" style="background-image: url({{ first-image }});"></div>
+                          <p>{{ site-product.visible-title }}</p>
+                          </a>
+                      </div>
+                    {% endif %}
+                  {% endfor %}
+            {% endfor %}
+
       </div>
 
     </div>

@@ -16,6 +16,10 @@ materials: Fused and coldworked glass, goldfilled earwires
 product-images:
 - "/uploads/BS-D-L-01"
 - "/uploads/BS-D-L-01_hand"
+products:
+- BS-D-XL-01
+- PSC-D-S-01
+- SQ-D-L-02
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.

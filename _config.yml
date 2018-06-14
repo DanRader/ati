@@ -92,6 +92,10 @@ defaults:
     - 
     - 
     - 
+    products:
+    - BS-D-XL-01
+    - PSC-D-S-01
+    - SQ-D-L-02
 - scope:
     path: ''
     type: sightings
