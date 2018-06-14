@@ -10,13 +10,17 @@ visible-title: 'Banded Strattite Dangle Earrings
 elements: Banded Strattite
 product-colors: Green
 price: 170
-sku: BS-D-XL-02
 weight: 1
 width: 7/16" w
 height: 2 2/8" length from the ear
 materials: Fused and coldworked glass, goldfilled earwires
 product-images:
 - "/uploads/BS-D-XL-02"
+products:
+- BS-N-S-02
+- BS-D-L-01
+- BS-S-S-04
+sku: BS-D-XL-02
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
