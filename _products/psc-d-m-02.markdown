@@ -8,7 +8,6 @@ visible-title: Petrified Spongy Coral Dangle Earrings
 elements: Petrified Spongy Coral
 product-colors: Bronze
 price: 130
-sku: PSC-D-M-02
 weight: 1
 width: 4/8"
 height: 1 5/8" length from the ear
@@ -18,6 +17,11 @@ product-images:
 - "/uploads/PSC-D-M-02_hand"
 - "/uploads/PSCdangle_model02"
 - "/uploads/PSCdangle_model"
+products:
+- PSC-R-L-01
+- PSC-N-1-01
+- PSC-R-S-02
+sku: PSC-D-M-02
 ---
 
 Made from Petrified Spongy Coral specimen. Fabricated by the Chief Investigator, Ráchel Räder.
