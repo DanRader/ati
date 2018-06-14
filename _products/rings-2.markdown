@@ -17,9 +17,9 @@ product-images:
 - "/uploads/SQ-S-S-01_hand.jpg"
 - "/uploads/SQpost_model-9505c3.jpg"
 products:
+- SQ-S-M-02
 - SQ-D-L-02
 - SQ-S-S-02
-- PSC-D-M-02
 sku: SQ-S-S-01
 ---
 
