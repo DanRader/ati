@@ -8,7 +8,6 @@ visible-title: Banded Strattite Post Earrings
 elements: Banded Strattite
 product-colors: Purple
 price: 130
-sku: BS-S-S-04
 weight: 1
 width: 3/8"
 height: 6/8"
@@ -16,6 +15,11 @@ materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
 - "/uploads/BS-S-S-04.jpg"
 - "/uploads/BS-S-S-04_hand.jpg"
+products:
+- BS-S-S-01
+- BS-S-S-03
+- BS-N-S-02
+sku: BS-S-S-04
 layout: shop-item
 ---
 
