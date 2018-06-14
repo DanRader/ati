@@ -19,9 +19,9 @@ product-images:
 - "/uploads/SQ-S-M-01_hand.jpg"
 - "/uploads/SQpost_model.jpg"
 products:
-- BS-N-S-02
-- BS-N-S-02
-- BS-S-M-01
+- SQ-D-L-02
+- SQ-S-S-01
+- SQ-S-M-02
 sku: SQ-S-M-01
 ---
 
