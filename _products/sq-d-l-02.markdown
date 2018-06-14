@@ -8,7 +8,6 @@ visible-title: Spotted Quartz Dangle Earrings
 elements: Spotted Quartz
 product-colors: Yellow
 price: 160
-sku: SQ-D-L-02
 weight: 1
 width: 3/8" w
 height: 2" length from the ear
@@ -16,6 +15,11 @@ materials: Fused and coldworked glass on a gold-filled ear wire
 product-images:
 - "/uploads/SQ-D-L-02"
 - "/uploads/SQ-D-L-02_hand.jpg"
+products:
+- SQ-D-L-01
+- SQ-S-M-03
+- SQ-S-S-02
+sku: SQ-D-L-02
 ---
 
 Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
