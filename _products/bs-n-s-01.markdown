@@ -14,6 +14,9 @@ height: 7/8"
 materials: Fused and coldworked glass, goldfilled chain.
 product-images:
 - "/uploads/BS-N-S-01.jpg"
+products:
+- BS-N-S-02
+- BS-S-S-01
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
