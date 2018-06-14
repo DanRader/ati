@@ -8,7 +8,6 @@ visible-title: Banded Strattite Post Earrings
 elements: Banded Strattite
 product-colors: Yellow
 price: 130
-sku: BS-S-S-02
 weight: 1
 width: 3/8"
 height: 7/8"
@@ -16,6 +15,11 @@ materials: Fused and coldworked glass, goldfilled posts & backs.
 product-images:
 - "/uploads/BS-S-S-02.jpg"
 - "/uploads/BS-S-S-02_hand"
+products:
+- BS-D-L-01
+- BS-S-S-03
+- BS-S-S-04
+sku: BS-S-S-02
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder. 
