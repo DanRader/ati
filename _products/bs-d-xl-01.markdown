@@ -8,7 +8,6 @@ visible-title: Banded Strattite Dangle Earrings
 elements: Banded Strattite
 product-colors: Purple
 price: 170
-sku: BS-D-XL-01
 weight: 1
 width: 7/16" w
 height: 2 3/16" length from the ear
@@ -16,6 +15,11 @@ materials: Fused and coldworked glass, goldfilled earwires
 product-images:
 - "/uploads/BS-D-XL-01"
 - "/uploads/BS-D-XL-01_hand"
+products:
+- BS-N-S-02
+- BS-S-S-03
+- BS-S-S-01
+sku: BS-D-XL-01
 ---
 
 Fused and coldworked glass, goldfilled earwires
