@@ -8,7 +8,6 @@ visible-title: Banded Strattite Post Earrings
 elements: Banded Strattite
 product-colors: Blue
 price: 140
-sku: BS-S-M-01
 weight: 1
 width: .5"
 height: 1"
@@ -17,6 +16,11 @@ product-images:
 - "/uploads/BS-S-M-01.jpg"
 - "/uploads/BS-S-M-01_hand.jpg"
 - "/uploads/BSearrings_editorial.jpg"
+products:
+- BS-S-S-01
+- BS-D-XL-01
+- BS-N-S-02
+sku: BS-S-M-01
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder. 
