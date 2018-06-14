@@ -17,6 +17,10 @@ product-images:
 - "/uploads/PSCstack_model.jpg"
 - "/uploads/PSCstack_model02.jpg"
 - "/uploads/PSCstack_model03.jpg"
+products:
+- PSC-R-L-03
+- PSC-R-S-03
+- PSC-R-S-01
 sku: PSC-R-L-02
 ---
 
