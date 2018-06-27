@@ -3,8 +3,7 @@ title: ASMR trigger video
 date: 2018-06-26 23:42:00 -04:00
 entry-number: 44
 image: "/uploads/slime-splash.jpg"
-video: <iframe src="https://player.vimeo.com/video/277224413" width="640" height="360"
-  frameborder="0" allowfullscreen></iframe>
+video: https://vimeo.com/277224413
 entries:
 - ASMR Survey
 - Sound Bath
