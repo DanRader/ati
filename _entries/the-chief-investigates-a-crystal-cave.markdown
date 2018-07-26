@@ -2,7 +2,7 @@
 title: The Chief Investigates a Crystal Cave
 date: 2018-07-26 00:27:00 -04:00
 entry-number: 45
-image: "/uploads/Screen%20Shot%202018-07-26%20at%2012.35.53%20AM.png"
+image: "/uploads/splash-cave.jpg"
 video: https://vimeo.com/281638333
 entries:
 - Discovery No. 784-3N
