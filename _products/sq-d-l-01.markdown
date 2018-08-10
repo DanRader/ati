@@ -1,6 +1,7 @@
 ---
 title: SQ-D-L-01
 date: 2017-12-04 21:54:00 -05:00
+published: false
 categories:
 - Earrings
 position: 17
