@@ -14,8 +14,8 @@ product-images:
 - "/uploads/SQ-S-S-02_web.jpg"
 products:
 - SQ-D-M-01
-- SQ-S-S-02
 - SQ-D-L-01
+- SQ-D-XL-01
 ---
 
 Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
