@@ -12,6 +12,10 @@ materials: 'Fused and coldworked glass, goldfilled ear wires. '
 max-quantity: 1
 product-images:
 - "/uploads/SQ-D-M-02_web.jpg"
+products:
+- SQ-D-S-01
+- SQ-D-L-01
+- SQ-S-S-01
 ---
 
 Made from Spotted Quartz specimen. Fabricated by the Chief Investigator, Ráchel Räder.
