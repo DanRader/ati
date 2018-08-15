@@ -8,7 +8,7 @@ price: 150
 weight: 1
 width: 5/16"
 height: 1 7/16"
-materials: Fused and coldworked glass, goldfilled posts & backs.
+materials: 'Fused and coldworked glass, goldfilled ear wires. '
 max-quantity: 1
 product-images:
 - "/uploads/SQ-D-M-02_web.jpg"
