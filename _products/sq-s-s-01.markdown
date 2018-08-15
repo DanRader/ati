@@ -6,8 +6,8 @@ elements: Spotted Quartz
 product-colors: Yellow
 price: 130
 weight: 1
-width: 7/16
-height: 7/8
+width: 7/16"
+height: 7/8"
 materials: Fused and coldworked glass, goldfilled posts & backs.
 max-quantity: 1
 product-images:
