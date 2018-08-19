@@ -6,8 +6,8 @@ elements: Banded Strattite
 product-colors: White
 price: 156
 weight: 1
-width: 1 1/2
-height: 7/16
+width: 1 1/2"
+height: 7/16"
 materials: Fused and coldworked glass,  18" goldfilled chain.
 max-quantity: 1
 product-images:
