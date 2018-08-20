@@ -13,6 +13,11 @@ max-quantity: 1
 product-images:
 - "/uploads/BS-D-L-01_web.jpg"
 - "/uploads/BS-D-L-01-grey_web.jpg"
+- "/uploads/BS-D-L-01-green_web.jpg"
+products:
+- BS-N-S-01
+- BS-D-M-01
+- BS-D-M-04
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
