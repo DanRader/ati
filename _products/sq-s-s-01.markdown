@@ -12,6 +12,8 @@ materials: Fused and coldworked glass, goldfilled posts & backs.
 max-quantity: 1
 product-images:
 - "/uploads/SQ-S-S-01_web.jpg"
+- "/uploads/SQ-S-S-01_green_web.jpg"
+- "/uploads/SQ-S-S-01_grey_web.jpg"
 products:
 - SQ-S-S-02
 - SQ-D-L-01
