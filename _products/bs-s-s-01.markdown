@@ -12,6 +12,11 @@ materials: Fused and coldworked glass, goldfilled posts & backs.
 max-quantity: 1
 product-images:
 - "/uploads/BS-S-S-01_web.jpg"
+- "/uploads/BS-S-S-01_grey_web.jpg"
+products:
+- BS-N-S-01
+- BS-D-M-01
+- BS-D-L-01
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
