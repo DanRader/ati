@@ -12,6 +12,7 @@ materials: Fused and coldworked glass, goldfilled ear wires.
 max-quantity: 1
 product-images:
 - "/uploads/BS-D-L-01_web.jpg"
+- "/uploads/BS-D-L-01-grey_web.jpg"
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
