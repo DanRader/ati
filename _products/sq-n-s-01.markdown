@@ -12,6 +12,12 @@ materials: Fused and coldworked glass, 16" goldfilled chain.
 max-quantity: 1
 product-images:
 - "/uploads/SQ-N-S-01_web.jpg"
+- "/uploads/SQ-N-S-01_grey_web.jpg"
+- "/uploads/SQ-N-S-01_green_web.jpg"
+products:
+- SQ-N-S-01
+- SQ-D-XL-01
+- SQ-D-M-02
 ---
 
 Made from Banded Strattite specimen. Fabricated by the Chief Investigator, Ráchel Räder.
