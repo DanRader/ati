@@ -15,7 +15,7 @@ product-images:
 - "/uploads/SQ-N-S-01_grey_web.jpg"
 - "/uploads/SQ-N-S-01_green_web.jpg"
 products:
-- SQ-N-S-01
+- SQ-D-L-01
 - SQ-D-XL-01
 - SQ-D-M-02
 ---
