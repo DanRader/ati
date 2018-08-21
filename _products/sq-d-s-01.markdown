@@ -12,6 +12,7 @@ materials: 'Fused and coldworked glass, goldfilled ear wires. '
 max-quantity: 1
 product-images:
 - "/uploads/SQ-D-S-01_web.jpg"
+- "/uploads/SQ-D-S-01_grey_web.jpg"
 products:
 - SQ-D-M-02
 - SQ-D-L-01
