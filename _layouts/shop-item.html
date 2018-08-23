@@ -50,7 +50,7 @@ layout: default
           {% assign site-product-title = site-product.title | downcase %}
                 {% if product-title == site-product-title  %}
                       <div class="product--list col col-12 sm-col-4 px1 pb3">
-                        <a href="{{ product.url }}">
+                        <a href="{{ site-product.url }}">
                           {% assign first-image = site-product.product-images | first %}
                           <div class="product--list__image" style="background-image: url({{ first-image }});"></div>
                           <p>{{ site-product.visible-title }}</p>
