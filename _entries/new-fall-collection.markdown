@@ -11,5 +11,5 @@ entries:
 
 The Chief has curated a whole new collection of specimens for Fall 2018. 
 
-After searching far and wide for specimens that possess the energetic potential to bring the wearer closer to a connection to the planet, The Chief reveals her latest finds on our shop page. Explore the full selection [HERE!](https://ancienttruthinvestigators.com/shop/)
+After searching far and wide for specimens that possess the energetic potential to bring the wearer closer to the planet, The Chief reveals her latest finds on our shop page. Explore the full selection [HERE!](https://ancienttruthinvestigators.com/shop/)
 [![SQ-D-L-01.jpg](/uploads/SQ-D-L-01.jpg)](https://ancienttruthinvestigators.com/shop/)
