@@ -1,7 +1,7 @@
 ---
 title: Dán Räðer
 date: 2017-12-31 10:43:00 -05:00
-position: 3
+position: 4
 team-title: 'Visual Communication Specialist '
 website: http://www.danrdesign.com/
 image: "/uploads/TeamPics_Dan.jpg"

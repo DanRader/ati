@@ -1,7 +1,7 @@
 ---
 title: Jáson Bland-Förd
 date: 2017-09-18 20:12:00 -04:00
-position: 2
+position: 3
 team-title: Linguistics Specialist
 website: https://wildchildpress.carbonmade.com/
 image: "/uploads/Profile-pic_Blandford_medres.jpg"
