@@ -5,4 +5,4 @@ social-media-image: "/uploads/og-image%E2%80%94Team.jpg"
 layout: team
 ---
 
-A contingent of investigators seeking answers to questions. 
+An assemblage of investigators seeking answers to questions. 
