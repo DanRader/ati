@@ -1,6 +1,7 @@
 ---
 title: BS-N-D-01
 date: 2018-08-19 18:59:00 -04:00
+published: false
 visible-title: Banded Strattite Necklace
 elements: Banded Strattite
 product-colors: White

@@ -1,6 +1,7 @@
 ---
 title: SQ-D-M-01
 date: 2018-08-15 00:24:00 -04:00
+published: false
 visible-title: Spotted Quartz Dangle Earrings
 elements: Spotted Quartz
 product-colors: Yellow

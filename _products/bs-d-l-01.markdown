@@ -1,6 +1,7 @@
 ---
 title: BS-D-L-01
 date: 2018-08-15 00:59:00 -04:00
+published: false
 visible-title: Banded Strattite Dangle Earrings
 elements: Banded Strattite
 product-colors: Yellow
