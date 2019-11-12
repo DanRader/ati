@@ -1,6 +1,7 @@
 ---
 title: BS-D-M-01
 date: 2018-08-15 01:27:00 -04:00
+published: false
 visible-title: Banded Strattite Dangle Earrings
 elements: Banded Strattite
 product-colors: Blue
