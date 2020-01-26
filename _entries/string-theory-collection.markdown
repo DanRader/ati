@@ -1,6 +1,7 @@
 ---
 title: String Theory Collection
 date: 2020-01-26 17:32:00 -05:00
+position: 0
 entry-number: 47
 image: "/uploads/yellow-splash"
 ---

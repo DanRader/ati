@@ -1,7 +1,7 @@
 ---
 title: An Exhibition of the Latest Findings
 date: 2017-07-21 23:57:00 -04:00
-position: 8
+position: 17
 entry-number: 31
 summary: An exhibition featuring findings from Jáson Bland-förd (Linguistics Specialist),
   Åmy Lêmaire (Energy Assessment Specialist), Amända Patenaûdé (of the HAPPI Institute)
