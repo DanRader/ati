@@ -7,7 +7,7 @@ image: "/uploads/yellow-splash"
 entries:
 - Discovery No. 784-3N
 - New Collection of Chakra Enhancers
-- Who is she?
+- New Fall Collection
 author:
   name: The Chief
 ---
