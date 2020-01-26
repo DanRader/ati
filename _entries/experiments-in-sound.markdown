@@ -1,6 +1,7 @@
 ---
 title: Experiments in Sound
 date: 2018-02-19 21:50:00 -05:00
+position: 2
 entry-number: 41
 summary: The Chief investigates sound
 image: "/uploads/headphones_splash"

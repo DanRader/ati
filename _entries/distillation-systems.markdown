@@ -1,7 +1,7 @@
 ---
 title: Distillation Systems
 date: 2016-02-25 18:58:00 -05:00
-position: 18
+position: 27
 entry-number: 21
 summary: ATI explores systems of distillation.
 image: "/uploads/alchemy.jpg"

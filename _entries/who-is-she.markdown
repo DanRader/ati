@@ -2,6 +2,7 @@
 title: Who is she?
 date: 2019-04-17 22:06:00 -04:00
 published: false
+position: 8
 ---
 
 Last week, we had a chance to sit down with The Chief and ask her a few questions about what she's been up to lately. 

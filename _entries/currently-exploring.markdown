@@ -1,6 +1,7 @@
 ---
 title: Alchemical Explorations
 date: 2018-02-12 20:40:00 -05:00
+position: 4
 entry-number: 40
 summary: 'The Chief explores the potential of neon '
 image: "/uploads/alchemy_splash.jpg"

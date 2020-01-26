@@ -1,6 +1,7 @@
 ---
 title: ASMR trigger video
 date: 2018-06-26 23:42:00 -04:00
+position: 6
 entry-number: 44
 image: "/uploads/slime-splash.jpg"
 video: https://vimeo.com/277224413

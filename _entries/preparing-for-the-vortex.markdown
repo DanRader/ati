@@ -1,7 +1,7 @@
 ---
 title: Preparing for the Vortex
 date: 2015-03-03 15:52:00 -05:00
-position: 37
+position: 46
 entry-number: 2
 image: "/uploads/arizona.jpg"
 entries:

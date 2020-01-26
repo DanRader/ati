@@ -1,7 +1,7 @@
 ---
 title: Coral Pink Banded Strattite
 date: 2016-08-17 01:17:00 -04:00
-position: 16
+position: 25
 entry-number: 23
 summary: 'A new specimen has been discovered. '
 image: "/uploads/BStop.jpg"

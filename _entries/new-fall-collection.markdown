@@ -1,6 +1,7 @@
 ---
 title: New Fall Collection
 date: 2018-09-18 23:14:00 -04:00
+position: 7
 entry-number: 46
 image: "/uploads/BS-D-M-01_green_smoke_large.jpg"
 entries:
