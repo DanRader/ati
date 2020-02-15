@@ -7,7 +7,7 @@ image: "/uploads/space-splash.jpg"
 
 ![Archer-in-the-lab.jpg](/uploads/Archer-in-the-lab.jpg)
 
-The Chief: Thanks for taking the time to sit with me to discuss your investigations.
+### The Chief: Thanks for taking the time to sit with me to discuss your investigations.
 
 
 Archer: I have all the time in the world.
