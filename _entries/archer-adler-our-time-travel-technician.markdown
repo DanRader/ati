@@ -5,7 +5,7 @@ entry-number: 48
 image: "/uploads/space-splash.jpg"
 ---
 
-### The Chief recently sat down with Archer Adler, Ancient Truth Investigators' Time Travel Technician, to find out what she's been up to in the lab.
+### The Chief recently sat down with Archer Adler to find out what she's been up to in the lab.
 ![Archer-in-the-lab.jpg](/uploads/Archer-in-the-lab.jpg)
 
 The Chief: Thanks for taking the time to sit with me to discuss your investigations.
