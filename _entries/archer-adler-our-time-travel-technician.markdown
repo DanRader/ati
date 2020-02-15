@@ -36,6 +36,17 @@ The Chief: So, how did you do it? How did you discover the key to time travel?
 
 
 Archer: The answer lies in understanding the manipulation of elementary particles. Assimilation on the cellular level to these zero-dimensional points of existence propels the mind and body to other dimensions, and opens the door to time.
-
-
 ![Archer-in-blue-smoke-planet.jpg](/uploads/Archer-in-blue-smoke-planet.jpg)
+The Chief: I don't really understand how that's possible. 
+
+Archer: Seeing is believing. 
+
+The Chief: Is that an invitation?
+
+Archer: Sure! 
+
+The Chief: I'll pack the snacks. 
+
+Archer: Haha! Well, I need to make more advancements with the time travel device before I risk bringing travel companions. But, you're the first on the invite list. 
+
+The Chief: Aw shucks! Well, I look forward to hearing more about how things develop in the lab. 
