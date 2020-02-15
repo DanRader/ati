@@ -8,7 +8,7 @@ image: "/uploads/space-splash.jpg"
 ### The Chief recently sat down with Archer Adler to find out what she's been up to in the lab.
 ![Archer-in-the-lab.jpg](/uploads/Archer-in-the-lab.jpg)
 
-The Chief: Thanks for taking the time to sit with me to discuss your investigations.
+The Chief: Thanks for taking the time to discuss your investigations.
 
 
 Archer: I have all the time in the world.
