@@ -1,6 +1,7 @@
 ---
 title: Archer Adler, our time travel technician
 date: 2020-02-15 00:16:00 -05:00
+published: false
 entry-number: 48
 image: "/uploads/Archer02-a90627.jpg"
 ---
