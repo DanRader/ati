@@ -1,6 +1,7 @@
 ---
 title: Archer Adler, Ancient Truth Investigator's Time Travel Technician
 date: 2020-02-15 00:16:00 -05:00
+published: false
 entry-number: 48
 image: "/uploads/space-splash.jpg"
 ---
@@ -36,7 +37,5 @@ The Chief: So, how did you do it? How did you discover the key to time travel?
 
 Archer: The answer lies in understanding the manipulation of elementary particles. Assimilation on the cellular level to these zero-dimensional points of existence propels the mind and body to other dimensions, and opens the door to time.
 
-
-The Chief:
 
 ![Archer-in-blue-smoke-planet.jpg](/uploads/Archer-in-blue-smoke-planet.jpg)
