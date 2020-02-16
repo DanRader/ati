@@ -12,6 +12,8 @@ product-images:
 - "/uploads/green-loop_pink-post.jpg"
 products:
 - Red Loop Posts
+- PSC-D-S-01
+- SQ-D-L-02
 ---
 
 These adjustable designs are a new take on the hoop earring.
