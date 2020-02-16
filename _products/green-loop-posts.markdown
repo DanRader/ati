@@ -10,6 +10,7 @@ height: 1.5 inches
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/green-loop_pink-post.jpg"
+- "/uploads/green-loop_pink-post02.jpg"
 products:
 - Red Loop Posts
 - PSC-D-S-01
