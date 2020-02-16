@@ -1,6 +1,7 @@
 ---
 title: Red Loop Posts
 date: 2020-02-15 23:19:00 -05:00
+position: 1
 visible-title: Red Loop Posts
 product-colors: Red
 price: 150
