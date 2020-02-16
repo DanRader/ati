@@ -9,6 +9,8 @@ height: 1.5 inches
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/green-loop_pink-post.jpg"
+products:
+- Red Loop Posts
 ---
 
 These adjustable designs are a new take on the hoop earring.
