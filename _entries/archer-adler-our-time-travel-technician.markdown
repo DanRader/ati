@@ -45,4 +45,4 @@ The Chief: Aw shucks! Well, I look forward to hearing more about how things deve
 
 Archer: I'll keep you posted, Chief. Until next time...
 
-### Stay tuned to our Log Book for future and past developments from Archer Adler, our Time Travel Technician. 
+### Stay tuned to our Log Book for future and past developments from Archer Adler, our Time Travel Technician.  
