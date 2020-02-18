@@ -5,7 +5,7 @@ collections:
   artifacts:
     title: Artifacts
     output: true
-  designs:
+  elements:
     title: Designs
     output: true
   entries:
