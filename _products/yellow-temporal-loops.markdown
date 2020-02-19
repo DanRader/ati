@@ -8,6 +8,6 @@ width: 1.25
 height: 2.5
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
-- "/uploads/yellow-rubber_mint-post.jpg"
+- "/uploads/Yellow-rubber_mint-post-67db53.jpg"
 ---
 
