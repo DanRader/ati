@@ -9,7 +9,7 @@ width: 2 inches
 height: 1.5 inches
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
-- "/uploads/green-loop_pink-post.jpg"
+- "/uploads/Green-rubber_pink-post.jpg"
 - "/uploads/green-loop_pink-post02.jpg"
 products:
 - Red Loop Posts
