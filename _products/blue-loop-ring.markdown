@@ -1,0 +1,19 @@
+---
+title: Blue Loop Ring
+date: 2020-02-19 01:43:00 -05:00
+visible-title: Blue Loop Ring
+elements: Loops
+product-colors: Blue
+price: 120
+width: 2.5
+height: 2.5
+materials: Powder coated metal and latex tube.
+product-images:
+- "/uploads/blue-rubber_yellow-ring.jpg"
+- "/uploads/blue-rubber_yellow-ring02.jpg"
+products:
+- Green Loop Posts
+- White Temporal Loop
+- Red Loop Posts
+---
+
