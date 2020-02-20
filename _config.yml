@@ -5,8 +5,8 @@ collections:
   artifacts:
     title: Artifacts
     output: true
-  elements:
-    title: Elements
+  designs:
+    title: Designs
     output: true
   entries:
     title: Entries
@@ -77,7 +77,7 @@ defaults:
   values:
     layout: shop-item
     visible-title: ''
-    elements: 
+    designs: 
     product-colors: 
     permalink: "/shop/:title/"
     price: 

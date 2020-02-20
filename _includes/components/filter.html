@@ -30,10 +30,10 @@
     <!-- Elements -->
         <div id="accordion-group">
               <input id="ac-1" name="accordion-1" type="checkbox" checked/>
-              <label for="ac-1">Elements {% include /svg/accord_arrow.svg %}</label>
+              <label for="ac-1">Designs {% include /svg/accord_arrow.svg %}</label>
               <article class="ac-small">
                   <ul class="filter_list">
-                      {% assign element_sort = site.elements | sort:"position" %}
+                      {% assign element_sort = site.designs | sort:"position" %}
                       {% for element in element_sort %}
                           <button type="button" data-filter=".{{ element.title | downcase | remove: " " }}">{{ element.title }}</button>
                       {% endfor %}
