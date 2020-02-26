@@ -7,7 +7,7 @@ time: '11:00AM-6:00PM '
 external-link: https://www.renegadecraft.com/fair/san-francisco-spring
 location:
   name: 'Renegade Craft Fair '
-  address: Fort Mason Center Festival Pavilion
+  address: San Francisco, CA
   latitude: 122.4301° W
   longitude: 37.8076° N
 ---
