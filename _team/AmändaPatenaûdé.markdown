@@ -1,7 +1,7 @@
 ---
 title: Archer Adler
 date: 2017-09-18 20:00:00 -04:00
-position: 2
+position: 3
 team-title: 'Time Travel Technician '
 image: "/uploads/archer-5c4021"
 entries:
