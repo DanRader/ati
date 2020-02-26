@@ -7,7 +7,7 @@ time: 6:00PM-10:00PM
 external-link: https://urbanglass.org/classes/detail/fuse-it-carve-it-wear-it
 location:
   name: UrbanGlass
-  address: 647 Fulton Street
+  address: Brooklyn, NY
   latitude: 73.9742° W
   longitude: 40.6921° N
 ---
