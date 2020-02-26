@@ -1,9 +1,9 @@
 ---
 title: Renegade Craft
 date: 2020-02-25 23:40:00 -05:00
-start-date: 2020-04-04 11:00:00 -04:00
-end-date: 2020-04-05 18:00:00 -04:00
-time: 11:00-6:00PM Saturday-Sunday
+start-date: 2020-04-04 00:00:00 -04:00
+end-date: 2020-04-05 00:00:00 -04:00
+time: '11:00AM-6:00PM '
 external-link: https://www.renegadecraft.com/fair/san-francisco-spring
 location:
   name: 'Renegade Craft Fair '
