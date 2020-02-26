@@ -12,4 +12,4 @@ location:
   longitude: 37.8076° N
 ---
 
-Connect with Rachel Rader, the maker and artist behind the Ancient Truth Investigators project at the Renegade Craft Fair, in San Francisco. ![blue-rubber_yellow-ring.jpg](/uploads/blue-rubber_yellow-ring.jpg)
+Connect with Rachel Rader, the maker and artist behind the Ancient Truth Investigators project at the Renegade Craft Fair, in San Francisco. [The String Theory Collection](https://ancienttruthinvestigators.com/shop/) will be on view and available for purchase. 
