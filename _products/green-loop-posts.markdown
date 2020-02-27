@@ -3,6 +3,7 @@ title: Green Loop Posts
 date: 2020-02-15 23:46:00 -05:00
 position: 0
 visible-title: Green Loop Posts
+designs: Loops
 product-colors: Green
 price: 150
 width: 2 inches
