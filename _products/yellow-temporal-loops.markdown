@@ -12,3 +12,4 @@ product-images:
 - "/uploads/Yellow-rubber_mint-post-67db53.jpg"
 ---
 
+Lightweight, and flexible. The perfect accessory for time travel. 
