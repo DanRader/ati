@@ -12,6 +12,7 @@ product-images:
 - "/uploads/white-rubber_pink-ring.jpg"
 - "/uploads/Rings_both%20styles.jpg"
 - "/uploads/Ring_flat.jpg"
+- "/uploads/rings-on-Archer.jpg"
 products:
 - White Temporal Loop
 - Blue Loop Ring
