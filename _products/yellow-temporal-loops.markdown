@@ -2,6 +2,7 @@
 title: Yellow Temporal Loop
 date: 2020-02-16 00:30:00 -05:00
 visible-title: Yellow Temporal Loop
+designs: Temporal Loop
 product-colors: Yellow
 price: 150
 width: 1.25
