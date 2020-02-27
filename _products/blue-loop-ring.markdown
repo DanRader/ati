@@ -20,6 +20,6 @@ products:
 elements: Loops
 ---
 
-Prepare for take off. This statement ring is will be noticed. 
+Prepare for take off. This statement ring will be noticed. 
 
 Ring size 7.5.
