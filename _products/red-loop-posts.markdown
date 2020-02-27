@@ -14,6 +14,4 @@ product-images:
 - "/uploads/Red-rubber-loop_yellow-post02.jpg"
 ---
 
-These adjustable designs are a new take on the hoop earring. 
-
-Take them out on your next adventure through time and space!
+These adjustable designs are a new take on the hoop earring. Take them out on your next adventure through time and space!
