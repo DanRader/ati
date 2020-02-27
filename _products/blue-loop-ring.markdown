@@ -5,6 +5,7 @@ visible-title: Blue Loop Ring
 designs: Loop Ring
 product-colors: Blue
 price: 120
+weight: Ring size 7.5
 width: 2.5
 height: 2.5
 materials: Powder coated metal and latex tube.
