@@ -2,6 +2,7 @@
 title: White Temporal Loop
 date: 2020-02-16 00:06:00 -05:00
 visible-title: White Temporal Loop
+designs: Temporal Loop
 product-colors: White
 price: 150
 width: 1.25
