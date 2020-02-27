@@ -2,7 +2,7 @@
 title: Blue Loop Ring
 date: 2020-02-19 01:43:00 -05:00
 visible-title: Blue Loop Ring
-elements: Loops
+designs: Loop Ring
 product-colors: Blue
 price: 120
 width: 2.5
@@ -15,5 +15,6 @@ products:
 - Green Loop Posts
 - White Temporal Loop
 - Red Loop Posts
+elements: Loops
 ---
 
