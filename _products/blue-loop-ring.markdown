@@ -18,3 +18,4 @@ products:
 elements: Loops
 ---
 
+Prepare for take off. This statement ring is will be noticed. 
