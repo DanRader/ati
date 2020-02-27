@@ -10,6 +10,7 @@ height: 2.5
 materials: Powder coated metal and latex tube.
 product-images:
 - "/uploads/white-rubber_pink-ring.jpg"
+- "/uploads/Rings_both%20styles.jpg"
 products:
 - White Temporal Loop
 - Blue Loop Ring
