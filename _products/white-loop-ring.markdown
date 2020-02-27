@@ -16,4 +16,4 @@ products:
 - Green Loop Posts
 ---
 
-Cocktail ring and source of conversation. Lightweight and comfortable enough to wear all day. 
+Cocktail ring and source of conversation. Lightweight and comfortable enough to wear all day.
