@@ -2,6 +2,7 @@
 title: White Loop Ring
 date: 2020-02-19 02:20:00 -05:00
 visible-title: White Loop Ring
+designs: Loop Ring
 product-colors: White
 price: 120
 width: 2.5
