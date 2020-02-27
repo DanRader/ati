@@ -12,6 +12,7 @@ product-images:
 - "/uploads/blue-rubber_yellow-ring.jpg"
 - "/uploads/blue-rubber_yellow-ring02.jpg"
 - "/uploads/Rings_both%20styles.jpg"
+- "/uploads/Ring_tall.jpg"
 products:
 - Green Loop Posts
 - White Temporal Loop
