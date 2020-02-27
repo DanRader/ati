@@ -2,7 +2,7 @@
 title: Image 5
 date: 2017-12-05 17:40:00 -05:00
 position: 0
-image: "/uploads/BSspecimencloseup.jpg"
+image: "/uploads/rings-on-Archer.jpg"
 texture-image: "/uploads/textures/orange.png"
 ---
 
