@@ -17,3 +17,5 @@ products:
 ---
 
 Cocktail ring and source of conversation. Lightweight and comfortable enough to wear all day.
+
+Ring size 7.5. 
