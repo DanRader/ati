@@ -12,3 +12,4 @@ product-images:
 - "/uploads/White-rubber_pink-post-5e8454.jpg"
 ---
 
+Lightweight, and flexible. The perfect accessory for time travel. 
