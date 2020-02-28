@@ -12,6 +12,7 @@ materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/green-loop_pink-post.jpg"
 - "/uploads/green-loop_pink-post02.jpg"
+- "/uploads/Archer-Loop-earrings02.jpg"
 products:
 - White Loop Ring
 - Red Loop Posts
