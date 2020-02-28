@@ -10,6 +10,10 @@ height: 2.5
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/Yellow-rubber_mint-post-67db53.jpg"
+products:
+- White Temporal Loop
+- Blue Loop Ring
+- Red Loop Posts
 ---
 
 Lightweight, and flexible. The perfect accessory for time travel. 
