@@ -12,6 +12,7 @@ materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/Red-rubber-loop_yellow-post.jpg"
 - "/uploads/Red-rubber-loop_yellow-post02.jpg"
+- "/uploads/Archer-Loop-earrings02.jpg"
 products:
 - Green Loop Posts
 - Yellow Temporal Loop
