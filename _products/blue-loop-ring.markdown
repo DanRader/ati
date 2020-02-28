@@ -11,8 +11,8 @@ materials: Powder coated metal and latex tube.
 product-images:
 - "/uploads/blue-rubber_yellow-ring.jpg"
 - "/uploads/blue-rubber_yellow-ring02.jpg"
+- "/uploads/blue-rings.jpg"
 - "/uploads/rings-on-Archer.jpg"
-- "/uploads/Rings_both%20styles.jpg"
 - "/uploads/Ring_tall.jpg"
 products:
 - Green Loop Posts
