@@ -14,8 +14,8 @@ product-images:
 - "/uploads/green-loop_pink-post02.jpg"
 products:
 - Red Loop Posts
-- PSC-D-S-01
-- SQ-D-L-02
+- Red Loop Posts
+- Yellow Temporal Loop
 ---
 
 These adjustable designs are a new take on the hoop earring. Take them out on your next adventure through time and space!
