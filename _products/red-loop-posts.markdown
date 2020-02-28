@@ -12,6 +12,10 @@ materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/Red-rubber-loop_yellow-post.jpg"
 - "/uploads/Red-rubber-loop_yellow-post02.jpg"
+products:
+- Green Loop Posts
+- Yellow Temporal Loop
+- Blue Loop Ring
 ---
 
 These adjustable designs are a new take on the hoop earring. Take them out on your next adventure through time and space!
