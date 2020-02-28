@@ -13,7 +13,7 @@ product-images:
 - "/uploads/green-loop_pink-post.jpg"
 - "/uploads/green-loop_pink-post02.jpg"
 products:
-- Red Loop Posts
+- White Loop Ring
 - Red Loop Posts
 - Yellow Temporal Loop
 ---
