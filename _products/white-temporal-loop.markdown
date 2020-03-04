@@ -12,9 +12,9 @@ product-images:
 - "/uploads/White-rubber_pink-post-5e8454.jpg"
 - "/uploads/Temporal-Loop-.jpg"
 products:
-- Yellow Temporal Loop
-- Red Loop Posts
-- Green Loop Posts
+- B-3-TL
+- R-3-LP
+- Y-2-TL
 ---
 
 Lightweight, and flexible. The perfect accessory for time travel. 
