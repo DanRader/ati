@@ -15,9 +15,9 @@ product-images:
 - "/uploads/rings-on-Archer.jpg"
 - "/uploads/Ring_tall.jpg"
 products:
-- Green Loop Posts
-- White Temporal Loop
-- Red Loop Posts
+- Y-2-RU
+- B-3-TL
+- W-1-RF
 elements: Loops
 ---
 
