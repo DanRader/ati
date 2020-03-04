@@ -1,5 +1,5 @@
 ---
-title: White Loop Ring
+title: W-1-RF
 date: 2020-02-19 02:20:00 -05:00
 visible-title: White Loop Ring
 designs: Loop Ring
