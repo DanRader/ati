@@ -14,9 +14,9 @@ product-images:
 - "/uploads/Red-rubber-loop_yellow-post02.jpg"
 - "/uploads/Archer-Loop-earrings02.jpg"
 products:
-- Green Loop Posts
-- Yellow Temporal Loop
-- Blue Loop Ring
+- Y-2-RU
+- B-3-TL
+- G-1-LP
 ---
 
 These adjustable designs are a new take on the hoop earring. Take them out on your next adventure through time and space!
