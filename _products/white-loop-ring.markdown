@@ -15,9 +15,9 @@ product-images:
 - "/uploads/Rings_both%20styles.jpg"
 - "/uploads/Ring_flat.jpg"
 products:
-- White Temporal Loop
-- Blue Loop Ring
-- Green Loop Posts
+- B-4-RU
+- Y-2-RU
+- C-3-RU
 ---
 
 Cocktail ring and source of conversation. Lightweight and comfortable enough to wear all day.
