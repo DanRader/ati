@@ -13,9 +13,9 @@ product-images:
 - "/uploads/rings-on-Archer.jpg"
 - "/uploads/blue-rings.jpg"
 products:
-- Blue Loop Ring
-- White Temporal Loop
-- White Loop Ring
+- W-1-RF
+- R-3-LP
+- C-3-RU
 ---
 
 Prepare for take off. This statement ring will be noticed.
