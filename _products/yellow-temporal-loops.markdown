@@ -12,9 +12,9 @@ product-images:
 - "/uploads/Yellow-rubber_mint-post-67db53.jpg"
 - "/uploads/Temporal-Loop-.jpg"
 products:
-- White Temporal Loop
-- Blue Loop Ring
-- Red Loop Posts
+- B-3-TL
+- R-3-LP
+- W-1-TL
 ---
 
 Lightweight, and flexible. The perfect accessory for time travel. 
