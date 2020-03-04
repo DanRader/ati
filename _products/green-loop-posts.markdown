@@ -14,9 +14,9 @@ product-images:
 - "/uploads/green-loop_pink-post02.jpg"
 - "/uploads/Archer-Loop-earrings02.jpg"
 products:
-- White Loop Ring
-- Red Loop Posts
-- Yellow Temporal Loop
+- R-3-LP
+- Y-2-TL
+- W-1-RF
 ---
 
 These adjustable designs are a new take on the hoop earring. Take them out on your next adventure through time and space!
