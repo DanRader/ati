@@ -1,5 +1,5 @@
 ---
-title: Yellow Temporal Loop
+title: Y-2-TL
 date: 2020-02-16 00:30:00 -05:00
 visible-title: Yellow Temporal Loop
 designs: Temporal Loop
@@ -10,6 +10,7 @@ height: 2.5
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/Yellow-rubber_mint-post-67db53.jpg"
+- "/uploads/Temporal-Loop-.jpg"
 products:
 - White Temporal Loop
 - Blue Loop Ring
