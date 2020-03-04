@@ -1,5 +1,5 @@
 ---
-title: Yellow Loop Ring
+title: Y-2-RU
 date: 2020-03-03 23:09:00 -05:00
 visible-title: Yellow Loop Ring
 designs: Loop Ring
