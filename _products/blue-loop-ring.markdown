@@ -1,5 +1,5 @@
 ---
-title: Blue Loop Ring
+title: C-3-RU
 date: 2020-02-19 01:43:00 -05:00
 visible-title: Blue Loop Ring
 designs: Loop Ring
