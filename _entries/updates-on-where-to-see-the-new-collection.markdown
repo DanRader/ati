@@ -1,5 +1,5 @@
 ---
-title: Updates on where to see the new collection
+title: Where to see the new collection
 date: 2020-03-09 16:24:00 -04:00
 entry-number: 49
 image: "/uploads/splash-rings.jpg"
