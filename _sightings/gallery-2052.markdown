@@ -4,6 +4,7 @@ date: 2020-03-09 17:55:00 -04:00
 categories:
 - Exhibition
 start-date: 2020-03-18 00:00:00 -04:00
+end-date: 2020-03-31 00:00:00 -04:00
 time: 4-8PM
 external-link: https://www.facebook.com/events/142140277082479/
 location:
