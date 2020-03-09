@@ -21,3 +21,4 @@ Where can you see this collection in person? So far, The Chief has lined up 2 sh
 And we will be part of a group show at [Gallery 2052 in Chicago](https://www.facebook.com/events/142140277082479/), that opens March 18 called "Mad For Hoops". 
 
 ![Archer-Loop-earrings02.jpg](/uploads/Archer-Loop-earrings02.jpg) 
+Stay tuned for updates!
