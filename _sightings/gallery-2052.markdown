@@ -8,7 +8,7 @@ time: 4-8PM
 external-link: https://www.facebook.com/events/142140277082479/
 location:
   name: Gallery 2052
-  address: '2052 W. Chicago Ave. '
+  address: Chicago, IL
   latitude: 87.6298° W
   longitude: 41.8781° N
 ---
