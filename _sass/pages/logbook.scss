@@ -110,7 +110,12 @@
 }
 
 .post--author {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+
+
     @media #{$media-max-tablet}{
+        grid-template-columns: 1fr;
         text-align: center;
         padding-bottom: 1rem;
 
@@ -153,6 +158,8 @@
 .author-name {
   & p {
     line-height: 21px;
+    max-width: 308px;
+    margin: 0 auto 1rem;
   }
   & h3 {
     font-size: 29px;

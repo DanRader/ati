@@ -23,18 +23,7 @@ layout: default
       <h1>{{ page.title }}</h1>
   </div>
   {{ content }}
-  <section id="author" class="pt3 container author">
-    <hr>
-    <div class="clearfix post--author py4 table mx-auto">
-        <div class="left post--author__avatar-wrap">
-          <div class="post--author__avatar" style="background-image: url(/uploads/RachelRader_avatar.jpg)"></div>
-        </div>
-        <div class="left relative author-name">
-          <h3 class="">Ráchel Räder</h3>
-          <p class="">Chief Investiagtor,<br>  Ancient Truth Investigators</p>
-        </div>
-    </div>
-  </section>
+  {% include components/author-name.html %}
 </div>
 
 <section class="post__content--related max-width-4 clearfix mx-auto" >
