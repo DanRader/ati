@@ -14,7 +14,7 @@
     <input type="checkbox" id="filter-list" class="hidden"/>
     <label for="filter-list" class="filter-open">Shop by Category {% include /svg/accord_arrow.svg %}</label>
     <div class="filters">
-        <div id="accordion-group">
+      {% comment %}  <div id="accordion-group">
               <input id="ac-3" name="accordion-1" type="checkbox" checked/>
               <label class="first-label" for="ac-3">Categories {% include /svg/accord_arrow.svg %}</label>
               <article class="ac-small">
@@ -26,6 +26,7 @@
                   </ul>
               </article>
         </div>
+        {% endcomment %}
 
     <!-- Elements -->
         <div id="accordion-group">
@@ -33,6 +34,7 @@
               <label for="ac-1">Designs {% include /svg/accord_arrow.svg %}</label>
               <article class="ac-small">
                   <ul class="filter_list">
+                      <button type="button" data-filter="all">All</button>
                       {% assign element_sort = site.designs | sort:"position" %}
                       {% for element in element_sort %}
                           <button type="button" data-filter=".{{ element.title | downcase | remove: " " }}">{{ element.title }}</button>
