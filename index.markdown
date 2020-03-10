@@ -6,3 +6,4 @@ description: The Ancient Truth Investigators are scientists, writers, makers, cr
 layout: home
 lede: Uncovering the connection of Humanity and the Planet
 ---
+
