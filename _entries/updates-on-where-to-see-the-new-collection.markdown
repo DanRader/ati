@@ -13,12 +13,11 @@ Have you explored the Shop section of our website lately? There's a ton of new p
 ![blue-rings.jpg](/uploads/blue-rings.jpg)
 These flexible forms (much like time and space), move with the wearer and symbolize the countless forms of time travel and time loops.
 ![space gravity.jpg](/uploads/space%20gravity.jpg)
-Where can you see this collection in person? So far, The Chief has lined up 2 shows:
-
+Where can you see this collection in person? So far, The Chief has lined up 2 shows. (UPDATE, these shows have both been postponed):
 
 [Renegade Craft in San Francisco](https://www.renegadecraft.com/city/san-francisco), April 4-5.
 
-And we will be part of a group show at [Gallery 2052 in Chicago](https://www.facebook.com/events/142140277082479/), that opens March 18 called "Mad For Hoops". 
+And we will be part of a group show at [Gallery 2052 in Chicago](https://www.facebook.com/events/142140277082479/), that opens March 18 called "Mad For Hoops".
 
-![Archer-Loop-earrings02.jpg](/uploads/Archer-Loop-earrings02.jpg) 
+![Archer-Loop-earrings02.jpg](/uploads/Archer-Loop-earrings02.jpg)
 Stay tuned for updates!
