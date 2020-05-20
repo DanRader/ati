@@ -5,8 +5,10 @@ published: false
 position: 8
 ---
 
-Last week, we had a chance to sit down with The Chief and ask her a few questions about what she's been up to lately.
-![Colorful_Chief03](/uploads/Colorful_Chief03)
+![chief_web](/uploads/chief_web)
+
+The Chief. 
+
 \*\*Hi there Chief, thanks for taking the time out of your busy schedule to do an interview. \*\*
 Oh, my pleasure.
 **You were absent from the lab for a while there, what have you been up to?**
