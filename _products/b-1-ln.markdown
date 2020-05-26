@@ -5,6 +5,7 @@ visible-title: Black String Theory Necklace
 product-colors: Black
 price: 775
 width: 30 inches in length
+materials: Powder coated metal and latex tube.
 product-images:
 - "/uploads/black-rubber-necklace.jpg"
 - "/uploads/black-rubber-necklace_detail.jpg"
@@ -12,8 +13,8 @@ product-images:
 - "/uploads/Archer-black-necklace.jpg"
 products:
 - B-4-RU
-- B-3-TL
 - W-1-TL
+- B-3-TL
 ---
 
 Flexible, lightweight, and long enough to throw over the head. 
