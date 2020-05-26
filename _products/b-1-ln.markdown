@@ -4,7 +4,7 @@ date: 2020-05-25 22:08:00 -04:00
 visible-title: Black String Theory Necklace
 designs: String Theory Necklace
 product-colors: Black
-price: 775
+price: 675
 width: 30 inches in length
 materials: Powder coated metal and latex tube.
 product-images:
