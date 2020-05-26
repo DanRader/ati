@@ -2,6 +2,7 @@
 title: B-1-ST
 date: 2020-05-25 22:08:00 -04:00
 visible-title: Black String Theory Necklace
+designs: String Theory Necklace
 product-colors: Black
 price: 775
 width: 30 inches in length
