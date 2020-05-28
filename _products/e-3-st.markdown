@@ -3,6 +3,7 @@ title: E-3-ST
 date: 2020-05-28 01:08:00 -04:00
 visible-title: Grey String Theory Necklace
 designs: String Theory Necklace
+product-colors: Grey
 price: 675
 width: 30 inches in length
 materials: Powder coated metal and latex tube.
