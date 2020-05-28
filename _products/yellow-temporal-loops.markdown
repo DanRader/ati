@@ -11,6 +11,7 @@ materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/Yellow-rubber_mint-post-67db53.jpg"
 - "/uploads/Temporal-Loop-.jpg"
+- "/uploads/All-Temporal-Loops.jpg"
 products:
 - B-3-TL
 - R-3-LP
