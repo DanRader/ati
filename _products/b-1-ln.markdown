@@ -8,7 +8,7 @@ price: 675
 width: 30 inches in length
 materials: Powder coated metal and latex tube.
 product-images:
-- "/uploads/black-rubber-necklace.jpg"
+- "/uploads/black-rubber-necklace-02.jpg"
 - "/uploads/black-rubber-necklace_detail.jpg"
 - "/uploads/big-necklace.jpg"
 - "/uploads/Archer-black-necklace.jpg"
