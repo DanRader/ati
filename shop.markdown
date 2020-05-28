@@ -2,7 +2,7 @@
 title: Shop
 excerpt: 'Support the research of the Ancient Truth Investigators team with your purchase
   from the String Theory Collection.   '
-image: "/uploads/space.jpg"
+image: "/uploads/space-web.jpg"
 social-media-image: "/uploads/og-image—Shop.jpg"
 layout: shop-list
 ---
