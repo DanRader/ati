@@ -11,6 +11,7 @@ materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/White-rubber_pink-post-5e8454.jpg"
 - "/uploads/Temporal-Loop-.jpg"
+- "/uploads/All-Temporal-Loops.jpg"
 products:
 - B-3-TL
 - R-3-LP
