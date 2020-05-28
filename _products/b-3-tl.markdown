@@ -11,6 +11,7 @@ materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/black-rubber_yellow-post.jpg"
 - "/uploads/Temporal-Loop-.jpg"
+- "/uploads/All-Temporal-Loops.jpg"
 products:
 - Y-2-TL
 - G-1-LP
