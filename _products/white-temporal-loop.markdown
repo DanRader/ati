@@ -1,7 +1,7 @@
 ---
 title: W-1-TL
 date: 2020-02-16 00:06:00 -05:00
-position: 1
+position: 2
 visible-title: White Temporal Loop
 designs: Temporal Loop
 product-colors: White
