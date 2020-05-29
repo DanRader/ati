@@ -7,7 +7,7 @@ designs: Loop Ring
 product-colors: White
 price: 120
 width: 2.5
-height: 2.5
+height: 2.5 inches
 materials: Powder coated metal and latex tube.
 product-images:
 - "/uploads/white-rubber_pink-ring.jpg"
