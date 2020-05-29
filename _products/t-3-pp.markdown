@@ -1,7 +1,7 @@
 ---
 title: T-3-PP
 date: 2020-05-29 00:34:00 -04:00
-position: 12
+position: 13
 visible-title: Paradox Pin
 designs: Paradox Pin
 product-colors: Teal
