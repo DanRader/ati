@@ -6,8 +6,8 @@ visible-title: Paradox Pin
 designs: Paradox Pin
 product-colors: Teal
 price: 375
-width: 3"
-height: 5.5"
+width: 3
+height: 5.5 inches
 materials: Powder coated metal, latex tube, brass pin and pin clutches.
 product-images:
 - "/uploads/Pin03.jpg"
