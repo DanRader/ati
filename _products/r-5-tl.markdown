@@ -6,8 +6,8 @@ visible-title: Red Temporal Loop
 designs: Temporal Loop
 product-colors: Red
 price: 150
-width: 1.5"
-height: 2.5"
+width: 1.5
+height: 2.5 inches
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/Red-temporal-loop.jpg"
