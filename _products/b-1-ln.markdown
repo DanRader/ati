@@ -1,7 +1,7 @@
 ---
 title: B-1-ST
 date: 2020-05-25 22:08:00 -04:00
-position: 12
+position: 13
 visible-title: Black String Theory Necklace
 designs: String Theory Necklace
 product-colors: Black
