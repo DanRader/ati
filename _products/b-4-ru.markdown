@@ -1,7 +1,7 @@
 ---
 title: B-4-RU
 date: 2020-03-04 00:39:00 -05:00
-position: 15
+position: 16
 visible-title: Black Loop Ring
 designs: Loop Ring
 product-colors: Black
