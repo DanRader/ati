@@ -1,6 +1,7 @@
 ---
 title: B-3-TL
 date: 2020-03-03 23:26:00 -05:00
+position: 8
 visible-title: 'Black Temporal Loop '
 designs: Temporal Loop
 product-colors: Black
