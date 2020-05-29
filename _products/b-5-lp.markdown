@@ -1,6 +1,7 @@
 ---
 title: B-5-LP
 date: 2020-05-29 15:37:00 -04:00
+position: 10
 visible-title: Blue Loop Posts
 designs: Loops
 product-colors: Blue
