@@ -18,3 +18,4 @@ products:
 - Y-2-RU
 ---
 
+Flexible, lightweight, and long enough to throw over the head.
