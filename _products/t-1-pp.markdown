@@ -17,4 +17,4 @@ products:
 - W-1-RF
 ---
 
-The Paradox Pin can be pinned to any fabric surface, and illustrate time travel paradoxes. A reminder of what can never be. 
+The Paradox Pin can be pinned to any fabric surface, and illustrates time travel paradoxes. A reminder of what can never be. 
