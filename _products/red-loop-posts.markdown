@@ -1,7 +1,7 @@
 ---
 title: R-3-LP
 date: 2020-02-15 23:19:00 -05:00
-position: 15
+position: 16
 visible-title: Red Loop Posts
 designs: Loops
 product-colors: Red
