@@ -14,6 +14,7 @@ product-images:
 - "/uploads/Yellow-Loop-02.jpg"
 - "/uploads/Archer-in-loops.jpg"
 - "/uploads/Archer-Loop-earrings02.jpg"
+- "/uploads/All-Loop-Posts.jpg"
 products:
 - G-1-LP
 - YR-4-ST
