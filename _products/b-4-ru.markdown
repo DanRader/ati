@@ -7,7 +7,7 @@ designs: Loop Ring
 product-colors: Black
 price: 120
 width: 2.5
-height: 2.5
+height: 2.5 inches
 materials: Powder coated metal and latex tube.
 product-images:
 - "/uploads/black-rubber_beige-ring-.jpg"
