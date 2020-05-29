@@ -11,7 +11,7 @@ height: 1.5 inches
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/Yellow-Loop-02.jpg"
-- "/uploads/Yellow-Loop-.jpg"
+- "/uploads/Yellow-Loop--443deb.jpg"
 - "/uploads/Archer-in-loops.jpg"
 - "/uploads/Archer-Loop-earrings02.jpg"
 products:
