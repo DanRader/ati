@@ -6,7 +6,7 @@ visible-title: Green Loop Posts
 designs: Loops
 product-colors: Green
 price: 150
-width: 2 inches
+width: 2
 height: 1.5 inches
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
