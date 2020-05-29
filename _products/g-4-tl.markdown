@@ -1,6 +1,7 @@
 ---
 title: G-4-TL
 date: 2020-05-29 13:02:00 -04:00
+position: 16
 visible-title: Green Temporal Loop
 designs: Temporal Loop
 product-colors: Green
