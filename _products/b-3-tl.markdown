@@ -7,7 +7,7 @@ designs: Temporal Loop
 product-colors: Black
 price: 150
 width: 1.25
-height: 2.5
+height: 2.5 inches
 materials: Powder coated metal, latex tube, goldfilled post.
 product-images:
 - "/uploads/black-rubber_yellow-post.jpg"
