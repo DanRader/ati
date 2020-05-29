@@ -1,7 +1,7 @@
 ---
 title: Y-2-TL
 date: 2020-02-16 00:30:00 -05:00
-position: 5
+position: 4
 visible-title: Yellow Temporal Loop
 designs: Temporal Loop
 product-colors: Yellow
