@@ -13,6 +13,8 @@ product-images:
 - "/uploads/Red-rubber-loop_yellow-post.jpg"
 - "/uploads/Red-rubber-loop_yellow-post02.jpg"
 - "/uploads/Archer-Loop-earrings02.jpg"
+- "/uploads/Archer-in-loops.jpg"
+- "/uploads/All-Loop-Posts.jpg"
 products:
 - Y-2-RU
 - B-3-TL
