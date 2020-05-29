@@ -13,6 +13,8 @@ product-images:
 - "/uploads/green-loop_pink-post.jpg"
 - "/uploads/green-loop_pink-post02.jpg"
 - "/uploads/Archer-Loop-earrings02.jpg"
+- "/uploads/Archer-in-loops.jpg"
+- "/uploads/All-Loop-Posts.jpg"
 products:
 - R-3-LP
 - Y-2-TL
