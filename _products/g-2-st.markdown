@@ -1,7 +1,7 @@
 ---
 title: G-2-ST
 date: 2020-05-27 23:53:00 -04:00
-position: 1
+position: 16
 visible-title: Green String Theory Necklace
 designs: String Theory Necklace
 product-colors: Green
