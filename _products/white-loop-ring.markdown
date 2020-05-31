@@ -1,7 +1,7 @@
 ---
 title: W-1-RF
 date: 2020-02-19 02:20:00 -05:00
-position: 6
+position: 7
 visible-title: White Loop Ring
 designs: Loop Ring
 product-colors: White
