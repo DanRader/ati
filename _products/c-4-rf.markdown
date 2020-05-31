@@ -1,6 +1,7 @@
 ---
 title: C-4-RF
 date: 2020-05-31 01:21:00 -04:00
+position: 17
 visible-title: Blue Loop Ring
 designs: Loop Ring
 product-colors: Blue
