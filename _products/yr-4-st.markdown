@@ -1,7 +1,7 @@
 ---
 title: YR-4-ST
 date: 2020-05-28 20:32:00 -04:00
-position: 21
+position: 20
 visible-title: Red and Yellow String Theory Necklace
 designs: String Theory Necklace
 product-colors: Red
