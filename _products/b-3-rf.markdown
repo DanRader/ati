@@ -1,6 +1,7 @@
 ---
 title: B-3-RF
 date: 2020-05-31 00:45:00 -04:00
+position: 3
 visible-title: Black Loop Ring
 designs: Loop Ring
 product-colors: Black

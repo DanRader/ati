@@ -1,7 +1,7 @@
 ---
 title: G-1-LP
 date: 2020-02-15 23:46:00 -05:00
-position: 4
+position: 5
 visible-title: Green Loop Posts
 designs: Loops
 product-colors: Green
