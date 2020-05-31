@@ -10,7 +10,7 @@ width: 2.5
 height: 2.5 inches
 materials: Powder coated metal and latex tube.
 product-images:
-- "/uploads/yellow-rubber_mint-ring.jpg"
+- "/uploads/yellow-rubber_mint-ring-1850f6.jpg"
 - "/uploads/rings-on-Archer.jpg"
 - "/uploads/blue-rings.jpg"
 products:
