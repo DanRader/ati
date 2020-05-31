@@ -1,7 +1,7 @@
 ---
 title: R-5-TL
 date: 2020-05-29 13:29:00 -04:00
-position: 9
+position: 8
 visible-title: Red Temporal Loop
 designs: Temporal Loop
 product-colors: Red
