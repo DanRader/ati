@@ -3,7 +3,7 @@ title: T-1-PP
 date: 2020-05-28 22:28:00 -04:00
 position: 2
 visible-title: Paradox Pin
-designs: Paradox Pins
+designs: Paradox Pin
 product-colors: Teal
 price: 300
 width: 2.5
