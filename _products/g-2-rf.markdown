@@ -1,6 +1,7 @@
 ---
 title: G-2-RF
 date: 2020-05-30 23:52:00 -04:00
+position: 0
 visible-title: 'Green Double Loop Ring '
 designs: Loop Ring
 product-colors: Green
