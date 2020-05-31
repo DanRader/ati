@@ -12,7 +12,6 @@ materials: Powder coated metal and latex tube.
 product-images:
 - "/uploads/black-rubber_beige-ring-flat.jpg"
 - "/uploads/flat-black-ring.jpg"
-- "/uploads/AA.jpg"
 - "/uploads/splash-rings.jpg"
 products:
 - G-2-RF
