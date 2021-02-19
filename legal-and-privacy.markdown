@@ -1,6 +1,7 @@
 ---
 title: legal-and-privacy
 date: 2018-01-21 16:08:00 -05:00
+position: 3
 ---
 
 # Legal Statement

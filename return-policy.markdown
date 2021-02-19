@@ -1,5 +1,6 @@
 ---
 title: return-policy
+position: 7
 layout: default
 return-policy: return-policy.html
 ---
