@@ -1,5 +1,6 @@
 ---
 title: Sightings
+position: 1
 image: "/uploads/Energy-Frequency-Detector.jpg"
 excerpt: 'See the work of the Ancient Truth Investigators live in museums and galleries
   around the world. '
