@@ -25,4 +25,4 @@ elements: Loops
 
 Prepare for take off. This statement ring will be noticed. 
 
-Ring size 7.5.
+Ring size 7.5. 
