@@ -81,9 +81,9 @@ defaults:
     product-colors: 
     permalink: "/shop/:title/"
     price: 
-    weight: 0.0
-    width: ''
-    height: 
+    weight: '1'
+    width: '1'
+    height: '1'
     materials: Bronze, Glass, Cubic Zirconia
     max-quantity: '1'
     product-images:
