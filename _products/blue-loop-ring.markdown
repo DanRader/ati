@@ -8,7 +8,7 @@ product-colors: Blue
 price: 120
 weight: 4
 width: 2.5
-height: 2.5 inches
+height: 2.5
 materials: Powder coated metal and latex tube.
 product-images:
 - "/uploads/blue-rubber_yellow-ring.jpg"
@@ -25,4 +25,4 @@ elements: Loops
 
 Prepare for take off. This statement ring will be noticed. 
 
-Ring size 7.5. 
+Ring size 7.5.
