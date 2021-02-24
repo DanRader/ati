@@ -5,9 +5,9 @@
     data-item-url="{{ site.url }}{{ product.url }}"
     data-item-max-quantity="{{ product.max-quantity }}"
     data-item-price="{{ product.price }}"
-    data-item-width="{{ product.weight }}"
-    data-item-height="{{ product.weight }}"
-    data-item-weight="{{ product.weight }}"
+    data-item-width="{{ product.weight | ceil }}"
+    data-item-height="{{ product.width | ceil }}"
+    data-item-weight="{{ product.height | ceil }}"
     >
     add to cart
 </button>

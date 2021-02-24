@@ -32,9 +32,9 @@ layout: default
             data-item-url="{{ site.url }}{{ page.url }}"
             data-item-max-quantity="{{ page.max-quantity }}"
             data-item-price="{{ page.price }}"
-            data-item-width="{{ page.weight }}"
-            data-item-height="{{ page.weight }}"
-            data-item-weight="{{ page.weight }}"
+            data-item-width="{{ page.width | ceil }}"
+            data-item-height="{{ page.height | ceil }}"
+            data-item-weight="{{ page.weight | ceil }}"
             >
           Add to Cart
         </button>
