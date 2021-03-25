@@ -2,6 +2,7 @@
 title: Black Galactic Hoops
 date: 2021-03-25 16:32:00 -04:00
 visible-title: Black Galactic Hoops
+designs: Galactic Hoop
 product-colors: Black
 price: 60
 weight: 4
@@ -13,7 +14,9 @@ product-images:
 - "/uploads/Black-speckled.jpg"
 - "/uploads/Black-speckled-on-holo.jpg"
 products:
-- T-3-PP
+- T-1-PP
+- Creme Galactic Hoops
+- SQ-D-L-02
 ---
 
 Clean design with a galactic flair.
