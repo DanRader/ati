@@ -2,6 +2,7 @@
 title: Creme Galactic Hoops
 date: 2021-03-25 17:34:00 -04:00
 visible-title: Creme Galactic Hoops
+designs: Galactic Hoop
 product-colors: White
 price: 60
 weight: 4
@@ -16,6 +17,7 @@ product-images:
 products:
 - Black Galactic Hoops
 - Y-2-TL
+- SQ-D-L-02
 ---
 
 Clean design with a galactic flair.
