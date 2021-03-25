@@ -17,8 +17,8 @@ product-images:
 - "/uploads/Creme-speckled-on-holo.jpg"
 products:
 - Black Galactic Hoops
-- Y-2-TL
-- SQ-D-L-02
+- Midnight Galactic Hoops
+- Ice Galactic Hoops
 ---
 
 Clean design with a galactic flair.
