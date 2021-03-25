@@ -1,6 +1,7 @@
 ---
 title: Midnight Galactic Hoops
 date: 2021-03-25 17:46:00 -04:00
+position: 10
 visible-title: Midnight Galactic Hoops
 designs: Galactic Hoop
 product-colors: Blue
