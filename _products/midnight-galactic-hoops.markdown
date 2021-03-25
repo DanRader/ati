@@ -16,7 +16,7 @@ product-images:
 - "/uploads/Midnight-speckled-on-holo.jpg"
 products:
 - Creme Galactic Hoops
-- B-5-LP
+- Ice Galactic Hoops
 - Black Galactic Hoops
 ---
 
