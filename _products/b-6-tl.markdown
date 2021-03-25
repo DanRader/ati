@@ -1,7 +1,7 @@
 ---
 title: B-6-TL
 date: 2020-05-29 13:49:00 -04:00
-position: 11
+position: 12
 visible-title: Black Temporal Loop
 designs: Temporal Loop
 product-colors: Black
