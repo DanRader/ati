@@ -1,6 +1,7 @@
 ---
 title: Creme Galactic Hoops
 date: 2021-03-25 17:34:00 -04:00
+position: 5
 visible-title: Creme Galactic Hoops
 designs: Galactic Hoop
 product-colors: White

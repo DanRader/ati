@@ -1,7 +1,7 @@
 ---
 title: Y-4-LP
 date: 2020-05-29 14:45:00 -04:00
-position: 3
+position: 4
 visible-title: Yellow Loop Posts
 designs: Loops
 product-colors: Yellow
