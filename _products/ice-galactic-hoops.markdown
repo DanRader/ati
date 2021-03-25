@@ -4,7 +4,7 @@ date: 2021-03-25 17:55:00 -04:00
 position: 0
 visible-title: Ice Galactic Hoops
 designs: Galactic Hoop
-product-colors: Blue
+product-colors: Teal
 price: 60
 weight: 4
 width: 1.25"
