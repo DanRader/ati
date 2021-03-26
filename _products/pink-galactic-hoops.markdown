@@ -1,6 +1,7 @@
 ---
 title: Pink Galactic Hoops
 date: 2021-03-25 23:08:00 -04:00
+position: 10
 visible-title: Pink Galactic Hoops
 designs: Galactic Hoop
 product-colors: Red
