@@ -1,23 +1,22 @@
 ---
-title: Violet Galactic Hoops
-date: 2021-03-25 23:17:00 -04:00
-position: 24
-visible-title: Violet Galactic Hoops
+title: Supernova Galactic Hoops
+date: 2021-03-25 23:27:00 -04:00
+visible-title: Supernova Galactic Hoops
 designs: Galactic Hoop
-product-colors: Blue
+product-colors: Yellow
 price: 60
 weight: 4
 width: 1.25"
 height: 2.5"
 materials: Powder coated metal with goldfilled posts and backs.
 product-images:
-- "/uploads/Purple-speckled-hoops.jpg"
-- "/uploads/Purple-speckled.jpg"
-- "/uploads/Violet-speckled-.jpg"
+- "/uploads/Super-nova-hoops.jpg"
+- "/uploads/Supernova-hoops.jpg"
+- "/uploads/Supernova-hoops-2.jpg"
 products:
-- Ice Galactic Hoops
-- Black Galactic Hoops
 - Pink Galactic Hoops
+- Midnight Galactic Hoops
+- Creme Galactic Hoops
 ---
 
 Clean design with a galactic flair.
