@@ -1,6 +1,7 @@
 ---
 title: Violet Galactic Hoops
 date: 2021-03-25 23:17:00 -04:00
+position: 24
 visible-title: Violet Galactic Hoops
 designs: Galactic Hoop
 product-colors: Blue
