@@ -1,6 +1,7 @@
 ---
 title: Supernova Galactic Hoops
 date: 2021-03-25 23:27:00 -04:00
+position: 27
 visible-title: Supernova Galactic Hoops
 designs: Galactic Hoop
 product-colors: Yellow
