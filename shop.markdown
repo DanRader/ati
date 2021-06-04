@@ -3,8 +3,8 @@ title: Shop
 position: 1
 excerpt: 'Support the research of the Ancient Truth Investigators team with your purchase
   from the String Theory Collection.   '
-image: "/uploads/splash-shop.jpg"
-social-media-image: "/uploads/og-image—Shop.jpg"
+image: "/uploads/Temporal-Loop-.jpg"
+social-media-image: "/uploads/Logo-Archer.jpg"
 layout: shop-list
 ---
 
