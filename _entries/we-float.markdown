@@ -5,7 +5,7 @@ entry-number: 53
 image: "/uploads/sand"
 ---
 
-It seems as though time has slipped away from us all in this past year. Unnoticed incalculable duration of our time on this planet has slipped through our fingers and into an abyss. We wade through the space time continuum, alone together.  We float. 
+It seems as though time has slipped away from us all in this past year. Unnoticed incalculable durations of our time on this planet have slipped through our fingers and into an abyss. We wade through the space time continuum, alone together.  We float. 
 
 Things that could have been said, things that could have been done, places that could have been visited... We float. A life that could have been lived, a choice was made... 
 
