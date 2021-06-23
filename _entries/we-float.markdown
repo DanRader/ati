@@ -7,7 +7,7 @@ image: "/uploads/sand"
 
 What is time? 
 A calculation that can be measured of a duration? 
-Moments of life that slip past, observed or not? 
+Moments of life that slips past, observed or not? 
 
 It seems as though time has slipped away from us all in this past year. Unnoticed incalculable duration of our time on this planet has slipped through our fingers and into an abyss. We wade through the space time continuum, alone together.  We float. 
 
