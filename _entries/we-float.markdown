@@ -15,7 +15,7 @@ Things that could have been said, things that could have been done, places that 
 
 It appears, a whole new realm.
 
-Astral project into the present and here we are. In the present moment, self-aware and tangled up in ego. Pretending nothing has changed will make you feel left behind. The collective transformation has already happened and there's no going back to how it was, how you wish it could be. There's only the experience altered by all that came before it, stripped to it's raw and basic form. 
+Astral project into the present and here we are. In the present moment, self-aware and tangled up in ego. Pretending nothing has changed will get you lost. The collective transformation has already happened and there's no going back to how it was, how you wish it could be. There's only the experience altered by all that came before it, stripped to it's raw and basic form. 
 
 Space debris scattered to the farthest corners of the universe are the only evidence of that other realm - those other lives that could have been.  
 
