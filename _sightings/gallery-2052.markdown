@@ -13,6 +13,4 @@ location:
   longitude: 41.8781° N
 ---
 
-**POSTPONED.**
-
-We have a pair of Red Loops from the String Theory Collection in a group show titled "Mad For Hoops", that opens March 18th with a reception from 4-8PM. This exhibition explores new takes on the hoop earring, made by an array of contemporary jewelers. 
+Rachel has a pair of Red Loops from the String Theory Collection in a group show titled "Mad For Hoops", that opens March 18th with a reception from 4-8PM. This exhibition explores new takes on the hoop earring, made by an array of contemporary jewelers. 
