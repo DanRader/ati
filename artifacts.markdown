@@ -7,6 +7,6 @@ image: "/uploads/Banded-Strattite-Cluster-detail-low-res-bc2fa9.jpg"
 layout: artifact-list
 ---
 
-## Works: Found & Made
+## Works: 
 
-An archive of specimens, artifacts, and projects conceived by the Ancient Truth Investigators.
+An archive of specimens, artifacts, and projects conceived by Rachel Rader.
