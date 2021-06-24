@@ -1,6 +1,8 @@
 ---
 title: Metalwerx
 date: 2021-06-04 19:03:00 -04:00
+categories:
+- Exhibition
 start-date: 2021-06-24 17:00:00 -04:00
 end-date: 2021-07-31 19:00:00 -04:00
 external-link: https://www.metalwerx.com/event/exhibition-outside-lines
