@@ -7,7 +7,7 @@ start-date: 2021-11-11 18:00:00 -05:00
 external-link: https://www.hellergallery.com/
 location:
   name: Heller Gallery
-  address: 303 10th Avenue, NY, NY
+  address: New York City, NY
   latitude: 74.0060° W
   longitude: 40.7128° N
 ---
