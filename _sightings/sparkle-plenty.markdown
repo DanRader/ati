@@ -13,6 +13,6 @@ location:
   longitude: 37.5407° N
 ---
 
-A group exhibition of contemporary jewelry. 
+A group exhibition of contemporary jewelry at Quirk Gallery in Richmond, VA. 
 Opening reception is Thursday, November 18th 5-8pm. 
 Rachel Rader will exhibit a collection from her String Theory Series in this holiday show. 
