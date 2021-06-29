@@ -8,7 +8,7 @@ end-date: 2022-01-02 12:00:00 -05:00
 external-link: https://www.quirkgallery.com/
 location:
   name: 'Quirk Gallery '
-  address: '207 West Broad Street '
+  address: 207 West Broad Street , Richmond, Virginia
   latitude: 77.4360° W
   longitude: 37.5407° N
 ---
