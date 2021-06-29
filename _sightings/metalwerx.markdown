@@ -8,7 +8,7 @@ end-date: 2021-07-31 19:00:00 -04:00
 external-link: https://www.metalwerx.com/event/exhibition-outside-lines
 location:
   name: Metalwerx
-  address: 50 Guinan Street, Waltham, MA 02451
+  address: 'Waltham, Massachusetts '
   latitude: 71.2356° W
   longitude: 42.3765° N
 ---
