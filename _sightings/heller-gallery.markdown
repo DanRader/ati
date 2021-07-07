@@ -3,7 +3,7 @@ title: Heller Gallery
 date: 2021-06-29 16:04:00 -04:00
 categories:
 - Exhibition
-start-date: 2021-11-11 18:00:00 -05:00
+start-date: 2021-11-18 18:00:00 -05:00
 end-date: 2022-01-01 17:00:00 -05:00
 external-link: https://www.hellergallery.com/
 location:
