@@ -2,7 +2,7 @@
 title: New designs
 date: 2021-10-18 11:46:00 -04:00
 entry-number: 55
-image: "/uploads/web-splash-fc38a7.jpg"
+image: "/uploads/web-furry.jpg"
 ---
 
 We're getting ready for some upcoming exhibitions and markets over the next couple of months.  [See the list of sightings for more information!](https://ancienttruthinvestigators.com/sightings/)
