@@ -5,6 +5,8 @@ visible-title: Blue Galactic Hoops
 designs: Galactic Hoop
 product-colors: Blue
 price: 60
+width: 2"
+height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
 product-images:
 - "/uploads/web-Blue-Galactic-Hoops.jpg"
@@ -13,3 +15,4 @@ product-images:
 ---
 
 Clean design with a galactic flair.
+Each hoop is 2 inches in diameter. These hoops are powder coated metal, with gold-filled posts and backs. They are lightweight and easy to wear all day.
