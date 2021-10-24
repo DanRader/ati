@@ -7,6 +7,8 @@ designs: Galactic Hoop
 product-colors: Multi-Color
 price: 60
 weight: 1
+width: 2"
+height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
 product-images:
 - "/uploads/web-Multi-Galactic-Hoops.jpg"
