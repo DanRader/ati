@@ -13,6 +13,10 @@ product-images:
 - "/uploads/web-Yellow-Galactic-Hoops.jpg"
 - "/uploads/web-all.jpg"
 - "/uploads/web-all2.jpg"
+products:
+- Red Galactic Hoops
+- Multi Galactic Hoops
+- Blue Galactic Hoops
 ---
 
 Clean design with a galactic flair.
