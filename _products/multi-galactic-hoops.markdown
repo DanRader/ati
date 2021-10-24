@@ -15,4 +15,4 @@ product-images:
 
 Clean design with a galactic flair.
 
-Each hoop is 2 inches in diameter. These hoops are powder coated metal, with gold-filled posts and backs. They are lightweight and easy to wear all day.
+Each hoop is 2 inches in diameter. These hoops are powder coated metal, with goldfilled posts and backs. They are lightweight and easy to wear all day.
