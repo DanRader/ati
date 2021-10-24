@@ -1,6 +1,7 @@
 ---
 title: Blue Galactic Hoops
 date: 2021-10-23 19:37:00 -04:00
+position: 0
 visible-title: Blue Galactic Hoops
 designs: Galactic Hoop
 product-colors: Blue

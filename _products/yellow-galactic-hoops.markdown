@@ -1,6 +1,7 @@
 ---
 title: Yellow Galactic Hoops
 date: 2021-10-23 19:59:00 -04:00
+position: 2
 visible-title: Yellow Galactic Hoops
 designs: Galactic Hoop
 product-colors: Yellow
