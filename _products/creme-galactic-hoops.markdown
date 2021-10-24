@@ -13,6 +13,10 @@ product-images:
 - "/uploads/web-Creme-Galactic-Hoops.jpg"
 - "/uploads/web-all.jpg"
 - "/uploads/web-all2.jpg"
+products:
+- Black Galactic Hoops
+- Red Galactic Hoops
+- Yellow Galactic Hoops
 ---
 
 Clean design with a galactic flair.
