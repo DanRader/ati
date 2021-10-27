@@ -14,6 +14,7 @@ product-images:
 - "/uploads/web-moon-rock-galactic-hoops.jpg"
 - "/uploads/web-all.jpg"
 - "/uploads/web-all2.jpg"
+- "/uploads/web-moon-rock-galactic-hoops2.jpg"
 products:
 - Black Galactic Hoops
 - Red Galactic Hoops
