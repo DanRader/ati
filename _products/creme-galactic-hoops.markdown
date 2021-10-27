@@ -11,6 +11,7 @@ height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
 product-images:
 - "/uploads/web-Creme-Galactic-Hoops.jpg"
+- "/uploads/web-moon-rock-galactic-hoops.jpg"
 - "/uploads/web-all.jpg"
 - "/uploads/web-all2.jpg"
 products:
