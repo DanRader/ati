@@ -11,6 +11,7 @@ height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
 product-images:
 - "/uploads/web-Red-Galactic-Hoops.jpg"
+- "/uploads/web-mars-baby-galactic-hoops.jpg"
 - "/uploads/web-all.jpg"
 - "/uploads/web-all2.jpg"
 products:
