@@ -12,9 +12,9 @@ height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
 product-images:
 - "/uploads/web-Multi-Galactic-Hoops.jpg"
+- "/uploads/web-alpha-galactic-hoop.jpg"
 - "/uploads/web-all.jpg"
 - "/uploads/web-all2.jpg"
-- "/uploads/web-alpha-galactic-hoop.jpg"
 products:
 - Red Galactic Hoops
 - Yellow Galactic Hoops
