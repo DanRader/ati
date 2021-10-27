@@ -14,6 +14,7 @@ product-images:
 - "/uploads/web-Multi-Galactic-Hoops.jpg"
 - "/uploads/web-all.jpg"
 - "/uploads/web-all2.jpg"
+- "/uploads/web-alpha-galactic-hoop.jpg"
 products:
 - Red Galactic Hoops
 - Yellow Galactic Hoops
