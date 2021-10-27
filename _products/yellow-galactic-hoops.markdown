@@ -11,6 +11,7 @@ height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
 product-images:
 - "/uploads/web-Yellow-Galactic-Hoops.jpg"
+- "/uploads/web-pulsar-galactic-hoops.jpg"
 - "/uploads/web-all.jpg"
 - "/uploads/web-all2.jpg"
 products:
