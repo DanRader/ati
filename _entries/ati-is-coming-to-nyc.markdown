@@ -11,7 +11,7 @@ entries:
 
 I'm so excited to bring my investigations back to the city where a lot of my research began at the Brooklyn HQ. You can catch my designs exploring time and space at 2 shows coming up this month.
 
-[November 13th \+ 14th, 11am-5pm, we'll be at Renegade Craft NYC.](https://www.renegadecraft.com/fair/new-york-winter/)
+[November 13th \+ 14th, 11am-5pm, I'll be at Renegade Craft NYC.](https://www.renegadecraft.com/fair/new-york-winter/)
 
 [![Screen Shot 2021-11-05 at 4.56.55 PM.png](/uploads/Screen%20Shot%202021-11-05%20at%204.56.55%20PM.png)](https://www.renegadecraft.com/fair/new-york-winter/)
 
