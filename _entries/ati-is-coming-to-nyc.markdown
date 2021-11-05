@@ -23,7 +23,7 @@ You can also see a special collection at[ Heller Gallery in an exhibition that r
 
 [![Screen Shot 2021-11-05 at 5.06.43 PM.png](/uploads/Screen%20Shot%202021-11-05%20at%205.06.43%20PM.png)](https://www.hellergallery.com/exhibitions#/upcoming-4/)
 
-This show will include some of my newest designs inspired by Archer Adler's travels which have truly transported the whole team. We're so enthralled with her developments in this field for ATI. The latex tubes in this collection resemble the way that time is navigated and the twists, loops and tangles that Archer has found herself in along the way to finding the meaning behind our ancient beginnings.
+This show will include some of my newest designs inspired by Archer Adler's travels which have truly transported the whole team. We're so enthralled with her developments in this field for ATI. The latex tubes in this collection resemble the way that time is navigated and the twists, loops and tangles that Archer has found herself in along the way - to finding the meaning behind our ancient beginnings.
 
 ![web-Alpha-necklace-01-4d0520.jpg](/uploads/web-Alpha-necklace-01-4d0520.jpg)
 
