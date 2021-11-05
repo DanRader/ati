@@ -3,6 +3,7 @@ title: Renegade Craft
 date: 2020-02-25 23:40:00 -05:00
 categories:
 - Craft Show
+position: 5
 start-date: 2020-04-04 00:00:00 -04:00
 end-date: 2020-04-05 00:00:00 -04:00
 time: '11:00AM-6:00PM '

@@ -3,6 +3,7 @@ title: Quirk Gallery
 date: 2021-06-29 15:53:00 -04:00
 categories:
 - Exhibition
+position: 2
 start-date: 2021-11-18 17:00:00 -05:00
 end-date: 2022-01-02 12:00:00 -05:00
 external-link: https://www.quirkgallery.com/

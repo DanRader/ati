@@ -3,6 +3,7 @@ title: UrbanGlass
 date: 2020-02-26 00:07:00 -05:00
 categories:
 - Class
+position: 4
 start-date: 2020-06-22 00:00:00 -04:00
 end-date: 2020-06-26 00:00:00 -04:00
 time: 6:00PM-10:00PM
