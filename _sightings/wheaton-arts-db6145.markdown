@@ -3,7 +3,7 @@ title: Wheaton Arts
 date: 2017-06-10 18:05:00 -04:00
 categories:
 - Performance
-position: 4
+position: 12
 start-date: 2017-06-10 00:00:00 -04:00
 end-date: 2017-06-10 00:00:00 -04:00
 external-link: http://www.wheatonarts.org/calendar-eventon/glassweekend-17/glassweekend-17-curators/

@@ -3,6 +3,7 @@ title: Renegade Craft Brooklyn
 date: 2021-11-05 16:40:00 -04:00
 categories:
 - Craft Show
+position: 1
 start-date: 2021-12-04 11:00:00 -05:00
 end-date: 2021-12-05 17:00:00 -05:00
 external-link: https://www.renegadecraft.com/fair/brooklyn-winter/
