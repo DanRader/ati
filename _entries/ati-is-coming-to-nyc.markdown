@@ -1,0 +1,33 @@
+---
+title: ATI is coming to NYC
+date: 2021-11-05 17:19:00 -04:00
+entry-number: 56
+image: "/uploads/web-alpha-galactic-hoop-3-eyes.jpg"
+entries:
+- New String Theory Collection now online
+- Outside the Lines Exhibition
+- Archer in the Lab
+---
+
+The Chief is coming to NYC!
+
+I'm so excited to bring my investigations back to the city where a lot of my research began at the Brooklyn HQ. You can catch my designs exploring time and space at 2 shows coming up this month.
+
+[November 13th \+ 14th, 11am-5pm, we'll be at Renegade Craft NYC.](https://www.renegadecraft.com/fair/new-york-winter/)
+
+![Screen Shot 2021-11-05 at 4.56.55 PM.png](/api/v2/sites/591a34b1734db84c33befa82/source/_uploads/Screen%20Shot%202021-11-05%20at%204.56.55%20PM.png?download)
+
+![web-alpha-galactic-hoop-3-eyes.jpg](/api/v2/sites/591a34b1734db84c33befa82/source/_uploads/web-alpha-galactic-hoop-3-eyes.jpg?download)
+
+Alien babe Angel Graves rocking a pair of Alpha Galactic Hoops - a part of the collection you can expect to see at Renegade Craft NYC.
+
+You can also see a special collection at[ Heller Gallery in an exhibition that runs November 11th - December 18th called Re-Formation](https://www.hellergallery.com/exhibitions#/upcoming-4/), curated by Erica Rosenfeld. Opening is November 18th, 6-8pm.
+![Screen Shot 2021-11-05 at 5.06.43 PM.png](/api/v2/sites/591a34b1734db84c33befa82/source/_uploads/Screen%20Shot%202021-11-05%20at%205.06.43%20PM.png?download)
+
+This show will include some of my newest designs inspired by Archer Adler's travels in time which have truly transported the whole team. We're so enthralled with her developments in this field for ATI. The latex tubes in this collection resemble the way that time is navigated and the twists, loops and tangles that Archer has found herself in along the way to finding the meaning behind our ancient beginnings.
+![web-Alpha-necklace-01-4d0520.jpg](/api/v2/sites/591a34b1734db84c33befa82/source/_uploads/web-Alpha-necklace-01-4d0520.jpg?download)
+
+Alpha Necklace, powder coated metal and latex tube, 2021
+
+See you soon New York!
+<3
