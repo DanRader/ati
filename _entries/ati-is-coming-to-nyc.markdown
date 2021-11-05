@@ -9,8 +9,6 @@ entries:
 - Archer in the Lab
 ---
 
-The Chief is coming to NYC!
-
 I'm so excited to bring my investigations back to the city where a lot of my research began at the Brooklyn HQ. You can catch my designs exploring time and space at 2 shows coming up this month.
 
 [November 13th \+ 14th, 11am-5pm, we'll be at Renegade Craft NYC.](https://www.renegadecraft.com/fair/new-york-winter/)
