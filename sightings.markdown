@@ -13,4 +13,4 @@ layout: sightings
 
 ## Seeing is Believing
 
-See the team, the works, and their investigations first-hand.
+See the Chief, her designs, and her investigations first-hand.
