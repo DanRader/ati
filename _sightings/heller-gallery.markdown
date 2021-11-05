@@ -14,9 +14,11 @@ location:
   longitude: 40.7128° N
 ---
 
-Re-formation: A group show of wearable objects. 
-Opens mid-November, in alignment with the NYC Jewelry Week. 
+Re-formation: A group show of wearable objects.
+Opens mid-November, in alignment with the NYC Jewelry Week.
 
-Featuring works by: Jessica Jane Julius, Alison Siegel, Anjali Srinivasan, Biba Shutz, Deborah Czeresko, Victoria Ahmadizadeh Melendez, Chris Wolston, Rachel Rader, Tamas Abel, Nickki Coupe, Grace Whiteside, Amber Cowan, Joanna Manousis, and Erica Rosenfeld. 
+Featuring works by: Jessica Jane Julius, Alison Siegel, Anjali Srinivasan, Biba Shutz, Deborah Czeresko, Victoria Ahmadizadeh Melendez, Chris Wolston, Rachel Rader, Tamas Abel, Nickki Coupe, Grace Whiteside, Amber Cowan, Joanna Manousis, and Erica Rosenfeld.
 
-Rachel Rader will exhibit a collection of contemporary jewelry from her String Theory Collection. 
+Rachel Rader will exhibit a collection of contemporary jewelry from her String Theory Collection.
+
+Opening is November 18th, 6-8pm.
