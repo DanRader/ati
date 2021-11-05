@@ -19,7 +19,7 @@ I'm so excited to bring my investigations back to the city where a lot of my res
 
 Image is of alien babe Angel Graves rocking [a pair of Alpha Galactic Hoops ](https://ancienttruthinvestigators.com/shop/multi-galactic-hoops/)- a part of the collection you can expect to see at Renegade Craft NYC.
 
-You can also see a special collection at[ Heller Gallery in an exhibition that runs November 11th - December 18th called Re-Formation](https://www.hellergallery.com/exhibitions#/upcoming-4/), curated by Erica Rosenfeld. Opening is November 18th, 6-8pm.
+You can also see a special collection at[ Heller Gallery in an exhibition that runs November 11th - December 18th called Re-Formation](https://www.hellergallery.com/exhibitions#/upcoming-4/), curated by Erica Rosenfeld. Opening is November 18th, 6-8pm at 303 10th Ave. (bt 27th St. and 28th St.).
 
 [![Screen Shot 2021-11-05 at 5.06.43 PM.png](/uploads/Screen%20Shot%202021-11-05%20at%205.06.43%20PM.png)](https://www.hellergallery.com/exhibitions#/upcoming-4/)
 
