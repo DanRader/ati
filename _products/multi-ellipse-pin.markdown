@@ -2,6 +2,7 @@
 title: Multi Ellipse Pin
 date: 2021-11-06 23:44:00 -04:00
 visible-title: 'Alpha Ellipse Pin '
+designs: Ellipses
 product-colors: Multi-Color
 price: 50
 width: 1"
