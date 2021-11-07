@@ -10,6 +10,10 @@ materials: Powder coated metal with goldfilled posts and backs.
 product-images:
 - "/uploads/web-celestial-oval-hoop.jpg"
 - "/uploads/web-celsetial-ellipse.jpg"
+products:
+- Yellow Ellipses
+- Multi Ellipses
+- Red Ellipses
 ---
 
 A=πab am I right? These earrings are just SO ready for all day wear... or maybe a stroll through time and space. These sweet little front facing earrings are lightweight with wide backs to stay nice and sturdy on your ears. 
