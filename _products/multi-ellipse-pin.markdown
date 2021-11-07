@@ -13,4 +13,4 @@ product-images:
 - "/uploads/web-pin-angel.jpg"
 ---
 
-Each pin is powder coated metal, with brass pins and clutches. Pin it to your jacket, your lapel or maybe your hat! It's lightweight and a lovely splash of color. 
+Pin it to your jacket, your lapel or maybe your hat! It's lightweight and a lovely splash of color.
