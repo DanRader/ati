@@ -12,4 +12,4 @@ product-images:
 - "/uploads/web-mars-baby-ellipse.jpg"
 ---
 
-A=πab am I right? These earrings are just SO ready for all day wear... or maybe a stroll through time and space. Whatever the day brings you, these sweet little front facing earrings are lightweight with wide backs to stay nice and sturdy on your ears. 
+A=πab am I right? These earrings are just SO ready for all day wear... or maybe a stroll through time and space. These sweet little front facing earrings are lightweight with wide backs to stay nice and sturdy on your ears. 
