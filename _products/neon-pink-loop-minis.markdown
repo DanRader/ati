@@ -2,7 +2,7 @@
 title: Neon Pink Loop Minis
 date: 2022-01-06 15:36:00 -05:00
 visible-title: Neon Pink Loop Minis
-designs: Temporal Loop
+designs: Loops
 product-colors: Red
 price: 50
 width: 1/2 inch
