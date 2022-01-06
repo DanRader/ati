@@ -11,6 +11,10 @@ materials: Powder coated metal, rubber and goldfilled posts and backs.
 product-images:
 - "/uploads/blue-web.jpg"
 - "/uploads/minis.jpg"
+products:
+- Pastel Pink Temporal Loop Minis
+- Neon Pink Temporal Loop Minis
+- Yellow Temporal Loop Minis
 ---
 
 A paradox of time represented in the cutest little stud earrings. Wear them as a reminder that this is effecting the past and the past effecting this and back and forth and back and forth forever in an endless loop until the end of time. Comes in 4 colors!
