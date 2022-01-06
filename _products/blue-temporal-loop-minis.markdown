@@ -1,6 +1,7 @@
 ---
 title: Blue Temporal Loop Minis
 date: 2022-01-06 14:24:00 -05:00
+position: 0
 visible-title: Blue Temporal Loop Minis
 designs: Temporal Loop
 product-colors: Blue

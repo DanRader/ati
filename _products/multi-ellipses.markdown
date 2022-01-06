@@ -1,6 +1,7 @@
 ---
 title: Multi Ellipses
 date: 2021-11-07 00:48:00 -04:00
+position: 9
 visible-title: Alpha Ellipses
 designs: Ellipses
 product-colors: Multi-Color
