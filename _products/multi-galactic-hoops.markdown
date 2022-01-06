@@ -1,7 +1,7 @@
 ---
 title: Multi Galactic Hoops
 date: 2021-10-23 19:53:00 -04:00
-position: 1
+position: 12
 visible-title: Alpha Galactic Hoops
 designs: Galactic Hoop
 product-colors: Multi-Color
