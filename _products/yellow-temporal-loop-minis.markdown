@@ -8,7 +8,7 @@ width: 1/4 inch
 height: 3/4 inch
 materials: Powder coated metal, rubber and goldfilled posts and backs.
 product-images:
-- "/uploads/yellow-web.jpg"
+- "/uploads/yellow-web-0e6592.jpg"
 - "/uploads/minis.jpg"
 ---
 
