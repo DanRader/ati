@@ -1,6 +1,7 @@
 ---
 title: Neon Pink Temporal Loop Minis
 date: 2022-01-06 14:33:00 -05:00
+position: 3
 visible-title: Neon Pink Temporal Loop Minis
 designs: Temporal Loop
 product-colors: Red
