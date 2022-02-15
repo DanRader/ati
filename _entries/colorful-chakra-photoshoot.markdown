@@ -1,7 +1,7 @@
 ---
 title: Colorful Chakra Photoshoot
 date: 2017-12-11 22:40:00 -05:00
-position: 10
+position: 20
 entry-number: 38
 image: "/uploads/SQgreen_model.jpg"
 entries:

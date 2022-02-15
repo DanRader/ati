@@ -1,6 +1,7 @@
 ---
 title: Archer Adler, Ancient Truth Investigator's Time Travel Technician
 date: 2020-02-15 00:16:00 -05:00
+position: 4
 entry-number: 48
 image: "/uploads/space-splash.jpg"
 ---

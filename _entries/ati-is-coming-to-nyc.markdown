@@ -1,6 +1,7 @@
 ---
 title: ATI is coming to NYC
 date: 2021-11-05 17:19:00 -04:00
+position: 9
 entry-number: 56
 image: "/uploads/web-alpha-galactic-hoop-3-eyes.jpg"
 entries:
