@@ -15,5 +15,5 @@ I fabricate each design using metal smithing techniques that signify specific fo
 I cut, bend and then solder metal to make forms which are then powder coated: a pigment-based powder that fires on at 450 degrees Fahrenheit to create a colorful enameled surface.
 ![process-3.jpg](/uploads/process-3.jpg)
 Some of these designs also include latex tubing to add to the representation of time paradoxes, loops, etc. One of my latest designs, the Mini Loops, are a smaller version of our popular designs established in this line.
-[Check out the full line up HERE!](https://ancienttruthinvestigators.com/shop/) And safe travels.
 ![yellow-web.jpg](/uploads/yellow-web.jpg)
+[Check out the full line up HERE!](https://ancienttruthinvestigators.com/shop/) And safe travels.
