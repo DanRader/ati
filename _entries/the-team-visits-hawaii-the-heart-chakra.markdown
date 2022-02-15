@@ -1,7 +1,7 @@
 ---
 title: The Team Visits Hawaii, the Heart Chakra
 date: 2015-03-15 15:33:00 -04:00
-position: 43
+position: 52
 entry-number: 4
 image: "/uploads/Hawaii.jpg"
 entries:

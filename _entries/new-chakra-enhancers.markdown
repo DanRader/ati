@@ -1,7 +1,7 @@
 ---
 title: New Chakra Enhancers
 date: 2015-05-31 13:35:00 -04:00
-position: 40
+position: 49
 entry-number: 8
 image: "/uploads/BSeditorial.jpg"
 entries:
