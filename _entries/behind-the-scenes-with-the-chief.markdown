@@ -1,6 +1,7 @@
 ---
 title: Behind the scenes with the Chief
 date: 2022-02-15 14:01:00 -05:00
+image: "/uploads/front.jpg"
 ---
 
 Here at the Ancient Truth Investigators HQ, we have been diligently working to get the website shop updated with our newer designs inspired by Archer's travels through time and space.
