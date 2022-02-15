@@ -7,7 +7,7 @@ image: "/uploads/behind.jpg"
 
 Here at the Ancient Truth Investigators HQ, we have been diligently working to get the website shop updated with our newer designs inspired by Archer's travels through time and space.
 ![front.jpg](/uploads/front.jpg)
-I've been working hard to update our system and keep up with the data uploads from Archer's extensive explorations. Each piece is handmade in our new HQ here in Richmond, VA.
+I've been working to refresh our system and keep up with the data uploads from Archer's extensive explorations. Each piece is handmade in our new HQ here in Richmond, VA.
 ![process1.jpg](/uploads/process1.jpg)
 I fabricate each design using metal smithing techniques that signify specific forms of time travel.
 ![process-2.jpg](/uploads/process-2.jpg)
