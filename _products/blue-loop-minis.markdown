@@ -1,7 +1,7 @@
 ---
 title: Blue Loop Minis
 date: 2022-01-06 17:05:00 -05:00
-position: 5
+position: 6
 visible-title: Blue Loop Minis
 designs: Loops
 product-colors: Blue
