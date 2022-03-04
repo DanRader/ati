@@ -15,6 +15,10 @@ product-images:
 - "/uploads/flat2.jpg"
 - "/uploads/flat3.jpg"
 - "/uploads/flat1.jpg"
+products:
+- Alpha Flat Loop Ring in Yellow
+- Alpha Loop Ring in Blue
+- Alpha Flat Loop Ring in Red
 ---
 
 The Flat Loop is our signature design signifying the conundrum of the paradoxical time loop. This ring can be worn comfortably all day, but make sure to take it off before you do any kind of manual labor. She's a cocktail ring! To be worn after a long day's work constructing your time travel machines, or whatever it is you get your hands dirty with. 
