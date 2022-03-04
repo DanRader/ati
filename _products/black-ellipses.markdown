@@ -1,7 +1,7 @@
 ---
 title: Black Ellipses
 date: 2021-11-07 00:39:00 -04:00
-position: 8
+position: 15
 visible-title: Black Hole Ellipses
 designs: Ellipses
 product-colors: Black

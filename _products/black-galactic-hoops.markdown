@@ -1,7 +1,7 @@
 ---
 title: Black Galactic Hoops
 date: 2021-10-23 20:14:00 -04:00
-position: 16
+position: 23
 visible-title: Black Hole Galactic Hoops
 designs: Galactic Hoop
 product-colors: Black
