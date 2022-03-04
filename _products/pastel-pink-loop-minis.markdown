@@ -1,6 +1,7 @@
 ---
 title: Pastel Pink Loop Minis
 date: 2022-01-06 16:37:00 -05:00
+position: 4
 visible-title: Pastel Pink Loop Minis
 designs: Loops
 product-colors: Red

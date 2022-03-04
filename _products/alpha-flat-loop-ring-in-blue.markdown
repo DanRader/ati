@@ -1,6 +1,7 @@
 ---
 title: Alpha Flat Loop Ring in Blue
 date: 2022-03-04 12:52:00 -05:00
+position: 6
 visible-title: Alpha Flat Loop Ring in Blue
 designs: Loop Ring
 product-colors: Blue

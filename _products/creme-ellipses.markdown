@@ -1,7 +1,7 @@
 ---
 title: Creme Ellipses
 date: 2021-11-07 00:34:00 -04:00
-position: 7
+position: 14
 visible-title: Moon Rock Ellipses
 designs: Ellipses
 product-colors: White
