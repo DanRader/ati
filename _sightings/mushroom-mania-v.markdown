@@ -1,5 +1,5 @@
 ---
-title: Mushroom Mania V
+title: Mushroom Mania
 date: 2022-03-19 09:37:00 -04:00
 categories:
 - Craft Show
