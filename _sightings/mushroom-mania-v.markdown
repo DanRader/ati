@@ -5,7 +5,7 @@ categories:
 - Craft Show
 start-date: 2022-04-16 00:00:00 -04:00
 end-date: 2022-04-16 17:00:00 -04:00
-external-link: calendar.google.com/calendar/u/0/r?tab=mc
+external-link: https://www.rvamoonmarket.com/mushroom-mania
 location:
   name: 'Stone Brewing Company '
   address: '4300 Williamsburg Avenue Richmond, Virginia. '
