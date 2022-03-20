@@ -14,7 +14,7 @@ location:
 ---
 
 ATI will be a vendor at the Mushroom Mania V!
-It is a celebration of the mysterious, magical, and mouthwatering marvel – MUSHROOMS!  Join us for our fifth annual fungi fest to honor the creative influence, culinary delights, health benefits, and historic significance of the fungi kingdom.  40+ vendors, mushroom growers, speakers, film, music, food, craft beer, costume contest, dancing and more. 
+It's a celebration of the mysterious, magical, and mouthwatering marvel – MUSHROOMS!  This is the fifth annual fungi fest to honor the creative influence, culinary delights, health benefits, and historic significance of the fungi kingdom.  40+ vendors, mushroom growers, speakers, film, music, food, craft beer, costume contest, dancing and more. 
 
 See you April 16th from 12:00 - 5:00 PM at Stone Brewing Company 4300 Williamsburg Avenue Richmond, Virginia. 
 
