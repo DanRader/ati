@@ -1,7 +1,7 @@
 ---
 title: Blue Ellipses
 date: 2021-11-07 00:30:00 -04:00
-position: 13
+position: 17
 visible-title: 'Celestial Ice Ellipses '
 product-colors: Blue
 price: 66

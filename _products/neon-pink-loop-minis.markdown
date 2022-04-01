@@ -1,7 +1,7 @@
 ---
 title: Neon Pink Loop Minis
 date: 2022-01-06 15:36:00 -05:00
-position: 3
+position: 7
 visible-title: Neon Pink Loop Minis
 designs: Loops
 product-colors: Red

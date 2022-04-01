@@ -1,6 +1,7 @@
 ---
 title: Icosahedron Sticker
 date: 2022-03-31 20:39:00 -04:00
+position: 0
 visible-title: Icosahedron Sticker
 product-colors: Blue
 price: 4

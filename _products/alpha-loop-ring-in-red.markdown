@@ -1,6 +1,7 @@
 ---
 title: Alpha Loop Ring in Red
 date: 2022-03-04 13:29:00 -05:00
+position: 3
 visible-title: Alpha Loop Ring in Red
 designs: Loop Ring
 product-colors: Red

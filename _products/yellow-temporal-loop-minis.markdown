@@ -1,7 +1,7 @@
 ---
 title: Yellow Temporal Loop Minis
 date: 2022-01-06 13:55:00 -05:00
-position: 9
+position: 13
 visible-title: Yellow Temporal Loop Minis
 designs: Temporal Loop
 price: 50
