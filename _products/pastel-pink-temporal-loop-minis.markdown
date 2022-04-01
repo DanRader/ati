@@ -1,7 +1,7 @@
 ---
 title: Pastel Pink Temporal Loop Minis
 date: 2022-01-06 14:29:00 -05:00
-position: 8
+position: 12
 visible-title: Pastel Pink Temporal Loop Minis
 designs: Temporal Loop
 product-colors: Red

@@ -1,7 +1,7 @@
 ---
 title: Red Galactic Hoops
 date: 2021-10-23 20:04:00 -04:00
-position: 22
+position: 26
 visible-title: Mars Baby Galactic Hoops
 designs: Galactic Hoop
 product-colors: Red

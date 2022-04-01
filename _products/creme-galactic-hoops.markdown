@@ -1,7 +1,7 @@
 ---
 title: Creme Galactic Hoops
 date: 2021-10-23 20:10:00 -04:00
-position: 21
+position: 25
 visible-title: Moon Rock Galactic Hoops
 designs: Galactic Hoop
 product-colors: White
