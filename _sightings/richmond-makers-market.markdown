@@ -14,4 +14,4 @@ location:
   longitude: 37.5407° N
 ---
 
-Shop with 40 local makers for Mother's Day! ATI will be a vendor Saturday May 7th, 12-6pm at Basic City Brewery. 
+Shop with 40 local makers for Mother's Day! ATI will will have a booth at the market: Saturday May 7th, 12-6pm at Basic City Brewery. 
