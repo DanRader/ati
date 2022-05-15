@@ -12,6 +12,10 @@ product-images:
 - "/uploads/web-moon-rock-mini.jpg"
 - "/uploads/web-moon-rock-mini3.jpg"
 - "/uploads/web-moon-rock-mini2.jpg"
+products:
+- Creme Galactic Hoops
+- Alpha Loop Ring in Red
+- Creme Ellipses
 ---
 
 These Mini Ellipses have quickly become a standard design in the ATI line exploring time and space. These are a miniature version of our standard Ellipses, but still back a punch with that sweet geometric prowess. These sweet mini front facing earrings are lightweight with wide backs to stay nice and sturdy on your ears.
