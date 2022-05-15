@@ -11,6 +11,10 @@ materials: Powder coated metal with goldfilled posts and backs.
 product-images:
 - "/uploads/web-black-hole.jpg"
 - "/uploads/web-black-hole-2.jpg"
+products:
+- Black Galactic Hoops
+- Alpha Loop Ring in Yellow
+- Black Ellipses
 ---
 
 These Mini Ellipses have quickly become a standard design in the ATI line exploring time and space. These are a miniature version of our standard Ellipses, but still back a punch with that sweet geometric prowess. These sweet mini front facing earrings are lightweight with wide backs to stay nice and sturdy on your ears.
