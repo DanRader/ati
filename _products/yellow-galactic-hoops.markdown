@@ -6,9 +6,11 @@ visible-title: Pulsar Galactic Hoops
 designs: Galactic Hoop
 product-colors: Yellow
 price: 60
+weight: 450
 width: 2"
 height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-Yellow-Galactic-Hoops.jpg"
 - "/uploads/web-pulsar-galactic-hoops.jpg"
