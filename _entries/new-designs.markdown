@@ -4,6 +4,10 @@ date: 2021-10-18 11:46:00 -04:00
 position: 2
 entry-number: 55
 image: "/uploads/web-furry.jpg"
+entries:
+- New String Theory Collection now online
+- ATI at the markets
+- Behind the scenes with the Chief
 ---
 
 We're getting ready for some upcoming exhibitions and markets over the next couple of months.  [See the list of sightings for more information!](https://ancienttruthinvestigators.com/sightings/)
