@@ -6,9 +6,11 @@ visible-title: Yellow Loop Minis
 designs: Loops
 product-colors: Yellow
 price: 50
+weight: 450
 width: 1/2 inch
 height: 1/2 inch
 materials: Powder coated metal, rubber and goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/yellow-loop-mini-web.jpg"
 - "/uploads/loops-web.jpg"
