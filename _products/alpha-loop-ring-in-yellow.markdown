@@ -6,9 +6,11 @@ visible-title: Alpha Loop Ring in Yellow
 designs: Loop Ring
 product-colors: Yellow
 price: 125
+weight: 450
 width: '1.5 inch '
 height: 2 inch
 materials: Powder coated metal and latex tube.
+max-quantity: 6
 product-images:
 - "/uploads/up-yellow-web.jpg"
 - "/uploads/group-rings-web.jpg"
