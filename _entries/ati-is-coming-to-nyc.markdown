@@ -1,5 +1,5 @@
 ---
-title: ATI is coming to NYC
+title: ATI visits NYC
 date: 2021-11-05 17:19:00 -04:00
 position: 9
 entry-number: 56
