@@ -11,7 +11,7 @@ entries:
 
 If you've been following ATI over the past 6 months you probably have noticed that we've been pretty busy doing markets all over the country. It's been a crazy whirlwind of craft shows both near and far to the Richmond, VA HQ.
 
-These shows are such a great opportunity for growth. Wrapping up a season of markets, I'm coming out the other side with a lovely perspective on how these craft shows have been a really great for ATI.
+These shows are such a great opportunity for growth. Wrapping up a season of markets, I'm coming out the other side with a lovely perspective on how these craft shows have been really great for ATI.
 ![me-market.jpg](/uploads/me-market.jpg)
 Having shows has pushed me to be super productive and fabricate more pieces than I ever would without the deadline of a show. You never know how many people will come to shows, and what designs will click with folks. So, making enough to cover possible demand is part of the gig!
 ![earrings.jpg](/uploads/earrings.jpg)
