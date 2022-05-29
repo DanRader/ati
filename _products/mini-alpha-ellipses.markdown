@@ -5,9 +5,11 @@ visible-title: Mini Alpha Ellipses
 designs: Ellipses
 product-colors: Multi-Color
 price: 45
+weight: 450
 width: .25"
 height: .5"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-alpha.jpg"
 - "/uploads/web-alpha2.jpg"
