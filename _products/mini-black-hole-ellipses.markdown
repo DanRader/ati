@@ -5,9 +5,11 @@ visible-title: 'Mini Black Hole Ellipses '
 designs: Ellipses
 product-colors: Black
 price: 45
+weight: 450
 width: .25"
 height: .5"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-black-hole.jpg"
 - "/uploads/web-black-hole-2.jpg"
