@@ -5,9 +5,11 @@ position: 17
 visible-title: 'Celestial Ice Ellipses '
 product-colors: Blue
 price: 66
+weight: 450
 width: 1
 height: 2
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-celestial-oval-hoop.jpg"
 - "/uploads/web-celsetial-ellipse.jpg"
