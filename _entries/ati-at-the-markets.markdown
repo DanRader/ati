@@ -21,4 +21,4 @@ Putting myself out there and doing these shows has been fabulous for the develop
 ![market4.jpg](/uploads/market4.jpg)
 It's been such a fabulous experience pouring my time and energy into these shows and a privilege to be able to travel during these strange pandemic times. I'm shifting my focus over these next 6 months to prepare for a solo exhibition at the Almas gallery in Richmond, VA. You'll see more of a focus on my performances and development of the narrative at the heart of ATI.
 ![chief-04807e.jpg](/uploads/chief-04807e.jpg) 
-This project is constantly evolving and I have to say that my experiences doing markets with ATI has re-invigorated me to push it even further. Stay tuned for more investigations! 
+This project is constantly evolving and my experiences doing markets with ATI has re-invigorated me to push it even further. Stay tuned for more investigations! 
