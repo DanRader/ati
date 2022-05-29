@@ -5,9 +5,11 @@ position: 13
 visible-title: Yellow Temporal Loop Minis
 designs: Temporal Loop
 price: 50
+weight: 450
 width: 1/4 inch
 height: 3/4 inch
 materials: Powder coated metal, rubber and goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/yellow-web-0e6592.jpg"
 - "/uploads/minis.jpg"
