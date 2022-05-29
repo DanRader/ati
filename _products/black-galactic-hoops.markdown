@@ -6,9 +6,11 @@ visible-title: Black Hole Galactic Hoops
 designs: Galactic Hoop
 product-colors: Black
 price: 60
+weight: 450
 width: 2"
 height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-Black-Galactic-Hoops.jpg"
 - "/uploads/web-Black-Galactic-Hoops2.jpg"
