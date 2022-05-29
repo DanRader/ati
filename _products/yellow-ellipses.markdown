@@ -6,9 +6,11 @@ visible-title: Pulsar Ellipses
 designs: Ellipses
 product-colors: Yellow
 price: 66
+weight: 450
 width: 1"
 height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-pulsar-oval-hoop.jpg"
 - "/uploads/web-pulsar-ellipses.jpg"
