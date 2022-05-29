@@ -6,7 +6,7 @@ visible-title: Icosahedron Sticker
 designs: Stickers
 product-colors: Blue
 price: 4
-weight: ".1"
+weight: 20
 width: 3 inch
 height: 3 inch
 materials: Vinyl sticker
