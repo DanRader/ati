@@ -6,9 +6,11 @@ visible-title: Blue Loop Minis
 designs: Loops
 product-colors: Blue
 price: 50
+weight: 450
 width: 1/2 inch
 height: 1/2 inch
 materials: Powder coated metal, rubber and goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/blue-loop-minis-web.jpg"
 - "/uploads/loops-web.jpg"
