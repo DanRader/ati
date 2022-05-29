@@ -6,9 +6,11 @@ visible-title: Alpha Ellipses
 designs: Ellipses
 product-colors: Multi-Color
 price: 66
+weight: 450
 width: 1"
 height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-alpha-ellipses.jpg"
 - "/uploads/web-multi-1.jpg"
