@@ -6,9 +6,11 @@ visible-title: Moon Rock Ellipses
 designs: Ellipses
 product-colors: White
 price: 66
+weight: 450
 width: 1"
 height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-moon-rock-oval-hoop.jpg"
 - "/uploads/web-moon-rock-ellipses-angel.jpg"
