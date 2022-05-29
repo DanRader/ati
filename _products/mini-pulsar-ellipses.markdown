@@ -5,9 +5,11 @@ visible-title: Mini Pulsar Ellipses
 designs: Ellipses
 product-colors: Yellow
 price: 45
+weight: 450
 width: .25"
 height: .5"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/webpulsar3.jpg"
 - "/uploads/web-pulsar2.jpg"
