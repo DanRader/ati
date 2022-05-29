@@ -5,6 +5,7 @@ visible-title: Mini Mars Baby Ellipses
 designs: Ellipses
 product-colors: Red
 price: 45
+weight: 450
 width: .25"
 height: '.5" '
 materials: Powder coated metal with goldfilled posts and backs.
