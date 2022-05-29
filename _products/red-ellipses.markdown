@@ -6,9 +6,11 @@ visible-title: Mars Baby Ellipses
 designs: Ellipses
 product-colors: Red
 price: 66
+weight: 450
 width: 1"
 height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-mars-baby-oval-hoop.jpg"
 - "/uploads/web-mars-baby-ellipse.jpg"
