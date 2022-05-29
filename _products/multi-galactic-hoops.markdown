@@ -6,10 +6,11 @@ visible-title: Alpha Galactic Hoops
 designs: Galactic Hoop
 product-colors: Multi-Color
 price: 60
-weight: 1
+weight: 450
 width: 2"
 height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-Multi-Galactic-Hoops.jpg"
 - "/uploads/web-alpha-galactic-hoop-3-eyes.jpg"
