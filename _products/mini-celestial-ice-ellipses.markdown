@@ -5,9 +5,11 @@ visible-title: Mini Celestial Ice Ellipses
 designs: Ellipses
 product-colors: Blue
 price: 45
+weight: 450
 width: .25"
 height: .5"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-celestial-2.jpg"
 - "/uploads/web-celestial-.jpg"
