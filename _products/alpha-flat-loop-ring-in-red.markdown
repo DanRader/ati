@@ -6,9 +6,11 @@ visible-title: Alpha Flat Loop Ring in Red
 designs: Loop Ring
 product-colors: Red
 price: 125
+weight: 450
 width: 1.5 inch
 height: 1.5 inch
 materials: Powder coated metal and latex tube.
+max-quantity: 6
 product-images:
 - "/uploads/flat-red-web.jpg"
 - "/uploads/group-rings-web.jpg"
