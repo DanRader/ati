@@ -6,9 +6,11 @@ visible-title: Blue Temporal Loop Minis
 designs: Temporal Loop
 product-colors: Blue
 price: 50
+weight: 450
 width: 1/4 inch
 height: 3/4 inch
 materials: Powder coated metal, rubber and goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/blue-web.jpg"
 - "/uploads/minis.jpg"
