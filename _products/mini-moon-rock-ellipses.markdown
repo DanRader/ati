@@ -5,9 +5,11 @@ visible-title: Mini Moon Rock Ellipses
 designs: Ellipses
 product-colors: Black
 price: 45
+weight: 450
 width: .25"
 height: .5"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-moon-rock-mini.jpg"
 - "/uploads/web-moon-rock-mini3.jpg"
