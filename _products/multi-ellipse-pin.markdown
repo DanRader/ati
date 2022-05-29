@@ -6,9 +6,11 @@ visible-title: 'Alpha Ellipse Pin '
 designs: Ellipses
 product-colors: Multi-Color
 price: 50
+weight: 450
 width: 1"
 height: 2"
 materials: Powder coated metal with brass pins and clutches.
+max-quantity: 6
 product-images:
 - "/uploads/web-alpha-pin.jpg"
 - "/uploads/web-alpha-pin-back.jpg"
