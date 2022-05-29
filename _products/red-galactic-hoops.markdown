@@ -6,9 +6,11 @@ visible-title: Mars Baby Galactic Hoops
 designs: Galactic Hoop
 product-colors: Red
 price: 60
+weight: 450
 width: 2"
 height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-Red-Galactic-Hoops.jpg"
 - "/uploads/web-mars-baby-galactic-hoops.jpg"
