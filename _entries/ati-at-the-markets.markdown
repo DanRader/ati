@@ -13,7 +13,7 @@ If you've been following ATI over the past 6 months you probably have noticed th
 
 These shows are such a great opportunity for growth. Wrapping up a season of markets, I'm coming out the other side with a lovely perspective on how these craft shows have been a really great for ATI.
 ![me-market.jpg](/uploads/me-market.jpg)
-Having shows has pushed me to be super productive and fabricate more pieces than I ever would without the deadline of a show. You never know how many people will come to shows, and what designs will click with folks. So, making enough to cover unforeseen demand is part of the gig!
+Having shows has pushed me to be super productive and fabricate more pieces than I ever would without the deadline of a show. You never know how many people will come to shows, and what designs will click with folks. So, making enough to cover possible demand is part of the gig!
 ![earrings.jpg](/uploads/earrings.jpg)
 Also, these markets are the perfect opportunity to see how people interact with my designs. I've received a ton of feedback from people about scale, color, and function that I wouldn't have experienced just making sales online. I've been so inspired by these conversations, that I've created totally new pieces based on what folks have asked to see like my new line of Mini Galactic Hoops which I'll post on the ATI site soon.
 ![markets-2.jpg](/uploads/markets-2.jpg)
