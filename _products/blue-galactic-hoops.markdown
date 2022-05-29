@@ -6,9 +6,11 @@ visible-title: Celestial Ice Galactic Hoops
 designs: Galactic Hoop
 product-colors: Blue
 price: 60
+weight: 450
 width: 2"
 height: 2"
 materials: Powder coated metal with goldfilled posts and backs.
+max-quantity: 6
 product-images:
 - "/uploads/web-Blue-Galactic-Hoops.jpg"
 - "/uploads/web---Celestial-Ice-Hoop.jpg"
