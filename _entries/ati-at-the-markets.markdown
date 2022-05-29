@@ -4,7 +4,7 @@ date: 2022-05-29 17:32:00 -04:00
 entry-number: 58
 image: "/uploads/markets5.jpg"
 entries:
-- ATI is coming to NYC
+- ATI visits NYC
 - New designs
 - Outside the Lines Exhibition
 ---
