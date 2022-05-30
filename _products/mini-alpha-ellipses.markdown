@@ -1,6 +1,7 @@
 ---
 title: Mini Alpha Ellipses
 date: 2022-05-15 18:14:00 -04:00
+position: 6
 visible-title: Mini Alpha Ellipses
 designs: Ellipses
 product-colors: Multi-Color

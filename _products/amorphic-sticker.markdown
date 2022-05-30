@@ -1,6 +1,7 @@
 ---
 title: Amorphic Sticker
 date: 2022-05-29 20:24:00 -04:00
+position: 0
 visible-title: 'Amorphic Sticker '
 designs: Stickers
 product-colors: Multi-Color

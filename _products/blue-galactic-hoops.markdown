@@ -1,7 +1,7 @@
 ---
 title: Blue Galactic Hoops
 date: 2021-10-23 19:37:00 -04:00
-position: 22
+position: 29
 visible-title: Celestial Ice Galactic Hoops
 designs: Galactic Hoop
 product-colors: Blue
