@@ -15,7 +15,7 @@ product-images:
 - "/uploads/webAmorphic-Sticker.jpg"
 - "/uploads/webAmorphic-Sticker2.jpg"
 products:
-- Alpha Loop Ring in Blue
+- Dodecahedron Sticker
 - Mini Alpha Ellipses
 - Creme Ellipses
 ---
