@@ -1,7 +1,7 @@
 ---
 title: Alpha Flat Loop Ring in Yellow
 date: 2022-03-04 11:50:00 -05:00
-position: 11
+position: 12
 visible-title: 'Alpha Flat Loop Ring in Yellow '
 designs: Loop Ring
 product-colors: Yellow
