@@ -17,7 +17,7 @@ product-images:
 - "/uploads/clear-sticker-web.jpg"
 - "/uploads/thermos-web.jpg"
 products:
-- Alpha Loop Ring in Blue
+- Amorphic Sticker
 - Blue Galactic Hoops
 - Blue Ellipses
 ---
