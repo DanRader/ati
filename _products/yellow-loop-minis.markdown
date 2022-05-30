@@ -1,7 +1,7 @@
 ---
 title: Yellow Loop Minis
 date: 2022-01-06 16:07:00 -05:00
-position: 15
+position: 16
 visible-title: Yellow Loop Minis
 designs: Loops
 product-colors: Yellow

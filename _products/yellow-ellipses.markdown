@@ -1,7 +1,7 @@
 ---
 title: Yellow Ellipses
 date: 2021-11-07 00:20:00 -04:00
-position: 23
+position: 24
 visible-title: Pulsar Ellipses
 designs: Ellipses
 product-colors: Yellow

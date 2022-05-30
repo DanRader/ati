@@ -1,7 +1,7 @@
 ---
 title: Alpha Loop Ring in Yellow
 date: 2022-03-04 12:57:00 -05:00
-position: 8
+position: 9
 visible-title: Alpha Loop Ring in Yellow
 designs: Loop Ring
 product-colors: Yellow
