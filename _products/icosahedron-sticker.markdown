@@ -10,6 +10,7 @@ weight: 20
 width: 3 inch
 height: 3 inch
 materials: Vinyl sticker
+max-quantity: 10
 product-images:
 - "/uploads/sticker-on-white-web.jpg"
 - "/uploads/clear-sticker-web.jpg"
