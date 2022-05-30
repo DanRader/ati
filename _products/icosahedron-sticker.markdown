@@ -12,7 +12,8 @@ height: 3 inch
 materials: Vinyl sticker
 max-quantity: 10
 product-images:
-- "/uploads/sticker-on-white-web.jpg"
+- "/uploads/web-Icosehedron.jpg"
+- "/uploads/Icosehedron2.jpg"
 - "/uploads/clear-sticker-web.jpg"
 - "/uploads/thermos-web.jpg"
 products:
