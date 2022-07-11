@@ -1,0 +1,14 @@
+---
+title: Origin Story
+date: 2022-07-11 16:32:00 -04:00
+published: false
+---
+
+The Seattle mist slowly rolled in through the Puget Sound carrying a strong scent of fish and stale coffee as The Chief peered over the bow of SS Shirley. Binoculars in hand, she spotted excitedly looked on ahead towards the quickly approaching San Juan Islands. After numerous years of research, she knew that this trip out to the islands would be the closest she had ever been to real-life experience based on her research. 
+Being a researcher is lonely work mostly spent staring at a data on a screen. This moment in the fresh, wet, Seattle winter air, The Chief felt so alive and full of excitement. Her research on the ancient sea people led her to this corner of the world after a spike in sonar activity was confirmed by a colleague in an outpost on Lopez Island. The radar that her fellow researchers hosted had been studying a series of repeating frequencies that were not quite like the usual species' found in this area.
+Initially the scientists at the Lopez Island base assumed the frequencies were coming from the migrating blue whales that have been known to migrate to the Pacific off the coast of Washington towards feeding grounds in the area and then north towards Alaska. But no, these sonar readings were low and guttural like a large whale species but followed a unique cadence that sounded almost like a human speech pattern but slowed down to almost snail-like pace. Our team got wind of this unique discovery and spent over a year studying the recordings, picking them apart, piece by piece. After almost two years of research, we were able to decipher a unique and highly intelligent exchange between two beings originating in the Straight of Juan de Fuca at 100 meters. As the readings were confirmed to be of intelligent origin by 3 of my colleagues, I bought a ticket to Seattle right away to investigate for myself. 
+As our ship pulled into port, the waves crashed up against our ship's hull. The large wooden posts, covered with old tires that were tacked on with rusty nails. The ship rolled in and my hosts on the SS Shirley gestured me over to the tiny row boat being loaded up with our gear. 
+As our tiny boat made it's way to the shore, I couldn't help but think about the haunting recordings from the waters below me. What lies beneath these choppy grey waters? What secrets have we yet to uncover? 
+A white euro sprinter was parked up on the ramp, with a very wired woman in overalls and Teva sandals (with socks), waved as I pulled myself out of the boat. 
+"Chief! You made it." A smile so large that I could see the mullers at the back of her mouth. 
+"Jenny, it's been too long!" we embraced and 
