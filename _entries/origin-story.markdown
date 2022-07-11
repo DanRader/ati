@@ -11,4 +11,7 @@ As our ship pulled into port, the waves crashed up against our ship's hull. The 
 As our tiny boat made it's way to the shore, I couldn't help but think about the haunting recordings from the waters below me. What lies beneath these choppy grey waters? What secrets have we yet to uncover? 
 A white euro sprinter was parked up on the ramp, with a very wired woman in overalls and Teva sandals (with socks), waved as I pulled myself out of the boat. 
 "Chief! You made it." A smile so large that I could see the mullers at the back of her mouth. 
-"Jenny, it's been too long!" we embraced and 
+"Jenny, it's been too long!" we embraced and immediately picked right back up from our recent zoom meeting discussing the plan for the weekend. 
+"You've got the underwater camera's secured?" I started going down the list of items needed for our expedition. 
+"Yup!" Jenny checked each item on her ipad as I loaded my bags in the Sprinter.
+After 20 minutes of winding uphill towards the top of the island, I spotted the observatory. A plain building- white cement structured in Brutalist Architecture. A dome on the south side of the building with steel panels that looked like it houses a very large telescope, and a black steel deck that wrapped around the western side of the building that were built in front of a series of glass windows and sliding doors. 
