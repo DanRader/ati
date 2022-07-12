@@ -21,5 +21,10 @@ I was greeted by Dr. Scallop, a large man with black rimmed glasses and a surpri
 "Oh don't mind them," Dr. Scallop said as he motioned for me to follow him down the hall. "They've been working long hours since the discovery of the anomaly. Our team has been devoted to this development since our discovery last week. I try to get them to slow down and take breaks, but you know they're young and relentlessly devoted!" he flipped his hand in the air. 
 I couldn't seem to push away a feeling that was tugging at me - there seemed to be more going on here. There was something so strange about this research team. Was it the isolation on this island? Or maybe something else?
 "We leave in 1 hour!" Dr. Scallop almost clicked his heels in excitement on his way out of the room as he handed me the keys. 
-An hour later I found my way back to the sprinter van after I'd had the chance to fully prepare with my excavation gear.  
+An hour later I found my way back to the sprinter van after I'd had the chance to fully prepare with my excavation gear. The women from before with the snorkel met us at the van fully decked in a wet suit, holding a tank. 
+"I'm Hazel", she reached out her one free hand and dawned a faint and quick smile that then quickly left her face. I had to wonder was it me? Or maybe this was the Seattle freeze I was experiencing?- A term coined to the stand-off nature of folks from Seattle that seem to be hard to crack at first. Her dark curly hair sat like an awkward little mop on the top of her round face - chaotic hairstyle to match the strangeness of her personality. "You're gonna want to put the dry suit on now before we make our way to the site", Hazel said in her dry intonation. 
+Now suited up, we made our way back down to the water. My heart was pounding. 
+After obsessively listening to the sonar recordings their sounds haunted my dreams, I hadn't experienced a moment free of them repeating in my mind since first listening to the recording that Dr. Scallop had sent me for peer review. A strange melody, gutteral, dark, beautiful. 
+Back out on the water, the waves appeared black now with the overcast weather pulling in a thick covering of cloud. We were in a tiny power boat this time, 
+  
 
