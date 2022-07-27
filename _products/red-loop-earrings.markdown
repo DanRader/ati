@@ -19,4 +19,4 @@ products:
 ---
 
 Representing time loops, our Loop Earrings make any outfit timeless. Yes, these are adjustable because they're rubber baby. Stretchy like the boundless nature of time and space. 
-We use the Moon Rock style of galactic coating on the metal part of the design, but the Chief is always open to creating a custom version. DM the Chief at ibelieve@ancienttruthinvestigators.com
+We apply the Moon Rock style of galactic coating on the metal part of the design, but the Chief is always open to creating a custom version. DM the Chief at ibelieve@ancienttruthinvestigators.com
