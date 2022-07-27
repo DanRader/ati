@@ -18,5 +18,5 @@ products:
 - Alpha Loop Ring in Red
 ---
 
-This is a statement piece! Representing time loops, our Loop Earrings make any outfit timeless. Yes, these are adjustable because they're rubber baby. Rubber and stretchy like the bounds of time and space. 
+Representing time loops, our Loop Earrings make any outfit timeless. Yes, these are adjustable because they're rubber baby. Rubber and stretchy like the bounds of time and space. 
 We use the Moon Rock style of galactic coating on the metal part of the design, but the Chief is always open to creating a custom version. DM the Chief at ibelieve@ancienttruthinvestigators.com
