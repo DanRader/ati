@@ -1,6 +1,7 @@
 ---
 title: Yellow Loop Earrings
 date: 2022-07-27 19:25:00 -04:00
+position: 2
 visible-title: Yellow Loop Earrings
 designs: Loops
 product-colors: Yellow

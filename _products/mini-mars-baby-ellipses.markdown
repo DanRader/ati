@@ -1,7 +1,7 @@
 ---
 title: Mini Mars Baby Ellipses
 date: 2022-05-15 17:31:00 -04:00
-position: 3
+position: 7
 visible-title: Mini Mars Baby Ellipses
 designs: Ellipses
 product-colors: Red

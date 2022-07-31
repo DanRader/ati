@@ -1,7 +1,7 @@
 ---
 title: Yellow Galactic Hoops
 date: 2021-10-23 19:59:00 -04:00
-position: 32
+position: 36
 visible-title: Pulsar Galactic Hoops
 designs: Galactic Hoop
 product-colors: Yellow

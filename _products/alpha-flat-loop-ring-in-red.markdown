@@ -1,7 +1,7 @@
 ---
 title: Alpha Flat Loop Ring in Red
 date: 2022-03-04 12:46:00 -05:00
-position: 14
+position: 18
 visible-title: Alpha Flat Loop Ring in Red
 designs: Loop Ring
 product-colors: Red

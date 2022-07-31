@@ -1,6 +1,7 @@
 ---
 title: Blue Loop Earrings
 date: 2022-07-27 18:39:00 -04:00
+position: 1
 visible-title: Blue Loop Earrings
 designs: Loops
 product-colors: Blue
