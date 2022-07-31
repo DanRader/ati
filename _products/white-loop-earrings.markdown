@@ -8,7 +8,7 @@ price: 150
 weight: 450
 width: '2 inches '
 height: '2 inches '
-materials: 'Powder coated metal, latex tub, goldfilled posts and backs. '
+materials: Powder coated metal, latex tub, goldfilled posts and backs
 product-images:
 - "/uploads/web-loop-creme-01.jpg"
 - "/uploads/web-loop-creme-02.jpg"
