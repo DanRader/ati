@@ -1,7 +1,7 @@
 ---
 title: Mini Black Hole Ellipses
 date: 2022-05-15 18:05:00 -04:00
-position: 7
+position: 11
 visible-title: 'Mini Black Hole Ellipses '
 designs: Ellipses
 product-colors: Black

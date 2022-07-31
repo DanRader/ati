@@ -1,6 +1,7 @@
 ---
 title: White Loop Earrings
 date: 2022-07-31 14:08:00 -04:00
+position: 0
 visible-title: White Loop Earrings
 designs: Loops
 product-colors: White
