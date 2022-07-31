@@ -8,7 +8,7 @@ price: 150
 weight: 450
 width: 2 inches
 height: 2 inches
-materials: Powder coated metal and latex tube.
+materials: Powder coated metal, latex tub, goldfilled posts and backs
 product-images:
 - "/uploads/web-Loop-red-01.jpg"
 - "/uploads/web-Loop-red-02.jpg"
