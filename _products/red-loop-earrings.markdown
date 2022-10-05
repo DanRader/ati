@@ -1,7 +1,7 @@
 ---
 title: Red Loop Earrings
 date: 2022-07-27 16:52:00 -04:00
-position: 3
+position: 5
 visible-title: Red Loop Earrings
 designs: Loops
 price: 150

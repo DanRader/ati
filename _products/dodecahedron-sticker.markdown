@@ -1,7 +1,7 @@
 ---
 title: Dodecahedron Sticker
 date: 2022-05-29 21:55:00 -04:00
-position: 4
+position: 6
 visible-title: 'Dodecahedron Sticker '
 designs: Stickers
 product-colors: Black

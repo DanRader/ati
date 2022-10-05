@@ -1,7 +1,7 @@
 ---
 title: Mini Celestial Ice Ellipses
 date: 2022-05-15 17:40:00 -04:00
-position: 8
+position: 10
 visible-title: Mini Celestial Ice Ellipses
 designs: Ellipses
 product-colors: Blue
