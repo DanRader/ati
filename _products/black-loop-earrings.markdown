@@ -1,6 +1,7 @@
 ---
 title: Black Loop Earrings
 date: 2022-07-31 14:32:00 -04:00
+position: 1
 visible-title: Black Loop Earrings
 designs: Loops
 product-colors: Black

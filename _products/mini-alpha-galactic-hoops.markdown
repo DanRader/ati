@@ -1,6 +1,7 @@
 ---
 title: Mini Alpha Galactic Hoops
 date: 2022-10-05 11:09:00 -04:00
+position: 0
 visible-title: Mini Alpha Galactic Hoops
 designs: Galactic Hoop
 product-colors: Multi-Color
