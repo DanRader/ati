@@ -7,8 +7,8 @@ designs: Galactic Hoop
 product-colors: Multi-Color
 price: 45
 weight: 450
-width: .75 "
-height: .75 "
+width: .75"
+height: .75"
 materials: Powder coated metal with goldfilled posts and backs.
 product-images:
 - "/uploads/web-Mini-hoop-alpha.jpg"
