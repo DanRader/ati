@@ -1,8 +1,8 @@
 ---
 title: return-policy
 position: 7
-layout: default
 return-policy: return-policy.html
+layout: default
 ---
 
 # Return & Exchange policy:
@@ -14,9 +14,9 @@ We are confident you will be happy with your purchase. However if this is not th
 
 After placing an order, you will receive an email confirmation. You will receive a second email when your order is shipped so that you may track your package.
 
-United States: Orders are shipped via USPS Priority with delivery confirmation which costs $7 (default shipping charge) and take just 2-3 business days to arrive. You will receive an email with USPS tracking number when the order is shipped.
+United States: Orders are shipped via USPS Priority with delivery confirmation which costs $9 (default shipping charge) and take just 2-3 business days to arrive. You will receive an email with USPS tracking number when the order is shipped.
 
-Canada and Mexico: Orders are shipped First Class which costs $8 (default shipping charge) or $19.95 for Priority (which takes 6-10 days to ship)
+Canada and Mexico: Orders are shipped First Class which costs $12 (default shipping charge) or $19.95 for Priority (which takes 6-10 days to ship)
 
 Everywhere else: Orders are shipped First Class which costs $10 (default shipping charge) or $23.95 for Priority (which takes 6-10 days to ship)
 
