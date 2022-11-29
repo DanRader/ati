@@ -13,4 +13,4 @@ location:
   longitude: 77.4360° W
 ---
 
-A solo exhibition of new work by The Chief, (Rachel Rader). In this exhibition objects serve as relics of Archer’s explorations of time: iconic discoveries uncovered of the “big bang” found in core samples, primordial ooze sourced from the dawn of micro-organisms, and galactic selfies of Archer traveling through time and space.
+A solo exhibition at Alma's RVA in Richmond, Virginia of new work by The Chief, (Rachel Rader). In this exhibition objects serve as relics of Archer’s explorations of time: iconic discoveries uncovered of the “big bang” found in core samples, primordial ooze sourced from the dawn of micro-organisms, and galactic selfies of Archer traveling through time and space.
