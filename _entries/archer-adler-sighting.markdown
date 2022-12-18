@@ -11,7 +11,7 @@ entries:
 
 If you've been following along on the Ancient Truth Investigators's journey, you know that our Time Travel Department Director Archer Adler has been missing. We're thrilled to see these photos come through that were captured by Jason Collins Photography.
 
-We can confirm that these are authenticated sightings of Archer.
+We can confirm that these are authenticated sightings of Archer. We're hopeful that she will find her way back to the ATI HQ to continue her investigations that have been so integral to our advancements in time travel. 
 
 ![web-archer5.jpg](/uploads/web-archer5.jpg)
 ![web-archer6.jpg](/uploads/web-archer6.jpg)
