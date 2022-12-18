@@ -6,4 +6,4 @@ social-media-image: "/uploads/Chief-9e6471.jpg"
 layout: team
 ---
 
-An assemblage of investigators seeking answers to questions. 
+An assemblage of investigators:
