@@ -2,7 +2,7 @@
 title: Archer Adler sighting
 date: 2022-12-17 21:26:00 -05:00
 entry-number: 59
-image: "/uploads/web-sighting3.jpg"
+image: "/uploads/web-sighting3-ccb51d.jpg"
 entries:
 - Origin Story
 - ATI at the markets
