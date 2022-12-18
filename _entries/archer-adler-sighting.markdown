@@ -13,9 +13,7 @@ If you've been following along on the Ancient Truth Investigators's journey, you
 
 We can confirm that these are authenticated sightings of Archer. We're hopeful that she will find her way back to the ATI HQ to continue her investigations that have been so integral to our advancements in time travel. 
 
-![web-archer5.jpg](/uploads/web-archer5.jpg)
-![web-archer6.jpg](/uploads/web-archer6.jpg)
-
+![web-archer5.jpg](/uploads/web-archer5.jpg)![web-archer6.jpg](https://manage.siteleaf.com/api/v2/sites/591a34b1734db84c33befa82/source/_uploads/web-archer6.jpg?download)
 ![web-archer4.jpg](/uploads/web-archer4.jpg)
 
 ![web-archer3.jpg](/uploads/web-archer3.jpg)![web-archer.jpg](/uploads/web-archer.jpg)![web-archer2.jpg](/uploads/web-archer2.jpg)
