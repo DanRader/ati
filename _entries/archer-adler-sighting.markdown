@@ -9,9 +9,9 @@ entries:
 - Time is relative
 ---
 
-If you've been following along on the Ancient Truth Investigators's journey, you know that our Time Travel Department Director Archer Adler has been missing. We're thrilled to see these photos come through that were captured by photographer Jason Collins Photography. 
+If you've been following along on the Ancient Truth Investigators's journey, you know that our Time Travel Department Director Archer Adler has been missing. We're thrilled to see these photos come through that were captured by Jason Collins Photography.
 
-We can confirm that these are authenticated sightings of Archer. 
+We can confirm that these are authenticated sightings of Archer.
 
 ![web-archer5.jpg](/uploads/web-archer5.jpg)
 ![web-archer6.jpg](/uploads/web-archer6.jpg)
