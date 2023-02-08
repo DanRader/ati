@@ -1,6 +1,6 @@
 ---
 title: Shop
-position: 1
+position: 0
 excerpt: 'Support the research of the Ancient Truth Investigators team with your purchase
   from the String Theory Collection.   '
 image: "/uploads/up-2.jpg"
