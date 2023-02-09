@@ -9,9 +9,9 @@ time: '5:00 PM EST '
 external-link: https://almasrva.com/blogs/exhibition/rachel-rader
 location:
   name: Alma's RVA
-  address: '224 West Brookland Park Blvd. '
+  address: 224 West Brookland Park Blvd. Richmond, VA
   latitude: 37.5407° N
   longitude: 77.4360° W
 ---
 
-A live performance of the latest discoveries from ATI. 
+A live performance of the latest discoveries from ATI, at Alma's RVA.
