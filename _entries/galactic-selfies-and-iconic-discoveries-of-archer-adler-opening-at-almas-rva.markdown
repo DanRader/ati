@@ -1,6 +1,5 @@
 ---
-title: Galactic Selfies and Iconic Discoveries of Archer Adler, opening at Alma's
-  RVA
+title: Galactic Selfies and Iconic Discoveries of Archer Adler at Alma's RVA
 date: 2023-02-08 18:54:00 -05:00
 entry-number: 60
 image: "/uploads/web-splash-6218d9.jpg"
