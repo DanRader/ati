@@ -9,7 +9,7 @@ entries:
 - New String Theory Collection now online
 ---
 
-The opening of "Galactic Selfies and Iconic Discoveries of Archer Adler", kicked off with a performance with, yours truly, the Chief. I introduced the recent discoveries and artifacts of Archer Adler, my friend and colleague.
+The opening of "Galactic Selfies and Iconic Discoveries of Archer Adler", kicked off with a performance by, yours truly, the Chief. I introduced the recent discoveries and artifacts of Archer Adler, my friend and colleague.
 
 ![web-almas-01.jpg](/uploads/web-almas-01.jpg)
 
