@@ -13,4 +13,4 @@ location:
   longitude: 77.0369° W
 ---
 
-Ancient Truth Investigators will have a booth at Unique Market in DC! Come by and meet Rachel Rader, the artist behind ATI, and all the handmade jewelry and objects that are a part of her story. 
+Ancient Truth Investigators will have a booth at Unique Market in Washington, DC! Come by and meet Rachel Rader, the artist behind ATI, and all the handmade jewelry and objects that are a part of her story. Market will be at Union Market. 
