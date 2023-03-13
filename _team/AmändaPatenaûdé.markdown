@@ -10,6 +10,12 @@ entries:
 - Galactic Selfies and Iconic Discoveries of Archer Adler
 - Archer Adler sighting
 - Time is relative
+- ATI visits NYC
+- New designs
+- Outside the Lines Exhibition
+- Archer in the Lab
+- New String Theory Collection now online
+- Where to see the new collection
 layout: team-posts
 ---
 
