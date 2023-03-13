@@ -7,9 +7,9 @@ image: "/uploads/archer-5c4021"
 entries:
 - Archer Adler, Ancient Truth Investigator's Time Travel Technician
 - String Theory Collection
-- 
-- 
-- 
+- Galactic Selfies and Iconic Discoveries of Archer Adler
+- Archer Adler sighting
+- Time is relative
 layout: team-posts
 ---
 
