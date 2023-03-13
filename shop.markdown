@@ -10,4 +10,4 @@ layout: shop-list
 
 ## String Theory Collection
 
-An investigation inspired by Archer Adler's travels through time. 
+An investigation inspired by time travel. 
