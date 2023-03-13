@@ -5,10 +5,10 @@ position: 1
 team-title: Time Travel Department Head
 image: "/uploads/archer-5c4021"
 entries:
+- Archer Adler sighting
 - Archer Adler, Ancient Truth Investigator's Time Travel Technician
 - String Theory Collection
 - Galactic Selfies and Iconic Discoveries of Archer Adler
-- Archer Adler sighting
 - Time is relative
 - ATI visits NYC
 - New designs
