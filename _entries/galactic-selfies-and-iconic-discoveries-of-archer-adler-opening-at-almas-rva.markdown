@@ -2,7 +2,7 @@
 title: Galactic Selfies and Iconic Discoveries of Archer Adler
 date: 2023-02-08 18:54:00 -05:00
 entry-number: 60
-image: "/uploads/web-splash-6218d9.jpg"
+image: "/uploads/splash%20for%20log.jpg"
 entries:
 - Archer Adler sighting
 - Time is relative
