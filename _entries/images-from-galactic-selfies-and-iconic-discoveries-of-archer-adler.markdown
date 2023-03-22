@@ -10,14 +10,3 @@ entries:
 ---
 
 This past weekend "Galactic Selfies and Iconic Discoveries of Archer Adler" came down. But before we de-installed the show photographer, David Hale captured it. Here's a little tour!:
-![_B3A3916.jpg](/uploads/_B3A3916.jpg)
-![_B3A3907.jpg](/uploads/_B3A3907.jpg)
-![_B3A3995.jpg](/uploads/_B3A3995.jpg)
-![_B3A3831.jpg](/uploads/_B3A3831.jpg)
-![_B3A3854.jpg](/uploads/_B3A3854.jpg)
-![_B3A3835.jpg](/uploads/_B3A3835.jpg)
-![_B3A3890.jpg](/uploads/_B3A3890.jpg)
-![_B3A3895.jpg](/uploads/_B3A3895.jpg)
-![_B3A3956.jpg](/uploads/_B3A3956.jpg)
-![_B3A3934.jpg](/uploads/_B3A3934.jpg)
-![_B3A3810.jpg](/uploads/_B3A3810.jpg)
