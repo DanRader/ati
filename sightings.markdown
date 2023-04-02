@@ -1,7 +1,7 @@
 ---
 title: Sightings
 position: 1
-image: "/uploads/space-web.jpg"
+image: "/uploads/splash-sightings.jpg"
 excerpt: 'See the work of the Ancient Truth Investigators live in museums and galleries
   around the world. '
 social-media-image: "/uploads/og-image%E2%80%94sightings.jpg"
@@ -13,4 +13,4 @@ layout: sightings
 
 ## Seeing is Believing
 
-See the Chief, her designs, and her investigations first-hand.
+See The Chief, her designs, and her investigations first-hand.
