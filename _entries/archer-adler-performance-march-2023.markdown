@@ -2,7 +2,7 @@
 title: Archer Adler performance March 2023
 date: 2023-04-03 16:21:00 -04:00
 entry-number: 62
-image: "/uploads/Archer-performs-fd83d8.jpg"
+image: "/uploads/Archer-blog.jpg"
 video: https://vimeo.com/814383715
 entries:
 - Images from Galactic Selfies and Iconic Discoveries of Archer Adler
