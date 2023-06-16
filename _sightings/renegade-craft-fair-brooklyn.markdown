@@ -9,7 +9,7 @@ time: 11-5PM Saturday and Sunday
 external-link: https://www.renegadecraft.com/fair/brooklyn-summer/
 location:
   name: Greenpoint
-  address: Greenpoint Waterfront
+  address: Greenpoint Waterfront, Brooklyn, NY
   latitude: 73.9442° W
   longitude: 40.6782° N
 ---
