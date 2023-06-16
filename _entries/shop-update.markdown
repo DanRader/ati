@@ -2,7 +2,7 @@
 title: Shop Update
 date: 2023-06-16 14:03:00 -04:00
 entry-number: 63
-image: "/uploads/Smooth-splash-Martian-Ellipse.jpg"
+image: "/uploads/for-web-cropped-Martian-Ellipses-02.jpg"
 entries:
 - Images from Galactic Selfies and Iconic Discoveries of Archer Adler
 - Archer Adler performance March 2023
