@@ -11,7 +11,7 @@ entries:
 
 CLICK TO SHOP ANY OF THE PHOTOS IN THIS ENTRY.
  
-Wow! We just did an overhaul of [the ATI online store!](https://the-ancient-truth-investigators-shop.myshopify.com/) All the classic styles from the Galactic Goods are on there including our Galactic Hoops, Ellipses, Loop Earrings and Loop Necklaces from the String Theory Collection. 
+We just did an overhaul of [the ATI online store!](https://the-ancient-truth-investigators-shop.myshopify.com/) All the classic styles from the Galactic Goods are on there including our Galactic Hoops, Ellipses, Loop Earrings and Loop Necklaces from the String Theory Collection. 
 [![for-web-Ellipse.jpg](/uploads/for-web-Ellipse.jpg)](https://the-ancient-truth-investigators-shop.myshopify.com/search?q=Ellipses&options%5Bprefix%5D=last)
 We had the very talented alien babe, Angel model for us again. 
 Check out these stunning photos of this galactic beauty!:
