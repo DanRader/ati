@@ -4,7 +4,6 @@ date: 2023-04-02 11:58:00 -04:00
 categories:
 - Craft Show
 start-date: 2023-04-07 17:00:00 -04:00
-end-date: 2023-04-07 22:00:00 -04:00
 external-link: https://www.rvamoonmarket.com/
 location:
   name: Gallery 5
