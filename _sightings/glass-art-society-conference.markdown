@@ -3,7 +3,7 @@ title: Glass Art Society Conference
 date: 2017-06-02 01:23:00 -04:00
 categories:
 - Performance
-position: 13
+position: 30
 start-date: 2017-06-02 21:00:00 -04:00
 end-date: 2017-06-02 22:00:00 -04:00
 time: 9-10pm

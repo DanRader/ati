@@ -3,7 +3,7 @@ title: Renegade Craft NYC
 date: 2021-11-05 16:32:00 -04:00
 categories:
 - Craft Show
-position: 0
+position: 17
 start-date: 2021-11-13 11:00:00 -05:00
 end-date: 2021-11-14 17:00:00 -05:00
 time: 11am-5pm

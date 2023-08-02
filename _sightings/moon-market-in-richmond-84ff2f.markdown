@@ -3,6 +3,7 @@ title: Moon Market in Richmond
 date: 2023-04-17 12:20:00 -04:00
 categories:
 - Craft Show
+position: 13
 start-date: 2023-05-05 17:00:00 -04:00
 end-date: 2023-05-05 22:00:00 -04:00
 time: 5-10PM

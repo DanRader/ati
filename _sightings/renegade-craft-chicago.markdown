@@ -3,6 +3,7 @@ title: Renegade Craft Chicago
 date: 2022-04-26 17:47:00 -04:00
 categories:
 - Craft Show
+position: 8
 start-date: 2022-05-21 00:00:00 -04:00
 end-date: 2022-05-22 18:00:00 -04:00
 time: 11-6

@@ -3,7 +3,7 @@ title: Gallery 2052
 date: 2020-03-09 17:55:00 -04:00
 categories:
 - Exhibition
-position: 6
+position: 23
 start-date: 2020-03-18 00:00:00 -04:00
 end-date: 2020-03-31 00:00:00 -04:00
 external-link: https://www.facebook.com/events/142140277082479/
