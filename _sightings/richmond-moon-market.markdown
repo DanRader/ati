@@ -4,7 +4,6 @@ date: 2023-08-02 12:16:00 -04:00
 categories:
 - Craft Show
 start-date: 2023-08-04 17:00:00 -04:00
-end-date: 2023-08-04 22:00:00 -04:00
 time: 5-10PM
 external-link: https://www.rvamoonmarket.com/
 location:
