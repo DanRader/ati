@@ -3,6 +3,7 @@ title: Renegade Craft Seattle
 date: 2022-06-14 19:35:00 -04:00
 categories:
 - Craft Show
+position: 4
 start-date: 2022-07-16 11:00:00 -04:00
 end-date: 2022-07-17 17:00:00 -04:00
 time: 11-5

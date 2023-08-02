@@ -3,6 +3,7 @@ title: Crafted VA in Norfolk
 date: 2023-08-02 12:23:00 -04:00
 categories:
 - Craft Show
+position: 10
 start-date: 2023-10-07 00:00:00 -04:00
 time: 12-6PM
 external-link: https://www.facebook.com/events/3396549667270327
