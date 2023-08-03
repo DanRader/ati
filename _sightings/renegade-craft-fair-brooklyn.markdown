@@ -15,4 +15,4 @@ location:
   longitude: 40.6782° N
 ---
 
-We're so excited to return to Brooklyn for the Renegade Craft Fair August 19+20th! Rachel Rader, the artist behind ATI, will be there with a full line up of new jewelry. Shop creative goods at Renegade's open-air summer market that comes with a waterfront view of the city from East River. 
+We're so excited to return to Brooklyn for Renegade Craft August 19th + 20th! Rachel Rader, the artist behind ATI, will be there with a full line up of new jewelry. Shop creative goods at Renegade's open-air summer market that comes with a waterfront view of the city from East River. 
