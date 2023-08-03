@@ -1,12 +1,12 @@
 ---
-title: Renegade Craft Fair Brooklyn
+title: Renegade Craft Brooklyn
 date: 2023-06-16 09:13:00 -04:00
 categories:
 - Craft Show
 position: 16
 start-date: 2023-08-19 11:00:00 -04:00
 end-date: 2023-08-20 17:00:00 -04:00
-time: 11-5PM Saturday and Sunday
+time: 11AM-5PM Saturday and Sunday
 external-link: https://www.renegadecraft.com/fair/brooklyn-summer/
 location:
   name: Greenpoint
