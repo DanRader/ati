@@ -1,5 +1,5 @@
 ---
-title: Richmond Moon Market
+title: Moon Market in Richmond
 date: 2023-08-13 12:15:00 -04:00
 categories:
 - Craft Show
