@@ -14,4 +14,4 @@ location:
   longitude: 37.5407° N
 ---
 
-Rachel will be at the Moon Market with her jewelry collection from the Ancient Truth Investigators, during First Fridays in Richmond, VA. Come and see a slice of Richmond's creative community in the Arts District, behind Gallery 5. 
+Come and see a slice of Richmond's creative community in the Arts District, behind Gallery 5. Rachel will be at the Moon Market with her jewelry collection from the Ancient Truth Investigators, during First Fridays in Richmond, VA. 
