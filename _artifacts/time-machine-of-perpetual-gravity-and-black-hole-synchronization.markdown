@@ -11,6 +11,7 @@ images:
 - "/uploads/TM7.jpg"
 - "/uploads/TM8.jpg"
 catalogue-number: '019'
+size: 3' x  1'
 material: Wood, powder coated metal, acrylic, neon, small electronics, rubber tube,
   casters, mirrored glass
 creation-date: 2023-01-20 00:00:00 -05:00
