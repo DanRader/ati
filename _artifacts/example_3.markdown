@@ -1,6 +1,6 @@
 ---
 title: Sacred Stone 02
-position: 18
+position: 20
 images:
 - "/uploads/chakrastone02"
 - "/uploads/chakrastone02detail"
