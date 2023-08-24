@@ -1,6 +1,7 @@
 ---
 title: Blue Loop Ring
 date: 2023-08-24 12:55:00 -04:00
+position: 2
 images:
 - "/uploads/blue-ring03.jpg"
 - "/uploads/blue-ring.jpg"

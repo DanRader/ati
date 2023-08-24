@@ -1,7 +1,7 @@
 ---
 title: Petrified Spongy Coral Specimen
 date: 2017-12-15 00:54:00 -05:00
-position: 6
+position: 10
 images:
 - "/uploads/Petrified_Spongy_Coral.jpg"
 - "/uploads/Petrified_Spongy_Coral02.jpg"
