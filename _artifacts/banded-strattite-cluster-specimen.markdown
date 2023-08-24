@@ -5,8 +5,10 @@ position: 3
 images:
 - "/uploads/Banded-Strattite-Cluster-low-res.jpg"
 - "/uploads/Banded-Strattite-Cluster-detail-low-res-bc2fa9.jpg"
-material: 'Glass, polymer, stitched into a wool center. '
+catalogue-number: '009'
+size: 4" x 6" x 5"
+material: Fused and carved glass , polymer, wool
 creation-date: 2017-07-01 00:00:00 -04:00
 ---
 
-Found by the Chief Investigator, Ráchel Räder.
+Found by The Chief.
