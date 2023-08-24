@@ -1,6 +1,7 @@
 ---
 title: Alpha Necklace
 date: 2023-08-24 14:34:00 -04:00
+position: 0
 images:
 - "/uploads/Alpha-necklace-01.jpg"
 - "/uploads/Alpha-necklace-02.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Chakra Stone
-position: 20
+position: 22
 images:
 - "/uploads/chakrastone"
 - "/uploads/chakrastonedetail-"
