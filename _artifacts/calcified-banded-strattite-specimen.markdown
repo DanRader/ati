@@ -4,8 +4,10 @@ date: 2017-12-15 00:39:00 -05:00
 position: 4
 images:
 - "/uploads/Calcified_Banded_Strattite.jpg"
-material: Glass, plaster
+catalogue-number: '008'
+size: 3" x  8" x  5"
+material: Fused and carved glass, plaster
 creation-date: 2017-12-15 00:00:00 -05:00
 ---
 
-Found by the Chief Investigator, Ráchel Räder.
+Found by The Chief.
