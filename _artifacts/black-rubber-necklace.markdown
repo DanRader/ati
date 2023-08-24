@@ -1,5 +1,5 @@
 ---
-title: Black Rubber Necklace
+title: String Theory Black Necklace
 date: 2023-08-24 12:38:00 -04:00
 position: 5
 images:
