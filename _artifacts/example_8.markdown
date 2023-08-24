@@ -5,6 +5,7 @@ images:
 - "/uploads/Ititiation01"
 - "/uploads/Ititiation02"
 - "/uploads/Ititiation03"
+catalogue-number: '002'
 size: 18" x 7.25" x 2"
 material: fused and carved glass
 creation-date: 2015-01-01 00:00:00 -05:00
