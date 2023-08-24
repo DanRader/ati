@@ -2,6 +2,7 @@
 title: Blue Loop Ring
 date: 2023-08-24 12:55:00 -04:00
 images:
+- "/uploads/blue-ring03.jpg"
 - "/uploads/blue-ring.jpg"
 - "/uploads/blue-ring02.jpg"
 catalogue-number: '013'
