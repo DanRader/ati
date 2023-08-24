@@ -12,5 +12,5 @@ material: Powdercoated metal and rubber
 creation-date: 2020-01-20 00:00:00 -05:00
 ---
 
+From the String Theory Collection inspired by the adventures of Archer Adler, through time and space. 
 Made by The Chief. 
-From the String Theory Collection inspired by Archer Adler. 
