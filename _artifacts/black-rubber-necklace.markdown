@@ -1,7 +1,7 @@
 ---
 title: Black Rubber Necklace
 date: 2023-08-24 12:38:00 -04:00
-position: 1
+position: 3
 images:
 - "/uploads/black%20rubber%20necklace.jpg"
 - "/uploads/Black-neck02.jpg"
