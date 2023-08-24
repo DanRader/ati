@@ -5,6 +5,10 @@ position: 2
 images:
 - "/uploads/SQ-large-necklace.jpg"
 - "/uploads/SQ-large-necklace_model.jpg"
+catalogue-number: '009'
+size: 3" x  3" x  .5"
+material: Fused and carved glass, goldfilled wire, goldfilled boxchain
+creation-date: 2018-01-20 00:00:00 -05:00
 ---
 
-Made by the Chief Investigator, Ráchel Räder.
+Made by The Chief.
