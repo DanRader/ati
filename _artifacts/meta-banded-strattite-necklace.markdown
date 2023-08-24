@@ -7,8 +7,10 @@ images:
 - "/uploads/BS_Meta_necklace02.jpg"
 - "/uploads/rach-118-2edited.jpg"
 - "/uploads/rach-121-2.jpg"
-material: 'Glass and goldfilled wire. '
+catalogue-number: '010'
+size: .5" x .25" x 18" in length
+material: Fused and carved glass, goldfilled wire
 creation-date: 2017-12-15 00:00:00 -05:00
 ---
 
-Made by the Chief Investigator, Ráchel Räder.
+Made by The Chief.
