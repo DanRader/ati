@@ -5,8 +5,10 @@ position: 6
 images:
 - "/uploads/Petrified_Spongy_Coral.jpg"
 - "/uploads/Petrified_Spongy_Coral02.jpg"
-material: Bronze and cubic zirconia
+catalogue-number: '007'
+size: 3" x 4"
+material: Bronze and cubic zirconias
 creation-date: 2017-12-15 00:00:00 -05:00
 ---
 
-Found by the Chief Investigator, Ráchel Räder.
+Found by The Chief.
