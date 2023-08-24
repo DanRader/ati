@@ -6,7 +6,7 @@ images:
 - "/uploads/weapons02"
 catalogue-number: '004'
 size: |-
-  From top to bottom:
+  From top to bottom,
   11" x 2.5" x 1.5"
   10.5" x 1.5" x 1.5"
   6.25" x 1" x 1"
