@@ -10,7 +10,7 @@ images:
 catalogue-number: '016'
 size: 6" x  4" x 18" length chain
 material: Powdercoated metal and rubber
-creation-date: 2020-01-20 00:00:00 -05:00
+creation-date: 2021-01-20 00:00:00 -05:00
 ---
 
 From the String Theory Collection inspired by the adventures of Archer Adler, through time and space. 
