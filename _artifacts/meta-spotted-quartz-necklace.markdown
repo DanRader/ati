@@ -1,7 +1,7 @@
 ---
 title: Meta Spotted Quartz Necklace
 date: 2017-12-15 01:30:00 -05:00
-position: 0
+position: 4
 images:
 - "/uploads/Meta_SQ_neck.jpg"
 - "/uploads/Meta_SQ_neck02.jpg"
