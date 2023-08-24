@@ -1,6 +1,7 @@
 ---
 title: String Theory Chain with Geometric Jewel
 date: 2023-08-24 16:01:00 -04:00
+position: 1
 images:
 - "/uploads/geometric1.jpg"
 - "/uploads/geometric2.jpg"

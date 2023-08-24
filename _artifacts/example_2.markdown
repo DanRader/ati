@@ -1,6 +1,6 @@
 ---
 title: Sacred Stone
-position: 17
+position: 19
 images:
 - "/uploads/chakrastone01"
 - "/uploads/chakrastone01detail"

@@ -1,6 +1,6 @@
 ---
 title: Initiation Stones
-position: 21
+position: 23
 images:
 - "/uploads/Ititiation01"
 - "/uploads/Ititiation02"

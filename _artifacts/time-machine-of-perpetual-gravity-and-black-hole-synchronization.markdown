@@ -1,6 +1,7 @@
 ---
 title: Time Machine of Perpetual Gravity & Black Hole Synchronization
 date: 2023-08-24 16:33:00 -04:00
+position: 0
 images:
 - "/uploads/TM1.jpg"
 - "/uploads/TM2.jpg"
