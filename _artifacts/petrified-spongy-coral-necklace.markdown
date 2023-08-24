@@ -1,7 +1,7 @@
 ---
 title: Petrified Spongy Coral Necklace
 date: 2023-08-24 12:23:00 -04:00
-position: 3
+position: 6
 images:
 - "/uploads/PSC-Necklace-e0a9d0.jpg"
 - "/uploads/PSC-Necklace02.jpg"
