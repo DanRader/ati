@@ -1,6 +1,7 @@
 ---
 title: Red Loop Earrings
 date: 2023-08-24 14:05:00 -04:00
+position: 3
 images:
 - "/uploads/red-earrings.jpg"
 - "/uploads/red-earrings2.jpg"

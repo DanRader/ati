@@ -1,7 +1,7 @@
 ---
 title: Spotted Quartz Specimen
 date: 2017-12-15 01:04:00 -05:00
-position: 9
+position: 12
 images:
 - "/uploads/Spotted_Quartz.jpg"
 - "/uploads/Spotted_Quartz02.jpg"

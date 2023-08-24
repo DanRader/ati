@@ -1,6 +1,6 @@
 ---
 title: Medallion
-position: 15
+position: 18
 images:
 - "/uploads/medallion01"
 - "/uploads/medallion02.jpg"

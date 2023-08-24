@@ -1,6 +1,7 @@
 ---
 title: Paradox Pin
 date: 2023-08-24 13:54:00 -04:00
+position: 2
 images:
 - "/uploads/pin5.jpg"
 - "/uploads/pin6.jpg"
