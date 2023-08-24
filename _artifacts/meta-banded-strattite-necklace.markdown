@@ -1,7 +1,7 @@
 ---
 title: Meta Banded Strattite Necklace
 date: 2017-12-15 01:13:00 -05:00
-position: 8
+position: 10
 images:
 - "/uploads/BS_Meta_necklace.jpg"
 - "/uploads/BS_Meta_necklace02.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Weapons of War
-position: 17
+position: 19
 images:
 - "/uploads/weapons"
 - "/uploads/weapons02"
