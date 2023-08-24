@@ -6,8 +6,10 @@ images:
 - "/uploads/Meta_SQ_neck.jpg"
 - "/uploads/Meta_SQ_neck02.jpg"
 - "/uploads/Meta_SQ_neck_model.jpg"
-material: 'Glass and goldfilled wire. '
+catalogue-number: '011'
+size: 4" x 3" x 18" in length
+material: Fused and carved glass, goldfilled wire
 creation-date: 2017-12-15 00:00:00 -05:00
 ---
 
-Made by the Chief Investigator, Ráchel Räder.
+Made by The Chief.
