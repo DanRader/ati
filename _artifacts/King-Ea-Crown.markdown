@@ -1,6 +1,6 @@
 ---
 title: King Ea's Crown
-position: 18
+position: 20
 images:
 - "/uploads/Crown_hi-res.jpg"
 - "/uploads/Crown02_low-res.jpg"
