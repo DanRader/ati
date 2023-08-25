@@ -1,6 +1,7 @@
 ---
 title: Time Machine of Singularity
 date: 2023-08-24 17:47:00 -04:00
+position: 1
 images:
 - "/uploads/TMa.jpg"
 - "/uploads/TMb.jpg"

@@ -1,7 +1,7 @@
 ---
 title: String Theory Black Necklace
 date: 2023-08-24 12:38:00 -04:00
-position: 7
+position: 9
 images:
 - "/uploads/black%20rubber%20necklace.jpg"
 - "/uploads/Black-neck02.jpg"

@@ -1,6 +1,7 @@
 ---
 title: Time Machine of Gravitational Time Dilation
 date: 2023-08-24 17:07:00 -04:00
+position: 0
 images:
 - "/uploads/T1.jpg"
 - "/uploads/T2.jpg"
