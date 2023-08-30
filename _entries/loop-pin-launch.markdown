@@ -9,7 +9,7 @@ entries:
 - Archer Adler performance March 2023
 ---
 
-Today we launched a collection that is near and dear to me. I first created my Loop Pins when researching data that came back from Archer's explorations through time and space, realizing a glitch in the timeline - a Time Loop. Imagine my surprise to find a repeated set of repostings from my esteemed colleague! We can only hope that Archer finds her way out of the Time Loop and back to her original timeline. 
+Today we launched a collection that is near and dear to me. I first created my Loop Pins when researching data that came back from Archer's explorations through time and space, realizing a glitch in the timeline - a Time Loop. Imagine my surprise to find a repeated set of data from my esteemed colleague! We can only hope that Archer finds her way out of the Time Loop and back to her original timeline. 
 
 As the new images of our expansive galactic neighborhood continue to trickle in from the James Webb Telescope, I’m reminded of the nature of the speed of light in relation to time. All of the light around us takes time to reach our eyes, from the light emanating from your phone to the sparkling stars we see in the night sky. For instance, the North Star, or Polaris, is about 323 light years from Earth. When you see this star in the sky, you’re seeing light that’s over 300 years old. Despite all our scientific advancements we’re stuck in the past while we speculate the nature of the cosmos. 
 
