@@ -35,3 +35,5 @@ And in 5 variations of loop colors:
 
 ![web-YELLOW.jpg](/uploads/web-YELLOW.jpg)
 ![web-GREEN.jpg](/uploads/web-GREEN.jpg)
+
+[Shop the collection by clicking HERE!](https://the-ancient-truth-investigators-shop.myshopify.com/collections/loop-pins)
