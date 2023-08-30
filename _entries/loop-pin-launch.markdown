@@ -2,7 +2,7 @@
 title: Loop Pin Launch
 date: 2023-08-30 19:12:00 -04:00
 entry-number: 65
-image: "/uploads/web-tongue.jpg"
+image: "/uploads/webAll-SJ-pins.jpg"
 entries:
 - Shop Update
 - Archer Adler sighting
@@ -18,9 +18,13 @@ The Time Loop is a common occurrence in which you experience a span of time whic
 We’ve seen that folks have connected with this design at markets, so it seemed like it was TIME to get them up on the ATI store. We just launched this new collection of pins today. Make sure to grab one up, your Astral adventures await!
 
 Our Loop Pins come in 2 styles:
+
 Space Junk 
+
 ![webAll-SJ-pins.jpg](/uploads/webAll-SJ-pins.jpg)
+
 Moon Rock
+
 ![webAll-MR-pins.jpg](/uploads/webAll-MR-pins.jpg)
 
 And in 5 variations of loop colors:
