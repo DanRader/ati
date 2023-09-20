@@ -1,6 +1,12 @@
 ---
-title: We're on Faire Wholesale now
-date: 2023-09-20 14:39:00 -04:00
+title: We're on Faire Wholesale!
+date: 2023-09-20 14:46:00 -04:00
+entry-number: 66
+image: "/uploads/splash-blog"
+entries:
+- Shop Update
+- ATI at the markets
+- Loop Pin Launch
 ---
 
 To make our line of Galactic Goods more accessible to the stores and galleries that we love, we have opened a wholesale shop! Know of a space that you think our Galactic Goods would be a fabulous fit? Send them our way! 
