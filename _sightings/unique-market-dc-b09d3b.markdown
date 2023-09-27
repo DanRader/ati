@@ -10,9 +10,9 @@ time: 10-4PM
 external-link: https://www.uniquemarkets.com/washingtondc
 location:
   name: Union Market 's Dock 5
-  address: 1309 5th Street NE
+  address: 1309 5th Street NE, Washington, DC
   latitude: 38.9072° N
   longitude: 77.0369° W
 ---
 
-We'll be at the Holiday Unique Market with our Galactic Goods, along with a beautifully curated roster of makers from the DMV area. Stop by and find amazing local gifts!
+We'll be at the Unique Market with our Galactic Goods, along with a beautifully curated roster of makers from the DMV area. Stop by and find amazing local gifts!
