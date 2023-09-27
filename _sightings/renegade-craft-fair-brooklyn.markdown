@@ -3,7 +3,7 @@ title: Renegade Craft Brooklyn
 date: 2023-06-16 09:13:00 -04:00
 categories:
 - Craft Show
-position: 16
+position: 18
 start-date: 2023-08-19 11:00:00 -04:00
 end-date: 2023-08-20 17:00:00 -04:00
 time: 11AM-5PM Saturday and Sunday

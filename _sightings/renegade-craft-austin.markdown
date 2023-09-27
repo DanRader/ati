@@ -3,7 +3,7 @@ title: Renegade Craft Austin
 date: 2022-03-19 09:43:00 -04:00
 categories:
 - Craft Show
-position: 3
+position: 5
 start-date: 2022-04-23 11:00:00 -04:00
 end-date: 2022-04-24 17:00:00 -04:00
 time: 11-5pm

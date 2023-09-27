@@ -3,7 +3,7 @@ title: Origin Gallery
 date: 2017-06-02 18:00:00 -04:00
 categories:
 - Exhibition
-position: 27
+position: 29
 start-date: 2017-06-02 18:00:00 -04:00
 end-date: 2017-07-15 18:00:00 -04:00
 time: 6-8pm

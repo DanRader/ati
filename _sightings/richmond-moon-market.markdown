@@ -3,7 +3,7 @@ title: Richmond Moon Market
 date: 2023-08-02 12:16:00 -04:00
 categories:
 - Craft Show
-position: 1
+position: 3
 start-date: 2023-08-04 17:00:00 -04:00
 end-date: 2023-08-04 00:00:00 -04:00
 time: 5-10PM
