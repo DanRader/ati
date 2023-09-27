@@ -3,7 +3,7 @@ title: Craft + Design Richmond
 date: 2023-08-02 12:32:00 -04:00
 categories:
 - Craft Show
-position: 2
+position: 4
 start-date: 2023-11-17 00:00:00 -05:00
 end-date: 2023-11-19 00:00:00 -05:00
 external-link: https://craftanddesignrva.com/

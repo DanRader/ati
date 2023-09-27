@@ -3,7 +3,7 @@ title: Galactic Selfies and Iconic Discoveries of Archer Adler
 date: 2022-11-29 12:19:00 -05:00
 categories:
 - Exhibition
-position: 10
+position: 12
 start-date: 2023-01-19 18:00:00 -05:00
 end-date: 2023-03-16 01:00:00 -04:00
 external-link: https://almasrva.com/

@@ -3,7 +3,7 @@ title: Richmond Makers Market
 date: 2023-06-10 14:30:00 -04:00
 categories:
 - Craft Show
-position: 14
+position: 16
 start-date: 2023-07-01 12:00:00 -04:00
 end-date: 2023-07-01 18:00:00 -04:00
 time: 12-6PM
