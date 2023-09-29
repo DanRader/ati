@@ -14,4 +14,4 @@ location:
   longitude: 37.5407° N
 ---
 
-Join us for this special event where we'll have a large selection of handmade jewelry and gifts made by Rachel Rader of Ancient Truth Investigators at Alma's RVA Gallery! We are so thrilled to be there that day with fellow Richmond artists: Summer Bee Clay, Throws Like a Girl and Blue Skies Workroom. Come grab a glass of Prossecco and shop local! 
+Join us for this special event where we'll have a large selection of handmade jewelry and gifts made by Rachel Rader of Ancient Truth Investigators at Alma's RVA Gallery! We are so thrilled to be a part of this event along with fellow Richmond artists: Summer Bee Clay, Throws Like a Girl and Blue Skies Workroom. Come grab a glass of Prossecco and shop local! 
