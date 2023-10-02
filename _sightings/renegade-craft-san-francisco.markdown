@@ -9,7 +9,7 @@ time: 11AM-5PM
 external-link: https://www.renegadecraft.com/fair/san-francisco-winter/
 location:
   name: Fort Mason Festival Pavilion
-  address: '2 Marina Blvd. '
+  address: 2 Marina Blvd.  San Francisco, CA
   latitude: 122.4194° W
   longitude: 37.7749° N
 ---
