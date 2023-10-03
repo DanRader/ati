@@ -9,7 +9,8 @@ images:
 - "/uploads/TMd.jpg"
 catalogue-number: 20
 size: 9" x 8" x 4"
-material: Wood, powder coated metal, acrylic, rubber tube, opal, small electronics
+material: Wood, powder coated metal, dichroic glass, acrylic, rubber tube, opal, small
+  electronics
 creation-date: 2023-01-20 00:00:00 -05:00
 ---
 
