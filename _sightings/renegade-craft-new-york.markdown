@@ -3,6 +3,7 @@ title: Renegade Craft New York
 date: 2023-10-10 17:15:00 -04:00
 categories:
 - Craft Show
+position: 0
 start-date: 2023-11-11 11:00:00 -05:00
 end-date: 2023-11-12 17:00:00 -05:00
 time: 11AM-5PM

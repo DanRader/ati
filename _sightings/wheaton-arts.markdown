@@ -3,7 +3,7 @@ title: Wheaton Arts
 date: 2017-09-07 01:48:00 -04:00
 categories:
 - Residency
-position: 34
+position: 37
 start-date: 2016-09-07 00:00:00 -04:00
 end-date: 2016-10-02 00:00:00 -04:00
 external-link: http://www.wheatonarts.org/rachel-rader/

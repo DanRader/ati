@@ -3,7 +3,7 @@ title: Unique Market DC
 date: 2023-02-25 15:07:00 -05:00
 categories:
 - Craft Show
-position: 13
+position: 16
 start-date: 2023-05-20 01:00:00 -04:00
 end-date: 2023-05-21 18:00:00 -04:00
 external-link: https://www.uniquemarkets.com/dc-may-2023-participants

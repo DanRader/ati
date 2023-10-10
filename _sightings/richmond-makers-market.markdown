@@ -3,7 +3,7 @@ title: Richmond Makers Market
 date: 2022-04-26 18:03:00 -04:00
 categories:
 - Craft Show
-position: 11
+position: 14
 start-date: 2022-05-07 12:00:00 -04:00
 end-date: 2022-05-07 18:00:00 -04:00
 time: 12-6
