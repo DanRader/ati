@@ -3,7 +3,7 @@ title: An Exploration of Glass Jewelry
 date: 2023-04-17 13:21:00 -04:00
 categories:
 - Class
-position: 14
+position: 17
 start-date: 2023-06-18 00:00:00 -04:00
 end-date: 2023-06-23 00:00:00 -04:00
 external-link: https://www.arrowmont.org/workshops/an-exploration-of-glass-jewelry-rachel-rader/

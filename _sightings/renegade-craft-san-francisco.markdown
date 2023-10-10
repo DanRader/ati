@@ -3,6 +3,7 @@ title: Renegade Craft San Francisco
 date: 2023-10-02 19:00:00 -04:00
 categories:
 - Craft Show
+position: 1
 start-date: 2023-11-04 11:00:00 -04:00
 end-date: 2023-11-05 17:00:00 -05:00
 time: 11AM-5PM

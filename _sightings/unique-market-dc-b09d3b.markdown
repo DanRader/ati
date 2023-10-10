@@ -3,7 +3,7 @@ title: Unique Market DC
 date: 2023-09-27 13:07:00 -04:00
 categories:
 - Craft Show
-position: 0
+position: 3
 start-date: 2023-12-16 10:00:00 -05:00
 end-date: 2023-12-17 16:00:00 -05:00
 time: 10-4PM
