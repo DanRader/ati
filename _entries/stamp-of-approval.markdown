@@ -1,7 +1,7 @@
 ---
 title: Stamp of Approval
 date: 2015-12-01 19:38:00 -05:00
-position: 42
+position: 54
 entry-number: 16
 image: "/uploads/stamped-.jpg"
 video: 147501269

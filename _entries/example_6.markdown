@@ -1,7 +1,7 @@
 ---
 title: The Team Investigates the Energy Fields of Norfolk
 date: 2017-05-22 00:19:00 -04:00
-position: 28
+position: 40
 entry-number: 30
 summary: Join the team in Norfolk, VA as they investigate the energies associated
   with 36.8508° N, 76.2859° W.

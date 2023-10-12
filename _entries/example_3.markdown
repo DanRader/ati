@@ -1,7 +1,7 @@
 ---
 title: ASMR Survey
 date: 2017-08-14 23:31:00 -04:00
-position: 24
+position: 36
 entry-number: 33
 summary: The Chief investigates ASMR.
 image: "/uploads/ASMR.jpg"

@@ -1,7 +1,7 @@
 ---
 title: The Panel Discussion at UrbanGlass Gallery
 date: 2015-09-08 22:34:00 -04:00
-position: 46
+position: 58
 entry-number: 12
 image: "/uploads/panel.jpg"
 video: 138585887

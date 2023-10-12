@@ -1,7 +1,7 @@
 ---
 title: Sourcing of Petrified Spongy Coral
 date: 2015-10-06 22:20:00 -04:00
-position: 45
+position: 57
 entry-number: 13
 image: "/uploads/PSC-top02.jpg"
 entries:

@@ -1,7 +1,7 @@
 ---
 title: Sound Bath
 date: 2018-04-19 23:55:00 -04:00
-position: 13
+position: 25
 entry-number: 43
 image: "/uploads/tibetan-bowls-.jpg"
 entries:

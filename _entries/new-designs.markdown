@@ -1,7 +1,7 @@
 ---
 title: New designs
 date: 2021-10-18 11:46:00 -04:00
-position: 2
+position: 14
 entry-number: 55
 image: "/uploads/web-furry.jpg"
 entries:

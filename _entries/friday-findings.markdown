@@ -1,6 +1,7 @@
 ---
 title: Friday Findings
 date: 2023-07-27 13:17:00 -04:00
+position: 10
 entry-number: 64
 image: "/uploads/blog-splash.jpg"
 entries:

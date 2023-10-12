@@ -1,6 +1,7 @@
 ---
 title: Shop Update
 date: 2023-06-16 14:03:00 -04:00
+position: 9
 entry-number: 63
 image: "/uploads/for-web-cropped-Martian-Ellipses-02.jpg"
 entries:

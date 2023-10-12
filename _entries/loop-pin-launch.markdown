@@ -1,6 +1,7 @@
 ---
 title: Loop Pin Launch
 date: 2023-08-30 19:12:00 -04:00
+position: 11
 entry-number: 65
 image: "/uploads/webAll-SJ-pins.jpg"
 entries:

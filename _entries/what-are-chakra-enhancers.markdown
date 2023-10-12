@@ -1,7 +1,7 @@
 ---
 title: What are Chakra Enhancers?
 date: 2018-01-15 22:35:00 -05:00
-position: 19
+position: 31
 entry-number: 39
 summary: Learn about the Chief's Chakra Enhancer line
 image: "/uploads/Bianca03.jpg"

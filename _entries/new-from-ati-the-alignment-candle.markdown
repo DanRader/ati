@@ -1,7 +1,7 @@
 ---
 title: New from ATI, the Alignment Candle
 date: 2015-12-07 19:25:00 -05:00
-position: 41
+position: 53
 entry-number: 17
 image: "/uploads/candle.jpg"
 video: 147817851

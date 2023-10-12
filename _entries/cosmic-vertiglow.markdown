@@ -1,8 +1,9 @@
 ---
 title: Cosmic Vertiglow
 date: 2023-10-12 12:36:00 -04:00
+position: 0
 entry-number: 67
-image: "/uploads/web-mini-ellipse.jpg"
+image: "/uploads/web-ellip.jpg"
 entries:
 - Loop Pin Launch
 - We're on Faire Wholesale!

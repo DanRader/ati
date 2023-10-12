@@ -1,7 +1,7 @@
 ---
 title: Thank you WheatonArts
 date: 2016-09-24 01:02:00 -04:00
-position: 33
+position: 45
 entry-number: 25
 image: "/uploads/chief-02.jpg"
 video: 183764320
