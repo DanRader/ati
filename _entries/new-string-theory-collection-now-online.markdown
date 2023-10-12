@@ -1,7 +1,7 @@
 ---
 title: New String Theory Collection now online
 date: 2020-05-29 15:44:00 -04:00
-position: 7
+position: 19
 entry-number: 51
 image: "/uploads/splash-Y%20R-string-theory-necklace.jpg"
 entries:

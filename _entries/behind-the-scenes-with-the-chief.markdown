@@ -1,7 +1,7 @@
 ---
 title: Behind the scenes with the Chief
 date: 2022-02-15 14:01:00 -05:00
-position: 0
+position: 12
 entry-number: 57
 image: "/uploads/behind.jpg"
 entries:

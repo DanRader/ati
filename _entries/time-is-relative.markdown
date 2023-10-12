@@ -1,7 +1,7 @@
 ---
 title: Time is relative
 date: 2020-05-19 23:29:00 -04:00
-position: 3
+position: 15
 entry-number: 50
 image: "/uploads/AA.jpg"
 video: https://vimeo.com/397730896

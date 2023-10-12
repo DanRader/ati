@@ -2,6 +2,7 @@
 title: Origin Story
 date: 2022-07-11 16:32:00 -04:00
 published: false
+position: 5
 ---
 
 The Seattle mist slowly rolled in through the Puget Sound carrying a strong scent of fish and stale coffee as The Chief peered over the bow of SS Shirley. Binoculars in hand, she spotted excitedly looked on ahead towards the quickly approaching San Juan Islands. After numerous years of research, she knew that this trip out to the islands would be the closest she had ever been to real-life experience based on her research. 

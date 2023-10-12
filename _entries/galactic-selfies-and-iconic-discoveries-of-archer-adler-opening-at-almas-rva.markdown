@@ -1,6 +1,7 @@
 ---
 title: Galactic Selfies and Iconic Discoveries of Archer Adler
 date: 2023-02-08 18:54:00 -05:00
+position: 7
 entry-number: 60
 image: "/uploads/splash%20for%20log.jpg"
 entries:

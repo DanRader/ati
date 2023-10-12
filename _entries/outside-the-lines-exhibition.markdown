@@ -1,7 +1,7 @@
 ---
 title: Outside the Lines Exhibition
 date: 2021-07-07 18:32:00 -04:00
-position: 6
+position: 18
 entry-number: 54
 image: "/uploads/yellow-ring.jpg"
 entries:

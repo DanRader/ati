@@ -1,6 +1,7 @@
 ---
 title: We're on Faire Wholesale!
 date: 2023-09-20 14:46:00 -04:00
+position: 1
 entry-number: 66
 image: "/uploads/splash-blog"
 entries:
