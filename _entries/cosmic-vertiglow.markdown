@@ -15,5 +15,5 @@ Perhaps you’ve looked up at the stars and wondered how far the universe stretc
 Today we’re launching a new collection called Cosmic Vertiglow, in honor of this powerful feeling that so many of us humanoids experience when we think about space. Oh yeah, and this collection glows in the dark! Just like the primordial ooze that Archer Adler found in her travels back in time to our planet mere millennia post-big-bang. 
 ![Archer-in-blue-smoke-planet02.jpg](/uploads/Archer-in-blue-smoke-planet02.jpg)
 
-Explore this new collection in the ATI Shop:
+Explore this new collection in the ATI Store:
 [SHOP!](https://the-ancient-truth-investigators-shop.myshopify.com/)
