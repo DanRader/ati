@@ -3,7 +3,7 @@ title: UrbanGlass Gallery
 date: 2017-09-06 17:18:00 -04:00
 categories:
 - Exhibition
-position: 28
+position: 31
 start-date: 2017-09-06 18:00:00 -04:00
 end-date: 2017-10-28 19:30:00 -04:00
 time: 6-8pm
