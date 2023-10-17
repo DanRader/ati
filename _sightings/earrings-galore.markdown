@@ -1,5 +1,5 @@
 ---
-title: Earrings Galore
+title: Earrings Galore at NYC Jewelry Week
 date: 2023-10-17 13:27:00 -04:00
 categories:
 - Exhibition
