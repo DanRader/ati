@@ -2,7 +2,7 @@
 title: Shiny Things in Rhode Island
 date: 2023-10-17 13:32:00 -04:00
 categories:
-- Exhibition
+- Craft Show
 start-date: 2023-12-08 17:00:00 -05:00
 end-date: 2024-01-15 17:00:00 -05:00
 external-link: https://kendallreiss.com/events
