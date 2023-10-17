@@ -10,7 +10,7 @@ time: 12-3PM
 external-link: https://almasrva.com/
 location:
   name: 'Alma''s RVA Gallery '
-  address: 224 W Brookland Park Blvd, Richmond, Virginia
+  address: 224 W Brookland Park Blvd, Richmond, VA
   latitude: 77.4360° W
   longitude: 37.5407° N
 ---
