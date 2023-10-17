@@ -1,6 +1,8 @@
 ---
 title: Earrings Galore
 date: 2023-10-17 13:27:00 -04:00
+categories:
+- Exhibition
 start-date: 2023-11-14 18:00:00 -05:00
 end-date: 2023-11-18 21:00:00 -05:00
 external-link: https://heidilowegallery.com/
