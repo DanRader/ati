@@ -8,7 +8,7 @@ end-date: 2023-11-18 21:00:00 -05:00
 external-link: https://heidilowegallery.com/
 location:
   name: Earrings Galore
-  address: 251 Elizabeth Street, NYC, NY
+  address: 251 Elizabeth Street, New York City, NY
   latitude: 74.0060° W
   longitude: 40.7128° N
 ---
