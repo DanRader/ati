@@ -1,5 +1,5 @@
 ---
-title: "*Shiny Things* in Rhode Island"
+title: Shiny Things in Rhode Island
 date: 2023-10-17 13:32:00 -04:00
 categories:
 - Exhibition
@@ -13,4 +13,4 @@ location:
   longitude: 41.6771° N
 ---
 
-Featuring the works of 24+ contemporary jewelers and artists including Rachel Rader, *SHiNY THiNGS* returns in 2023 to Kendall Reiss Gallery & Studio in Bristol, RI. Opening Reception: Saturday, December 9, 2023 | 5pm - 8pm. Exhibition Dates : December 8, 2023 - January 15, 2024 
+Featuring the works of 24+ contemporary jewelers and artists including Rachel Rader, SHiNY THiNGS returns in 2023 to Kendall Reiss Gallery & Studio in Bristol, RI. Opening Reception: Saturday, December 9, 2023 | 5pm - 8pm. Exhibition Dates : December 8, 2023 - January 15, 2024 
