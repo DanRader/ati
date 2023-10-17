@@ -8,7 +8,7 @@ end-date: 2024-01-15 17:00:00 -05:00
 external-link: https://kendallreiss.com/events
 location:
   name: 'Kendall Reiss Gallery & Studio '
-  address: 469 Wood Street, Bristol, Rhode Island
+  address: 469 Wood Street, Bristol, RI
   latitude: 71.2662° W
   longitude: 41.6771° N
 ---
