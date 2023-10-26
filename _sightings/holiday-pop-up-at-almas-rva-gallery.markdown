@@ -7,7 +7,7 @@ position: 2
 start-date: 2023-12-02 12:00:00 -05:00
 end-date: 2023-12-02 15:00:00 -05:00
 time: 12-3PM
-external-link: https://almasrva.com/
+external-link: https://almasrva.com/blogs/news/holiday-markets-2023
 location:
   name: 'Alma''s RVA Gallery '
   address: 224 W Brookland Park Blvd, Richmond, VA
