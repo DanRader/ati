@@ -1,5 +1,5 @@
 ---
-title: Shiny Things in Rhode Island
+title: Shiny Things at Kendall Reiss Gallery
 date: 2023-10-17 13:32:00 -04:00
 categories:
 - Craft Show
