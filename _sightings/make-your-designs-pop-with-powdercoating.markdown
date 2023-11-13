@@ -1,5 +1,5 @@
 ---
-title: Make your Designs Pop with Powdercoating
+title: Make your Designs Pop with Powdercoating at Brooklyn Metal Works
 date: 2023-11-13 16:41:00 -05:00
 categories:
 - Class
