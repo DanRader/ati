@@ -1,6 +1,8 @@
 ---
 title: Make your Designs Pop with Powdercoating
 date: 2023-11-13 16:41:00 -05:00
+categories:
+- Class
 start-date: 2024-01-19 10:00:00 -05:00
 end-date: 2024-01-20 15:00:00 -05:00
 time: 10AM - 3PM
