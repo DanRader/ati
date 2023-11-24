@@ -1,5 +1,5 @@
 ---
-title: Miracle in Manchester Holiday Market in Richmond
+title: Miracle in Manchester
 date: 2023-11-24 15:01:00 -05:00
 categories:
 - Craft Show
