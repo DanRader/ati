@@ -2,7 +2,7 @@
 title: Image2
 date: 2017-12-05 17:56:00 -05:00
 position: 5
-image: "/uploads/front.jpg"
+image: "/uploads/web-Hoops-on-white-lined-up.jpg"
 texture-image: "/uploads/textures/pink.png"
 ---
 
