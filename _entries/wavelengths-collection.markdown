@@ -10,7 +10,9 @@ entries:
 ---
 
 Scientists utilize wavelengths to measure the distance between celestial bodies in space. This fresh collection is an investigation of these wavelengths and the spaces between them. 
+
 [Explore the collection HERE!](https://the-ancient-truth-investigators-shop.myshopify.com/collections/wavelength-collection)
+
 ![web-bangle-2.jpg](/uploads/web-bangle-2.jpg)
 ![web-bangle.jpg](/uploads/web-bangle.jpg)
 ![web-Moon.jpg](/uploads/web-Moon.jpg)
