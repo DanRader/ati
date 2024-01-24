@@ -15,4 +15,4 @@ location:
 
 The Penland FOCUS Gallery presents WEAR, our annual exhibition exploring current interpretations and material usage in the field of contemporary jewelry. Wonderment, Seduction, and Artifice will feature jewelry that is futuristic and fantastical, slick, shimmery, and full of opulent trickery. The exhibition includes both emerging and established makers from throughout the US. 
 
-Participating artists: Ben Dory, Adam Grinovich, Arthur Hash, Morgan Hill, Everett Hoffman, Jessica Jane Julius, Joanna Manousis, Bryan Parnham, Annika Pettersson, SaraBeth Post, Rachel Radar, Leslie Shershow, Mallory Weston, Laura Wood
+Participating artists: Ben Dory, Adam Grinovich, Arthur Hash, Morgan Hill, Everett Hoffman, Jessica Jane Julius, Joanna Manousis, Bryan Parnham, Annika Pettersson, SaraBeth Post, Rachel Rader, Leslie Shershow, Mallory Weston, Laura Wood
