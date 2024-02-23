@@ -14,4 +14,4 @@ location:
   longitude: 37.7749° N
 ---
 
-Shop from over 250 artists at Renegade San Francisco ~ featuring the best artist-made gifts, creative small bizz goods, and handmade treasures, all in time for the holidays! Join us for a fun weekend supporting handmade. We'll be there with ALL the Galactic Goods! 
+Shop from over 250 artists at Renegade San Francisco ~ featuring the best craft designers, artists, and creatives from SF and beyond! We'll be there with ALL the Galactic Goods! 
