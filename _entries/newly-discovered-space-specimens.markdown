@@ -9,7 +9,7 @@ entries:
 - Galactic Selfies and Iconic Discoveries of Archer Adler
 ---
 
-We’ve got some very exciting news. We launched a collection of Space Specimens that were found in the NP.NP25 Quadrant. So now you too can connect to time and space utilizing the unique qualities found in these specimens.  
+We recenlty launched a collection of Space Specimens that were found in the NP.NP25 Quadrant. So now you too can connect to time and space utilizing the unique qualities found in these specimens.  
 
 My colleague Archer Adler recently unearthed a wormhole that she fell through while out on assignment. Archer was on course to following a peculiar light refraction that was ping-ponging through the galaxy, when she heard a scream for help in the distance. After hours of searching for the source, she found a small wormhole. Archer extended the trunk of her Swingette down into the wormhole hoping that the being would grab on and pull themselves up through the wormhole. But, this only dragged Archer through the wormhole. BlOOOOOooooP!
 
