@@ -9,7 +9,7 @@ time: 11AM - 5PM
 external-link: https://www.studiotwothree.org/
 location:
   name: 'Studio Two Three '
-  address: 109 W 15th St Richmond
+  address: Studio Two Three, 109 W 15th St Richmond, VA
   latitude: 77.4360° W
   longitude: 37.5407° N
 ---
