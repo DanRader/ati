@@ -14,4 +14,4 @@ location:
   longitude: 37.5407° N
 ---
 
-Gallery5 is partnering with the Richmond Moon Market to breathe life and fire back into First Friday, Richmond’s premier event celebrating the arts! We’re closing the street and lining the block with local artists and vendors for a spectacular outdoor, night market and block party in historic Jackson Ward. Featuring polished, professional vendors, food trucks, performers, and more. We love original, unique and unexpected creators. We want to build inclusive community, support local makers and create space for learning and solidarity. We will be there with our Galactic Goods! 
+Gallery5 is partnering with the Richmond Moon Market to breathe life and fire back into First Friday, Richmond’s premier event celebrating the arts. We will be there with our Galactic Goods! 
