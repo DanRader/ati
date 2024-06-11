@@ -1,5 +1,5 @@
 ---
-title: WEAR | Contemporary Jewelry
+title: WEAR | Contemporary Jewelry group show
 date: 2024-01-24 13:22:00 -05:00
 categories:
 - Exhibition
