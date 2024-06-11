@@ -8,7 +8,7 @@ end-date: 2024-10-05 00:00:00 -04:00
 external-link: https://penland.org/gallery/exhibition-list-2024/
 location:
   name: Penland FOCUS Gallery
-  address: Penland School of Craft, Penland, NC
+  address: Penland FOCUS Gallery, Penland School of Craft, Penland, NC
   latitude: 82.1121° W
   longitude: 35.9301° N
 ---
