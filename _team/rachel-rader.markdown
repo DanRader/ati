@@ -8,4 +8,4 @@ image: "/uploads/web-The-Chief.jpg"
 instagram: https://www.instagram.com/rachel_a_rader/
 ---
 
-Ancient Truth Investigators (ATI), is a project of Richmond, Virginia-based artist, Rachel Rader (she/her). ATI is a narrative-driven exploration of performance art, wearable objects, and sculptural forms. The cornerstone of Rachel's artwork is humor and a devotion to discovery. Her work rides the line between fact and fiction. ATI is a playful presentation of artifice: a representation of our origin story and the tools needed to excavate “truths”.
+Ancient Truth Investigators (ATI) is a project by Richmond, Virginia-based artist Rachel Rader (she/her). ATI explores narrative-driven performance art, wearable objects, and sculptural forms. Rachel's artwork is anchored in humor and a commitment to discovery, blurring the line between fact and fiction. ATI playfully presents artifice as a representation of our origin story and the tools required to unearth 'truths'
