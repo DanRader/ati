@@ -1,5 +1,5 @@
 ---
-title: Made in RVA group show
+title: Richmond Craft group show
 date: 2024-06-11 15:05:00 -04:00
 categories:
 - Exhibition
