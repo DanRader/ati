@@ -14,5 +14,5 @@ location:
   longitude: 37.5407° N
 ---
 
-Come through and support local artists and makers at the Richmond Moon Market! Friday, October 4, 2024 from 5:00 - 10:00 PM at Gallery5  at 200 W. Marshall Street Richmond, Virginia.
+Come through and support local artists and makers at the Richmond Moon Market! Friday, October 4, 2024 from 5:00 - 10:00 PM at Gallery5.
 
