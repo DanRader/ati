@@ -9,7 +9,7 @@ time: 5-10
 external-link: https://www.facebook.com/events/s/carnival-of-5-fires-gallery5-o/805681438217261/
 location:
   name: Gallery 5
-  address: '200 West Marshall Street '
+  address: 200 West Marshall Street, Richmond, VA
   latitude: 77.4360° W
   longitude: 37.5407° N
 ---
