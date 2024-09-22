@@ -10,10 +10,4 @@ location:
   address: NYC Jewelry Week, Heidi Lowe Gallery, ZONAMACO in Mexico City, MX
 ---
 
-Rachel Rader's latest collection from the Space Specimens series has been selected for this traveling show that will be featured in the following locations: 
-
-* 251 Elizabeth, NYC, during NYCJW, November 18-24, 2024, dates and times TBA
-
-* Heidi Lowe Gallery, Lewes, DE, dates and times TBA
-
-* Mexico City, during ZONAMACO, February 5-9, 2025, dates and times TBA
+Rachel Rader's latest collection from the Space Specimens series has been selected for this traveling show that will be featured in the following locations: NYC during NYCJW November 18-24, 2024, Heidi Lowe Gallery in Lewes, DE dates TBA, Mexico City during ZONAMACO February 5-9, 2025. 
