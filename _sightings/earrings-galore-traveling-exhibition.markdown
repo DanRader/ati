@@ -7,7 +7,7 @@ start-date: 2024-11-18 00:00:00 -05:00
 end-date: 2025-02-09 00:00:00 -05:00
 external-link: https://heidilowegallery.com/
 location:
-  address: NYC Jewelry Week, Heidi Lowe Gallery, ZONAMACO in Mexico City, Mexico
+  address: NYC Jewelry Week, Heidi Lowe Gallery, ZONAMACO in Mexico City, MX
 ---
 
 Rachel Rader's latest collection from the Space Specimens series has been selected for this traveling show that will be featured in the following locations: 
