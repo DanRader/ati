@@ -13,3 +13,4 @@ location:
   longitude: 41.8781° N
 ---
 
+Shop from over 170 curated artists at the Renegade Chicago holiday market! Support local and national small businesses while shopping creative goods and handmade gifts for you and yours.
