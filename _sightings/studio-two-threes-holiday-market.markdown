@@ -6,6 +6,7 @@ categories:
 start-date: 2024-11-30 11:00:00 -05:00
 end-date: 2024-12-23 17:00:00 -05:00
 time: 11-5
+external-link: https://www.studiotwothree.org/community-events
 location:
   address: Studio Two Three, 109 W 15th Street, Richmond, VA
   latitude: 77.4360° W
