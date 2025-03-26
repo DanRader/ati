@@ -1,6 +1,8 @@
 ---
 title: Richmond Makeshop Block Party
 date: 2025-03-26 12:52:00 -04:00
+categories:
+- Craft Show
 start-date: 2025-04-19 12:00:00 -04:00
 end-date: 2025-04-19 18:00:00 -04:00
 time: 12-6
