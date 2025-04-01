@@ -1,7 +1,7 @@
 ---
 title: An Investigation of Color + Light
 date: 2025-03-31 09:43:00 -04:00
-entry-number: 71
+entry-number: 77
 image: "/uploads/web-pixelated.jpg"
 entries:
 - Wavelengths Collection
