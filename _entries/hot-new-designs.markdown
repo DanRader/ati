@@ -13,5 +13,5 @@ As our planet tilts closer to the magnificent dwarf star we call the Sun at this
 
 And speaking of things heating up, have you seen our latest cosmic creations? We just launched a stellar new collection of Galactic Goods. This vibrant new collection incorporates some fresh twists on some old favorites. More designs are coming soon! 
 ![web-Neon-Primary-Ellipse-Dangle-Post.jpg](/uploads/web-Neon-Primary-Ellipse-Dangle-Post.jpg)
-If you’re in Richmond, mark your calendars for the Made in RVA exhibition at Alma’s Gallery next month. We’ll be unveiling our latest collection of Galactic Goods as well as special one-off pieces, in this group show. 
+If you’re in Richmond, mark your calendars for the [Made in RVA exhibition at Alma’s Gallery](https://almasrva.com/?srsltid=AfmBOopmE7u9cjW_QuEYnFcbGgn_XOIZBAwMexSw_V6hpIlstqAFji1p) next month. We’ll be unveiling our latest collection of Galactic Goods as well as special one-off pieces, in this group show. 
 ![webPhotoroom_20240714_203204.jpg](/uploads/webPhotoroom_20240714_203204.jpg)
