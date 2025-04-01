@@ -2,7 +2,7 @@
 title: Our Specimens collection is heading to Mexico City
 date: 2025-01-31 11:03:00 -05:00
 entry-number: 76
-image: "/uploads/webRachel-Rader_05d.jpg"
+image: "/uploads/webIMG_0684.jpg"
 entries:
 - Hot New Designs
 - Shop Drop of Space Specimens fresh from Space
