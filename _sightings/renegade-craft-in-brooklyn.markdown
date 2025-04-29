@@ -1,5 +1,5 @@
 ---
-title: Renegade Craft in Brooklyn
+title: Renegade Craft Brooklyn
 date: 2025-04-29 11:00:00 -04:00
 categories:
 - Craft Show
