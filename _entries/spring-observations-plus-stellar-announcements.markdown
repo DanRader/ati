@@ -1,5 +1,5 @@
 ---
-title: Spring Observations + Stellar Announcements
+title: Spring Observations
 date: 2025-04-30 10:11:00 -04:00
 entry-number: 78
 image: "/uploads/webnavi-KEINy-0eDuk-unsplash.jpg"
