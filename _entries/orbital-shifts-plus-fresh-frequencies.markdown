@@ -2,7 +2,7 @@
 title: Orbital Shifts + Fresh Frequencies
 date: 2025-05-31 16:53:00 -04:00
 entry-number: 79
-image: "/uploads/2satellite.jpg"
+image: "/uploads/try-this.jpg"
 entries:
 - An Investigation of Color + Light
 - Our Specimens collection is heading to Mexico City
