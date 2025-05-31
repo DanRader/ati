@@ -19,7 +19,7 @@ The Wavelength Collection, a line that traces the intersection between energy an
 
 Mark Your Calendar: Web Drop – June 14. Expect newly engineered designs, customer favorites with a few cosmic upgrades, and a subtle overhaul of our digital station (aka: our website’s getting a glow-up).
 
-If you're on Earth and happen to be orbiting near Brooklyn, NY, come visit our temporal outpost at Renegade Craft, June 7 + 8. We’ll be exhibiting rare pieces and prototypes, some of which might not make it to the web.
+If you're on Earth and happen to be orbiting near Brooklyn, NY, come visit our temporal outpost at [Renegade Craft, June 7 + 8.](https://ancienttruthinvestigators.com/sightings/) We’ll be exhibiting rare pieces and prototypes, some of which might not make it to the web.
 
 Lately, I’ve been meditating on satellites—not just the artificial ones that circle our planet and beam back images and data, but the metaphorical satellites. What if a piece of jewelry could act like a satellite—transmitting intention, collecting energy, reflecting your trajectory?
 
