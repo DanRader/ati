@@ -1,5 +1,5 @@
 ---
-title: Our new Satellite Collection has launched
+title: 'Lift Off: The Satellite Collection Is Here'
 date: 2025-06-21 11:49:00 -04:00
 entry-number: 80
 image: "/uploads/webALL-Round-Rings.jpg"
