@@ -10,7 +10,7 @@ entries:
 ---
 
 We just launched the new Satellite Collection. This series features a wide range of shapes, available in three color-ways: Void, Vivid, and Bloom. 
-![webALL-Ellipse-Rings01.jpg](/uploads/webALL-Ellipse-Rings01.jpg)
+[![webALL-Ellipse-Rings01.jpg](/uploads/webALL-Ellipse-Rings01.jpg)](https://the-ancient-truth-investigators-shop.myshopify.com/collections/satellite-collection)
 Crafted from brass, individually shaped using a hydraulic press, then enameled, this collection is designed to echo the gravitational forces that shape galaxies. 
 Shapes include Ellipse, Bent Ellipse and Round Satellites. Transmit intention and amplify your journey through time + space with our Satellites. 
 ![web-Vivid-Ellipse-Model.jpg](/uploads/web-Vivid-Ellipse-Model.jpg)
