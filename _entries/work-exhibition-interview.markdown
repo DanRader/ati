@@ -10,6 +10,7 @@ entries:
 - Spring Observations
 ---
 
-Thank you [Visual Arts Center RVA](https://www.visarts.org/) for featuring me in this interview! It was so lovely to have the opportunity to share the inspiration behind my Space Specimen Necklace. 
-[![webIMG_9773.jpg](/uploads/webIMG_9773.jpg)](https://www.visarts.org/exhibition/work-2025/)
+Thank you [Visual Arts Center RVA](https://www.visarts.org/) for featuring me in this interview! (Starting at 01:55 in the video). It was so lovely to have the opportunity to share the inspiration behind my Space Specimen Necklace. 
+[![webRader_necklace-01.jpg](/uploads/webRader_necklace-01.jpg)](https://www.visarts.org/exhibition/work-2025/)
+[![webRader_necklace-01b.jpg](/uploads/webRader_necklace-01b.jpg)](https://www.visarts.org/exhibition/work-2025/)
 This piece will be on-view at the Visual Arts Center Gallery, in Richmond, Virginia: June 27th - August 14th. 
