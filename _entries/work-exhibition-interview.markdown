@@ -12,3 +12,5 @@ entries:
 ---
 
 Thank you [Visual Arts Center RVA](https://www.visarts.org/) for featuring me in this interview! It was so lovely to have the opportunity to share my work and the inspiration behind my Space Specimen Necklace. 
+[![webIMG_9773.jpg](/uploads/webIMG_9773.jpg)](https://www.visarts.org/exhibition/work-2025/)
+This piece will be on-view at the Visual Arts Center Gallery, in Richmond, Virginia: June 27th - August 14th. 
