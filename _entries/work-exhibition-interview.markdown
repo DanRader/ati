@@ -3,8 +3,7 @@ title: "[Work] Exhibition Interview"
 date: 2025-07-01 13:58:00 -04:00
 entry-number: 81
 image: "/uploads/webDSC_1860.jpg"
-video: <iframe title="vimeo-player" src="https://player.vimeo.com/video/1097868399?h=0a614d2f0f"
-  width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+video: https://vimeo.com/1097868399#embed
 entries:
 - 'Lift Off: The Satellite Collection is here'
 - Orbital Shifts + Fresh Frequencies
