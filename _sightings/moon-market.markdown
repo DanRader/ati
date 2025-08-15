@@ -1,5 +1,5 @@
 ---
-title: Richmmond Moon Market
+title: Richmond Moon Market
 date: 2025-08-15 13:50:00 -04:00
 categories:
 - Craft Show
