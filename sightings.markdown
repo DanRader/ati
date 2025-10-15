@@ -1,7 +1,7 @@
 ---
 title: Sightings
 position: 1
-image: "/uploads/T2.jpg"
+image: "/uploads/Triple%20Wavelength%20Dangle%204_edited.jpg"
 excerpt: 'See the work of the Ancient Truth Investigators live in museums and galleries
   around the world. '
 social-media-image: "/uploads/og-image%E2%80%94sightings.jpg"
