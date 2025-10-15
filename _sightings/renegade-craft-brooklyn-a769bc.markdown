@@ -8,7 +8,7 @@ end-date: 2025-12-07 17:00:00 -05:00
 time: 11-5
 external-link: https://www.renegadecraft.com/event/brooklyn-winter/
 location:
-  address: ZeroSpace, 337-345 Butler St., Brooklyn, NY
+  address: ZeroSpace, 337-345 Butler St., Brooklyn, New York
   latitude: 73.9442° W
   longitude: 40.6782° N
 ---
