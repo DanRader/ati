@@ -1,6 +1,12 @@
 ---
 title: Kinetic. Playful. Oh-so-galactic!
 date: 2025-11-18 09:44:00 -05:00
+entry-number: 82
+image: "/uploads/Triple%20Wavelength%20Dangle%204_edited.jpg"
+entries:
+- 'Lift Off: The Satellite Collection is here'
+- Orbital Shifts + Fresh Frequencies
+- An Investigation of Color + Light
 ---
 
 In The Lab, we’re gearing up for Winter Markets and Pop-Ups by making sure our inventory of Galactic Goods is ready to go. One of our favorites? The [Triple Wavelength Dangle Earrings](https://the-ancient-truth-investigators-shop.myshopify.com/collections/wavelength-collection) ~ now available in our patented enameled finishes: Void, Vivid, and Bloom.
