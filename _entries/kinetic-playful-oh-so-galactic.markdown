@@ -1,6 +1,6 @@
 ---
 title: Kinetic. Playful. Oh-so-galactic!
-date: 2025-11-18 09:44:00 -05:00
+date: 2025-11-14 09:44:00 -05:00
 entry-number: 82
 image: "/uploads/Triple%20Wavelength%20Dangle%204_edited.jpg"
 entries:
