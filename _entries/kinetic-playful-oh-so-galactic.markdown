@@ -15,5 +15,5 @@ Watch the full process from start to finish:
 <script async src="//www.instagram.com/embed.js"></script>
 Inspired by the wavelengths scientists use to measure distances in space, this design was made to move: kinetic, playful, and undeniably galactic. We love it, and we think you will too.
 Explore the full collection [HERE!](https://the-ancient-truth-investigators-shop.myshopify.com/collections/wavelength-collection)
-![Vivid Triple Wavelength 3_edited.jpg](/uploads/Vivid%20Triple%20Wavelength%203_edited.jpg)
+[![Vivid Triple Wavelength 3_edited.jpg](/uploads/Vivid%20Triple%20Wavelength%203_edited.jpg)](https://the-ancient-truth-investigators-shop.myshopify.com/collections/wavelength-collection)
 [![Vivid Triple Wavelength 2_edited.jpg](/uploads/Vivid%20Triple%20Wavelength%202_edited.jpg)](https://the-ancient-truth-investigators-shop.myshopify.com/collections/wavelength-collection)
