@@ -12,4 +12,4 @@ location:
   longitude: '37° 32'' 28.6440'''' N '
 ---
 
-We're so thrilled to be a part of a special summer series of local artists at the Alma's Gallery in Richmond, VA. Every year, they focus on local talent in what they call their MADE IN RVA summer series. For the 2026 season they are featuring artists including: Keira Maiden, Alicia Dietz, Jenny Kacini, Shaun Fera, Sarah Parker, Chris Skibbe, Justin R Cockrell, Rachel Rader, Robin Corradino, Alyssa Salomon, Hechizo, Kourtenay Plummer and Margaret Meehan. Come and visit our pop-up of the the latest findings from ATI August 19-22. 
+We're so thrilled to be a part of a special summer series of local artists at the Alma's Gallery in Richmond, VA. Every year, they focus on local talent in what they call their MADE IN RVA summer series. For the 2026 season they are featuring artists including: Keira Maiden, Alicia Dietz, Jenny Kacini, Shaun Fera, Sarah Parker, Chris Skibbe, Justin R Cockrell, Rachel Rader, Robin Corradino, Alyssa Salomon, Hechizo, Kourtenay Plummer and Margaret Meehan. Come and see our pop-up of the the latest findings from ATI August 19-22 at Alma's Gallery! 
