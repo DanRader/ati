@@ -8,7 +8,7 @@ end-date: 2026-11-15 17:00:00 -05:00
 time: 11-5
 external-link: https://www.renegadecraft.com/event/new-york-fall/
 location:
-  address: Renegade Craft NYC, 125 W. 18th St. NYC, NY
+  address: 125 W. 18th St. NYC, NY
   latitude: 40.7128° N
   longitude: 74.0060° W
 ---
