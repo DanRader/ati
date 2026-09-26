@@ -9,7 +9,7 @@ entries:
 - Kinetic. Playful. Oh-so-galactic!
 ---
 
-This is your chance to shop our newest designs in person at the Alma's RVA Gallery in Richmond, Virginia. 
+This is your chance to shop our newest designs in person at the [Alma's RVA Gallery](https://almasrva.com/) in Richmond, Virginia. 
 This week, Alma’s RVA Gallery is hosting a trunk show featuring our newest Galactic Goods. Join us!:
 
 VIP Preview: August 20th, Noon-4
