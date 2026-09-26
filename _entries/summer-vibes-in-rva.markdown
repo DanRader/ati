@@ -3,6 +3,10 @@ title: Summer Vibes in RVA
 date: 2026-08-18 10:36:00 -04:00
 entry-number: 85
 image: "/uploads/web-neck-6.jpg"
+entries:
+- A Shift in Frequency
+- Seasons Greetings from the Lab
+- Kinetic. Playful. Oh-so-galactic!
 ---
 
 This is your chance to shop our newest designs in person at the Alma's RVA Gallery in Richmond, Virginia. 
