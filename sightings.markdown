@@ -1,7 +1,7 @@
 ---
 title: Sightings
 position: 1
-image: "/uploads/IMG_5227_edited.jpg"
+image: "/uploads/web-1-ac7ec8.jpg"
 excerpt: 'See the work of the Ancient Truth Investigators live in museums and galleries
   around the world. '
 social-media-image: "/uploads/og-image%E2%80%94sightings.jpg"
