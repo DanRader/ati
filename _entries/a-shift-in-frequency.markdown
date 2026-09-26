@@ -2,7 +2,7 @@
 title: A Shift in Frequency
 date: 2026-06-30 09:26:00 -04:00
 entry-number: 84
-image: "/uploads/web-asteroid-2.jpg"
+image: "/uploads/web-asteroid-crystal.jpg"
 entries:
 - "[Work] Exhibition Interview"
 - Kinetic. Playful. Oh-so-galactic!
