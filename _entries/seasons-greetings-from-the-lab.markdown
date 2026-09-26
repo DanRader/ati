@@ -2,7 +2,7 @@
 title: Seasons Greetings from the Lab
 date: 2025-12-16 09:09:00 -05:00
 entry-number: 83
-image: "/uploads/web-lab.jpg"
+image: "/uploads/web-lab-2.jpg"
 entries:
 - Kinetic. Playful. Oh-so-galactic!
 - 'Lift Off: The Satellite Collection is here'
