@@ -13,4 +13,4 @@ location:
   longitude: 74.0060° W
 ---
 
-Shop 200+ curated artists at Renegade's lovely holiday fair in Chelsea, NYC! Rachel will be there with her Galactic Goods, just in time for your holiday shopping.
+Shop 200+ curated artists at Renegade's lovely holiday fair in Chelsea, NYC! Rachel will be there with her Galactic Goods, just in time for your holiday shopping. Find us at booth 172, with Mary of Weather Report! 
