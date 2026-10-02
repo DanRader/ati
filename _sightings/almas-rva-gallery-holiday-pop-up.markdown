@@ -1,5 +1,5 @@
 ---
-title: Alma's RVA Gallery Holiday Pop-up
+title: Alma's Gallery Holiday Pop-up
 date: 2026-10-02 16:24:00 -04:00
 categories:
 - Craft Show
